@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T18:31:00Z",
+  "lastUpdated": "2026-06-04T20:20:24Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -324,7 +324,9 @@
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQDJy9q5tvFDTYAecn8zVLvtASMPasFobtFVhLA6Tk9ZEDk?e=H",
       "endDate": "2026-05-29",
-      "attendees": "Karen, TBD (plus Rene Lezcano: Hollywood/Cortiva)"
+      "attendees": "Karen, TBD (plus Rene Lezcano: Hollywood/Cortiva)",
+      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10690/filters",
+      "attendingAccountsLink": "https://app.hubspot.com/contacts/7762472/objectLists/10731/filters"
     },
     {
       "date": "2026-05-26",

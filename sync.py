@@ -86,7 +86,10 @@ def load_existing():
             meta[(item.get('date'), item['title'][:8])] = {
                 'endDate':    item.get('endDate', ''),
                 'attendees':  item.get('attendees', ''),
+                'audienceLink': item.get('audienceLink', ''),
                 'contentLink':item.get('contentLink', ''),
+                'attendeeLink': item.get('attendeeLink', ''),
+                'attendingAccountsLink': item.get('attendingAccountsLink', ''),
             }
     return d, meta
 
@@ -169,6 +172,12 @@ def merge_meta(items, meta):
             item['attendees'] = old['attendees']
         if not item.get('contentLink') and old.get('contentLink'):
             item['contentLink'] = old['contentLink']
+        if not item.get('audienceLink') and old.get('audienceLink'):
+            item['audienceLink'] = old['audienceLink']
+        if not item.get('attendeeLink') and old.get('attendeeLink'):
+            item['attendeeLink'] = old['attendeeLink']
+        if 'attendingAccountsLink' in old and 'attendingAccountsLink' not in item:
+            item['attendingAccountsLink'] = old['attendingAccountsLink']
     return items
 
 

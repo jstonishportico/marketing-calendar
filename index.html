@@ -808,15 +808,14 @@
       pointer-events: none;
     }
     .modal-link-secondary {
-      display: flex;
-      align-items: center;
-      gap: 8px;
+      display: block;
+      text-align: center;
       font-family: 'Figtree', sans-serif;
-      font-size: 13px;
-      font-weight: 600;
+      font-size: 14px;
+      font-weight: 700;
       color: var(--warm-gray);
       text-decoration: none;
-      padding: 11px 16px;
+      padding: 13px 20px;
       border: 1px solid var(--border);
       border-radius: 8px;
       transition: background 0.12s;
@@ -1343,7 +1342,6 @@
   }
 
   function openCampaignModal(c) {
-    const arrowSvg = '<svg width="13" height="13" viewBox="0 0 14 14" fill="none"><path d="M2 7h10M7 2l5 5-5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>';
     const inner = document.getElementById('modalInner');
 
     let html = '<div class="item-type-row">' +
@@ -1359,7 +1357,7 @@
       '<div class="campaign-section-label">Who</div>' +
       '<div class="campaign-section-content">' + (whoDesc || '<span style="color:var(--dim)">Audience TBD</span>') + '</div>';
     if (audienceUrl) {
-      html += '<div style="margin-top:8px;"><a class="modal-link-secondary" href="' + audienceUrl + '" target="_blank" rel="noopener" style="display:inline-flex;">' + arrowSvg + 'HubSpot Segment</a></div>';
+      html += '<div style="margin-top:8px;"><a class="modal-link-secondary" href="' + audienceUrl + '" target="_blank" rel="noopener">HubSpot Segment</a></div>';
     }
     html += '</div>';
 
@@ -1398,7 +1396,7 @@
         html += '<div class="campaign-motions-label" style="margin-top:' + (hasLanding ? '14px' : '0') + '">Associated Motions</div>';
         c.motions.forEach(m => {
           if (m.url) {
-            html += '<a class="modal-link-secondary" href="' + m.url + '" target="_blank" rel="noopener">' + arrowSvg + m.label + '</a>';
+            html += '<a class="modal-link-secondary" href="' + m.url + '" target="_blank" rel="noopener">' + m.label + '</a>';
           } else {
             html += '<div class="modal-link-secondary modal-link-placeholder">' + m.label + '</div>';
           }
@@ -1917,7 +1915,10 @@
     };
     const typeDisplay = typeDisplayMap[item.type] || item.type;
     const needsContentPlaceholder = ['Email', 'Product Comms', 'Event Comms'].includes(item.type) && !item.contentLink;
-    const hasLinks = needsContentPlaceholder || item.audienceLink || item.contentLink || item.youtubeLink || item.registrantLink || item.attendeeLink || isWebinar;
+    const hasRegistrantButton = isWebinar || Object.prototype.hasOwnProperty.call(item, 'registrantLink');
+    const hasAttendeeButton = isWebinar || Object.prototype.hasOwnProperty.call(item, 'attendeeLink');
+    const hasAttendingAccountsButton = Object.prototype.hasOwnProperty.call(item, 'attendingAccountsLink');
+    const hasLinks = needsContentPlaceholder || item.audienceLink || item.contentLink || item.youtubeLink || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
     if (hasLinks) {
       html += '<div class="modal-links">';
       if (item.contentLink) {
@@ -1930,21 +1931,28 @@
         html += '<a class="modal-link-primary" href="' + item.youtubeLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">View in YouTube</a>';
       }
       if (item.audienceLink) {
-        html += '<a class="modal-link-secondary" href="' + item.audienceLink + '" target="_blank" rel="noopener">' +
-                  '<svg width="13" height="13" viewBox="0 0 14 14" fill="none"><path d="M2 7h10M7 2l5 5-5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>' +
-                  'View audience list</a>';
+        html += '<a class="modal-link-secondary" href="' + item.audienceLink + '" target="_blank" rel="noopener">View audience list</a>';
       }
-      if (isWebinar) {
-        const outlineStyle = 'style="border-color:' + tp.color + ';color:' + tp.color + '"';
+      const outlineStyle = 'style="border-color:' + tp.color + ';color:' + tp.color + '"';
+      if (hasRegistrantButton) {
         if (item.registrantLink) {
           html += '<a class="modal-link-outline" ' + outlineStyle + ' href="' + item.registrantLink + '" target="_blank" rel="noopener">View registrants</a>';
         } else {
           html += '<a class="modal-link-outline tbd">View registrants</a>';
         }
+      }
+      if (hasAttendeeButton) {
         if (item.attendeeLink) {
           html += '<a class="modal-link-outline" ' + outlineStyle + ' href="' + item.attendeeLink + '" target="_blank" rel="noopener">View attendees</a>';
         } else {
           html += '<a class="modal-link-outline tbd">View attendees</a>';
+        }
+      }
+      if (hasAttendingAccountsButton) {
+        if (item.attendingAccountsLink) {
+          html += '<a class="modal-link-outline" ' + outlineStyle + ' href="' + item.attendingAccountsLink + '" target="_blank" rel="noopener">View attending accounts</a>';
+        } else {
+          html += '<a class="modal-link-outline tbd">View attending accounts</a>';
         }
       }
       html += '</div>';
