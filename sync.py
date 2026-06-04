@@ -182,6 +182,7 @@ def main():
 
     out = {
         'lastUpdated': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+        'lastUpdatedBy': 'GitHub sync',
         'campaigns':   old_data.get('campaigns', []),
         'items':       items,
     }

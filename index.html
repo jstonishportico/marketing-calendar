@@ -2067,7 +2067,8 @@
         const d = new Date(data.lastUpdated);
         const datePart = d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
         const timePart = d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
-        document.getElementById('syncRow').textContent = 'Last updated ' + datePart + ' at ' + timePart;
+        const updatedBy = data.lastUpdatedBy ? ' by ' + data.lastUpdatedBy : '';
+        document.getElementById('syncRow').textContent = 'Last updated ' + datePart + ' at ' + timePart + updatedBy;
       }
       buildIndex();
       buildLegend();
