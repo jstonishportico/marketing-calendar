@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T20:20:24Z",
+  "lastUpdated": "2026-06-04T20:37:43Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -376,7 +376,7 @@
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214252251146?portalId=7762472&preview_key=nDVzTBRo&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
     },
     {
-      "date": "2026-05-29",
+      "date": "2026-06-04",
       "tags": "Portico Suite",
       "title": "NASFAA Landing Page",
       "type": "Website",
@@ -384,7 +384,7 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://welcome.porticoedu.com/nasfaa"
     },
     {
       "date": "2026-06-01",
