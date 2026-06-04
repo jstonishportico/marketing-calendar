@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T16:47:17Z",
+  "lastUpdated": "2026-06-04T18:31:00Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -436,10 +436,10 @@
       "title": "FASFAA Post-Event Email",
       "type": "Event Comms",
       "audience": "FASFAA Attendees",
-      "sender": "Noel Suarez",
+      "sender": "Portico",
       "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10690/filters",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-f534d538-8dae-444d-b28d-8302dbb5334d?hs_preview=omjxlxhZ-214345815347"
     },
     {
       "date": "2026-06-02",
