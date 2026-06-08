@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T20:37:43Z",
+  "lastUpdated": "2026-06-08T13:23:18Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -477,13 +477,13 @@
       "contentLink": ""
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-06-10",
       "tags": "Financial Aid",
-      "title": "OBBBA Q&A Follow-Up Email (All Answers)",
+      "title": "OBBBA Q&A Post-Webinar Follow-Up Email",
       "type": "Email",
-      "audience": "Financial Aid Webinar Registrants",
+      "audience": "OBBBA Webinar Registrants",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Follow-up email with the full Q&A resource and a demo CTA for Financial Aid and managed services.",
       "audienceLink": "",
       "contentLink": ""
     },
