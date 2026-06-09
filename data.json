@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T17:24:23Z",
+  "lastUpdated": "2026-06-09T17:47:18Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -19,9 +19,18 @@
         "Use Live OBBBA Q&A webinar as a conversion point for warm leads"
       ],
       "motions": [
-        { "label": "Outbound Sequence - FA Admins", "url": "" },
-        { "label": "Google Ads Campaign", "url": "" },
-        { "label": "LinkedIn Ads Campaign", "url": "" }
+        {
+          "label": "Outbound Sequence - FA Admins",
+          "url": ""
+        },
+        {
+          "label": "Google Ads Campaign",
+          "url": ""
+        },
+        {
+          "label": "LinkedIn Ads Campaign",
+          "url": ""
+        }
       ]
     },
     {
@@ -41,9 +50,18 @@
         "Tie The Commons content (case studies, articles) to demo requests"
       ],
       "motions": [
-        { "label": "Outbound Sequence - Program Directors", "url": "" },
-        { "label": "ACEN Conference", "url": "" },
-        { "label": "ASRT Conference", "url": "" }
+        {
+          "label": "Outbound Sequence - Program Directors",
+          "url": ""
+        },
+        {
+          "label": "ACEN Conference",
+          "url": ""
+        },
+        {
+          "label": "ASRT Conference",
+          "url": ""
+        }
       ]
     },
     {
@@ -63,8 +81,14 @@
         "Drive to The Commons content as a warm-up before outreach"
       ],
       "motions": [
-        { "label": "Outbound Sequence - Program Directors", "url": "" },
-        { "label": "Google Ads Campaign", "url": "" }
+        {
+          "label": "Outbound Sequence - Program Directors",
+          "url": ""
+        },
+        {
+          "label": "Google Ads Campaign",
+          "url": ""
+        }
       ]
     }
   ],
@@ -146,7 +170,19 @@
       "sender": "Product",
       "summary": "",
       "audienceLink": "",
-      "contentLink": "https://welcome.porticoedu.com/april-product-news-attendance-payments-nudges?hs_preview=DARPFiJX-212223947150"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212223947150?portalId=7762472&preview_key=DARPFiJX&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Legacy CK App Contacts: 3,942 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10583/filters",
+          "count": 3942
+        },
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        }
+      ]
     },
     {
       "date": "2026-05-06",
@@ -168,7 +204,24 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "",
-      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-86d57f63-2bd2-4dce-a3b5-533cfb2cf383?hs_preview=QuATuAyT-212310214031"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212310214031?portalId=7762472&preview_key=QuATuAyT&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "FA Newsletter: 3,071 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+          "count": 3071
+        },
+        {
+          "label": "FA clients: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        },
+        {
+          "label": "Campus Ivy FA contacts: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        }
+      ]
     },
     {
       "date": "2026-05-11",
@@ -201,7 +254,29 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "",
-      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-2b03e3d6-cc1c-495c-b640-c88fd616f86e?hs_preview=RkEZpJtn-212822256672"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212822256672?portalId=7762472&preview_key=RkEZpJtn&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "FA Newsletter: 3,071 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+          "count": 3071
+        },
+        {
+          "label": "Campus Ivy FA contacts: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        },
+        {
+          "label": "Financial Aid role list: 3,110 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters",
+          "count": 3110
+        },
+        {
+          "label": "FA clients: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        }
+      ]
     },
     {
       "date": "2026-05-14",
@@ -212,7 +287,19 @@
       "sender": "Portico Product Updates",
       "summary": "",
       "audienceLink": "",
-      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-8ce411f2-7ec5-4281-b613-3ac9da753ffc?hs_preview=touEeIXR-212798927407"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212798927407?portalId=7762472&preview_key=touEeIXR&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        },
+        {
+          "label": "CRM users: 5,221 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10723/filters",
+          "count": 5221
+        }
+      ]
     },
     {
       "date": "2026-05-14",
@@ -223,7 +310,7 @@
       "sender": "Portico Product Updates",
       "summary": "",
       "audienceLink": "",
-      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-9f595ee4-1a14-4037-836b-15785ee0322d?hs_preview=fpNPHixw-212760711564"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212760711564?portalId=7762472&preview_key=fpNPHixw&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
     },
     {
       "date": "2026-05-14",
@@ -245,7 +332,19 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213135558955?portalId=7762472&preview_key=erNHmbtS&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213135558955?portalId=7762472&preview_key=erNHmbtS&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Current customer contacts: 1,967 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters",
+          "count": 1967
+        },
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        }
+      ]
     },
     {
       "date": "2026-05-20",
@@ -256,7 +355,19 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213193748535?portalId=7762472&preview_key=aZDnbeEq&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Marketing contacts: 34,089 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+          "count": 34089
+        },
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        }
+      ]
     },
     {
       "date": "2026-05-20",
@@ -278,7 +389,7 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213414888365?portalId=7762472&preview_key=HwTRAjHS&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
     },
     {
       "date": "2026-05-23",
@@ -310,8 +421,9 @@
       "audience": "FASFAA Attendees",
       "sender": "Noel Suarez",
       "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10690/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213628093249?portalId=7762472&preview_key=JFstojFf&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 183
     },
     {
       "date": "2026-05-26",
@@ -337,7 +449,29 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213635599434?portalId=7762472&preview_key=efdgYncu&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "FA clients: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        },
+        {
+          "label": "Campus Ivy FA contacts: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        },
+        {
+          "label": "FA Newsletter: 3,071 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+          "count": 3071
+        },
+        {
+          "label": "Financial Aid role list: 3,110 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters",
+          "count": 3110
+        }
+      ]
     },
     {
       "date": "2026-05-26",
@@ -373,7 +507,8 @@
       "sender": "Trajecsys",
       "summary": "",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10797/filters",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214252251146?portalId=7762472&preview_key=nDVzTBRo&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214252251146?portalId=7762472&preview_key=nDVzTBRo&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 1232
     },
     {
       "date": "2026-06-04",
@@ -441,7 +576,8 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10690/filters",
-      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-f534d538-8dae-444d-b28d-8302dbb5334d?hs_preview=omjxlxhZ-214345815347"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214345815347?portalId=7762472&preview_key=omjxlxhZ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 183
     },
     {
       "date": "2026-06-02",
@@ -463,7 +599,8 @@
       "sender": "Trajecsys",
       "summary": "",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214229612824?portalId=7762472&preview_key=DNJQqHkf&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214229612824?portalId=7762472&preview_key=DNJQqHkf&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 681
     },
     {
       "date": "2026-06-04",
@@ -484,8 +621,9 @@
       "audience": "OBBBA Webinar Registrants",
       "sender": "Portico",
       "summary": "Sent June 9. Follow-up email with the full Q&A resource and a demo CTA for Financial Aid and managed services. Subject: Your OBBBA questions answered.",
-      "audienceLink": "",
-      "contentLink": ""
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10705/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214682207345?portalId=7762472&preview_key=rYzLFlDb&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 279
     },
     {
       "date": "2026-06-10",
@@ -495,8 +633,9 @@
       "audience": "General Audience",
       "sender": "Natalie Gleason",
       "summary": "",
-      "audienceLink": "",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213193748535?portalId=7762472&preview_key=aZDnbeEq&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/8245/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214599612162?portalId=7762472&preview_key=ZavGcZIJ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 3611
     },
     {
       "date": "2026-06-10",
@@ -551,18 +690,18 @@
       "sender": "Cara Heinrich",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7B88A97DA7-4B09-4004-AB82-9B281B9A3270%7D&file=What%20Scattered%20Clinical%20Documentation%20Does%20to%20Students.docx&action=default&mobileredirect=true"
     },
     {
       "date": "2026-06-10",
       "tags": "Clinical Management",
-      "title": "How to Switch from Paper to Digital",
+      "title": "How Career Schools Make Change Stick",
       "type": "Article",
       "audience": "The Commons",
       "sender": "Georgia Grey",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7B52F33857-3B00-4E54-ACA1-2A674A8FAABE%7D&file=How%20Career%20Schools%20Make%20Change%20Stick.docx&action=default&mobileredirect=true"
     },
     {
       "date": "2026-06-10",
@@ -589,13 +728,13 @@
     {
       "date": "2026-06-10",
       "tags": "Attendance",
-      "title": "Attendance Is a Technology Problem",
+      "title": "Your students are ahead of your attendance process",
       "type": "Article",
       "audience": "The Commons",
       "sender": "Jackson Batchelder",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7B2D96F73A-44A9-43D2-968B-60439F1855E2%7D&file=Your%20students%20are%20ahead%20of%20your%20attendance%20process.docx&action=default&mobileredirect=true"
     },
     {
       "date": "2026-06-11",
@@ -630,7 +769,19 @@
       "sender": "Portico Product Updates",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214690764384?portalId=7762472&preview_key=bInwgRwy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "CRM users: 5,221 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10723/filters",
+          "count": 5221
+        },
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        }
+      ]
     },
     {
       "date": "2026-06-12",
@@ -706,8 +857,9 @@
       "audience": "Vet Tech Educators",
       "sender": "Trajecsys",
       "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+      "contentLink": "",
+      "audienceCount": 681
     },
     {
       "date": "2026-06-17",
@@ -819,8 +971,9 @@
       "audience": "Vet Tech Educators",
       "sender": "Trajecsys",
       "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+      "contentLink": "",
+      "audienceCount": 681
     },
     {
       "date": "2026-06-23",
@@ -830,8 +983,9 @@
       "audience": "Vet Tech Educators",
       "sender": "Trajecsys",
       "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+      "contentLink": "",
+      "audienceCount": 681
     },
     {
       "date": "2026-06-23",

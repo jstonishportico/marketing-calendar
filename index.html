@@ -1447,7 +1447,15 @@
 
   /* ─── Helpers ───────────────────────────────────────── */
   function escHtml(s) {
-    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+  function fmtInt(n) {
+    return Number(n).toLocaleString('en-US');
+  }
+  function audienceListLabel(link) {
+    if (link.label) return link.label;
+    if (link.count !== undefined && link.count !== null) return 'Sent to ' + fmtInt(link.count) + ' contacts';
+    return 'View audience list';
   }
   const TYPE_ICONS = {
     'Event':          '<img class="pill-icon" src="icons/airplane.png" alt="">',
@@ -1941,7 +1949,9 @@
     const hasRegistrantButton = isWebinar || Object.prototype.hasOwnProperty.call(item, 'registrantLink');
     const hasAttendeeButton = isWebinar || Object.prototype.hasOwnProperty.call(item, 'attendeeLink');
     const hasAttendingAccountsButton = Object.prototype.hasOwnProperty.call(item, 'attendingAccountsLink');
-    const hasLinks = needsContentPlaceholder || item.audienceLink || item.contentLink || item.youtubeLink || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
+    const audienceLinks = Array.isArray(item.audienceLinks) ? item.audienceLinks : [];
+    const hasAudienceLinks = item.audienceLink || audienceLinks.length > 0;
+    const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || item.youtubeLink || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
     if (hasLinks) {
       html += '<div class="modal-links">';
       if (item.contentLink) {
@@ -1954,8 +1964,13 @@
         html += '<a class="modal-link-primary" href="' + item.youtubeLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">View in YouTube</a>';
       }
       if (item.audienceLink) {
-        html += '<a class="modal-link-secondary" href="' + item.audienceLink + '" target="_blank" rel="noopener">View audience list</a>';
+        const audienceLabel = item.audienceCount !== undefined && item.audienceCount !== null ? 'Sent to ' + fmtInt(item.audienceCount) + ' contacts' : 'View audience list';
+        html += '<a class="modal-link-secondary" href="' + escHtml(item.audienceLink) + '" target="_blank" rel="noopener">' + escHtml(audienceLabel) + '</a>';
       }
+      audienceLinks.forEach(link => {
+        if (!link.url) return;
+        html += '<a class="modal-link-secondary" href="' + escHtml(link.url) + '" target="_blank" rel="noopener">' + escHtml(audienceListLabel(link)) + '</a>';
+      });
       const outlineStyle = 'style="border-color:' + tp.color + ';color:' + tp.color + '"';
       if (hasRegistrantButton) {
         if (item.registrantLink) {
