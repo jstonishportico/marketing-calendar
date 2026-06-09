@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T15:12:44Z",
+  "lastUpdated": "2026-06-09T17:15:45Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -488,7 +488,7 @@
       "contentLink": ""
     },
     {
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "tags": "Momentum",
       "title": "Momentum 2027: Save the Date",
       "type": "Email",
@@ -497,6 +497,17 @@
       "summary": "",
       "audienceLink": "",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213193748535?portalId=7762472&preview_key=aZDnbeEq&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+    },
+    {
+      "date": "2026-06-10",
+      "tags": "Clinical Management",
+      "title": "ACEN Reminder Email",
+      "type": "Event Comms",
+      "audience": "ACEN Attendees",
+      "sender": "Trajecsys",
+      "summary": "Reminder touch before ACEN begins in Indianapolis.",
+      "audienceLink": "",
+      "contentLink": ""
     },
     {
       "date": "2026-06-04",
