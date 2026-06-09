@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T17:47:18Z",
+  "lastUpdated": "2026-06-09T17:57:15Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -712,7 +712,7 @@
       "sender": "Nan Murray",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://welcome.porticoedu.com/blog/financial-aid-has-a-new-ceiling"
     },
     {
       "date": "2026-06-10",
@@ -747,7 +747,8 @@
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQCOwWZ57RExRpfoOdwRK5cDAZlryGrBp-J5UEjlmdE9CCU?e=SUvKWS",
       "endDate": "2026-06-12",
-      "attendees": "Georgia, Mandy, Ron"
+      "attendees": "Georgia, Mandy, Ron",
+      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10797/filters"
     },
     {
       "date": "2026-06-11",
@@ -961,7 +962,8 @@
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQAOqTCKwQyUQIcJ9jTgdAFgAfvrCs_ql78gYyqJaiyzLB0?e=Fme",
       "endDate": "2026-06-24",
-      "attendees": "Natalie, Dale, Cara, Marc, Chris, Siana"
+      "attendees": "Natalie, Dale, Cara, Marc, Chris, Siana",
+      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters"
     },
     {
       "date": "2026-06-22",
@@ -1456,51 +1458,6 @@
       "summary": "",
       "audienceLink": "",
       "contentLink": ""
-    },
-    {
-      "date": null,
-      "tags": "Clinical Management",
-      "title": "May Product Newsletter - Clinical Management",
-      "type": "Product Comms",
-      "audience": "Trajecsys Users",
-      "sender": "Portico Product Updates",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": null,
-      "tags": "Financial Aid",
-      "title": "May Product Newsletter - FA",
-      "type": "Product Comms",
-      "audience": "FA Users",
-      "sender": "Portico Product Updates",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": null,
-      "tags": "Financial Aid",
-      "title": "June Product Newsletter - FA",
-      "type": "Product Comms",
-      "audience": "FA Users",
-      "sender": "Portico Product Updates",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": null,
-      "tags": "Clinical Management",
-      "title": "NELNE Fall Conference | TBD",
-      "type": "Event",
-      "audience": "Nursing",
-      "sender": "Trajecsys",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": "",
-      "attendees": "Mandy, Cara, Georgia, Ron"
     }
   ]
 }
