@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T17:57:15Z",
+  "lastUpdated": "2026-06-09T21:05:36Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -632,10 +632,254 @@
       "type": "Email",
       "audience": "General Audience",
       "sender": "Natalie Gleason",
-      "summary": "",
+      "summary": "Save-the-date announcement for Momentum 2027 at Margaritaville Hollywood Beach, May 17-19, 2027.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/8245/filters",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214599612162?portalId=7762472&preview_key=ZavGcZIJ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "contentLink": "https://app.hubspot.com/email/7762472/edit/214599612162/content",
       "audienceCount": 3611
+    },
+    {
+      "date": "2026-07-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Preliminary agenda drafted",
+      "type": "Milestone",
+      "audience": "Momentum planning team",
+      "sender": "Content & Agenda",
+      "summary": "Draft the preliminary agenda so customers can start building the case to attend.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-07-31",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Microsite launched",
+      "type": "Website",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Marketing",
+      "summary": "Launch the Momentum 2027 microsite with updated dates, location, logo, attendee video, form, workflow, and segment routing.",
+      "audienceLink": "",
+      "contentLink": "https://app.hubspot.com/pages/7762472/editor/214591070313/content"
+    },
+    {
+      "date": "2026-08-01",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Early bird registration open",
+      "type": "Registration",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Registration Manager",
+      "summary": "Open early bird registration with promotional pricing and group-rate options.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-08-01",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Sponsorships open",
+      "type": "Sponsorship",
+      "audience": "Potential sponsors",
+      "sender": "Sponsorship Manager",
+      "summary": "Open sponsorship outreach and begin sponsor commitment tracking.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-08-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Call for proposals open",
+      "type": "Call for Proposals",
+      "audience": "Customers and success story advocates",
+      "sender": "Content & Agenda",
+      "summary": "Invite session proposals and customer success story submissions.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-08-17",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Margaritaville deposit #2 due",
+      "type": "Deadline",
+      "audience": "Momentum planning team",
+      "sender": "Chris / G2",
+      "summary": "Second Margaritaville Hollywood Beach deposit due.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2026-10-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Keynote solidified",
+      "type": "Milestone",
+      "audience": "Momentum planning team",
+      "sender": "Executive Sponsor",
+      "summary": "Confirm keynote direction and speaker for promotion.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-10-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Portico team roster set",
+      "type": "Milestone",
+      "audience": "Portico team",
+      "sender": "Portico Team Engagement",
+      "summary": "Set the Portico team roster, roles, responsibilities, and activities.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-11-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Call for proposals closed",
+      "type": "Call for Proposals",
+      "audience": "Customers and success story advocates",
+      "sender": "Content & Agenda",
+      "summary": "Close customer proposal submissions and begin session selection.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-11-16",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Margaritaville deposit #3 due",
+      "type": "Deadline",
+      "audience": "Momentum planning team",
+      "sender": "Chris / G2",
+      "summary": "Third Margaritaville Hollywood Beach deposit due.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2026-12-01",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Regular registration open",
+      "type": "Registration",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Registration Manager",
+      "summary": "Open regular registration after the early bird period.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-12-31",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Sponsorships close",
+      "type": "Sponsorship",
+      "audience": "Potential sponsors",
+      "sender": "Sponsorship Manager",
+      "summary": "Close sponsorship commitments and finalize sponsor deliverables.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-01-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Full schedule announced",
+      "type": "Milestone",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Marketing",
+      "summary": "Announce the full schedule and lock in the agenda promotional story.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-01-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Pathfinder awards open",
+      "type": "Awards",
+      "audience": "Portico customers",
+      "sender": "Marketing",
+      "summary": "Open Pathfinder award nominations.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-03-31",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Pathfinder awards close",
+      "type": "Awards",
+      "audience": "Portico customers",
+      "sender": "Marketing",
+      "summary": "Close Pathfinder award nominations.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-04-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Pathfinder awards selected",
+      "type": "Awards",
+      "audience": "Momentum planning team",
+      "sender": "Executive Sponsor",
+      "summary": "Select Pathfinder award winners for recognition at Momentum.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-04-19",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Hotel room block ends - staff",
+      "type": "Deadline",
+      "audience": "Portico team",
+      "sender": "Operations & Logistics",
+      "summary": "Staff hotel room block deadline.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2027-04-26",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Hotel room block ends - all guests",
+      "type": "Deadline",
+      "audience": "Registered attendees",
+      "sender": "Operations & Logistics",
+      "summary": "Guest hotel room block deadline.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2027-05-05",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Know Before You Go webinar",
+      "type": "Webinar",
+      "audience": "Registered attendees",
+      "sender": "Portico",
+      "summary": "Pre-event webinar to help attendees prepare for Momentum 2027.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-05-10",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Margaritaville final deposit due",
+      "type": "Deadline",
+      "audience": "Momentum planning team",
+      "sender": "Chris / G2",
+      "summary": "Final Margaritaville Hollywood Beach deposit due.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2027-05-17",
+      "tags": "Momentum",
+      "title": "Momentum 2027 | Hollywood, FL",
+      "type": "Event",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Portico",
+      "summary": "Momentum 2027 user conference at Margaritaville Hollywood Beach in Hollywood, FL.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1",
+      "endDate": "2027-05-19",
+      "attendees": "Portico customers, VIP prospects, and Portico team"
+    },
+    {
+      "date": "2027-05-20",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Post-event survey",
+      "type": "Survey",
+      "audience": "Momentum attendees",
+      "sender": "Marketing",
+      "summary": "Send post-event survey to capture attendee feedback and follow-up signals.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
     },
     {
       "date": "2026-06-10",
@@ -763,6 +1007,17 @@
     },
     {
       "date": "2026-06-11",
+      "tags": "Portico Suite",
+      "title": "CECU Social Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Generic CECU / Student Victory Tour post",
+      "audienceLink": "",
+      "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/CECU%20Social%202.png"
+    },
+    {
+      "date": "2026-06-11",
       "tags": "CRM",
       "title": "June Product Newsletter - CRM",
       "type": "Product Comms",
@@ -791,9 +1046,10 @@
       "type": "Event Comms",
       "audience": "CECU Attendees",
       "sender": "Natalie Gleason",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Meet Portico at CECU email to CECU attendees",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
+      "contentLink": "",
+      "audienceCount": 383
     },
     {
       "date": "2026-06-12",
@@ -863,6 +1119,17 @@
       "audienceCount": 681
     },
     {
+      "date": "2026-06-16",
+      "tags": "Financial Aid",
+      "title": "CECU Session Spotlight",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Featured OBBBA session spotlight",
+      "audienceLink": "",
+      "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/CECU%20OB3%20Social.png"
+    },
+    {
       "date": "2026-06-17",
       "tags": "Clinical Management",
       "title": "ACEN Post-Event Email",
@@ -918,6 +1185,18 @@
       "contentLink": ""
     },
     {
+      "date": "2026-06-18",
+      "tags": "Portico Suite",
+      "title": "CECU Final Reminder Email",
+      "type": "Event Comms",
+      "audience": "CECU Attendees",
+      "sender": "Natalie Gleason",
+      "summary": "Final pre-event reminder: featured session + visit Portico at CECU",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
+      "contentLink": "",
+      "audienceCount": 383
+    },
+    {
       "date": "2026-06-19",
       "tags": "Portico Brand",
       "title": "Happy Juneteenth",
@@ -950,6 +1229,17 @@
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-06-26"
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "Portico Suite",
+      "title": "CECU We're Here Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Onsite booth/team photo post",
+      "audienceLink": "",
+      "contentLink": ""
     },
     {
       "date": "2026-06-22",
@@ -1025,13 +1315,25 @@
       "attendees": "Siana, Noel, Karen, Christina"
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-06-29",
       "tags": "Portico Suite",
       "title": "CECU Post-Event Email",
       "type": "Event Comms",
       "audience": "CECU Attendees",
       "sender": "Natalie Gleason",
-      "summary": "",
+      "summary": "CECU recap/resource follow-up to attendees",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
+      "contentLink": "",
+      "audienceCount": 383
+    },
+    {
+      "date": "2026-06-30",
+      "tags": "Portico Suite",
+      "title": "CECU Sales Sequence",
+      "type": "Sequence",
+      "audience": "Warm leads, booth scans, session attendees, and target accounts",
+      "sender": "Sales",
+      "summary": "Post-CECU follow-up sequence",
       "audienceLink": "",
       "contentLink": ""
     },
