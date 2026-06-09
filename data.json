@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T13:35:44Z",
+  "lastUpdated": "2026-06-09T15:12:44Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -483,7 +483,7 @@
       "type": "Email",
       "audience": "OBBBA Webinar Registrants",
       "sender": "Portico",
-      "summary": "Follow-up email with the full Q&A resource and a demo CTA for Financial Aid and managed services.",
+      "summary": "Sent June 9. Follow-up email with the full Q&A resource and a demo CTA for Financial Aid and managed services. Subject: Your OBBBA questions answered.",
       "audienceLink": "",
       "contentLink": ""
     },
