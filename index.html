@@ -315,8 +315,8 @@
       line-height: 1;
       flex-shrink: 0;
     }
-    .cal-week.has-event-bars .day-num {
-      margin-bottom: calc(6px + var(--event-bar-space));
+    .cal-cell.has-event-overlay .day-num {
+      margin-bottom: calc(6px + var(--cell-event-bar-space, 0px));
     }
     .cal-cell.is-today .day-num {
       background: var(--terracotta);
@@ -1540,6 +1540,18 @@
     return rows.length;
   }
 
+  function reserveEventOverlaySpace(cells, events, rowCount) {
+    const eventSpace = (rowCount * 30 + 10) + 'px';
+    events.forEach(ev => {
+      for (let col = ev.startCol; col < ev.startCol + ev.span; col++) {
+        const cell = cells[col];
+        if (!cell) continue;
+        cell.classList.add('has-event-overlay');
+        cell.style.setProperty('--cell-event-bar-space', eventSpace);
+      }
+    });
+  }
+
   function renderOOOBars(ooos, container) {
     const sorted = [...ooos].sort((a, b) => a.startCol - b.startCol || b.span - a.span);
     const rows = [];
@@ -1669,7 +1681,7 @@
         const overlay = document.createElement('div');
         overlay.className = 'bars-overlay';
         const rowCount = renderEventBars(weekEvents, overlay);
-        weekEl.style.setProperty('--event-bar-space', (rowCount * 30 + 10) + 'px');
+        reserveEventOverlaySpace(cells, weekEvents, rowCount);
         weekEl.appendChild(overlay);
       }
       if (weekOOOs.length) {
@@ -1703,6 +1715,7 @@
 
     const dayGrid = document.createElement('div');
     dayGrid.className = 'day-cells-grid';
+    const cells = [];
 
     for (let d = 0; d < 5; d++) {
       const day     = addDays(weekStart, d);
@@ -1719,6 +1732,7 @@
       cell.appendChild(dn);
 
       indices.filter(idx => !isOOO(allItems[idx]) && !isMultiDay(allItems[idx])).forEach(idx => cell.appendChild(makePill(idx)));
+      cells.push(cell);
       dayGrid.appendChild(cell);
     }
 
@@ -1731,7 +1745,7 @@
       const overlay = document.createElement('div');
       overlay.className = 'bars-overlay';
       const rowCount = renderEventBars(weekEvents, overlay);
-      weekEl.style.setProperty('--event-bar-space', (rowCount * 30 + 10) + 'px');
+      reserveEventOverlaySpace(cells, weekEvents, rowCount);
       weekEl.appendChild(overlay);
     }
     if (weekOOOs.length) {

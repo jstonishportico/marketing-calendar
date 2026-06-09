@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T17:15:45Z",
+  "lastUpdated": "2026-06-09T17:19:49Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -538,28 +538,6 @@
       "type": "Product Update",
       "audience": "CRM / Recruit Users",
       "sender": "Product",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-06-08",
-      "tags": "SIS",
-      "title": "Academic Calendar Redesign",
-      "type": "Product Update",
-      "audience": "SIS Users",
-      "sender": "Product",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-06-08",
-      "tags": "Financial Aid",
-      "title": "FA Support Agent Launch Email",
-      "type": "Product Comms",
-      "audience": "All Financial Aid Contacts",
-      "sender": "Portico Product Updates",
       "summary": "",
       "audienceLink": "",
       "contentLink": ""
