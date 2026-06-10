@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T21:05:36Z",
+  "lastUpdated": "2026-06-10T18:21:51Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -632,9 +632,9 @@
       "type": "Email",
       "audience": "General Audience",
       "sender": "Natalie Gleason",
-      "summary": "Save-the-date announcement for Momentum 2027 at Margaritaville Hollywood Beach, May 17-19, 2027.",
+      "summary": "Sent June 10 at 11:16 AM UTC-07:00. Save-the-date announcement for Momentum 2027 at Margaritaville Hollywood Beach, May 17-19, 2027. Included segments: Current Customer Contacts (Lifecycle Stage), Portico Roster 2026, and Static List - Momentum 2026 Registrations.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/8245/filters",
-      "contentLink": "https://app.hubspot.com/email/7762472/edit/214599612162/content",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214711737976?portalId=7762472&preview_key=wueoDnhp&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceCount": 3611
     },
     {
@@ -1023,9 +1023,9 @@
       "type": "Product Comms",
       "audience": "CRM Users",
       "sender": "Portico Product Updates",
-      "summary": "",
+      "summary": "Drafted in HubSpot. Send lists: CRM users All - May 14 2026 and Portico Roster 2026.",
       "audienceLink": "",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214690764384?portalId=7762472&preview_key=bInwgRwy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "contentLink": "https://welcome.porticoedu.com/new-calendar-2.0-bulk-email-send-new-support-agent-and-more?hs_preview=bInwgRwy-214690764384",
       "audienceLinks": [
         {
           "label": "CRM users: 5,221 contacts",
@@ -1058,9 +1058,16 @@
       "type": "Product Comms",
       "audience": "SIS Users",
       "sender": "Portico Product Updates",
-      "summary": "",
+      "summary": "Drafted in HubSpot. Send lists: Portico Roster 2026 and SIS Users - April 2026.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://welcome.porticoedu.com/registrar-power-tools-new-support-agent-and-more-portico-sis-news?hs_preview=YmeINlXI-214736626584",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        }
+      ]
     },
     {
       "date": "2026-06-15",
