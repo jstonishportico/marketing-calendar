@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T18:21:51Z",
+  "lastUpdated": "2026-06-10T20:48:24Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1217,11 +1217,176 @@
     {
       "date": "2026-06-19",
       "tags": "Portico Community",
-      "title": "The Commons Launch",
+      "title": "The Commons Soft Publish",
       "type": "Website",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Site goes live as a soft publish, with no public announcement yet. Launch target date is June 22, 2026.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "The Commons Official Launch",
+      "type": "Milestone",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Official launch target date for The Commons MVP microsite and launch communications.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-10",
+      "tags": "The Commons",
+      "title": "The Commons Sales + CS Briefing",
+      "type": "Internal Comms",
+      "audience": "Sales + CS",
+      "sender": "Marketing",
+      "summary": "Internal briefing on The Commons from the MVP launch plan.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-17",
+      "tags": "The Commons",
+      "title": "The Commons LinkedIn Page Live",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons",
+      "summary": "The Commons LinkedIn page goes live ahead of launch.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-17",
+      "tags": "The Commons",
+      "title": "Contributor Organic Posts",
+      "type": "Social",
+      "audience": "Contributor Networks",
+      "sender": "Founding Contributors",
+      "summary": "June 17-18: contributors post organically on their expertise, with no Commons mention yet.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-17",
+      "tags": "The Commons",
+      "title": "Portico Commons Teaser Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "June 17-18: Portico LinkedIn teaser post with the message: Something's coming June 22.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-18",
+      "tags": "The Commons",
+      "title": "Contributor Launch Briefing",
+      "type": "Contributor Comms",
+      "audience": "Founding Contributors",
+      "sender": "Marketing",
+      "summary": "Send launch-day briefing to contributors with what to post, when to post, and suggested framing.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "Contributor Launch Posts",
+      "type": "Social",
+      "audience": "Contributor Networks",
+      "sender": "Founding Contributors",
+      "summary": "7-8 AM: contributors post personal launch-day content on LinkedIn.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "The Commons Official Launch Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons",
+      "summary": "9-10 AM: official launch post from The Commons LinkedIn page.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "Portico Commons Amplification Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "10-11 AM: Portico LinkedIn amplification post for The Commons launch.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "The Commons Customer Launch Email",
+      "type": "Email",
+      "audience": "Full Customer List",
+      "sender": "Portico",
+      "summary": "Midday: Portico email to the full customer list announcing The Commons.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "The Commons Sales/CS Outreach",
+      "type": "Sales Enablement",
+      "audience": "Active Accounts and Prospects",
+      "sender": "Sales + CS",
+      "summary": "PM: Sales and CS personal outreach to active accounts and prospects who could benefit from The Commons.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "CECU Commons URL Sharing",
+      "type": "Event Promo",
+      "audience": "CECU Attendees",
+      "sender": "Onsite Portico Team",
+      "summary": "June 22 and CECU ongoing: in-person verbal references and live URL sharing for The Commons.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-23",
+      "tags": "The Commons",
+      "title": "Contributor Launch Amplification",
+      "type": "Social",
+      "audience": "Contributor Networks",
+      "sender": "Founding Contributors",
+      "summary": "June 23-24: contributors amplify launch posts on LinkedIn, staggered.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-23",
+      "tags": "The Commons",
+      "title": "The Commons First Content Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons",
+      "summary": "June 23-24: first content post from The Commons LinkedIn page.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-26",
+      "tags": "The Commons",
+      "title": "The Commons First Content Follow-Up Email",
+      "type": "Email",
+      "audience": "Portico Customers",
+      "sender": "Portico",
+      "summary": "Week of June 23: follow-up email featuring the first Commons content piece.",
       "audienceLink": "",
       "contentLink": ""
     },
