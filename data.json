@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T17:55:04Z",
+  "lastUpdated": "2026-06-11T18:25:31Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1196,9 +1196,9 @@
       "type": "Email",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "Simple Juneteenth closure email. Copy: Today, we pause to observe Juneteenth, a day of freedom, reflection, and remembrance. Our offices will be closed on Friday, June 19 in observance of the holiday. Header graphic: https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/Juneteenth.png",
+      "summary": "Drafted in HubSpot. Simple Juneteenth closure notice using the Juneteenth header graphic.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214866376502?portalId=7762472&preview_key=wNPeJVhQ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
     },
     {
       "date": "2026-06-18",
@@ -1230,9 +1230,9 @@
       "type": "Social",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "Simple Juneteenth observance post. Copy: Today, we pause to observe Juneteenth, a day of freedom, reflection, and remembrance. Our offices will be closed on Friday, June 19 in observance of the holiday. Graphic: Portico_Juneteenth26.jpg.",
+      "summary": "Scheduled in HubSpot. Copy: Today we observe Juneteenth and the ongoing pursuit of freedom, opportunity, and equality. Our offices will be closed on Friday, June 19, in observance of the holiday. Graphic: Portico_Juneteenth26.jpg.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://app.hubspot.com/social/7762472/manage/scheduled"
     },
     {
       "date": "2026-06-19",
