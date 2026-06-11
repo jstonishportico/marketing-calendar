@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T14:49:29Z",
+  "lastUpdated": "2026-06-11T17:03:20Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1036,9 +1036,10 @@
       "type": "Product Comms",
       "audience": "CRM Users",
       "sender": "Portico Product Updates",
-      "summary": "Drafted in HubSpot. Send lists: CRM users All - May 14 2026 and Portico Roster 2026.",
-      "audienceLink": "",
+      "summary": "Sent June 11 at 9:54 AM ET. Subject: Calendar 2.0, Bulk Email Send, New Support Agent, and more. HubSpot campaign stats: 3,378 included, 2,682 sent, 2,669 delivered, 317 opens, 16 clicks.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10723/filters",
       "contentLink": "https://welcome.porticoedu.com/new-calendar-2.0-bulk-email-send-new-support-agent-and-more?hs_preview=bInwgRwy-214690764384",
+      "audienceCount": 2682,
       "audienceLinks": [
         {
           "label": "CRM users: 5,221 contacts",
@@ -1404,7 +1405,7 @@
       "contentLink": ""
     },
     {
-      "date": "2026-06-19",
+      "date": "2026-06-18",
       "tags": "",
       "title": "Jess OOO",
       "type": "OOO",
