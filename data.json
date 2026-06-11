@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T14:30:43Z",
+  "lastUpdated": "2026-06-11T14:49:29Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1001,9 +1001,22 @@
       "type": "Email",
       "audience": "All Financial Aid Contacts",
       "sender": "Portico",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Sent June 11 at 10:46 AM ET. Subject: Portico Financial Aid News: June Newsletter. HubSpot campaign stats: 2,134 included, 1,968 sent, 1,960 delivered.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214838866037?portalId=7762472&preview_key=nrXpTZUQ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 1968,
+      "audienceLinks": [
+        {
+          "label": "FA clients source list: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        },
+        {
+          "label": "Campus Ivy FA source list: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        }
+      ]
     },
     {
       "date": "2026-06-12",
