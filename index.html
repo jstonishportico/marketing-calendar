@@ -203,7 +203,7 @@
       font-size: 10.5px;
       font-weight: 600;
       padding: 3px 7px;
-      margin: 2px 4px;
+      margin: 2px 8px;
       cursor: pointer;
       white-space: nowrap;
       overflow: hidden;
@@ -374,6 +374,25 @@
     }
     .pill.sequence-pill {
       font-weight: 500;
+    }
+    .cal-week.has-ooo-bars .pill {
+      padding-top: 2px;
+      padding-bottom: 2px;
+      line-height: 1.35;
+      margin-bottom: 2px;
+    }
+    .cal-week.has-ooo-bars .overflow-btn {
+      line-height: 1.2;
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+    .pill.momentum-pill,
+    .event-bar.momentum-bar {
+      color: #006b8f;
+    }
+    .pill.momentum-pill .pill-icon,
+    .event-bar.momentum-bar .event-bar-icon {
+      filter: brightness(0) saturate(100%) invert(27%) sepia(77%) saturate(1261%) hue-rotate(163deg) brightness(92%) contrast(101%);
     }
     .pill:hover { filter: brightness(0.85); }
     .pill-icon {
@@ -1288,6 +1307,18 @@
   ];
 
   const MAX_VISIBLE = 3;
+  const MONTH_CELL_HEIGHT = 155;
+  const CELL_TOP_PAD = 10;
+  const CELL_BOTTOM_PAD = 10;
+  const DAY_NUM_HEIGHT = 12;
+  const TODAY_NUM_HEIGHT = 22;
+  const BASE_DAY_GAP = 6;
+  const EVENT_BAR_ROW_HEIGHT = 25;
+  const EVENT_BAR_GAP = 4;
+  const OOO_ROW_HEIGHT = 22;
+  const OOO_GAP = 6;
+  const PILL_ROW_HEIGHT = 20;
+  const OVERFLOW_ROW_HEIGHT = 14;
 
   /* ─── State ──────────────────────────────────────────── */
   let allItems       = [];
@@ -1576,6 +1607,7 @@
         if (ev.continuesLeft)  cls += ' continues-left';
         if (ev.continuesRight) cls += ' continues-right';
         bar.className = cls;
+        if (isMomentum2027(ev.item)) bar.classList.add('momentum-bar');
         const tp = typeOf(ev.item);
         const outline = outlineFor(ev.item);
         bar.style.background = tp.color;
@@ -1591,7 +1623,7 @@
   }
 
   function reserveEventOverlaySpace(cells, events, rowCount) {
-    const eventSpace = (rowCount * 25 + 8) + 'px';
+    const eventSpace = (rowCount * EVENT_BAR_ROW_HEIGHT + EVENT_BAR_GAP) + 'px';
     events.forEach(ev => {
       for (let col = ev.startCol; col < ev.startCol + ev.span; col++) {
         const cell = cells[col];
@@ -1600,6 +1632,44 @@
         cell.style.setProperty('--cell-event-bar-space', eventSpace);
       }
     });
+  }
+
+  function visibleLimitForMonthCell(totalItems, hasEventOverlay, eventRowCount, oooRowCount, isToday) {
+    const eventSpace = hasEventOverlay ? eventRowCount * EVENT_BAR_ROW_HEIGHT + EVENT_BAR_GAP : 0;
+    const oooSpace = oooRowCount ? oooRowCount * OOO_ROW_HEIGHT + OOO_GAP : 0;
+    const dayHeight = isToday ? TODAY_NUM_HEIGHT : DAY_NUM_HEIGHT;
+    const available = MONTH_CELL_HEIGHT -
+      CELL_TOP_PAD -
+      (CELL_BOTTOM_PAD + oooSpace) -
+      dayHeight -
+      (BASE_DAY_GAP + eventSpace);
+
+    if (totalItems <= 0) return 0;
+
+    const maxWithoutOverflow = Math.min(MAX_VISIBLE, Math.max(0, Math.floor(available / PILL_ROW_HEIGHT)));
+    if (totalItems <= maxWithoutOverflow) return totalItems;
+
+    const maxWithOverflow = Math.min(
+      MAX_VISIBLE,
+      Math.max(0, Math.floor((available - OVERFLOW_ROW_HEIGHT) / PILL_ROW_HEIGHT))
+    );
+    return Math.max(0, maxWithOverflow);
+  }
+
+  function fillMonthCellItems(meta, eventRowCount, oooRowCount) {
+    const hasEventOverlay = meta.cell.classList.contains('has-event-overlay');
+    const limit = visibleLimitForMonthCell(meta.singleIndices.length, hasEventOverlay, eventRowCount, oooRowCount, meta.isToday);
+    const visible = meta.singleIndices.slice(0, limit);
+    const overflow = meta.inMonth ? meta.singleIndices.slice(limit) : [];
+
+    visible.forEach(idx => meta.cell.appendChild(makePill(idx)));
+    if (overflow.length > 0) {
+      const ob = document.createElement('button');
+      ob.className = 'overflow-btn';
+      ob.textContent = '+' + overflow.length + ' more';
+      ob.addEventListener('click', () => openDayView(meta.dayStr, meta.indices));
+      meta.cell.appendChild(ob);
+    }
   }
 
   function renderOOOBars(ooos, container) {
@@ -1681,6 +1751,7 @@
       const weekFriStr = toDateStr(addDays(cursor, 4));
       let weekHasMonthDay = false;
       const cells = [];
+      const dayMetas = [];
 
       for (let d = 0; d < 5; d++) {
         const day     = addDays(cursor, d);
@@ -1702,16 +1773,7 @@
 
         // Multi-day events and OOO shown in bar layer; exclude them from cell pills
         const singleIndices = indices.filter(idx => !isMultiDay(allItems[idx]) && !isOOO(allItems[idx]));
-        const visible  = singleIndices.slice(0, MAX_VISIBLE);
-        const overflow = inMonth ? singleIndices.slice(MAX_VISIBLE) : [];
-        visible.forEach(idx => cell.appendChild(makePill(idx)));
-        if (overflow.length > 0) {
-          const ob = document.createElement('button');
-          ob.className = 'overflow-btn';
-          ob.textContent = '+' + overflow.length + ' more';
-          ob.addEventListener('click', () => openDayView(dayStr, indices));
-          cell.appendChild(ob);
-        }
+        dayMetas.push({ cell, dayStr, indices, singleIndices, inMonth, isToday });
         cells.push(cell);
       }
 
@@ -1726,21 +1788,25 @@
 
       const weekEvents = getWeekSpanEvents(weekMonStr, weekFriStr);
       const weekOOOs   = getWeekOOOBars(weekMonStr, weekFriStr);
+      let eventRowCount = 0;
+      let oooRowCount = 0;
       if (weekEvents.length) {
         weekEl.classList.add('has-event-bars');
         const overlay = document.createElement('div');
         overlay.className = 'bars-overlay';
-        const rowCount = renderEventBars(weekEvents, overlay);
-        reserveEventOverlaySpace(cells, weekEvents, rowCount);
+        eventRowCount = renderEventBars(weekEvents, overlay);
+        reserveEventOverlaySpace(cells, weekEvents, eventRowCount);
         weekEl.appendChild(overlay);
       }
       if (weekOOOs.length) {
+        weekEl.classList.add('has-ooo-bars');
         const overlay = document.createElement('div');
         overlay.className = 'ooo-bars-overlay';
-        const rowCount = renderOOOBars(weekOOOs, overlay);
-        weekEl.style.setProperty('--ooo-bar-space', (rowCount * 22 + 6) + 'px');
+        oooRowCount = renderOOOBars(weekOOOs, overlay);
+        weekEl.style.setProperty('--ooo-bar-space', (oooRowCount * OOO_ROW_HEIGHT + OOO_GAP) + 'px');
         weekEl.appendChild(overlay);
       }
+      dayMetas.forEach(meta => fillMonthCellItems(meta, eventRowCount, oooRowCount));
       grid.appendChild(weekEl);
 
       cursor = addDays(cursor, 7);
@@ -1799,10 +1865,11 @@
       weekEl.appendChild(overlay);
     }
     if (weekOOOs.length) {
+      weekEl.classList.add('has-ooo-bars');
       const overlay = document.createElement('div');
       overlay.className = 'ooo-bars-overlay';
       const rowCount = renderOOOBars(weekOOOs, overlay);
-      weekEl.style.setProperty('--ooo-bar-space', (rowCount * 22 + 6) + 'px');
+      weekEl.style.setProperty('--ooo-bar-space', (rowCount * OOO_ROW_HEIGHT + OOO_GAP) + 'px');
       weekEl.appendChild(overlay);
     }
 
@@ -1821,6 +1888,7 @@
       btn.classList.add('outlined');
       btn.style.setProperty('--pill-outline', outline);
     }
+    if (isMomentum2027(item)) btn.classList.add('momentum-pill');
     const icon = iconFor(item, 'pill-icon');
     btn.innerHTML = icon + escHtml(item.title);
     btn.addEventListener('click', () => openItemView(idx, null));
