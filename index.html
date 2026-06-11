@@ -219,7 +219,7 @@
       position: absolute;
       inset: 0;
       box-sizing: border-box;
-      border-color: #004961;
+      border-color: var(--event-outline, #004961);
       border-style: solid;
       border-width: 1.5px var(--event-right-outline) 1.5px var(--event-left-outline);
       border-radius: inherit;
@@ -338,6 +338,9 @@
       justify-content: center;
       font-size: 11px;
       margin-bottom: 6px;
+    }
+    .cal-cell.is-today.has-event-overlay .day-num {
+      margin-bottom: calc(6px + var(--cell-event-bar-space, 0px));
     }
     .filler-num { color: var(--filler-num); }
     .cal-cell.filler .pill { opacity: 0.38; }
@@ -1248,6 +1251,7 @@
   const WD_LABELS = ['Mon','Tue','Wed','Thu','Fri'];
 
   const TYPES = {
+    'Momentum 2027':  { color: '#73cae7', label: 'Momentum 2027' },
     'Email':          { color: '#e56a54', label: 'Email' },
     'Social':         { color: '#e56a54', label: 'Social' },
     'Event':          { color: '#006b8f', label: 'Event' },
@@ -1268,6 +1272,7 @@
   };
 
   const LEGEND = [
+    { color: '#73cae7', outline: '#ffc157', label: 'Momentum 2027' },
     { color: '#006b8f', label: 'Event' },
     { color: '#4298b5', label: 'Event Comms' },
     { color: '#e56a54', label: 'Email / Social' },
@@ -1317,7 +1322,11 @@
     });
   }
   function typeOf(item) {
+    if (isMomentum2027(item)) return TYPES['Momentum 2027'];
     return TYPES[item.type] || { color: '#aaa', label: item.type };
+  }
+  function isMomentum2027(item) {
+    return /^Momentum 2027\b/i.test(item.title || '');
   }
   function todayStr() { return toDateStr(new Date()); }
 
@@ -1422,12 +1431,15 @@
   /* ─── Legend ─────────────────────────────────────────── */
   function buildLegend() {
     document.getElementById('legendRows').innerHTML =
-      LEGEND.map(l =>
+      LEGEND.map(l => {
+        const outline = l.outline ? ';box-shadow:inset 0 0 0 2px ' + l.outline : '';
+        return (
         '<div class="legend-row">' +
-          '<div class="legend-swatch" style="background:' + l.color + '"></div>' +
+          '<div class="legend-swatch" style="background:' + l.color + outline + '"></div>' +
           '<span>' + l.label + '</span>' +
         '</div>'
-      ).join('');
+        );
+      }).join('');
   }
 
   /* ─── Period labels ──────────────────────────────────── */
@@ -1458,6 +1470,7 @@
     return 'View audience list';
   }
   const TYPE_ICONS = {
+    'Momentum 2027':  '<img class="pill-icon" src="icons/palm-tree.png" alt="">',
     'Event':          '<img class="pill-icon" src="icons/airplane.png" alt="">',
     'Product Update': '<img class="pill-icon" src="icons/rocket.png" alt="">',
     'Article':        '<img class="pill-icon" src="icons/pencil.png" alt="">',
@@ -1465,10 +1478,26 @@
     'Website':        '<img class="pill-icon" src="icons/web.png" alt="">',
     'Landing Page':   '<img class="pill-icon" src="icons/web.png" alt="">',
   };
+  const TYPE_OUTLINES = {
+    'Momentum 2027': '#ffc157',
+    'Event': '#004961',
+    'Product Update': '#4c1a38',
+    'Article': '#7b2717',
+    'Sales Asset': '#c97900',
+  };
+  function outlineFor(item) {
+    if (isMomentum2027(item)) return TYPE_OUTLINES['Momentum 2027'];
+    return TYPE_OUTLINES[item.type] || '';
+  }
+  function iconFor(item, className) {
+    const iconType = isMomentum2027(item) ? 'Momentum 2027' : item.type;
+    const icon = TYPE_ICONS[iconType] || '';
+    return className === 'pill-icon' ? icon : icon.replace('pill-icon', className);
+  }
 
   /* ─── Multi-day event helpers ───────────────────────── */
   function isMultiDay(item) {
-    return item.type === 'Event' && !!item.endDate && item.endDate > item.date;
+    return (item.type === 'Event' || isMomentum2027(item)) && !!item.endDate && item.endDate > item.date;
   }
   function isOOO(item) {
     return item.type === 'OOO';
@@ -1547,8 +1576,12 @@
         if (ev.continuesLeft)  cls += ' continues-left';
         if (ev.continuesRight) cls += ' continues-right';
         bar.className = cls;
+        const tp = typeOf(ev.item);
+        const outline = outlineFor(ev.item);
+        bar.style.background = tp.color;
+        if (outline) bar.style.setProperty('--event-outline', outline);
         bar.style.gridColumn = (ev.startCol + 1) + ' / span ' + ev.span;
-        bar.innerHTML = '<img class="event-bar-icon" src="icons/airplane.png" alt="">' + escHtml(ev.item.title);
+        bar.innerHTML = iconFor(ev.item, 'event-bar-icon') + escHtml(ev.item.title);
         bar.addEventListener('click', () => openItemView(ev.idx, null));
         rowEl.appendChild(bar);
       });
@@ -1783,17 +1816,12 @@
     btn.className = 'pill';
     if (isSequence(item)) btn.classList.add('sequence-pill');
     btn.style.background = tp.color;
-    const outlines = {
-      'Event': '#004961',
-      'Product Update': '#4c1a38',
-      'Article': '#7b2717',
-      'Sales Asset': '#c97900',
-    };
-    if (outlines[item.type]) {
+    const outline = outlineFor(item);
+    if (outline) {
       btn.classList.add('outlined');
-      btn.style.setProperty('--pill-outline', outlines[item.type]);
+      btn.style.setProperty('--pill-outline', outline);
     }
-    const icon = TYPE_ICONS[item.type] || '';
+    const icon = iconFor(item, 'pill-icon');
     btn.innerHTML = icon + escHtml(item.title);
     btn.addEventListener('click', () => openItemView(idx, null));
     return btn;

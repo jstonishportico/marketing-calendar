@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T20:48:24Z",
+  "lastUpdated": "2026-06-11T13:41:39Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -882,17 +882,6 @@
       "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
     },
     {
-      "date": "2026-06-10",
-      "tags": "Clinical Management",
-      "title": "ACEN Reminder Email",
-      "type": "Event Comms",
-      "audience": "ACEN Attendees",
-      "sender": "Trajecsys",
-      "summary": "Reminder touch before ACEN begins in Indianapolis.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-06-04",
       "tags": "Portico Suite",
       "title": "\"The Work After Yes\" Panel Takeaways",
@@ -996,6 +985,17 @@
     },
     {
       "date": "2026-06-11",
+      "tags": "Clinical Management",
+      "title": "ACEN Booth Social Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Onsite booth/team photo post from ACEN in Indianapolis.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-11",
       "tags": "Financial Aid",
       "title": "June Financial Aid Newsletter",
       "type": "Email",
@@ -1006,7 +1006,7 @@
       "contentLink": ""
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "tags": "Portico Suite",
       "title": "CECU Social Post",
       "type": "Social",
