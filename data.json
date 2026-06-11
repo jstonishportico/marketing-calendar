@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T18:25:31Z",
+  "lastUpdated": "2026-06-11T18:43:05Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1034,6 +1034,17 @@
       "summary": "Generic CECU / Student Victory Tour post",
       "audienceLink": "",
       "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/CECU%20Social%202.png"
+    },
+    {
+      "date": "2026-06-12",
+      "tags": "Portico Suite",
+      "title": "CECU One-Pager",
+      "type": "Sales Asset",
+      "audience": "CECU Attendees",
+      "sender": "Portico",
+      "summary": "CECU 2026 one-pager for the Student Victory Tour, OBBBA resources, headshot station, giveaways, and event follow-up.",
+      "audienceLink": "",
+      "contentLink": "assets/Portico_CECU_26_One_Pager_R2.pdf"
     },
     {
       "date": "2026-06-11",
