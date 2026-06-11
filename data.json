@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T17:03:20Z",
+  "lastUpdated": "2026-06-11T17:55:04Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -990,9 +990,15 @@
       "type": "Social",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "Onsite booth/team photo post from ACEN in Indianapolis.",
+      "summary": "Onsite booth/team photo posts from ACEN in Indianapolis on the Portico and Trajecsys LinkedIn pages.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_trajecsys-a-portico-brand-is-all-set-up-activity-7470847873555963904-0a6g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3gYN4BB0HNl4B1Zh2Nxe5PT8epmPFG1UQ",
+      "audienceLinks": [
+        {
+          "label": "Trajecsys LinkedIn post",
+          "url": "https://www.linkedin.com/posts/trajecsys-corporation_trajecsys-is-all-set-up-at-acen-in-indianapolis-activity-7470848122643120128--wq3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3gYN4BB0HNl4B1Zh2Nxe5PT8epmPFG1UQ"
+        }
+      ]
     },
     {
       "date": "2026-06-11",
@@ -1190,7 +1196,7 @@
       "type": "Email",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Simple Juneteenth closure email. Copy: Today, we pause to observe Juneteenth, a day of freedom, reflection, and remembrance. Our offices will be closed on Friday, June 19 in observance of the holiday. Header graphic: https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/Juneteenth.png",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -1224,7 +1230,7 @@
       "type": "Social",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Simple Juneteenth observance post. Copy: Today, we pause to observe Juneteenth, a day of freedom, reflection, and remembrance. Our offices will be closed on Friday, June 19 in observance of the holiday. Graphic: Portico_Juneteenth26.jpg.",
       "audienceLink": "",
       "contentLink": ""
     },
