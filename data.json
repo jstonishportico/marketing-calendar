@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T19:24:30Z",
+  "lastUpdated": "2026-06-12T20:37:34Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1235,13 +1235,13 @@
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214866376502?portalId=7762472&preview_key=wNPeJVhQ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
     },
     {
-      "date": "2026-06-18",
+      "date": "2026-06-25",
       "tags": "Financial Aid",
       "title": "OBBBA Q&A Email Promo",
       "type": "Email",
       "audience": "Financial Aid Prospects & Users",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Scheduled for June 25. Promo for the July 15 OBBBA Live Q&A, with links to the May 27 recording and Q&A answers.",
       "audienceLink": "",
       "contentLink": ""
     },
