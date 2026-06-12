@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T18:45:02Z",
+  "lastUpdated": "2026-06-12T19:24:30Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1086,6 +1086,18 @@
       "summary": "Sent June 12. CECU pre-event email to attendees promoting Booth 437, OBBBA resources, LinkedIn headshot station, giveaways, and the featured Innovation Hub session.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10868/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214877810361?portalId=7762472&preview_key=pWNSOrDz&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+    },
+    {
+      "date": "2026-06-12",
+      "tags": "Clinical Management",
+      "title": "Vet Tech Webinar Promo Email",
+      "type": "Email",
+      "audience": "Vet Tech Educators",
+      "sender": "Trajecsys",
+      "summary": "Sent June 12. Webinar invite for the June 23 distance vet tech session on skills verification and clinical documentation in Trajecsys.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214936813461?portalId=7762472&preview_key=tLpWvLgy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 681
     },
     {
       "date": "2026-06-11",
