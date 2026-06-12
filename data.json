@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T19:03:42Z",
+  "lastUpdated": "2026-06-12T13:40:36Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1031,9 +1031,15 @@
       "type": "Social",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "Generic CECU / Student Victory Tour post",
+      "summary": "Scheduled for June 12 in HubSpot. Generic CECU / Student Victory Tour post.",
       "audienceLink": "",
-      "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/CECU%20Social%202.png"
+      "contentLink": "https://app.hubspot.com/social/7762472/manage/scheduled",
+      "audienceLinks": [
+        {
+          "label": "Promo graphic",
+          "url": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/CECU%20Social%202.png"
+        }
+      ]
     },
     {
       "date": "2026-06-12",
@@ -1042,7 +1048,7 @@
       "type": "Sales Asset",
       "audience": "CECU Attendees",
       "sender": "Portico",
-      "summary": "CECU 2026 one-pager for the Student Victory Tour, OBBBA resources, headshot station, giveaways, and event follow-up.",
+      "summary": "Published June 11. CECU 2026 one-pager for the Student Victory Tour, OBBBA resources, headshot station, giveaways, and event follow-up.",
       "audienceLink": "",
       "contentLink": "assets/Portico_CECU_26_One_Pager_R2.pdf"
     },
@@ -1083,13 +1089,13 @@
       "audienceCount": 383
     },
     {
-      "date": "2026-06-12",
+      "date": "2026-06-11",
       "tags": "SIS",
       "title": "June Product Newsletter - SIS",
       "type": "Product Comms",
       "audience": "SIS Users",
       "sender": "Portico Product Updates",
-      "summary": "Drafted in HubSpot. Send lists: Portico Roster 2026 and SIS Users - April 2026.",
+      "summary": "Sent June 11. Subject: Registrar power tools, new support agent, and more. Send lists: Portico Roster 2026 and SIS Users - April 2026.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/registrar-power-tools-new-support-agent-and-more-portico-sis-news?hs_preview=YmeINlXI-214736626584",
       "audienceLinks": [

@@ -317,6 +317,9 @@
     }
 
     .day-num {
+      min-height: 22px;
+      display: flex;
+      align-items: center;
       font-size: 12px;
       font-weight: 700;
       color: #c4bfb8;
@@ -374,17 +377,6 @@
     }
     .pill.sequence-pill {
       font-weight: 500;
-    }
-    .cal-week.has-ooo-bars .pill {
-      padding-top: 2px;
-      padding-bottom: 2px;
-      line-height: 1.35;
-      margin-bottom: 2px;
-    }
-    .cal-week.has-ooo-bars .overflow-btn {
-      line-height: 1.2;
-      padding-top: 0;
-      padding-bottom: 0;
     }
     .pill.momentum-pill,
     .event-bar.momentum-bar {
@@ -1306,15 +1298,16 @@
     { color: '#e08600', label: 'Sales Asset / One Pager' },
   ];
 
-  const MAX_VISIBLE = 3;
+  const MAX_VISIBLE = 4;
+  const MAX_VISIBLE_WITH_OOO = 3;
   const MONTH_CELL_HEIGHT = 155;
   const CELL_TOP_PAD = 10;
   const CELL_BOTTOM_PAD = 10;
-  const DAY_NUM_HEIGHT = 12;
+  const DAY_NUM_HEIGHT = 22;
   const TODAY_NUM_HEIGHT = 22;
   const BASE_DAY_GAP = 6;
   const EVENT_BAR_ROW_HEIGHT = 25;
-  const EVENT_BAR_GAP = 4;
+  const EVENT_BAR_GAP = 7;
   const OOO_ROW_HEIGHT = 22;
   const OOO_GAP = 6;
   const PILL_ROW_HEIGHT = 20;
@@ -1638,6 +1631,7 @@
     const eventSpace = hasEventOverlay ? eventRowCount * EVENT_BAR_ROW_HEIGHT + EVENT_BAR_GAP : 0;
     const oooSpace = oooRowCount ? oooRowCount * OOO_ROW_HEIGHT + OOO_GAP : 0;
     const dayHeight = isToday ? TODAY_NUM_HEIGHT : DAY_NUM_HEIGHT;
+    const maxVisible = oooRowCount ? MAX_VISIBLE_WITH_OOO : MAX_VISIBLE;
     const available = MONTH_CELL_HEIGHT -
       CELL_TOP_PAD -
       (CELL_BOTTOM_PAD + oooSpace) -
@@ -1646,11 +1640,11 @@
 
     if (totalItems <= 0) return 0;
 
-    const maxWithoutOverflow = Math.min(MAX_VISIBLE, Math.max(0, Math.floor(available / PILL_ROW_HEIGHT)));
+    const maxWithoutOverflow = Math.min(maxVisible, Math.max(0, Math.floor(available / PILL_ROW_HEIGHT)));
     if (totalItems <= maxWithoutOverflow) return totalItems;
 
     const maxWithOverflow = Math.min(
-      MAX_VISIBLE,
+      maxVisible,
       Math.max(0, Math.floor((available - OVERFLOW_ROW_HEIGHT) / PILL_ROW_HEIGHT))
     );
     return Math.max(0, maxWithOverflow);
