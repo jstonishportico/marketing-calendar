@@ -328,7 +328,7 @@
       flex-shrink: 0;
     }
     .cal-cell.has-event-overlay .day-num {
-      margin-bottom: calc(6px + var(--cell-event-bar-space, 0px));
+      margin-bottom: calc(3px + var(--cell-event-bar-space, 0px));
     }
     .cal-cell.is-today .day-num {
       background: var(--terracotta);
@@ -343,7 +343,7 @@
       margin-bottom: 6px;
     }
     .cal-cell.is-today.has-event-overlay .day-num {
-      margin-bottom: calc(6px + var(--cell-event-bar-space, 0px));
+      margin-bottom: calc(3px + var(--cell-event-bar-space, 0px));
     }
     .filler-num { color: var(--filler-num); }
     .cal-cell.filler .pill { opacity: 0.38; }
@@ -1628,26 +1628,8 @@
   }
 
   function visibleLimitForMonthCell(totalItems, hasEventOverlay, eventRowCount, oooRowCount, isToday) {
-    const eventSpace = hasEventOverlay ? eventRowCount * EVENT_BAR_ROW_HEIGHT + EVENT_BAR_GAP : 0;
-    const oooSpace = oooRowCount ? oooRowCount * OOO_ROW_HEIGHT + OOO_GAP : 0;
-    const dayHeight = isToday ? TODAY_NUM_HEIGHT : DAY_NUM_HEIGHT;
-    const maxVisible = oooRowCount ? MAX_VISIBLE_WITH_OOO : MAX_VISIBLE;
-    const available = MONTH_CELL_HEIGHT -
-      CELL_TOP_PAD -
-      (CELL_BOTTOM_PAD + oooSpace) -
-      dayHeight -
-      (BASE_DAY_GAP + eventSpace);
-
     if (totalItems <= 0) return 0;
-
-    const maxWithoutOverflow = Math.min(maxVisible, Math.max(0, Math.floor(available / PILL_ROW_HEIGHT)));
-    if (totalItems <= maxWithoutOverflow) return totalItems;
-
-    const maxWithOverflow = Math.min(
-      maxVisible,
-      Math.max(0, Math.floor((available - OVERFLOW_ROW_HEIGHT) / PILL_ROW_HEIGHT))
-    );
-    return Math.max(0, maxWithOverflow);
+    return Math.min(totalItems, oooRowCount ? MAX_VISIBLE_WITH_OOO : MAX_VISIBLE);
   }
 
   function fillMonthCellItems(meta, eventRowCount, oooRowCount) {

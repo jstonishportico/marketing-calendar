@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T15:31:51Z",
+  "lastUpdated": "2026-06-12T15:50:16Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1031,9 +1031,9 @@
       "type": "Social",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "Scheduled for June 12 in HubSpot. Generic CECU / Student Victory Tour post.",
+      "summary": "Published June 12. Student Victory Tour CECU post promoting Booth 437, OBBBA resources, LinkedIn headshot station, giveaways, and the featured Innovation Hub session.",
       "audienceLink": "",
-      "contentLink": "https://app.hubspot.com/social/7762472/manage/scheduled",
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_the-student-victory-tour-is-headed-to-cecu-activity-7471218523353223168-NKZj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3gYN4BB0HNl4B1Zh2Nxe5PT8epmPFG1UQ",
       "audienceLinks": [
         {
           "label": "Promo graphic",
@@ -1083,10 +1083,9 @@
       "type": "Event Comms",
       "audience": "CECU Attendees",
       "sender": "Natalie Gleason",
-      "summary": "Meet Portico at CECU email to CECU attendees",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
-      "contentLink": "",
-      "audienceCount": 383
+      "summary": "Sent June 12. CECU pre-event email to attendees promoting Booth 437, OBBBA resources, LinkedIn headshot station, giveaways, and the featured Innovation Hub session.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10868/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214877810361?portalId=7762472&preview_key=pWNSOrDz&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
     },
     {
       "date": "2026-06-11",
