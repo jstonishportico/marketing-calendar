@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T18:16:29Z",
+  "lastUpdated": "2026-06-12T18:45:02Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1059,20 +1059,20 @@
       "type": "Product Comms",
       "audience": "CRM Users",
       "sender": "Portico Product Updates",
-      "summary": "Sent June 11 at 9:54 AM ET. Subject: Calendar 2.0, Bulk Email Send, New Support Agent, and more. HubSpot campaign stats: 3,378 included, 2,682 sent, 2,669 delivered, 317 opens, 16 clicks.",
+      "summary": "Sent June 11 at 9:54 AM ET. Subject: Calendar 2.0, Bulk Email Send, New Support Agent, and more. HubSpot campaign stats: 2,682 sent, 2,669 delivered, 362 opens, 16 clicks. Included lists: CRM users All - May 14 2026 and Portico Roster 2026.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10723/filters",
       "contentLink": "https://welcome.porticoedu.com/new-calendar-2.0-bulk-email-send-new-support-agent-and-more?hs_preview=bInwgRwy-214690764384",
       "audienceCount": 2682,
       "audienceLinks": [
         {
-          "label": "CRM users: 5,221 contacts",
+          "label": "CRM users All - May 14 2026: 5,221 contacts",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10723/filters",
           "count": 5221
         },
         {
-          "label": "Portico Roster 2026: 226 contacts",
+          "label": "Portico Roster 2026: 225 contacts",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
-          "count": 226
+          "count": 225
         }
       ]
     },
@@ -1094,14 +1094,20 @@
       "type": "Product Comms",
       "audience": "SIS Users",
       "sender": "Portico Product Updates",
-      "summary": "Sent June 11. Subject: Registrar power tools, new support agent, and more. Send lists: Portico Roster 2026 and SIS Users - April 2026.",
-      "audienceLink": "",
+      "summary": "Sent June 11. Subject: Registrar Power Tools, New Support Agent, and more Portico SIS news. HubSpot campaign stats: 1,076 sent and delivered, 194 opens, 8 clicks. Included lists: SIS Users - April 2026 and Portico Roster 2026.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10536/filters",
       "contentLink": "https://welcome.porticoedu.com/registrar-power-tools-new-support-agent-and-more-portico-sis-news?hs_preview=YmeINlXI-214736626584",
+      "audienceCount": 1076,
       "audienceLinks": [
         {
-          "label": "Portico Roster 2026: 226 contacts",
+          "label": "SIS Users - April 2026: 1,500 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10536/filters",
+          "count": 1500
+        },
+        {
+          "label": "Portico Roster 2026: 225 contacts",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
-          "count": 226
+          "count": 225
         }
       ]
     },
