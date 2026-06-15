@@ -1314,7 +1314,7 @@
   const OOO_GAP = 6;
   const PILL_ROW_HEIGHT = 21;
   const OVERFLOW_ROW_HEIGHT = 13;
-  const CELL_FIT_BUFFER = 2;
+  const CELL_FIT_BUFFER = 0;
 
   /* ─── State ──────────────────────────────────────────── */
   let allItems       = [];
@@ -1649,7 +1649,11 @@
     }
 
     const availableWithOverflow = Math.max(0, available - OVERFLOW_ROW_HEIGHT);
-    return Math.max(0, Math.min(maxVisible, Math.floor(availableWithOverflow / PILL_ROW_HEIGHT)));
+    const fitCount = Math.min(maxVisible, Math.floor(availableWithOverflow / PILL_ROW_HEIGHT));
+    if (fitCount > 0) return fitCount;
+    if (totalItems > 1 && available >= PILL_ROW_HEIGHT + OVERFLOW_ROW_HEIGHT) return 1;
+    if (available >= PILL_ROW_HEIGHT) return 1;
+    return 0;
   }
 
   function fillMonthCellItems(meta, eventRowCount, oooRowCount) {
