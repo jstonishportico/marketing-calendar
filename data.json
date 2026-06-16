@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T20:19:05Z",
+  "lastUpdated": "2026-06-16T13:16:56Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1124,15 +1124,16 @@
       ]
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "tags": "Financial Aid",
       "title": "NASFAA Pre-Event Email",
       "type": "Event Comms",
-      "audience": "NASFAA Attendees",
-      "sender": "Noel Suarez",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "audience": "NASFAA 2026 Registrants",
+      "sender": "Portico",
+      "summary": "Scheduled for June 16. NASFAA pre-event email from Portico, verified against the HubSpot email asset. Audience: NASFAA 2026 Registrants.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10879/filters",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-5a743c37-6037-42c1-a970-7da81436ea10?hs_preview=fdkfbFNp-215100970569",
+      "audienceCount": 693
     },
     {
       "date": "2026-06-15",
