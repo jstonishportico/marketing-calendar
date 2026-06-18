@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T13:16:56Z",
+  "lastUpdated": "2026-06-18T04:45:28Z",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1175,10 +1175,21 @@
       "type": "Email",
       "audience": "Vet Tech Educators",
       "sender": "Trajecsys",
-      "summary": "",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
-      "contentLink": "",
-      "audienceCount": 681
+      "summary": "Sent June 16. Subject: Join us June 23: A smarter model for Vet Tech skills verification. Verified against the HubSpot email asset.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214936814376?portalId=7762472&preview_key=IkuePMZy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Vet Tech Insycle Import - 6.12.26: 33 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10881/filters",
+          "count": 33
+        },
+        {
+          "label": "Vet Tech Webinar Invitation - June 2026: 684 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+          "count": 684
+        }
+      ]
     },
     {
       "date": "2026-06-16",
@@ -1192,15 +1203,16 @@
       "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/CECU%20OB3%20Social.png"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "tags": "Clinical Management",
       "title": "ACEN Post-Event Email",
       "type": "Event Comms",
-      "audience": "ACEN Attendees",
+      "audience": "ACEN 2026 Leads",
       "sender": "Trajecsys",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Scheduled June 18. Subject: Trajecsys for ACEN accreditation. Verified against the HubSpot email asset.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10831/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215283909236?portalId=7762472&preview_key=KwODXtdg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 55
     },
     {
       "date": "2026-06-17",
@@ -1229,11 +1241,23 @@
       "tags": "Portico Brand",
       "title": "Juneteenth closure notice",
       "type": "Email",
-      "audience": "General Audience",
+      "audience": "Portico roster and current customer contacts",
       "sender": "Portico",
-      "summary": "Drafted in HubSpot. Simple Juneteenth closure notice using the Juneteenth header graphic.",
+      "summary": "Scheduled June 18. Subject: Portico Juneteenth Closure. Verified against the HubSpot email asset.",
       "audienceLink": "",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214866376502?portalId=7762472&preview_key=wNPeJVhQ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214866376502?portalId=7762472&preview_key=wNPeJVhQ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026: 225 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 225
+        },
+        {
+          "label": "Current customer contacts: 1,970 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters",
+          "count": 1970
+        }
+      ]
     },
     {
       "date": "2026-06-25",
@@ -1242,21 +1266,43 @@
       "type": "Email",
       "audience": "Financial Aid Prospects & Users",
       "sender": "Portico",
-      "summary": "Scheduled for June 25. Promo for the July 15 OBBBA Live Q&A, with links to the May 27 recording and Q&A answers.",
+      "summary": "Scheduled June 25. Subject: Still have OBBBA questions? Promo for the July 15 OBBBA Live Q&A, with links to the May 27 recording and Q&A answers. Verified against the HubSpot email asset.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214946422924?portalId=7762472&preview_key=MKcxLMQF&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "FA Newsletter: 3,071 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+          "count": 3071
+        },
+        {
+          "label": "Financial Aid role list: 3,404 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters",
+          "count": 3404
+        },
+        {
+          "label": "FA clients: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        },
+        {
+          "label": "Campus Ivy FA contacts: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        }
+      ]
     },
     {
       "date": "2026-06-18",
       "tags": "Portico Suite",
       "title": "CECU Final Reminder Email",
       "type": "Event Comms",
-      "audience": "CECU Attendees",
-      "sender": "Natalie Gleason",
-      "summary": "Final pre-event reminder: featured session + visit Portico at CECU",
+      "audience": "CECU 2026 Registrants",
+      "sender": "Portico",
+      "summary": "Scheduled June 18. Subject: See you at CECU? Verified against the HubSpot email asset.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
-      "contentLink": "",
-      "audienceCount": 383
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214877799947?portalId=7762472&preview_key=UzWLBYxb&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 688
     },
     {
       "date": "2026-06-19",
@@ -1364,7 +1410,7 @@
       "type": "Social",
       "audience": "General Audience",
       "sender": "The Commons",
-      "summary": "9-10 AM: official launch post from The Commons LinkedIn page.",
+      "summary": "Scheduled for Monday, June 22 at 11:15 AM on The Commons LinkedIn. Live post link pending.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -1375,20 +1421,27 @@
       "type": "Social",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "10-11 AM: Portico LinkedIn amplification post for The Commons launch.",
+      "summary": "Scheduled for Monday, June 22 at 11:15 AM on Portico LinkedIn. Live post link pending.",
       "audienceLink": "",
       "contentLink": ""
     },
     {
       "date": "2026-06-22",
       "tags": "The Commons",
-      "title": "The Commons Customer Launch Email",
+      "title": "Introducing The Commons",
       "type": "Email",
-      "audience": "Full Customer List",
+      "audience": "Marketing contacts (draft audience)",
       "sender": "Portico",
-      "summary": "Midday: Portico email to the full customer list announcing The Commons.",
+      "summary": "Draft in HubSpot; not scheduled yet. Customer launch email for The Commons. Confirm the final audience before send.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215296371343?portalId=7762472&preview_key=jmHPnDvv&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Marketing contacts: 34,368 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+          "count": 34368
+        }
+      ]
     },
     {
       "date": "2026-06-22",
@@ -1426,11 +1479,11 @@
     {
       "date": "2026-06-23",
       "tags": "The Commons",
-      "title": "The Commons First Content Post",
+      "title": "Your students are ahead of your attendance process",
       "type": "Social",
       "audience": "General Audience",
       "sender": "The Commons",
-      "summary": "June 23-24: first content post from The Commons LinkedIn page.",
+      "summary": "Scheduled for Tuesday, June 23 on The Commons LinkedIn. Live post link pending.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -1458,13 +1511,13 @@
       "endDate": "2026-06-26"
     },
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "tags": "Portico Suite",
       "title": "CECU We're Here Post",
       "type": "Social",
       "audience": "General Audience",
-      "sender": "Portico",
-      "summary": "Onsite booth/team photo post",
+      "sender": "Natalie / Portico",
+      "summary": "Natalie to post from CECU on Tuesday. Live post link pending.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -1489,10 +1542,21 @@
       "type": "Email",
       "audience": "Vet Tech Educators",
       "sender": "Trajecsys",
-      "summary": "",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
-      "contentLink": "",
-      "audienceCount": 681
+      "summary": "Scheduled June 22. Subject: TOMORROW: How to manage distance Vet Tech programs. Verified against the HubSpot email asset.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214936846925?portalId=7762472&preview_key=WPzHjIwy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Vet Tech Insycle Import - 6.12.26: 33 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10881/filters",
+          "count": 33
+        },
+        {
+          "label": "Vet Tech Webinar Invitation - June 2026: 684 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+          "count": 684
+        }
+      ]
     },
     {
       "date": "2026-06-23",
@@ -1501,10 +1565,21 @@
       "type": "Email",
       "audience": "Vet Tech Educators",
       "sender": "Trajecsys",
-      "summary": "",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
-      "contentLink": "",
-      "audienceCount": 681
+      "summary": "Scheduled June 23. Subject: Today: Clinical skills verification for Vet Tech programs. Verified against the HubSpot email asset.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214941718634?portalId=7762472&preview_key=okFsNpzK&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Vet Tech Insycle Import - 6.12.26: 33 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10881/filters",
+          "count": 33
+        },
+        {
+          "label": "Vet Tech Webinar Invitation - June 2026: 684 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+          "count": 684
+        }
+      ]
     },
     {
       "date": "2026-06-23",
@@ -1522,11 +1597,23 @@
       "tags": "",
       "title": "June Portico POV Newsletter",
       "type": "Email",
-      "audience": "Newsletter Subscribers",
+      "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Planned for June 24. Draft is in HubSpot; The Commons links need to be confirmed after go-live before the newsletter goes out.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215277530992?portalId=7762472&preview_key=JFnnJrrC&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Marketing contacts: 34,368 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+          "count": 34368
+        },
+        {
+          "label": "Portico Roster 2026: 225 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 225
+        }
+      ]
     },
     {
       "date": "2026-06-29",
@@ -1985,6 +2072,68 @@
       "audience": "General Audience",
       "sender": "Portico",
       "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "Introducing The Commons (Momentum Subscribers)",
+      "type": "Email",
+      "audience": "Momentum subscribers (draft audience needs final check)",
+      "sender": "Portico",
+      "summary": "Draft in HubSpot; secondary first-look version for Momentum subscribers. Confirm the final Momentum audience before send.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215296407217?portalId=7762472&preview_key=xnHTeTvy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Marketing contacts draft audience: 34,368 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+          "count": 34368
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "Trajecsys Commons Launch Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Trajecsys",
+      "summary": "Scheduled for Monday, June 22 at 11:15 AM on Trajecsys LinkedIn. Live post link pending.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-24",
+      "tags": "The Commons",
+      "title": "The Commons Supercut",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons, Portico, Trajecsys",
+      "summary": "Scheduled for Wednesday, June 24 on all three LinkedIn channels. Live post links pending.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-25",
+      "tags": "The Commons, Clinical Management",
+      "title": "What paper processes are costing your students",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons, Trajecsys",
+      "summary": "Scheduled for Thursday, June 25 on The Commons and Trajecsys LinkedIn. Live post links pending.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-26",
+      "tags": "The Commons",
+      "title": "Change Management Article Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons, Portico",
+      "summary": "Scheduled for Friday, June 26 on The Commons and Portico LinkedIn. Article: How Career Schools Make Change Stick. Live post links pending.",
       "audienceLink": "",
       "contentLink": ""
     }
