@@ -1491,9 +1491,35 @@
   function fmtInt(n) {
     return Number(n).toLocaleString('en-US');
   }
-  function audienceListLabel(link) {
+  function isEmailLike(item) {
+    return ['Email', 'Product Comms', 'Event Comms'].includes(item && item.type);
+  }
+  function hasSentSignal(item) {
+    const summary = String(item && item.summary || '').trim().toLowerCase();
+    const status = String(item && item.status || '').trim().toLowerCase();
+    return /\bsent\b/.test(status) ||
+           /^sent\b/.test(summary) ||
+           /\bhubspot campaign stats\b/.test(summary);
+  }
+  function hasNotSentSignal(item) {
+    const text = (
+      String(item && item.status || '') + ' ' +
+      String(item && item.summary || '')
+    ).toLowerCase();
+    return /\bdraft\b|\bplanned\b|\bscheduled\b|\bpending\b|\bnot scheduled\b|\bbefore send\b|\bconfirm\b|\bneeds final\b/.test(text);
+  }
+  function shouldShowSentAudienceCount(item) {
+    if (!isEmailLike(item)) return false;
+    if (hasSentSignal(item)) return true;
+    if (hasNotSentSignal(item)) return false;
+    if (!item || !item.date) return false;
+    return item.date < todayStr();
+  }
+  function audienceListLabel(link, item) {
     if (link.label) return link.label;
-    if (link.count !== undefined && link.count !== null) return 'Sent to ' + fmtInt(link.count) + ' contacts';
+    if (link.count !== undefined && link.count !== null && shouldShowSentAudienceCount(item)) {
+      return 'Sent to ' + fmtInt(link.count) + ' contacts';
+    }
     return 'View audience list';
   }
   const TYPE_ICONS = {
@@ -2060,12 +2086,15 @@
         html += '<a class="modal-link-primary" href="' + item.youtubeLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">View in YouTube</a>';
       }
       if (item.audienceLink) {
-        const audienceLabel = item.audienceCount !== undefined && item.audienceCount !== null ? 'Sent to ' + fmtInt(item.audienceCount) + ' contacts' : 'View audience list';
+        const audienceLabel = audienceListLabel({
+          count: item.audienceCount,
+          url: item.audienceLink
+        }, item);
         html += '<a class="modal-link-secondary" href="' + escHtml(item.audienceLink) + '" target="_blank" rel="noopener">' + escHtml(audienceLabel) + '</a>';
       }
       audienceLinks.forEach(link => {
         if (!link.url) return;
-        html += '<a class="modal-link-secondary" href="' + escHtml(link.url) + '" target="_blank" rel="noopener">' + escHtml(audienceListLabel(link)) + '</a>';
+        html += '<a class="modal-link-secondary" href="' + escHtml(link.url) + '" target="_blank" rel="noopener">' + escHtml(audienceListLabel(link, item)) + '</a>';
       });
       const outlineStyle = 'style="border-color:' + tp.color + ';color:' + tp.color + '"';
       if (hasRegistrantButton) {
