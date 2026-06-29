@@ -125,6 +125,7 @@ def parse_sheet(ws):
         date_val   = g(row, 'Date')
         end_val    = g(row, 'End date (events)')
         link       = g(row, 'Link')
+        audience_link = g(row, 'HubSpot List')
         attendees  = g(row, 'Attendees (Events only)')
 
         t = normalize_type(title, raw_type)
@@ -139,7 +140,7 @@ def parse_sheet(ws):
             'audience':    audience,
             'sender':      sender,
             'summary':     '',
-            'audienceLink':'',
+            'audienceLink':audience_link,
             'contentLink': link,
         }
 
