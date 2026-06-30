@@ -397,6 +397,47 @@
       filter: brightness(0) invert(1);
       flex-shrink: 0;
     }
+    .week-pill {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      min-height: 50px;
+      padding: 8px 9px;
+      border-radius: 6px;
+      margin-bottom: 8px;
+      white-space: normal;
+      line-height: 1.25;
+    }
+    .week-pill .pill-icon {
+      width: 13px;
+      height: 13px;
+      margin-top: 1px;
+      margin-right: 0;
+    }
+    .week-pill-title-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      min-width: 0;
+    }
+    .week-pill-title {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-width: 0;
+    }
+    .week-pill-meta {
+      display: block;
+      padding-left: 19px;
+      font-size: 9.5px;
+      font-weight: 600;
+      line-height: 1.2;
+      opacity: 0.82;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
 
     .overflow-btn {
       background: none;
@@ -1873,7 +1914,7 @@
       dn.textContent = day.getDate();
       cell.appendChild(dn);
 
-      indices.filter(idx => !isOOO(allItems[idx]) && !isMultiDay(allItems[idx])).forEach(idx => cell.appendChild(makePill(idx)));
+      indices.filter(idx => !isOOO(allItems[idx]) && !isMultiDay(allItems[idx])).forEach(idx => cell.appendChild(makePill(idx, true)));
       cells.push(cell);
       dayGrid.appendChild(cell);
     }
@@ -1902,11 +1943,12 @@
     grid.appendChild(weekEl);
   }
 
-  function makePill(idx) {
+  function makePill(idx, isWeek = false) {
     const item = allItems[idx];
     const tp   = typeOf(item);
     const btn  = document.createElement('button');
     btn.className = 'pill';
+    if (isWeek) btn.classList.add('week-pill');
     if (isSequence(item)) btn.classList.add('sequence-pill');
     btn.style.background = tp.color;
     const outline = outlineFor(item);
@@ -1916,7 +1958,20 @@
     }
     if (isMomentum2027(item)) btn.classList.add('momentum-pill');
     const icon = iconFor(item, 'pill-icon');
-    btn.innerHTML = icon + escHtml(item.title);
+    if (isWeek) {
+      const metaParts = [tp.label, item.tags].filter(Boolean);
+      const metaText = metaParts.join(' - ');
+      btn.setAttribute('aria-label', metaText ? item.title + ', ' + metaText : item.title);
+      btn.title = metaText ? item.title + ' - ' + metaText : item.title;
+      btn.innerHTML =
+        '<span class="week-pill-title-row">' +
+          icon +
+          '<span class="week-pill-title">' + escHtml(item.title) + '</span>' +
+        '</span>' +
+        '<span class="week-pill-meta">' + escHtml(metaText) + '</span>';
+    } else {
+      btn.innerHTML = icon + escHtml(item.title);
+    }
     btn.addEventListener('click', () => openItemView(idx, null));
     return btn;
   }
