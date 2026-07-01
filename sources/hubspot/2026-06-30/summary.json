@@ -1,0 +1,1299 @@
+{
+  "pulled_at": "2026-07-01T14:03:48.123554+00:00",
+  "source": "HubSpot CRM API, deals object, pipeline=Bookings (890800444), bookings property preferred over amount",
+  "bookings_pipeline_deal_count": 8448,
+  "active_pipeline": {
+    "count": 309,
+    "bookings": 12385042.04
+  },
+  "q1_closed_won": {
+    "count": 126,
+    "bookings": 1652046.1700000002
+  },
+  "q2_closed_won": {
+    "count": 149,
+    "bookings": 1870470.5199999998
+  },
+  "ytd_closed_won": {
+    "count": 275,
+    "bookings": 3522516.69
+  },
+  "q2_closed_lost": {
+    "count": 463,
+    "bookings": 5180501.63
+  },
+  "ytd_closed_lost": {
+    "count": 1092,
+    "bookings": 12388412.97
+  },
+  "active_by_close_quarter": {
+    "Q3": {
+      "count": 243,
+      "bookings": 7824527.639999999,
+      "amount": 8103684.52
+    },
+    "Q4": {
+      "count": 48,
+      "bookings": 4139885.4,
+      "amount": 4152333.75
+    },
+    "2027": {
+      "count": 11,
+      "bookings": 232636.0,
+      "amount": 268972.0
+    },
+    "Q2": {
+      "count": 6,
+      "bookings": 116953.0,
+      "amount": 136953.0
+    },
+    "2028": {
+      "count": 1,
+      "bookings": 71040.0,
+      "amount": 109738.35
+    }
+  },
+  "active_by_stage": {
+    "4. Demo and Differentiation": {
+      "count": 80,
+      "bookings": 5705648.0,
+      "amount": 6007328.0
+    },
+    "1. Prospect and Qualify": {
+      "count": 83,
+      "bookings": 2086214.0,
+      "amount": 1885164.0
+    },
+    "6. Proposal and Negotiation": {
+      "count": 69,
+      "bookings": 1587687.7200000002,
+      "amount": 1649409.9500000002
+    },
+    "5. Proof and Validation": {
+      "count": 48,
+      "bookings": 1268201.92,
+      "amount": 1353701.92
+    },
+    "3. Solution Mapping": {
+      "count": 11,
+      "bookings": 876370.0,
+      "amount": 924459.0
+    },
+    "2. Discovery": {
+      "count": 14,
+      "bookings": 806120.4,
+      "amount": 896818.75
+    },
+    "Signed": {
+      "count": 4,
+      "bookings": 54800.0,
+      "amount": 54800.0
+    }
+  },
+  "active_by_owner": {
+    "Noel Suarez": {
+      "count": 30,
+      "bookings": 4869465.12,
+      "amount": 5180969.0
+    },
+    "Jackson Batchelder": {
+      "count": 13,
+      "bookings": 3838287.92,
+      "amount": 4013787.92
+    },
+    "Georgia Grey": {
+      "count": 76,
+      "bookings": 1324865.0,
+      "amount": 1069015.0
+    },
+    "Ron Bright": {
+      "count": 55,
+      "bookings": 948745.0,
+      "amount": 929095.0
+    },
+    "Dylan Harmon": {
+      "count": 8,
+      "bookings": 411601.6,
+      "amount": 439601.6
+    },
+    "Mandy Ray": {
+      "count": 30,
+      "bookings": 266950.0,
+      "amount": 237650.0
+    },
+    "Cayla Christoplis": {
+      "count": 5,
+      "bookings": 218684.4,
+      "amount": 315971.75
+    },
+    "Daniel Vasquez": {
+      "count": 6,
+      "bookings": 187068.0,
+      "amount": 195068.0
+    },
+    "Shawna Granger": {
+      "count": 41,
+      "bookings": 112950.0,
+      "amount": 113950.0
+    },
+    "Mark Moore": {
+      "count": 40,
+      "bookings": 83825.0,
+      "amount": 85275.0
+    },
+    "Data Integrations": {
+      "count": 1,
+      "bookings": 71040.0,
+      "amount": 109738.35
+    },
+    "Dylan Warnell": {
+      "count": 2,
+      "bookings": 51360.0,
+      "amount": 81360.0
+    },
+    "Tim Flanigan": {
+      "count": 1,
+      "bookings": 200.0,
+      "amount": 200.0
+    },
+    "Blank": {
+      "count": 1,
+      "bookings": 0.0,
+      "amount": 0.0
+    }
+  },
+  "active_by_product": {
+    "Clinical Record Keeping": {
+      "count": 229,
+      "bookings": 3242733.6,
+      "amount": 2941883.6
+    },
+    "Verity Dialog": {
+      "count": 5,
+      "bookings": 2030662.44,
+      "amount": 2110662.44
+    },
+    "Blank": {
+      "count": 22,
+      "bookings": 1469868.0,
+      "amount": 1469868.0
+    },
+    "Recruit": {
+      "count": 2,
+      "bookings": 1378200.0,
+      "amount": 1488200.0
+    },
+    "FA Software": {
+      "count": 5,
+      "bookings": 1302746.4,
+      "amount": 1378426.4
+    },
+    "FA Service": {
+      "count": 11,
+      "bookings": 1019502.88,
+      "amount": 1072002.88
+    },
+    "Student": {
+      "count": 8,
+      "bookings": 390612.0,
+      "amount": 486612.0
+    },
+    "Payments": {
+      "count": 4,
+      "bookings": 340200.0,
+      "amount": 340200.0
+    },
+    "FA Software;Student": {
+      "count": 2,
+      "bookings": 202602.0,
+      "amount": 268602.0
+    },
+    "FA Service;FA Software": {
+      "count": 3,
+      "bookings": 159750.12,
+      "amount": 204407.0
+    },
+    "Attendance_;FA Software;Skills Tracker": {
+      "count": 1,
+      "bookings": 133236.0,
+      "amount": 133236.0
+    },
+    "Attendance_;Student": {
+      "count": 2,
+      "bookings": 123480.0,
+      "amount": 123480.0
+    },
+    "Payments;Student": {
+      "count": 2,
+      "bookings": 98505.6,
+      "amount": 108505.6
+    },
+    "FA Software;Verity Dialog": {
+      "count": 1,
+      "bookings": 97476.0,
+      "amount": 97476.0
+    },
+    "Attendance_;FA Service;Payments;Skills Tracker;Verity Dialog": {
+      "count": 1,
+      "bookings": 73798.0,
+      "amount": 73798.0
+    },
+    "Clinical Record Keeping;FA Software;Payments;Student": {
+      "count": 1,
+      "bookings": 71040.0,
+      "amount": 109738.35
+    },
+    "Attendance_;Clinical Record Keeping;Verity Professional Services": {
+      "count": 1,
+      "bookings": 49392.0,
+      "amount": 59392.0
+    },
+    "Attendance_;FA Service;FA Software;Paperless Campus;Payments;Skills Tracker;Smart Nudges;Verity Dialog;Verity Student": {
+      "count": 1,
+      "bookings": 38664.0,
+      "amount": 54920.0
+    },
+    "Attendance_;FA Software": {
+      "count": 1,
+      "bookings": 37200.0,
+      "amount": 75898.35
+    },
+    "Attendance_": {
+      "count": 2,
+      "bookings": 36528.0,
+      "amount": 42528.0
+    },
+    "FA Service;Payments;Student": {
+      "count": 1,
+      "bookings": 35088.0,
+      "amount": 58088.0
+    },
+    "Attendance_;Verity Professional Services": {
+      "count": 1,
+      "bookings": 29046.0,
+      "amount": 39046.0
+    },
+    "Clinical Record Keeping;Verity Professional Services": {
+      "count": 1,
+      "bookings": 13200.0,
+      "amount": 13200.0
+    },
+    "Attendance_;Payments;Student": {
+      "count": 1,
+      "bookings": 11475.0,
+      "amount": 21475.0
+    },
+    "Skills Tracker": {
+      "count": 1,
+      "bookings": 36.0,
+      "amount": 36.0
+    }
+  },
+  "active_by_quarter_stage": {
+    "Q3 | 4. Demo and Differentiation": {
+      "count": 59,
+      "bookings": 3817894.0
+    },
+    "Q4 | 4. Demo and Differentiation": {
+      "count": 18,
+      "bookings": 1797382.0
+    },
+    "Q4 | 1. Prospect and Qualify": {
+      "count": 18,
+      "bookings": 1506800.0
+    },
+    "Q3 | 6. Proposal and Negotiation": {
+      "count": 63,
+      "bookings": 1018326.72
+    },
+    "Q3 | 5. Proof and Validation": {
+      "count": 43,
+      "bookings": 934490.92
+    },
+    "Q3 | 3. Solution Mapping": {
+      "count": 9,
+      "bookings": 841032.0
+    },
+    "Q3 | 2. Discovery": {
+      "count": 9,
+      "bookings": 682206.0
+    },
+    "Q3 | 1. Prospect and Qualify": {
+      "count": 56,
+      "bookings": 475778.0
+    },
+    "Q4 | 6. Proposal and Negotiation": {
+      "count": 2,
+      "bookings": 354465.0
+    },
+    "Q4 | 5. Proof and Validation": {
+      "count": 4,
+      "bookings": 322236.0
+    },
+    "Q4 | 2. Discovery": {
+      "count": 5,
+      "bookings": 123914.4
+    },
+    "Q2 | 6. Proposal and Negotiation": {
+      "count": 2,
+      "bookings": 105192.0
+    },
+    "2027 | 1. Prospect and Qualify": {
+      "count": 8,
+      "bookings": 103600.0
+    },
+    "2027 | 4. Demo and Differentiation": {
+      "count": 2,
+      "bookings": 90372.0
+    },
+    "2028 | 6. Proposal and Negotiation": {
+      "count": 1,
+      "bookings": 71040.0
+    },
+    "Q3 | Signed": {
+      "count": 4,
+      "bookings": 54800.0
+    },
+    "2027 | 6. Proposal and Negotiation": {
+      "count": 1,
+      "bookings": 38664.0
+    },
+    "Q4 | 3. Solution Mapping": {
+      "count": 1,
+      "bookings": 35088.0
+    },
+    "Q2 | 5. Proof and Validation": {
+      "count": 1,
+      "bookings": 11475.0
+    },
+    "Q2 | 3. Solution Mapping": {
+      "count": 1,
+      "bookings": 250.0
+    },
+    "Q2 | 1. Prospect and Qualify": {
+      "count": 1,
+      "bookings": 36.0
+    },
+    "Q2 | 4. Demo and Differentiation": {
+      "count": 1,
+      "bookings": 0.0
+    }
+  },
+  "pipeline_created_by_quarter": {
+    "2025": {
+      "count": 3922,
+      "bookings": 48302589.41999998,
+      "amount": 51662895.80999999
+    },
+    "2024": {
+      "count": 263,
+      "bookings": 9551378.089999994,
+      "amount": 10441908.149999997
+    },
+    "Q1": {
+      "count": 554,
+      "bookings": 9263382.719999997,
+      "amount": 8540339.16
+    },
+    "Q2": {
+      "count": 484,
+      "bookings": 9233802.409999998,
+      "amount": 9690472.589999998
+    },
+    "2021": {
+      "count": 590,
+      "bookings": 8783126.236666666,
+      "amount": 8898551.226666667
+    },
+    "2022": {
+      "count": 391,
+      "bookings": 7473002.32,
+      "amount": 8044092.160000001
+    },
+    "2020": {
+      "count": 282,
+      "bookings": 6715392.451333335,
+      "amount": 6021912.435000003
+    },
+    "2023": {
+      "count": 383,
+      "bookings": 4531150.359999999,
+      "amount": 6126192.74
+    },
+    "2016": {
+      "count": 96,
+      "bookings": 970556.67,
+      "amount": 6424626.667
+    },
+    "2018": {
+      "count": 1251,
+      "bookings": 898781.33,
+      "amount": 55107947.333
+    },
+    "2017": {
+      "count": 107,
+      "bookings": 581648.0,
+      "amount": 16141400.0
+    },
+    "2019": {
+      "count": 122,
+      "bookings": 120222.0,
+      "amount": 1968702.0
+    },
+    "Q3": {
+      "count": 3,
+      "bookings": 34800.0,
+      "amount": 34800.0
+    }
+  },
+  "pipeline_created_by_quarter_owner": {
+    "2025 | Data Integrations": {
+      "count": 2624,
+      "bookings": 25422891.06
+    },
+    "2025 | 680215912": {
+      "count": 94,
+      "bookings": 6374109.27
+    },
+    "2025 | Jackson Batchelder": {
+      "count": 67,
+      "bookings": 5284827.680000001
+    },
+    "2025 | Noel Suarez": {
+      "count": 95,
+      "bookings": 4917079.43
+    },
+    "Q2 | Noel Suarez": {
+      "count": 28,
+      "bookings": 4350127.33
+    },
+    "Q1 | Jackson Batchelder": {
+      "count": 12,
+      "bookings": 3752633.8
+    },
+    "2024 | 49120508": {
+      "count": 18,
+      "bookings": 2963869.67
+    },
+    "2021 | Jackson Batchelder": {
+      "count": 145,
+      "bookings": 2434782.96
+    },
+    "2025 | 644733013": {
+      "count": 37,
+      "bookings": 2377257.98
+    },
+    "2021 | 50391471": {
+      "count": 100,
+      "bookings": 2294822.6
+    },
+    "2021 | 49811627": {
+      "count": 112,
+      "bookings": 2279905.6100000003
+    },
+    "2020 | Jackson Batchelder": {
+      "count": 156,
+      "bookings": 2275344.1
+    },
+    "Q2 | Jackson Batchelder": {
+      "count": 15,
+      "bookings": 2239472.48
+    },
+    "2024 | 644733013": {
+      "count": 37,
+      "bookings": 2199780.4
+    },
+    "Q1 | Noel Suarez": {
+      "count": 32,
+      "bookings": 2122332.0000000005
+    },
+    "2023 | Jackson Batchelder": {
+      "count": 41,
+      "bookings": 2016350.0
+    },
+    "2022 | Jackson Batchelder": {
+      "count": 52,
+      "bookings": 1972332.0
+    },
+    "2020 | 48771884": {
+      "count": 13,
+      "bookings": 1937900.0
+    },
+    "2022 | 156526465": {
+      "count": 91,
+      "bookings": 1916432.0
+    },
+    "2024 | Jackson Batchelder": {
+      "count": 45,
+      "bookings": 1911516.0399999998
+    },
+    "2024 | 680215912": {
+      "count": 136,
+      "bookings": 1889970.9100000004
+    },
+    "Q1 | Data Integrations": {
+      "count": 217,
+      "bookings": 1078777.48
+    },
+    "2022 | 49147597": {
+      "count": 49,
+      "bookings": 1068028.4
+    },
+    "2025 | Ron Bright": {
+      "count": 283,
+      "bookings": 1047495.0
+    },
+    "2023 | 49147597": {
+      "count": 73,
+      "bookings": 1043958.68
+    },
+    "Q1 | Georgia Grey": {
+      "count": 42,
+      "bookings": 853925.0
+    },
+    "2020 | 49811627": {
+      "count": 29,
+      "bookings": 797203.3400000001
+    },
+    "2023 | 156526465": {
+      "count": 75,
+      "bookings": 769162.7200000001
+    },
+    "Q1 | Ron Bright": {
+      "count": 59,
+      "bookings": 652060.0
+    },
+    "2025 | Georgia Grey": {
+      "count": 43,
+      "bookings": 642750.0
+    },
+    "2020 | 50391471": {
+      "count": 23,
+      "bookings": 634930.01
+    },
+    "2025 | 76011144": {
+      "count": 31,
+      "bookings": 579903.0
+    },
+    "2018 | Jackson Batchelder": {
+      "count": 1235,
+      "bookings": 571651.3300000001
+    },
+    "2016 | Jackson Batchelder": {
+      "count": 89,
+      "bookings": 530756.6699999999
+    },
+    "2023 | Marc Barron": {
+      "count": 3,
+      "bookings": 525000.0
+    },
+    "Q2 | Georgia Grey": {
+      "count": 45,
+      "bookings": 511515.0
+    },
+    "2017 | Jackson Batchelder": {
+      "count": 95,
+      "bookings": 495848.0
+    },
+    "2020 | Data Integrations": {
+      "count": 8,
+      "bookings": 476610.0
+    },
+    "Q2 | Ron Bright": {
+      "count": 36,
+      "bookings": 455550.0
+    },
+    "Q2 | Dylan Harmon": {
+      "count": 10,
+      "bookings": 445760.2
+    },
+    "2025 | Blank": {
+      "count": 9,
+      "bookings": 426100.0
+    },
+    "2023 | 680215912": {
+      "count": 19,
+      "bookings": 403275.0
+    },
+    "2025 | Mandy Ray": {
+      "count": 114,
+      "bookings": 391400.0
+    },
+    "2022 | 78618448": {
+      "count": 42,
+      "bookings": 381154.0
+    },
+    "2022 | 49120508": {
+      "count": 4,
+      "bookings": 373500.0
+    },
+    "2020 | 48771883": {
+      "count": 31,
+      "bookings": 369991.0
+    },
+    "2025 | William Carey": {
+      "count": 8,
+      "bookings": 336913.0
+    },
+    "Q1 | 680215912": {
+      "count": 4,
+      "bookings": 336072.0
+    },
+    "2024 | Noel Suarez": {
+      "count": 1,
+      "bookings": 334776.0
+    },
+    "2022 | 149248643": {
+      "count": 12,
+      "bookings": 287500.0
+    },
+    "2022 | 49811627": {
+      "count": 9,
+      "bookings": 281000.0
+    },
+    "2021 | 49120508": {
+      "count": 4,
+      "bookings": 276400.0
+    },
+    "Q2 | Data Integrations": {
+      "count": 168,
+      "bookings": 274040.0
+    },
+    "2022 | 176322842": {
+      "count": 24,
+      "bookings": 235500.0
+    },
+    "Q2 | Cayla Christoplis": {
+      "count": 5,
+      "bookings": 218684.4
+    },
+    "2022 | 178060057": {
+      "count": 8,
+      "bookings": 218000.0
+    },
+    "2021 | 94770209": {
+      "count": 13,
+      "bookings": 216800.0
+    },
+    "2021 | 61782239": {
+      "count": 27,
+      "bookings": 209674.0
+    },
+    "Q2 | Mandy Ray": {
+      "count": 31,
+      "bookings": 194800.0
+    },
+    "2018 | 49811627": {
+      "count": 1,
+      "bookings": 194400.0
+    },
+    "2024 | Greg Bonessi": {
+      "count": 1,
+      "bookings": 192000.0
+    },
+    "Q2 | Daniel Vasquez": {
+      "count": 7,
+      "bookings": 187568.0
+    },
+    "2022 | 94770209": {
+      "count": 36,
+      "bookings": 182500.0
+    },
+    "2016 | 47991611": {
+      "count": 1,
+      "bookings": 180000.0
+    },
+    "2025 | Shawna Granger": {
+      "count": 363,
+      "bookings": 176475.0
+    },
+    "2021 | 49147597": {
+      "count": 53,
+      "bookings": 175721.0
+    },
+    "Q1 | Shawna Granger": {
+      "count": 88,
+      "bookings": 170725.0
+    },
+    "2023 | 644733013": {
+      "count": 5,
+      "bookings": 166940.0
+    },
+    "2021 | 149248643": {
+      "count": 13,
+      "bookings": 165080.0
+    },
+    "Q2 | Shawna Granger": {
+      "count": 80,
+      "bookings": 161650.0
+    },
+    "2016 | 49120508": {
+      "count": 4,
+      "bookings": 157200.0
+    },
+    "2023 | 103268528": {
+      "count": 9,
+      "bookings": 146060.0
+    },
+    "Q2 | Mark Moore": {
+      "count": 52,
+      "bookings": 130825.0
+    },
+    "2022 | 161328996": {
+      "count": 1,
+      "bookings": 126000.0
+    },
+    "2022 | Blank": {
+      "count": 5,
+      "bookings": 124178.06
+    },
+    "2025 | Cara Heinrich": {
+      "count": 42,
+      "bookings": 120350.0
+    },
+    "2019 | Jackson Batchelder": {
+      "count": 115,
+      "bookings": 120222.0
+    },
+    "2021 | 47991611": {
+      "count": 2,
+      "bookings": 119200.0
+    },
+    "2022 | 61782239": {
+      "count": 15,
+      "bookings": 114520.0
+    },
+    "2021 | 70026150": {
+      "count": 15,
+      "bookings": 111126.0
+    },
+    "2020 | 49120508": {
+      "count": 9,
+      "bookings": 109400.0
+    },
+    "2016 | 50391471": {
+      "count": 1,
+      "bookings": 102600.0
+    },
+    "Q1 | Mandy Ray": {
+      "count": 45,
+      "bookings": 102400.0
+    },
+    "2022 | 644733013": {
+      "count": 1,
+      "bookings": 102000.0
+    },
+    "2021 | Blank": {
+      "count": 8,
+      "bookings": 98684.8
+    },
+    "2021 | 78618448": {
+      "count": 22,
+      "bookings": 90328.0
+    },
+    "2017 | 49811627": {
+      "count": 1,
+      "bookings": 85800.0
+    },
+    "Q1 | Dylan Harmon": {
+      "count": 6,
+      "bookings": 73940.0
+    },
+    "2025 | Dylan Harmon": {
+      "count": 4,
+      "bookings": 69741.0
+    },
+    "2021 | 48771883": {
+      "count": 1,
+      "bookings": 67500.0
+    },
+    "2025 | Mark Moore": {
+      "count": 101,
+      "bookings": 65775.0
+    },
+    "2020 | 49811898": {
+      "count": 7,
+      "bookings": 61104.66766666666
+    },
+    "2018 | 49120508": {
+      "count": 9,
+      "bookings": 60090.0
+    },
+    "2022 | Marc Barron": {
+      "count": 9,
+      "bookings": 56470.86
+    },
+    "Q1 | Blank": {
+      "count": 10,
+      "bookings": 52500.0
+    },
+    "Q2 | Dylan Warnell": {
+      "count": 2,
+      "bookings": 51360.0
+    },
+    "Q1 | Mark Moore": {
+      "count": 34,
+      "bookings": 50250.0
+    },
+    "2021 | 49811898": {
+      "count": 4,
+      "bookings": 48476.666666666664
+    },
+    "2018 | 149248643": {
+      "count": 2,
+      "bookings": 47260.0
+    },
+    "2020 | 47991611": {
+      "count": 4,
+      "bookings": 45592.667
+    },
+    "2025 | 49120508": {
+      "count": 2,
+      "bookings": 42624.0
+    },
+    "2021 | Todd Northup": {
+      "count": 8,
+      "bookings": 41056.0
+    },
+    "2021 | 70026246": {
+      "count": 32,
+      "bookings": 38755.2
+    },
+    "2024 | Cayla Christoplis": {
+      "count": 1,
+      "bookings": 36540.0
+    },
+    "Q3 | Georgia Grey": {
+      "count": 3,
+      "bookings": 34800.0
+    },
+    "2021 | 176322842": {
+      "count": 14,
+      "bookings": 34520.0
+    },
+    "2021 | Data Integrations": {
+      "count": 4,
+      "bookings": 27864.0
+    },
+    "2018 | 94770209": {
+      "count": 1,
+      "bookings": 25380.0
+    },
+    "2024 | Data Integrations": {
+      "count": 17,
+      "bookings": 21954.0
+    },
+    "2025 | 75731753": {
+      "count": 1,
+      "bookings": 21708.0
+    },
+    "Q1 | Daniel Vasquez": {
+      "count": 1,
+      "bookings": 17767.44
+    },
+    "2023 | Todd Northup": {
+      "count": 8,
+      "bookings": 16342.16
+    },
+    "2021 | 73222823": {
+      "count": 1,
+      "bookings": 16200.0
+    },
+    "2022 | 50391471": {
+      "count": 2,
+      "bookings": 16200.0
+    },
+    "2021 | 156526465": {
+      "count": 3,
+      "bookings": 14469.4
+    },
+    "Q2 | Cara Heinrich": {
+      "count": 3,
+      "bookings": 12250.0
+    },
+    "2022 | 193188367": {
+      "count": 2,
+      "bookings": 11500.0
+    },
+    "2021 | 49191405": {
+      "count": 1,
+      "bookings": 8160.0
+    },
+    "2025 | Cayla Christoplis": {
+      "count": 1,
+      "bookings": 5040.0
+    },
+    "2021 | 90376818": {
+      "count": 1,
+      "bookings": 5000.0
+    },
+    "2021 | Marc Barron": {
+      "count": 2,
+      "bookings": 5000.0
+    },
+    "2022 | 90376818": {
+      "count": 1,
+      "bookings": 5000.0
+    },
+    "2023 | 78618448": {
+      "count": 1,
+      "bookings": 5000.0
+    },
+    "2020 | 49780157": {
+      "count": 1,
+      "bookings": 3716.6666666666665
+    },
+    "2020 | Todd Northup": {
+      "count": 1,
+      "bookings": 3600.0
+    },
+    "2021 | 48163016": {
+      "count": 1,
+      "bookings": 3600.0
+    },
+    "2022 | Data Integrations": {
+      "count": 27,
+      "bookings": 1187.0
+    },
+    "2024 | Todd Northup": {
+      "count": 6,
+      "bookings": 971.0699999999997
+    },
+    "Q2 | Tim Flanigan": {
+      "count": 1,
+      "bookings": 200.0
+    },
+    "2025 | 86214498": {
+      "count": 3,
+      "bookings": 150.0
+    },
+    "2016 | 176322842": {
+      "count": 1,
+      "bookings": 0.0
+    },
+    "2017 | 49120508": {
+      "count": 11,
+      "bookings": 0.0
+    },
+    "2018 | 50391471": {
+      "count": 2,
+      "bookings": 0.0
+    },
+    "2018 | 680215912": {
+      "count": 1,
+      "bookings": 0.0
+    },
+    "2019 | 49120508": {
+      "count": 3,
+      "bookings": 0.0
+    },
+    "2019 | 48771884": {
+      "count": 4,
+      "bookings": 0.0
+    },
+    "2021 | 69358087": {
+      "count": 1,
+      "bookings": 0.0
+    },
+    "2021 | 90373658": {
+      "count": 2,
+      "bookings": 0.0
+    },
+    "2021 | 47991394": {
+      "count": 1,
+      "bookings": 0.0
+    },
+    "2022 | 103268528": {
+      "count": 1,
+      "bookings": 0.0
+    },
+    "2023 | Beth Hall": {
+      "count": 1,
+      "bookings": 0.0
+    },
+    "2024 | 51642452": {
+      "count": 1,
+      "bookings": 0.0
+    },
+    "Q1 | Tina Tran": {
+      "count": 1,
+      "bookings": 0.0
+    },
+    "Q1 | Cara Heinrich": {
+      "count": 3,
+      "bookings": 0.0
+    },
+    "Q2 | Blank": {
+      "count": 1,
+      "bookings": 0.0
+    },
+    "2023 | 51642452": {
+      "count": 3,
+      "bookings": -60001.2
+    },
+    "2023 | Data Integrations": {
+      "count": 145,
+      "bookings": -500937.0
+    }
+  },
+  "q2_won_by_owner": {
+    "Noel Suarez": {
+      "count": 12,
+      "bookings": 858895.92,
+      "amount": 975827.99
+    },
+    "Georgia Grey": {
+      "count": 18,
+      "bookings": 283125.0,
+      "amount": 268285.0
+    },
+    "Ron Bright": {
+      "count": 13,
+      "bookings": 225895.0,
+      "amount": 202370.0
+    },
+    "Jackson Batchelder": {
+      "count": 6,
+      "bookings": 196446.0,
+      "amount": 310294.0
+    },
+    "Shawna Granger": {
+      "count": 50,
+      "bookings": 104550.0,
+      "amount": 95850.0
+    },
+    "Mandy Ray": {
+      "count": 16,
+      "bookings": 86900.0,
+      "amount": 86900.0
+    },
+    "Mark Moore": {
+      "count": 31,
+      "bookings": 79000.0,
+      "amount": 70075.0
+    },
+    "Dylan Harmon": {
+      "count": 1,
+      "bookings": 34158.6,
+      "amount": 51800.0
+    },
+    "Cara Heinrich": {
+      "count": 1,
+      "bookings": 1000.0,
+      "amount": 0.0
+    },
+    "Daniel Vasquez": {
+      "count": 1,
+      "bookings": 500.0,
+      "amount": 1500.0
+    }
+  },
+  "q2_won_by_product": {
+    "Clinical Record Keeping": {
+      "count": 130,
+      "bookings": 800930.0,
+      "amount": 743940.0
+    },
+    "FA Service": {
+      "count": 3,
+      "bookings": 425096.0,
+      "amount": 434388.0
+    },
+    "FA Service;FA Software": {
+      "count": 3,
+      "bookings": 142443.0,
+      "amount": 171443.0
+    },
+    "Attendance_;FA Service;Payments;Skills Tracker;Student": {
+      "count": 1,
+      "bookings": 106483.59,
+      "amount": 131483.59
+    },
+    "Attendance_;Payments": {
+      "count": 1,
+      "bookings": 83095.68,
+      "amount": 84095.68
+    },
+    "Clinical Record Keeping;Payments;Verity Dialog": {
+      "count": 1,
+      "bookings": 64854.0,
+      "amount": 80853.99
+    },
+    "Attendance_;Skills Tracker;Verity Dialog": {
+      "count": 1,
+      "bookings": 60000.0,
+      "amount": 85000.0
+    },
+    "Payments": {
+      "count": 3,
+      "bookings": 55618.33,
+      "amount": 55618.33
+    },
+    "Attendance_;FA Service;FA Software;Paperless Campus;Payments;Skills Tracker;Smart Nudges;Verity Dialog;Verity Student": {
+      "count": 1,
+      "bookings": 34158.6,
+      "amount": 51800.0
+    },
+    "Attendance_;Forms;Payments;Student": {
+      "count": 1,
+      "bookings": 33739.92,
+      "amount": 69880.0
+    },
+    "FA Service;Verity Professional Services": {
+      "count": 1,
+      "bookings": 31399.4,
+      "amount": 35899.4
+    },
+    "Verity Dialog": {
+      "count": 1,
+      "bookings": 19188.0,
+      "amount": 19188.0
+    },
+    "Attendance_;Clinical Record Keeping;Verity Professional Services": {
+      "count": 1,
+      "bookings": 7680.0,
+      "amount": 58480.0
+    },
+    "Student": {
+      "count": 1,
+      "bookings": 5784.0,
+      "amount": 40832.0
+    }
+  },
+  "q2_lost_by_reason": {
+    "Competitor": {
+      "count": 38,
+      "bookings": 3111952.8,
+      "amount": 3206952.8
+    },
+    "Building Internally": {
+      "count": 5,
+      "bookings": 798715.0,
+      "amount": 949685.0
+    },
+    "Bad timing": {
+      "count": 68,
+      "bookings": 578008.44,
+      "amount": 596221.0
+    },
+    "Other": {
+      "count": 76,
+      "bookings": 221517.88,
+      "amount": 218667.88
+    },
+    "Blank": {
+      "count": 32,
+      "bookings": 199360.0,
+      "amount": 135760.0
+    },
+    "No contact": {
+      "count": 189,
+      "bookings": 121103.51,
+      "amount": 113153.51
+    },
+    "Budget": {
+      "count": 24,
+      "bookings": 100966.0,
+      "amount": 96666.0
+    },
+    "Open to Revisiting": {
+      "count": 13,
+      "bookings": 31628.0,
+      "amount": 35228.0
+    },
+    "Unqualified": {
+      "count": 1,
+      "bookings": 10000.0,
+      "amount": 10000.0
+    },
+    "No access to EB": {
+      "count": 1,
+      "bookings": 4500.0,
+      "amount": 4500.0
+    },
+    "No Product Fit": {
+      "count": 16,
+      "bookings": 2750.0,
+      "amount": 4100.0
+    }
+  },
+  "q2_lost_by_competitor": {
+    "Blank": {
+      "count": 463,
+      "bookings": 5180501.63,
+      "amount": 5370934.1899999995
+    }
+  },
+  "q2_lost_by_product": {
+    "Blank": {
+      "count": 41,
+      "bookings": 1656000.0,
+      "amount": 1664950.0
+    },
+    "Recruit;Student": {
+      "count": 1,
+      "bookings": 1085280.0,
+      "amount": 1192280.0
+    },
+    "FA Service": {
+      "count": 8,
+      "bookings": 912815.31,
+      "amount": 1063835.31
+    },
+    "Clinical Record Keeping": {
+      "count": 402,
+      "bookings": 845235.0,
+      "amount": 750585.0
+    },
+    "Attendance_;Skills Tracker;Verity Dialog": {
+      "count": 1,
+      "bookings": 334776.0,
+      "amount": 334776.0
+    },
+    "Payments": {
+      "count": 2,
+      "bookings": 193600.0,
+      "amount": 193600.0
+    },
+    "Verity Dialog": {
+      "count": 1,
+      "bookings": 68867.88,
+      "amount": 68867.88
+    },
+    "Attendance_;Verity Professional Services": {
+      "count": 1,
+      "bookings": 25000.0,
+      "amount": 25000.0
+    },
+    "Attendance_;FA Service;FA Software;Paperless Campus;Payments;Skills Tracker;Smart Nudges;Verity Dialog;Verity Student": {
+      "count": 1,
+      "bookings": 17767.44,
+      "amount": 35880.0
+    },
+    "Student": {
+      "count": 1,
+      "bookings": 11520.0,
+      "amount": 11520.0
+    },
+    "FA Software": {
+      "count": 1,
+      "bookings": 9600.0,
+      "amount": 9600.0
+    },
+    "Attendance_;Skills Tracker;Verity Professional Services": {
+      "count": 1,
+      "bookings": 7200.0,
+      "amount": 7200.0
+    },
+    "Attendance_": {
+      "count": 1,
+      "bookings": 6900.0,
+      "amount": 6900.0
+    },
+    "Attendance_;Skills Tracker": {
+      "count": 1,
+      "bookings": 5940.0,
+      "amount": 5940.0
+    }
+  }
+}

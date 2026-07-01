@@ -1,0 +1,763 @@
+Page 1:
+“Let’s Porti-GROW!” – Cara Heinrich, when Trajecsys+ Portico joined 
+Q2 Sales Kickoff
+A P R I L  2 0 2 6
+
+Page 2:
+Q2 Sales Kickoff Agenda April 2026
+Performance & Analysis
+1 Q1 Performance Review
+Review Q1 actuals: $1.66M bookings (87% of $1.9M target), pipeline timing 
+analysis
+2 Q2 Targets & Pipeline Reality
+Q2 bookings target: $2.83M (Enterprise $1.99M, Programmatic $841K)
+3 Full-Year Pipeline Gap
+2026 pipeline goal: $28.45M, current remaining: $7.70M, gap: $20.76M
+4 Team Pipeline Targets
+Weekly ~$360K, Monthly ~$1.43M (Enterprise $250K/week, Programmatic 
+$110K/week)
+Strategic Initiatives
+5 Core vs Strategic Motion
+SIS as controlled strategic motion, not broad GTM
+6 How We Win in Q2
+Core strategies and execution principles
+Growth & Execution
+7 3 Growth Levers for Q2
+Pipeline creation, marketing air cover, event conversion
+8 Strategic Accounts Motion
+SIS framework and controlled approach
+9 AI Daily Requirement
+Portico GPT and HubSpot IPEDS assistant usage
+10 Momentum = Pipeline Acceleration
+Velocity and urgency themes
+Next Steps
+11 Next 30 Days
+Immediate action items and milestones
+All sessions are mandatory for sales team members 
+ 12 items 90 Min
+
+Page 3:
+Meet the team.
+INTRODUCTIONS
+Marc Barron
+Chief Revenue Officer
+Tim Flanigan
+Director of Sales Operations
+Jackson Batchelder
+Director of Key Accounts
+Noel Suarez
+VP Business Development
+Daniel Vasquez
+Account Executive
+Cayla Christoplis
+Business Development Rep
+Willy Carey
+Business Development Rep
+Dylan Harmon
+Business Development Rep
+Dylan Warnell
+Business Development Rep
+Ron Bright
+Sr. Director of Business Dev
+Georgia Grey
+Account Exec (Nursing)
+Mandy Ray
+Account Exec (Nursing)
+Shawna Granger
+Account Exec (Allied Health)
+Mark Moore
+Account Exec (Allied Health)
+Cara Heinrich
+Solution Engineer (CM)
+Tiffany Lebron
+Solution Engineer (FA+SIS)
+Dale Scott
+Solution Engineer (CRM+SIS)
+Christina Sims
+Solution Engineer (FA)
+Natalie Gleason
+VP Marketing
+Jessica Stonish
+Director of Growth Marketing
+Amanda Widzinski
+Creative Design Lead
+Chris Coia
+Marketing Events Manager
+TradeMark  Fuller
+Director of Product Marketing
+Sales
+Finance
+Marketing
+Product
+Client 
+Success
+Managed 
+ServicesOperations
+Engineering IT HR
+Amy Ross
+Revenue Operations
+Danny Schwantes
+GM Payments
+
+Page 4:
+Sample Trade/Career 
+School Customer
+Student Lifecycle Management
+Prospective Student 
+Outreach & Engagement
+Application & Admission
+Orientation & Enrollment
+Program Enrollment & 
+Skill Development
+Career Preparation
+Graduation & Career 
+Placement
+Marketing Department
+Goals: Drive awareness, increase prospective student interest, and attract 
+inquiries through targeted marketing campaigns (social, online ads, career fairs).
+Admissions Department
+Goals: Engage with prospective students, answer questions, and guide them 
+through initial inquiries to ensure they understand program options.
+Supporting Technology
+CRM Marketing 
+Automation Platform Website Virtual Tour 
+Technology
+Technology Exists in Joint Portfolio Technology in Joint Portfolio Roadmap Technology Not in Joint Portfolio
+Admissions Department (cont’d)
+Goals: Streamline the application process to reduce barriers, answer questions, 
+and assist applicants in submitting required documents.
+Financial Aid Department
+Goals: Educate students on financial options, help them access aid, and reduce 
+financial concerns.
+Supporting Technology
+Online Application & 
+Enrollment System
+Financial Aid 
+Management Software
+Student Services Department
+Goals: Ensure new students feel welcomed, informed, and connected to the 
+school community.
+Academic Advising
+Goals: Assist students in understanding program requirements, mapping out 
+courses, and setting clear academic goals.
+Supporting Technology
+Faculty & Academic Departments
+Goals: Provide quality instruction, hands-on training, and relevant skills to 
+prepare students for their trade.
+Student Support Services (Tutoring and Counseling)
+Goals: Help students overcome academic or personal challenges that might 
+affect their progress.
+Supporting Technology
+Career Services Department
+Goals: Prepare students for job placement by equipping them with job search skills, 
+interview techniques, and industry knowledge.
+Alumni Relations & Partnerships Department
+Goals: Foster connections with local employers, develop partnerships for internships or 
+apprenticeships, and maintain alumni networks to support job placement.
+Supporting Technology
+Career Services (cont’d)
+Goals: Support graduates in securing meaningful employment in their field, 
+track placement success, and gather feedback to refine career preparation.
+Institutional Research & Data Management
+Goals: Monitor graduation and job placement rates, collect feedback from 
+students and employers, and analyze data to improve program effectiveness.
+Supporting Technology
+LMS Student Portal
+LMS 
+(cont’d)
+Virtual Labs & 
+Simulation Tools
+Tutoring & Support 
+Platforms
+Career Services 
+Mgmt Software
+ePortfolio & Resume-
+Building Tools
+Interview Practice & 
+Video Assessment Tool
+Alumni Management 
+Platform
+Analytics & 
+Reporting Tools
+2
+3
+4
+5
+6
+1
+Clinical Record Keeping
+TAM:
+~$50-$75M
+SIS: Applicable across full 
+journey, excl udingLMS
+TAM:
+~$250-$300M
+TAM:
+~$250-$3005M
+Total Addressable Market (TAM) for that Technology
+Tuition 
+Financing
+Payment / 
+FA Funding
+Attendance 
+Software
+Funding 
+Estimator
+Exit Counseling 
+& Repayment
+TAM:
+~$75-$100M
+TAM:
+~$325-$375M
+TAM:
+~$75-$100M
+At-Risk 
+Management
+
+
+Page 5:
+The Portico product suite.
+What are we selling?
+Portico Recruit (CRM)
+and Recruit Lite
+Portico Financial 
+Aid Software
+Portico Financial 
+Aid Services
+Portico Student (SIS)
+Portico Attendance 
+& Skills
+Portico Interventions
+Portico Payments
+Trajecsys (a Portico Brand) 
+Clinical Management
+MyPortico 
+Student Mobile App
+
+Page 6:
+Q2 Strategy & Focus: Where We Win
+Core GTM motions
+Product focus areas
+Financial Aid 
+Software & 
+Services
+Attendance Clinical 
+Management
+Cross-Sell 
+(Enterprise)
+New Business (All)
+Expansion 
+(Programmatic)
+i.e. Legacy Education has Attendance; let’s 
+sell them Financial Aid
+i.e. We’re in Rhodes State College’s Surg 
+Tech program; let’s get into Nursing
+i.e. Ross College fits our ICP and we’re not 
+working with them yet
+
+Page 7:
+The numbers.
+Targets & Pipeline Reality
+$11.4M
+2026 Bookings 
+Target
+$8.32M
+Enterprise
+$3.1M
+Programmatic
+$40M
+2026 Pipeline 
+Target (3.5x)
+$30M
+Enterprise
+$10M
+Programmatic
+$1.51M $602k
+$1.99M $841k
+$2.18M $993k
+$2.64M $665k
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+$7.7M
+Existing Pipeline
+$4.3M
+Gap to Fill
+Work to Do!
+$6M $2M
+$9M $3M
+$9M $3M
+$6M $2M
+Q2
+
+Page 8:
+Front-loading pipeline in H1 = 
+more likelihood to hit 
+bookings and revenue targets.
+
+Page 9:
+Rep numbers
+Targets & Pipeline Reality
+- Closed Won = Closed Won Stage from New Business, Cross Sell, and Payments pipelines and Closed 
+Won, and P6 for Trajecsys Pipeline
+- Team needs to generate $766K per week in pipeline and $3.7M per month to have 3.5x coverage
+
+
+Page 10:
+Q1 Performance & What We Learned
+Reviewing Q1 actuals, key lessons, and strategic insights
+April 2026
+Q1 Bookings Performance
+$1.66M actual vs $1.9M target
+87%
+Actual
+$1,660,281
+Target
+$1,900,000
+Key Insight:  Performance was real but concentrated. Our biggest issue 
+was not ability to win, but pipeline timing and depth. 
+Enterprise Performance Led by Noel
+Programmatic Performance Led by Ron
+Q1 Pipeline Analysis
+Pipeline coverage and conversion metrics
+87% attainment
+Pipeline Created $5.2M
+Pipeline Conversion 32%
+Avg Deal Size $52K
+Q1 performance analysis - 87% of target achieved 
+ Next: Q2 Targets & Pipeline Reality
+
+Page 11:
+Q2 Targets & Pipeline Reality
+Bookings target: $2.83M | Pipeline target: $12M
+April 2026
+Q2 Bookings Target
+$2.83M total (Enterprise $1.99M, Programmatic $841K)
+$2.83M
+Enterprise
+$1.99M
+Programmatic
+$841K
+Status: We are not behind on bookings. We are behind on pipeline. 
+Current Pipeline $7.70M
+Pipeline Gap $4.30M
+Q2 Pipeline Analysis
+Target: $12M | Current: $7.70M
+64% coverage
+Enterprise Pipeline $9M target
+Programmatic Pipeline $3M target
+Q2 pipeline gap: $4.30M needs to be filled over 12 weeks 
+
+
+Page 12:
+Team Pipeline Generation Targets
+Q2 2026 pipeline goals and weekly/monthly targets
+April 2026
+Overall Team Targets
+Weekly: $360K | Monthly: $1.43M
+$360K
+Weekly Target
+$360K
+Per week
+Monthly Target
+$1.43M
+Per month
+Key Insight:  Team needs to generate ~$360K weekly to maintain 3.5x 
+pipeline coverage for Q2 targets. 
+Enterprise Team $250K/week $1M/month
+Programmatic Team $110K/week $450K/month
+Target Breakdown
+By segment and role
+On Track
+Enterprise
+$250K
+Weekly
+Programmatic
+$110K
+Weekly
+Total
+$360K
+Weekly
+Targets calculated based on 30% win rate and 3.5x coverage 
+Team pipeline generation targets for Q2 2026 
+ Next: Strategic Accounts Motion
+
+Page 13:
+Core vs Strategic Motion
+GTM motion framework: core team-wide initiatives vs selective strategic accounts
+April 2026
+Core GTM Motions (Team -Wide) Active
+New Business
+Acquire net new customers 
+through outbound and inbound 
+prospecting
+Cross-Sell
+Sell new products to existing 
+customers to expand solution 
+footprint
+Expansion
+Grow footprint with existing 
+product lines and user base
+Key Focus Areas
+Financial Aid is our #1 priority - strongest motion, highest leverage, best combination of ACV and fit. Attendance + 
+Payments is our next biggest growth lane - leverage existing customer base, attach payments where it fits. 
+Product Focus Areas Ready
+Financial Aid Software & Services: OB3, AI differentiator
+Attendance + Payments: Compliance, Cashflow
+Clinical Management: OADN, Disa+Precheck  Partnership
+Strategic Accounts (SIS) Selective
+Controlled Strategic Motion
+This is a small, controlled motion focused on a handful 
+of high-value enterprise SIS opportunities. Owned by 
+two designated sellers, supported by leadership, 
+product, and SEs.
+Target Accounts:
+Keiser
+$1.2M potential
+Ember
+$1.4M potential
+Education Affiliates
+$1.7M potential
+ECPI
+$1.2M potential
+These deals matter, but they are not the team-wide 
+path to hitting Q2 
+Core execution hits the number. Strategic accounts create upside. 
+ Next: How We Win in Q2
+
+Page 14:
+AI Is a Daily Requirement
+Daily AI usage across GTM team for productivity and pipeline acceleration
+April 2026
+Portico GPT - Daily Usage Required
+Portico GPT
+Use for product positioning by stakeholder, campaign and sequence drafting, 
+message refinement, release notes and roadmap awareness, creative and compelling 
+language, competitive positioning.
+HubSpot IPEDS Assistant
+Use for market intelligence, target account research, institutional context and insight.
+AI is expected to be used every day across the GTM team 
+ Next: Momentum = Pipeline Acceleration
+Gong.IO
+AI call summaries, customer pain points, pipeline risk, cs handoff
+
+
+Page 15:
+What a Real Deal Looks Like
+Qualification criteria, operating rules, and disqualification triggers for pipeline hygiene
+April 2026
+Qualification Criteria Required
+Defined Problem: Clear pain point identified with 
+specific business impact 
+Clear Urgency: Timeline for decision established 
+with specific dates 
+Identified DM: Decision maker confirmed with 
+access to budget 
+Multi-threaded: 3+ stakeholders engaged across 
+departments 
+Next Step: Meeting scheduled with clear agenda 
+Operating Assumptions
+30%
+Win Rate
+3.5×
+Coverage
+Operating Rules Critical
+No skipping stages - must complete each 
+qualification step
+No single-threaded deals - minimum 3 
+stakeholders
+Close-date moves require documented reason
+All deals must have next step on calendar
+Key Rule: Disqualify quickly if no pain, no access, or 
+no timing 
+Deal Anatomy
+Avg Deal Size
+$100K
+Sales Cycle
+60days
+Disqualification Triggers Stop
+No Pain: No clear business problem identified 
+No Access: Can't reach decision makers 
+No Timing: No urgency or timeline established 
+No Budget: No confirmed budget availability 
+No Fit: Outside ICP or product-market fit 
+Coverage Requirements
+Pipeline Needed
+$12M
+Current
+$7.7M
+30% win rate and 3.5 × coverage required for pipeline health 
+ Next: Stage Discipline & Pipeline Hygiene
+
+Page 16:
+Next 30 Days: Action Plan & Milestones
+Immediate priorities, non -negotiables, and key outputs for Q2 execution
+April 2026
+Priorities Active
+Build Pipeline Every Week
+Target: 15+ new qualified opportunities/week
+Focus: FA/Attendance/Payments/Clinical
+Advance mid-stage deals to close
+Maximize Momentum
+Pre-event: Account planning & targets
+Onsite: 5-10 meaningful meetings/rep
+Post-event: 48hr follow-up
+Use AI Daily
+Portico GPT for positioning
+HubSpot IPEDS for research
+Non-Negotiables Critical
+Coverage & Accountability
+Maintain 3.5× pipeline coverage - $12M Q2 target requires 
+$40M pipeline 
+Weekly pipeline accountability – Update stages, close 
+dates, amount, notes by 5pm Friday
+HubSpot deal hygiene - Update stages, notes, next steps 
+daily 
+Key Metrics
+Pipeline Adds
+15+/week
+Opp Creation
+10/week
+Stage Progress
+30%/week
+Forecast Acc
+85%+
+Outputs & Deliverables Weekly
+Weekly Pipeline Adds
+New Opps Created 15+
+Pipeline Value Added $360K
+Qualified Meetings 10+
+Focus on pipeline velocity and deal progression to hit Q2 targets 
+ Updated: April 6, 2026
+
+Page 17:
+How do we hit the numbers?
+Execution Planning
+Target Accounts (Sales Led)
+Growth Strategy (Marketing Led)
+Events & Campaign Calendar (Shared)
+1
+2
+3
+
+Page 18:
+Target account planning.
+Execution Planning
+Enterprise 
+Broad ICP Definition
+Private, for-profit institutions
+250-5000 students
+Allied Health / Career + Trade
+Programmatic 
+Broad ICP Definition
+Nursing / Allied Health 
+programs across U.S.
+Sample Customer Logos What it Takes to Win
+Maximize Relationships!
+
+
+Page 19:
+The real deals.
+Winning as One
+Spotlight on two recent wins from Ron & Noel.
+
+
+Page 20:
+Account-specific landing pages and paid campaigns,
+Micro event strategy (HH/dinners/roadshows),
+Gifting & dedicated in-pipeline marketing support.
+Channels by audience
+Enterprise 
+ABM
+Target accounts
+All ICP
+Financial Aid / Clinical Management / Attendance
+LinkedIn advertising (ICP buyer roles at target accounts), 
+Ads/landing pages by target product
+Cold outbound motion
+Community content distributed through: 
+Newsletter & email, virtual events, 
+website, media hub, Portico LinkedIn, 
+SME LinkedIn, conferences, 
+partnerships, YouTube, podcast.
+
+Page 21:
+Engage and support complex buying committees, speaking to 
+the exact problems and needs of high value accounts and show 
+ROI / de-risk purchasing decision.
+Get buy-in across the buying committee, increase close rates for high-value 
+enterprise accounts, increase average deal size. 
+Expected impact
+Enterprise 
+ABM
+Target accounts
+All ICP
+Financial Aid / Clinical Management / Attendance
+Guarantee content delivery to buyer personas at our 
+target accounts, reach and nurture key contacts and add 
+them to our database for unpaid marketing campaigns.
+Increase in qualified pipeline from target accounts, increase in 
+associated product deals by campaign.
+Build trust and establish Portico as the industry 
+standard, both in product and expertise. 
+Increase in inbound demo requests, faster time to 
+close, higher close rates. 
+
+Page 22:
+All ICP
+
+
+Page 23:
+Target Accounts
+
+
+Page 24:
+Enterprise 
+ABM
+
+
+Page 25:
+
+
+Page 26:
+Q2 events & campaign calendar.
+Execution Planning
+APRIL MAY JUNE
+Events
+Paid ads
+Compliance Over Chaos Compliance Over Chaos Student (App) Experience
+FINANCIAL AID CAMPAIGN
+CLINICAL MANAGEMENT CAMPAIGN
+ATTENDANCE CAMPAIGN
+MOMENTUM 2026
+The Commons Webinar
+The Commons Webinar
+PORTICO BRAND CAMPAIGN
+FASFAA
+NASFAA
+CECU
+ASRT Educational Symposium
+ACEN
+Inbound Product Release Notes
+The Commons Newsletter
+Product Release Notes
+The Commons Newsletter
+Product Release Notes
+The Commons Newsletter
+NCADN
+NELNE
+CADN & NYLN
+MAADNC
+CAPPS Legislative
+OADN Webinar?
+$3.2M
+pipeline
+$200k
+pipeline
+$1M
+pipeline
+Organic social, email, etc. Organic social, email, etc. Organic social, email, etc.
+
+Page 27:
+MOMENTUM BUILDING
+Ron Bright
+Dylan Harmon
+Daniel Vasquez
+Jackson Batchelder
+Noel Suarez
+
+Page 28:
+How and where we measure success.
+• HubSpot v. Grow for source of truth reporting
+o HubSpot now has a single unified field (Bookings) 
+for Pro and Ent team goal tracking
+▪ Combined Field also allows for a single pipeline view
+o Grow found to be only trustworthy source of 
+Product Line reporting metrics
+o HubSpot group Initiative – Meets Weekly
+Sales & Marketing Performance Dashboard screenshots + 
+metrics that matter
+Ops committee – can we 
+create ? (Tim, Jess, Nat, 
+Amy)
+Pipeline status & 
+accuracy – actuals, data 
+clean 
+- Target account tracking view, shows target products, contact 
+in sequence, current renewals, current open deals, last 
+activity date
+Pipeline Dashboard broken down by sellers, ICP , 
+Quarter, Generated and Remaining
+True attainment and active goal tracking for bookings and other 
+metrics
+
+Page 29:
+Step by step, stage by stage
+• New combined 
+outline for unified 
+sales stages and 
+process following 
+the principles of 
+Triangle Selling
+• All sellers will follow 
+this model 
+• Allows for a single 
+pipeline reporting 
+structure for 
+bookings
+How We Work
+
+
+Page 30:
+Stop. Collaborate. And listen.
+
+Page 31:
+Communication & resources
+How We Work T ogether
+Category Topic Purpose Who’s Involved When?
+Meetings Quarterly Kickoff Alignment & motivation All of us Right now!
+Sales & Marketing Sync Weekly status Trajecsys + Marketing Thursdays at 9:30am
+Sales & Marketing Sync Weekly status Pods + Marketing TBD
+Teams Channels Portico GTM Team T eam updates, priorities, new materials, 
+fun
+All of us Portico GTM Team | Group 
+Chat | Microsoft Teams
+Product Q&A Get clarity on product features for 
+prospects
+Sales, Marketing, Product Product Q&A | Meeting Chat 
+| Microsoft Teams
+Market Intel & Feedback Share news about market, competition, 
+what you’re hearing from prospects
+All of us Market Intel & Feedback | 
+Group Chat | Microsoft 
+Teams
+Customer Centricity (new!) Sharing testimonials, challenges, 
+opportunities
+Sales, Marketing, CS, 
+Product
+TBD
+Resources Portico Marketing Portal Request support, access templates Marketing Portal
+Portico + Trajecsys Websites Marketing website content, blogs, events https://porticoedu.com/ + https://www.trajecsys.com/ 
+Clozeloop Training Product training
+Freshdesk Support Site Knowledge base articles, FAQ https://porticoedu.freshdesk.com/support/login 
+Customer Testimonials Positive quotes and stats shared Testimonial Library.xlsx
+
+
+Page 32:
+In closing…
+Pun Intended
+Q2 Targets!
+ Focus on Target Accounts!
+ Campaigns that 
+Convert!
+$1.99M $841k
+$9M $3M
+$2.83M
+Bookings
+$12M
+Pipeline

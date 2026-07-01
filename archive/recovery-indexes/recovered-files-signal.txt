@@ -1,0 +1,295 @@
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Codex/2026-05-19/build-a-production-ready-python-scraper/README.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Codex/2026-05-19/build-a-production-ready-python-scraper/output/acen_contacts.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Codex/2026-05-19/build-a-production-ready-python-scraper/output/acen_contacts.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Codex/2026-05-19/build-a-production-ready-python-scraper/output/~$acen_contacts.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Codex/2026-05-19/build-a-production-ready-python-scraper/output_smoke/acen_contacts.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Codex/2026-05-19/build-a-production-ready-python-scraper/output_smoke/acen_contacts.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Codex/2026-05-19/build-a-production-ready-python-scraper/requirements.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Codex/2026-06-10/sites-plugin-sites-openai-bundled-create/README.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Cody Stonish State Farm Relase.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Cody Stonish State Farm Release 12-10-25.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/ColdIQ Demo.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/ColdIQ-Onboarding-Kick-Off-Call-Jessica-Stonish-91ed6b32-82cc.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/FA Product Training/ob3 campain brainstorm.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/FinancialAid.editable.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/FinancialAid.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/FinancialAid.template.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/FinancialAid.working.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/Portico/knowledge/All Hands Presentation Jan 2026.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/Portico/knowledge/Portico_Brand_Guide_3_14_25.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/Portico/knowledge/extracted/2026 Marketing Plan.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/Portico/knowledge/extracted/Department Plans -- Feb 2026 Offsite.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/Portico/knowledge/extracted/Pre-Offsite Survey Responses - Day 2 & 3  (1).txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/Portico/knowledge/extracted/Pre-Offsite Survey Responses - Day 2 & 3 .txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/Portico/strategy/Portico_Strategy_Brief_2026.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/Portico/strategy/Strategy_Checklist.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/Portico/strategy/Strategy_OnePager_Template.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/backups/FinancialAid.base-2026-02-25.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/financial-aid-landing.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/financial_aid_news_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/financial_aid_template.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/hs-landing-page-template.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/index.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/landing-draft-hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/landing-draft.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/last_chance_ob3_webinars_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_agenda_bestpractices.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_agenda_bestpractices_v2.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_agenda_bestpractices_v3.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_agenda_bestpractices_v4.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_cfp_deadline_email_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_earnings_accountability_followup_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_email_preview.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_email_template.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_keynote_featured_sessions_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_know_before_you_go_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/momentum_what_to_expect_webinar_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/portico_abhes_email_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/portico_home_live.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/portico_oadn_webinar_invite_block.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/portico_oadn_webinar_invite_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/portico_onboarding_index.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/portico_pov_newsletter_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/portico_pov_newsletter_preview.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/portico_webinar_registration.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/post_momentum_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/sis_release_notes_hubspot.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/skills/paid-media-specialist/SKILL.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/skills/paid-media-specialist/references/benchmark-notes.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/New project/tmp_frontend_design_SKILL.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/Portico Editorial Style Guide 2026.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/Portico FA Newsletter draft April 2026[6].docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/Portico Financial Aid FAQ.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/Q126 Financial Aid Campaign.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/Q126 Financial Aid Campaign/FAnewsletter draft.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/Q126 Financial Aid Campaign/FAnewsletter draft.outlook-backup.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/Q126 Financial Aid Campaign/hubspot-module-snippet.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/Q126 Financial Aid Campaign/product-update-coming-soon-snippet.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Documents - PWS-MAC-M2D37/Webinar_AttendanceReport_Trajecsys_26.03.24_From_Chaos_to_Clarity.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/AGENTS.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/OBBBA Q&A Submissions [May 27].xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/Portico Content Calendar.backup-before-cecu-post-event-2026-06-29.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/Portico Content Calendar.backup.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/Portico Content Calendar.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/Portico_AI_sales_talk_track_one_pager.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/acen-event-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/acen-post-event-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/acen-reminder-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/canella-squarespace-migration/asset-manifest.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/canella-squarespace-migration/asset-shortlist.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/canella-squarespace-migration/content/pages/home.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/canella-squarespace-migration/migration-notes.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/canella-squarespace-migration/raw/html/home.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/cecu-final-reminder-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/cecu-follow-up-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/cecu-pre-event-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/codex-camp-aQt4oAu-_t4.cleaned.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/codex-ui-design-principles.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/fasfaa-event-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/fasfaa-post-event-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/gtm_brain_access/README.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/june-financial-aid-newsletter.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/june-portico-pov-newsletter.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/juneteenth-closure-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/memorial-day-closure-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/momentum-2027-save-the-date-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/nasfaa-pre-event-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/README.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/docs/00-start-here-copy-paste.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/docs/01-download-codex-and-first-run.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/docs/02-install-coach-and-skills.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/docs/03-first-week-coaching-plan.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/docs/04-sample-prompts-for-natalie.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/docs/05-integrations-and-tools-checklist.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/codex-coach/SKILL.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/codex-coach/references/codex-setup-map.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/codex-coach/references/content-calendar-playbook.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/codex-coach/references/nontechnical-coaching.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/codex-coach/references/portico-gtm-starter-brain.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/codex-coach/references/prompt-library.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/design/SKILL.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/design/references/ui-design-principles.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/portico-voice/SKILL.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/portico-codex-coach/skills/portico-voice/references/portico-editorial-style-guide-2026.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/source-context/daily-11am-coach-automation.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-codex-coach-package/source-context/portico-gtm-starter-brain.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-ooo-handover-june-2026.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/natalie-ooo-handover-june-2026.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/AGENTS.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/Evidence/2026-06-29-evidence-index.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/Plans/2026-06-29-career-audit-v0.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/Plans/2026-06-29-h1-retro-h2-plan-working-notes.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/Plans/2026-06-29-head-of-growth-path-v0.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/Plans/2026-06-29-katie-to-jess-output-map.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/Plans/2026-06-29-portico-okr-health-dashboard.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/References/2026-h1-okrs.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/References/current-role-reality-and-capacity.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/References/hired-as-growth-marketing-director-jd.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/References/katie-career-audit-method.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/Systems/portico-okr-health-dashboard 2.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/next-gen-jess-career-coach/Systems/portico-okr-health-dashboard.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/obbba-capps-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/obbba-july-15-promo-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/obbba-live-qa-webinar-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/obbba-post-webinar-follow-up.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/obbba-qa-answers-follow-up.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/one-piece-card-collection/README.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/one-piece-card-collection/cards.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/OBBBA Q&A HubSpot Ready.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/OBBBA Q&A HubSpot Ready.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/Portico_Commons_Style_Guide_June_2026_v2.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/Portico_Commons_Style_Guide_June_2026_v2_final.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/TikTok_Career_Schools_Commons_Article_rewrite.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/TikTok_Career_Schools_Commons_Article_rewrite_final.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/clinical-records-redo/original/Your Clinical Records Are a Liability.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/clinical-records-redo/revised/Your Clinical Records Are a Liability.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/coldiq_campaigns_doc_render/coldiq-doc-preview.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/coldiq_campaigns_portico_drafts.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/coldiq_campaigns_portico_drafts_v2.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/coldiq_hubspot_mapping/ColdIQ HubSpot Property Mapping - Atlas Confirmed.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/coldiq_hubspot_mapping/ColdIQ HubSpot Property Mapping.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/originals/How career schools make operational changes stick.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/originals/How sound-based attendance verification works.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/originals/How_Career_Schools_Make_Change_Stick (2).docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/originals/Leveling up clinical tracking in ADN programs.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/originals/What Paper Processes Are Costing Your Students.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/originals/What Scattered Clinical Documentation Does to Students.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/originals/Your Clinical Records Are a Liability.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/originals/Your students are ahead of your attendance process.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/revised/How career schools make operational changes stick.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/revised/How sound-based attendance verification works.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/revised/How_Career_Schools_Make_Change_Stick (2).docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/revised/Leveling up clinical tracking in ADN programs.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/revised/What Paper Processes Are Costing Your Students.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/revised/What Scattered Clinical Documentation Does to Students.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/revised/Your Clinical Records Are a Liability.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/commons-content-examples/revised/Your students are ahead of your attendance process.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_coldiq_mapping/coldiq_hubspot_property_mapping.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_coldiq_mapping/coldiq_hubspot_property_mapping.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_fa_master_enterprise_list.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_fa_master_enterprise_list_all.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_gtm_targets_2026_06_30/active_pipeline.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_gtm_targets_2026_06_30/bookings_pipeline_all.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_gtm_targets_2026_06_30/q1_closed_won.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_gtm_targets_2026_06_30/q2_closed_lost.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_gtm_targets_2026_06_30/q2_closed_won.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_gtm_targets_2026_06_30/ytd_closed_lost.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/hubspot_gtm_targets_2026_06_30/ytd_closed_won.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/inbound_benchmarks_update_2026_06_30/Inbound and Lead Conversion - updated 2026-06-30.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/inbound_benchmarks_update_2026_06_30/Inbound and Lead Conversion.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/inbound_benchmarks_update_2026_06_30/Portico Inbound Benchmarks [May 27, 2026].docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/inbound_benchmarks_update_2026_06_30/Portico Inbound Benchmarks [updated 2026-06-30].docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/inbound_benchmarks_update_2026_06_30/Q1 2026 Info Req Updated 3.31.26.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/obbba_qa_questions_for_fa_team.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/obbba_qa_render/native-preview.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/obbba_qa_update/OBBBA Q&A Submissions [May 27] - updated corrected.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/obbba_qa_update/OBBBA Q&A Submissions [May 27] - updated with June 3 questions.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/obbba_qa_update/OBBBA Q&A Submissions [May 27] - updated.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/obbba_qa_update/OBBBA_QA_Submissions_May_27_original.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/obbba_qa_update/hubspot-crm-exports-obbba-q-a-questions-may-27-2026-06-03.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/obbba_qa_update/~$OBBBA Q&A Submissions [May 27] - updated.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/portico_commons_editorial_rules_v2.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/portico_content_calendar/Portico Content Calendar - live source May 29 2026.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/portico_content_calendar/Portico Content Calendar - live update May 29 2026.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/portico_content_calendar/Portico Content Calendar - pending SharePoint update - May 28 2026.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/portico_content_calendar/Portico Content Calendar - reconciled May 29 2026.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/portico_content_calendar/Portico Content Calendar - source reconcile May 29 2026.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/portico_gtm_memo/Portico Inbound and GTM Read - May 27 2026.before-may-target-fix.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/portico_gtm_memo/inbound_analysis_may_june_update.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/portico_gtm_memo/~$rtico Inbound and GTM Read - May 27 2026.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/post_event_hubspot_sequence_portico_suite.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/post_event_hubspot_sequence_template.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/sharepoint_workbooks/2026 - Marketing Comms Schedule - updated Momentum 2027.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/sharepoint_workbooks/2026_marketing_comms_schedule_momentum_source.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/sharepoint_workbooks/Conferences Spreadsheet_2026 Planning - fetched.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/sharepoint_workbooks/Conferences Spreadsheet_2026 Planning - updated Jun 2 2026.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/sharepoint_workbooks/Portico Content Calendar - fetched.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/sharepoint_workbooks/Portico Content Calendar - updated Jun 2 2026.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/sharepoint_workbooks/Portico Content Calendar - updated Momentum 2027.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/tms_vet_contacts/TMS vet contacts - HubSpot import.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/tms_vet_contacts/TMS vet contacts - HubSpot import.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/tms_vet_contacts/TMS_vet_contacts_source.xlsx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/trello_priorities_restored_from_history_jun_2_2026.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/trello_weekly_priorities_jun_2_2026.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/avma_active_cvtea_accounts.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/avma_active_cvtea_accounts_ranked.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/avma_active_cvtea_accounts_ranked_full.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/avma_active_cvtea_programs.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet tech contacts.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet_tech_best_contact_per_school.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet_tech_import_ready_tier_1_2_full.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet_tech_larger_promo_candidates_full.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet_tech_needs_name_review_or_generic.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet_tech_public_contacts.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet_tech_public_contacts_full.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet_tech_recommended_contacts.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet_tech_review_before_import_tier_3_full.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/vet_tech_contacts/vet_tech_reviewed_contacts_for_promo.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/outputs/~$BBA Q&A HubSpot Ready.docx
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-growth-os/README.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-june-new-employees-hubspot.csv
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-marketing-calendar/README.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-marketing-calendar/assets/Portico_CECU_26_One_Pager_R2.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-marketing-calendar/index.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-ooo-handoff-june-2026.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-pov-may-2026.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-roster-sharepoint-rendered-table.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-roster-sharepoint.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/portico-roster-table-only.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/coldiq_campaigns/assets/trajecsys-spe-tracker.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/coldiq_campaigns/raw_pages/welcome-attendance.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/coldiq_campaigns/raw_pages/welcome-clinical-management.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/coldiq_campaigns/raw_pages/welcome-financial-aid.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/higher_ed_podcast_opportunities_portico_2026-06-05.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/by_product_marketing_strategy_v0.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/coldiq_abm_trial_brief_2026-05-26.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/coldiq_domain_shortlist_2026-05-26.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/coldiq_onboarding_inputs_v0.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/extracted/all-hands-may-2026-maintaining-momentum.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/extracted/all-hands-momentum-march-madness.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/extracted/portico-brand-guide-3-14-25.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/extracted/portico-presentation-template.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/extracted/product-marketing-notes-on-coldiq-template.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/extracted/q2-sales-kickoff-meeting-april-6.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/extracted/trajecsys-spe-tracker.txt
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/portico_context_brief.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/about.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/admissions.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/allied-health.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/attendance-skills.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/beauty-and-wellness.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/carrington-college.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/clinical-management.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/crm.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/enterprise.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/financial-aid-services.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/financial-aid-software.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/financial-aid.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/get-started.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/home.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/interventions.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/j-tech.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/nursing.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/payments.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/product-support.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/resources.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/sis.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/student-success.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/support.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/trade-school.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/raw_site/unitek-college.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/research/portico_context/source_extracts.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/the-commons-announcement-email-preview.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/the-commons-announcement-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/the-commons-momentum-first-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/todos/001-ready-p1-vet-tech-webinar-setup.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/todos/002-ready-p1-send-fasfaa-email.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/todos/003-ready-p1-book-attendance-webinar.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/todos/004-ready-p1-book-q2-demo-day.md
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/trajecsys-vet-tech-webinar-email-day-before.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/trajecsys-vet-tech-webinar-email-morning-of.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/trajecsys-vet-tech-webinar-email-one-week.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/trajecsys-vet-tech-webinar-email-today.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/New project/trajecsys-vet-tech-webinar-email.html
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/Robin Stonish Birth Date.pdf
+/Users/jessicastonish/Documents/Codex/recovered-from-padmin/padmin-Documents/every_nps_deep_analysis Every Course Edward Tufte-Sam Shames.html

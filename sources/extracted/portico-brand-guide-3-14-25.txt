@@ -1,0 +1,594 @@
+Page 1:
+Portico  
+Brand Guidelines | 3.14.25
+
+Page 2:
+Table of  
+Contents
+1. Introduction
+1.0  Purpose of This Guide 
+1.1   A Brief History 
+1.2  Meet Portico 
+1.3  Our Foundation
+2. Logo
+2.0 Logo Meaning  
+2.1  Secondary Expression 
+2.2 Logo Versions 
+2.3 Inverse Logo Versions
+3. Color
+3.0 Neutrals
+3.1  Accents
+3.2  Error State
+3.3 Web Accessibility
+4. Patterns
+4.0 Primary Brand Pattern 
+4.1  Secondary Brand Pattern
+5. Typography
+5.0 Primary Typeface 
+5.1  Secondary Typeface     
+5.2 System Typefaces
+6. Icons
+6.0 Icon Style
+7. Messaging & Positioning
+7.0 Value Proposition 
+7.1 Voice & Tone 
+7.2 Portico Personified
+
+Page 3:
+1.0 Introduction
+Purpose of This Guide
+This guide will help you understand 
+our brand – how we built it, how  
+it looks and feels today, and how it  
+applies to you and your work.
+Whether you’re a new employee or one of our partners, working on product 
+updates or writing a blog post, this guide will help ensure that the Portico 
+brand is used consistently – everywhere, every time. We aren’t the “brand 
+police” but we do care deeply about our core values and how they come 
+through in everything that has our name on it.
+
+Page 4:
+1.1 Introduction
+A Brief History
+In January 2025, three companies came together  
+for one common purpose: to help (career) 
+schools place more students in the workforce.
+Campus Ivy 
+Founded in 2015 by  
+Cid Yousefi and Siana Stewart
+Modern Day 
+Portico Stats
+Employees 
+130+
+Schools served  
+350+
+Students served  
+400,000+
+Locations  
+Offices in  
+Florida,  
+California,  
+and all over  
+the U.S.  
+(remote)CourseKey 
+Founded in 2015 by  
+Luke Sophinos 
+Verity: 
+Founded in 2016 by  
+Aaron and Cornelia Anderson
+
+
+Page 5:
+1.2 Introduction
+Meet Portico
+Portico represents a new era of student- 
+centric technology and services for career  
+education providers.
+Our unified team of mission- 
+driven employees is bringing  
+together best-in-class solutions 
+to simplify financial aid and  
+optimize student management.
+With efficiency, accessibility,  
+and job placement rates as key 
+motivators, Portico is proud to 
+power the student journey –  
+from here to career.
+
+
+Page 6:
+1.3 Introduction
+Our Foundation
+Mission
+Make it easier for career- 
+focused institutions to recruit,  
+retain, and place learners  
+into jobs.
+Vision
+A thriving workforce.
+Values
+1.  Customer Centricity 
+Prioritizing customers in  
+all we do 
+2.  Innovation 
+Continuously evolving to  
+deliver premium solutions
+3.  Transparency 
+Building trust with integrity  
+and accountability
+
+Page 7:
+2.0 Logo
+Meaning
+Our logo features three keystones – like the 
+central stone in an arch, forming the heart  
+of a portico. These keystones represent  
+our role in supporting student success.  
+They also symbolize the power of threes  
+in our story: the three founding companies, 
+values, and stakeholders (students, schools, 
+and employers). And that lowercase slab 
+serif wordmark? It’s a reflection of our human 
+touch, built on trust and support.
+Our logos can be downloaded here.
+
+Page 8:
+2.1 Logo
+Secondary  
+Expression
+In certain contexts, such as limited color  
+usage or small-scale applications, we rely on 
+an outline version of the mark. This simplified 
+line art preserves our core brand identity while 
+ensuring legibility in restrictive formats. Use 
+the outline version whenever color options are 
+minimal, or when the design needs to maintain 
+clarity at a reduced size.
+
+Page 9:
+2.2 Logo
+Logo Versions
+When space allows, we prefer using the primary vertical lockup in full color to showcase our brand presence. If space is 
+limited, use the primary horizontal version to maintain clarity and impact. In cases where four colors isn’t possible, such as 
+with certain vendors or publications, use the secondary logo expression. 
+Primary 
+Secondary
+Vertical with tagline
+Vertical with tagline
+Vertical without tagline
+Vertical without tagline
+Horizontal with tagline
+Horizontal with tagline
+Horizontal without tagline
+Horizontal without tagline
+Mark
+Mark
+
+Page 10:
+2.3 Logo
+Inverse Logo Versions
+For darker backgrounds, use the inverse logo versions.
+Primary 
+Secondary
+Vertical with tagline
+Vertical with tagline
+Vertical without tagline
+Vertical without tagline
+Horizontal with tagline
+Horizontal with tagline
+Horizontal without tagline
+Horizontal without tagline
+Mark
+Mark
+
+Page 11:
+71/65/67/75
+#201f1d
+3.0 Color
+Neutrals
+Our brand’s color palette centers on neutral 
+tones. We use dark neutrals for typography 
+to ensure maximum legibility and impact, 
+while light neutrals serve as clean, modern 
+backgrounds. 
+Obsidian
+PMS Black 3
+67/44/67/95
+33/39/33
+#212721
+White
+0/0/0/0
+0/0/0
+#ffffff
+Cream
+0/4/8/0
+255/242/229
+#fff2e5
+Ivory
+5/6/10/0
+239/233/225
+#efe9e1
+Peach
+2/24/28/0
+244/199/175
+#f4c7af
+Primary  
+Dark Neutral
+Dark Neutral 
+Shades and Tints
+Light Neutrals (Background)
+68/64/65/66
+#2d2b29
+62/58/61/40
+#4e4a46
+59/55/57/29
+#5e5955
+56/51/54/21
+#6c6762
+40/35/38/1
+#9e9994
+19/15/16/0
+#ceccca
+7/5/6/0
+#ebeae8
+2/2/2/0
+#f6f6f6
+Shade
+Tints
+
+Page 12:
+0/2/9/0
+#fff6e5
+0/26/76/0
+#ffc157
+1/9/7/0
+#fbe8e4
+2/11/0/0
+#f6e4ef
+12/0/8/0
+#ddf3ed
+12/2/3/0
+#ddedf3
+4/47/39/0
+#ed9b8c
+11/51/2/0
+#da91bc
+37/0/20/0
+#99e3d7
+50/2/5/0
+#73cae7
+3.1 Color
+Accents
+Bright, primary colors are applied sparingly 
+as small accents to inject energy and guide 
+attention. Each accent color is defined with 
+a range of tints and shades available for  
+nuance when needed. 
+Vibrant Terracotta
+PMS 7416
+0/72/70/0
+229/106/84
+#e56a54
+Teal
+PMS 3268
+86/0/53/0
+0/171/142
+#00ab8e
+Golden
+PMS 137
+0/41/100/0
+255/163/0
+#ffa300
+Light Blue
+PMS 7459
+72/9/9/13
+66/152/181
+#4298b5
+Pinkish
+PMS 674
+16/83/0/0
+198/87/154
+#c6579a
+Primary  
+Accents
+Shades
+Tints
+13/83/87/3
+#cf4f38
+10/54/100/1
+#e08600
+29/89/15/0
+#b64086
+86/26/65/9
+#00856f
+87/45/30/5
+#197391
+19/87/93/9
+#ba422d
+18/58/100/4
+#c97900
+40/93/27/5
+#9c3673
+89/38/69/27
+#046353
+91/51/28/6
+#006b8f
+24/90/100/19
+#a23522
+28/62/100/15
+#a66400
+51/94/39/24
+#762857
+90/50/73/58
+#003a30
+94/58/35/14
+#005c7a
+31/91/100/38
+#7b2717
+39/63/100/34
+#794e04
+58/91/48/52
+#4c1a38
+87/57/71/72
+#002721
+97/65/43/28
+#004961
+
+Page 13:
+3.2 Color
+Error State
+This color should only be used inside of the 
+product to indicate that something went 
+wrong, and the user’s expected action or 
+response did not occur.
+Error
+#db566d
+#f9e2e5 #e78e9c #cd3d56 #b2364b #962337 #831d2e
+Primary Error State ShadesTints
+
+Page 14:
+3.3 Color
+Web Accessibility
+In the guide below, each colored square is labeled with a “Yes” if the foreground/background combination 
+passes our accessibility test, ensuring sufficient contrast and legibility for everyone. A “No” means that  
+particular combination falls short of our standards, and we won’t be using it. 
+No
+Yes Yes Yes Yes Yes
+No No No No
+Ye sYe s
+Ye s
+Ye s
+Ye s
+Ye s
+Ye s
+Ye s
+Ye s
+Ye s
+Ye s Ye s Ye s Ye s Ye s
+Ye s Ye s Ye s Ye s Yes
+No Yes Yes Yes No
+Ye s No Ye s Ye s
+
+Page 15:
+4.0 Patterns
+Primary Brand Pattern
+Our brand pattern is derived from the portico mark. This pattern is intentionally subtle, using colors from our  
+neutral palette to add texture and depth without overwhelming the design. It serves as a versatile background or 
+accent, reinforcing our brand’s visual language while maintaining a clean, modern aesthetic across all applications. 
+The patterns can be accessed here. 
+
+Page 16:
+4.1 Patterns
+Secondary Brand Pattern
+Our secondary brand pattern builds on the main brand pattern, adding a dynamic twist with selective trapezoids filled 
+in with bright colors from our primary palette. These vibrant accents are used sparingly, occupying no more than 20% 
+of the overall composition, to ensure the pattern remains more subtle. This approach adds visual interest and energy 
+while preserving the clean, supportive structure that defines our brand identity.
+
+Page 17:
+Proxima Nova Regular
+Proxima Nova Italic
+Proxima Nova Bold
+Proxima Nova Bold Italic
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+5.0 Typography
+Primary Typeface
+Proxima Nova Regular is the keystone of 
+our brand’s typography and is used for 
+both headlines and body copy, delivering 
+clarity and a modern feel. Proxima Nova 
+Bold is ideal for key messages and calls-
+to-action, while Proxima Nova Italics add 
+nuance and emphasis where needed.  
+This consistent typographic approach 
+ensures that our communications remain 
+clean, approachable, and impactful.
+Proxima Nova is available on Adobe  
+Fonts here.
+
+Page 18:
+Hepta Slab Regular
+Hepta Slab Bold
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+5.1 Typography
+Secondary Typeface
+Hepta Slab is reserved for subheads  
+and concise calls-to-action, lending a  
+distinctive character and strength to  
+smaller phrases. Its robust, slab-serif  
+design creates a dynamic contrast against 
+the primary typeface, adding visual interest  
+without overwhelming the overall message.  
+Use Hepta Slab selectively to highlight  
+important elements and enhance our  
+typographic hierarchy.
+Hepta Slab is available on Adobe  
+Fonts here.
+
+Page 19:
+Arial Regular
+Arial Bold
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+Rockwell Bold
+Rockwell Bold
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+5.2 Typography
+System Typefaces
+When our custom fonts aren’t available 
+due to technical limitations or licensing 
+restrictions, it’s essential to use approved 
+system typefaces as reliable fallbacks. 
+When Proxima Nova isn’t available,  
+Arial should be used. This offers a clean,  
+modern sans-serif look that loosely  
+resembles Proxima Nova for headlines  
+and body copy.
+If Hepta Slab is unavailable, Rockwell 
+should be used. Rockwell provides a 
+slab-serif appearance that maintains  
+a similar strong and geometric character 
+for subheads and calls-to-action.
+
+Page 20:
+6.0 Icons
+Icon Style
+Our icon style is an extension of our brand 
+mark, crafted in a clean, outline (stroke) 
+style. Each icon should use consistent line 
+weights and minimal detailing to ensure  
+clarity and coherence across all digital and 
+print applications. While the primary  
+emphasis is on the simplicity and legibility of 
+the stroke, subtle accents from our approved 
+color palette may be incorporated to  
+enhance visual interest when needed. 
+
+Page 21:
+7.0 Messaging & Positioning
+Value Proposition
+Portico provides career-focused  
+institutions with an integrated, 
+yet modular suite of solutions that 
+spans the full student lifecycle.
+Our unified ecosystem streamlines:
+1. Financial aid 
+Simplifying compliance and funding so 
+schools can focus on students.
+ 2. Student information management  
+Automating workflows to support  
+student success.
+3. The student experience 
+With payments, attendance tracking,  
+and an intuitive mobile app.
+
+Page 22:
+7.1 Messaging & Positioning
+Voice & Tone
+Communication style:
+Clear  
+We’re simple, transparent, and honest.  
+We work hard to build our customers’ 
+trust. We explain complex concepts in 
+plain language, avoiding technical jargon  
+and making information accessible 
+without sacrificing sophistication.  
+When using industry terms, we provide 
+context and explanation. We generally 
+avoid over-used words that don't have 
+much meaning themselves.
+Thoughtful  
+We’re discreet and take our customers’  
+operations seriously. We demonstrate  
+a deep understanding of their challenges 
+while maintaining professional optimism. 
+Our communication anticipates questions 
+and provides relevant context without 
+overwhelming detail. This voice cuts 
+through complexity while maintaining 
+authority, offering guidance rather  
+than lectures. 
+Tone:
+Portico's voice embodies a trusted  
+mentor who balances expertise  
+with empathy. The trusted mentor  
+personality is characterized as witty  
+and casual while being respectful  
+and matter-of-fact.
+Human  
+We understand the challenges you’re 
+facing. We are approachable and caring. 
+We recognize that educational technology  
+is about more than just systems and 
+data - it's about supporting real people 
+facing real challenges. Our empathetic 
+approach acknowledges the pressures 
+of managing student success, staff  
+turnover, and regulatory requirements.
+Strategically Witty  
+We use purposeful wit and relevant  
+analogies to build trust and  
+understanding. Our humor lightens 
+complex discussions while respecting 
+the gravity of our customers' challenges. 
+Like a trusted advisor sharing insights 
+over coffee, we know when to add  
+levity and when to maintain focus. This  
+approach makes technical concepts 
+more approachable without diminishing 
+their importance.
+
+Page 23:
+7.2 Messaging & Positioning
+Portico Personified
+We’re the mentor who’s been in the trenches – the former admissions  
+officer, financial aid director, or student success coach who’s  
+seen it all and knows what actually works. We’ve got the data and  
+experience to back up our advice, but we don’t talk down to you.  
+Instead, we’ll explain things in a way that makes sense: clear, direct,  
+and with just enough wit to keep it interesting.
+How we show up:
+Emails / LinkedIn 
+Speak like an industry peer, not a  
+faceless corporation. Mix expertise  
+with warmth and relatability.
+Presentations 
+Concise, engaging, and practical –  
+no unnecessary buzzwords or  
+overhyped promises.
+Customer Interactions 
+Listen first(!!), then offer thoughtful  
+solutions tailored to real challenges.
+Think of Portico as:
+The seasoned admissions director who 
+can predict your enrollment roadblocks 
+before you even hit them.
+The financial aid pro who makes  
+compliance feel less like a headache 
+and more like a… solvable puzzle.
+The tech-savvy operations leader who 
+helps schools work smarter, not harder.
+The friendly expert who makes  
+navigating higher ed software feel  
+less overwhelming.
+Meet Portico:
+The experienced, approachable, and 
+witty guide you want on your side.  
+We’ll tell you like it is, help you find  
+solutions that actually work, and maybe 
+even make you smile along the way.

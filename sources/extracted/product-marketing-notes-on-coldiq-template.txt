@@ -1,0 +1,245 @@
+Product Marketing notes on ColdIQ Template
+Financial Aid Services & Software
+Core Problem(s)
+Schools needing Financial Aid Services
+Staffing & Expertise Gaps – Schools struggle with hiring, training, and retaining in-house financial aid staff, and it’s hard to quickly scale staffing
+Compliance Risks – Staying up-to-date with federal and state regulations is complicated and time-consuming
+Seasonal Workload Spikes – Peaks during enrollment periods create inefficiencies and slow processing times
+Slow Processing Times – Internal bottlenecks delay ISIR corrections, document verification, and fund disbursement
+Audits & Reconciliation Challenges – Institutions need expert guidance to manage reconciliation and compliance issues
+Schools needing Financial Aid Software
+Manual, Inefficient Processes – Time-consuming processes such as FAFSA/ISIR import, document verification, award packaging, and fund disbursement can be slow if they are not automated, or current software don’t support seamless processing
+Lack of Software Customization – Most FA tools aren’t flexible enough to support various academic models (clock hour, credit hour, hybrid)
+Disjointed Tech Stack – FA operations require multiple logins across government and internal systems
+Unique Solution
+Portico Financial Aid simplifies financial aid management by combining automation, expert services, and compliance support into one seamless solution. Whether schools need full-service outsourcing, software, or project-based assistance, we reduce manual work, ensure compliance, and improve efficiency—so they can focus on student success.
+Financial Aid Services
+More Comprehensive Services – We offer a broad suite of services, including 100% file review which reduces compliance risks
+Faster Processing – 1-business day turnaround for ISIR corrections, COD updates, and document verification, keeping financial aid moving smoothly
+Stronger Compliance Support – We regularly update our software to comply with federal, state, and institutional regulation, removing that burden from the school. Includes NSLDS enrollment updates and COD responses, which other servicers may not fully handle
+Scalable & Cost-Effective – Schools can scale up or down based on enrollment cycles without the cost and hassle of hiring and training in-house staff
+Software Included – Our software is built into our services at no extra cost, making financial aid management even more efficient
+Supports All Academic Models – Unlike some competitors, Portico FA’s software handles clock hour, credit hour, term-based, and hybrid structures
+Financial Aid Software
+One System, No Gaps – Eliminates the need for multiple logins across EDExpress, NSLDS, COD, FPS, and Clearinghouse
+Time-Saving Automation – FAFSA/ISIR imports, document verification, award packaging, and fund disbursement are all streamlined to reduce manual work
+Compliance Handled for You – We automatically update the software to keep schools compliant with all financial aid regulations, taking that burden off their plate
+Supports All Academic Models – Unlike some competitors, Portico’s financial aid software handles clock hour, credit hour, term-based, and hybrid structures
+Web-Based & User-Friendly – No installation required, easy to access, and integrates seamlessly with existing SIS platforms
+Scalable & Cost-Effective – Schools pay per student, not per user, keeping costs predictable and affordable
+Target Countries
+U.S.
+Industries / Niches
+Career schools & vocational institutions
+Private for-profit colleges, plus some Private non-profit institutions
+200+ students (most top customers have 500-5,000 students)
+Title IV institutions
+Clear financial aid needs / pain points
+Smaller, private schools tend toward services. Larger, traditional schools are more likely to take software only
+Allied health and trade schools
+Buyer Titles
+CEO, President, CFO
+VP Financial Aid
+Director of Financial Aid
+Compliance Officers, COO
+VP Enrollment / Student Affairs
+User Titles
+Financial Aid Officers
+FA Administrators & Processors
+Compliance & Operations staff
+Minimum Company Size
+200+ students
+Maximum Company Size
+No maximum
+Competitors
+Services: Global Financial Aid Services, FAME, ECM FA Solutions, DJA, Gemcore, FAS, BEN
+Software: PowerFAIDS, Regent Education, Anthology Financial Aid
+Consulting: Inceptia, College Aid Services, CampusWorks
+Key Differentiation
+Only provider truly combining full-service + software + compliance in one solution
+More automation + faster processing than legacy servicers
+Better coverage (e.g., NSLDS, 100% file review) than competitors
+Modern, integrated system vs. outdated or fragmented tools
+Built specifically for non-traditional / clock-hour institutions
+Scalable without hiring staff
+Guarantees / Value-Adds
+Faster funding and improved cash flow
+Reduced audit findings and compliance risk
+Predictable, scalable costs (per student pricing)
+Software included with services
+Dedicated expert FA team + ongoing support
+Improved student experience and satisfaction
+Attendance Product
+Core Problem(s)
+Too Much Manual Work – Schools rely on paper-based attendance and skills tracking, leading to errors, delays, and compliance risks
+Retention Struggles – Lack of real-time student attendance data makes it hard to track at-risk students and intervene early, leading to preventable dropouts
+Compliance & Accreditation Headaches – Schools need accurate, up-to-date LDA, engagement verification, and digital records to meet Dept. of Education guidelines and pass audits
+Disjointed Student Experience – Students rarely use outdated SIS portals; they expect a mobile app for attendance, payments, skills tracking, and coursework in one place
+Disconnected Systems – Schools juggle multiple tools for attendance, skills tracking, surveys, student interventions, and payments, creating inefficiencies and data silos
+No Automation – Schools waste time and resources manually tracking attendance, engagement, and payments, increasing compliance risks and operational costs
+Unique Solution
+Portico’s mobile Attendance & Skills solution gives learners a convenient place to manage attendance, chart progress, and stay on track.
+Improve Retention through Automation – Use real-time student data and automated nudges to boost retention by 3.5% on average—no IT resources required
+Improve Compliance– Digitize paper processes, ensure data accuracy, and flag compliance risks before they become audit issues
+Better Student Experience – Students can clock in, track skills, view LMS/SIS data, and make payments in one easy-to-use mobile app
+Consolidate Your Tech Stack – Replace multiple tools for attendance, skills tracking, surveys, externships, and payments, reducing manual work and costs
+Time Savings & Efficiency – Automates outdated processes like manual data entry, student communications, and student monitoring to improve retention, as well as paper-based attendance
+Patented Attendance Solution – Patented GPS attendance tool ensures fraud-proof, real-time attendance tracking, even for asynchronous and blended learning
+Target Countries
+United States
+Industries / Niches
+Career & trade schools
+Allied health programs
+Beauty & cosmetology schools
+Emergency services training programs
+Clock-hour and multi-campus institutions
+Buyer Titles
+CEO, COO, CFO, CTO
+VP / Director of Academics
+Director of Compliance
+Director of Student Services / Experience
+IT Director
+User Titles
+Instructors / Faculty
+Academic staff
+Compliance teams
+Student services staff
+Students (mobile app users)
+Minimum Company Size
+200+ students
+Maximum Company Size
+No maximum
+Competitors
+There aren’t many direct head-to-head competitors for our mobile attendance solution, per se. We are typically competing against the manual status quo and/or basic attendance-taking in the SIS (without the easy to use, GPS-enablement attendance taking app_.
+Status quo (attendance taking via paper, manual entry, or SIS-only)
+Conext
+Drop Out Detective
+Civitas
+Anthology Student & other SIS systems
+Key Differentiation
+Patented attendance technology (GPS + mobile-first)
+Combines attendance + skills + payments + engagement in one app
+Strong retention impact (automation + nudges)
+Purpose-built for career schools (not traditional Higher Education)
+Replaces multiple disconnected tools with one platform
+Real-time, audit-ready compliance data
+Guarantees / Value-Adds
+Improved retention (avg. +3.5%)
+Reduced compliance risk and audit findings
+Increased operational efficiency (less manual work)
+Better student engagement and experience
+Real-time visibility into attendance, risk, and outcomes
+Faster, more accurate reporting and decision-making
+Trajecsys Clinical Management
+Core Problem(s)
+Paper-based or spreadsheet-driven clinical tracking (hours, competencies, evaluations) leading to errors and inefficiencies
+Lack of real-time visibility into student progress and site performance
+Heavy accreditation burden with fragmented, hard-to-access data
+Faculty and staff burnout from manual, repetitive administrative work
+Disconnected systems with no single source of truth
+Risk of data loss, compliance failures, or failed accreditation reviews
+Difficulty managing multi-site, multi-campus clinical programs
+Unique Solution
+Centralized clinical recordkeeping platform for the full clinical lifecycle
+Tracks time, attendance, skills, competencies, and evaluations in one system
+Patented SPE Tracker™ linking student performance directly to accreditation standards
+Real-time, audit-ready reporting and dashboards
+Built specifically for nursing and allied health programs
+Strong customer support + implementation expertise
+Proven across 3,000+ healthcare programs
+Manages clinical education from program start through graduation
+Provides complete oversight and accreditation readiness in one platform
+Price Points
+One-time fee per student per period (3, 6, 12, or 24 months)
+Typical ranges:
+~$50–$150 per student depending on program length
+Includes:
+Unlimited support
+Training
+System updates
+No hidden module or feature fees
+Target Countries
+United States
+Industries / Niches
+Nursing programs
+Allied health programs
+Clinical education programs (e.g., respiratory therapy, surgical tech, etc.)
+Accredited healthcare education institutions
+Multi-campus healthcare training programs
+Relevant programs include (but are not limited to):
+Anesthesia Assistant
+Exercise Science / Athletic Trainer
+Cardiac Electrophysiology
+Central Services / Sterile Processing
+Chiropractic
+Clinical Laboratory Science
+Computed Tomography
+Dental Assisting/Hygiene
+Diagnostic Medical Imaging
+Diagnostic Medical Sonography
+Emergency Medical Technician
+Funeral Services
+Health Information Management
+Lab Sciences/Technology
+Magnetic Resonance Imaging
+Mammography
+Massage Therapy
+Medical Assisting
+Medical Laboratory Science
+Nuclear Medicine
+Nursing
+Nutrition and Dietetics
+Occupational Therapy
+Ophthalmic
+Orthopedic Technology
+Paramedic EMT/EMS
+Pharmacy Technician
+Phlebotomy
+Physical Therapy
+Polysomnography
+Radiologic Technology
+Respiratory Therapy
+Speech Language Pathology Assistant
+Surgical Technology
+Veterinary Technician
+Buyer Titles
+Program Directors
+Deans of Nursing / Allied Health
+Academic / Clinical Coordinators
+Directors of Accreditation / Assessment
+User Titles
+Faculty & Clinical Instructors
+Clinical Site Coordinators / Preceptors
+Students
+Administrative / Academic staff
+Minimum Company Size
+This product usually targets academic programs, so they often are much smaller than a full school.
+Nursing: ideally 75+ students
+Allied Health: 15+ students
+Maximum Company Size
+No set maximum
+Competitors
+Exxat
+Platinum
+Typhon
+MedHub / E*Value
+Clinical Trac
+Project Concert
+Fisdap
+MyClinicalExchange
+In-house systems / spreadsheets / paper-based processes
+Key Differentiation
+All-in-one system (time, evaluations, competencies, reporting)
+Provides centralized documentation across sites and campuses
+Purpose-built for clinical education (not generic edtech or SIS tools)
+Proven scale across 3,000+ programs and 70+ disciplines
+Accreditation-first design with instant reporting vs. manual prep
+Patented SPE Tracker™ directly ties clinical activity to accreditation standards
+Deep domain expertise + gold-standard support
+Guarantees / Value-Adds
+Accreditation readiness with audit-ready reporting at any time
+Significant time savings for faculty and staff
+Reduced compliance risk and improved data accuracy
+Improved program outcomes through real-time visibility
+Strong onboarding, training, and ongoing support included
+Reliable system continuity (important for leadership turnover scenarios)
