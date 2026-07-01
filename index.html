@@ -1,0 +1,2307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portico Marketing Calendar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&family=Hepta+Slab:wght@700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ivory:      #EFE9E1;
+      --obsidian:   #212721;
+      --white:      #FFFFFF;
+      --border:     #E6E3DA;
+      --warm-gray:  #4e4a46;
+      --dim:        #a09b95;
+      --filler-bg:  #F5F1EB;
+      --filler-num: #d4cfc9;
+
+      --terracotta: #e56a54;
+      --pinkish:    #c6579a;
+      --golden:     #ffa300;
+      --blue:       #4298b5;
+      --teal:       #00ab8e;
+      --event-dark: #006b8f;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { -webkit-font-smoothing: antialiased; }
+
+    body {
+      font-family: 'Figtree', 'Segoe UI', Arial, sans-serif;
+      background: var(--ivory);
+      color: var(--obsidian);
+      min-height: 100vh;
+      padding: 0 0 80px;
+    }
+
+    /* ---- Logo in ivory above the card ---- */
+    .page-logo {
+      text-align: center;
+      padding: 40px 0 24px;
+    }
+    .page-logo img {
+      height: 40px;
+      width: auto;
+      display: inline-block;
+    }
+
+    /* ---- White card ---- */
+    .cal-card {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 36px 36px;
+      box-shadow: 0 2px 20px rgba(33, 39, 33, 0.07);
+      position: relative;
+    }
+    @media (max-width: 900px) {
+      .cal-card { padding: 24px 16px; border-radius: 14px; margin: 0 12px; }
+    }
+
+    /* ---- Period label - centered, directly under logo ---- */
+    .period-wrap {
+      text-align: center;
+      margin-bottom: 16px;
+    }
+    .period-label {
+      font-family: 'Hepta Slab', Georgia, serif;
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--obsidian);
+    }
+
+    /* ---- Nav + toggle row, centered as a group ---- */
+    .nav-wrap {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      margin-bottom: 24px;
+    }
+    .nav-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      width: 34px;
+      height: 34px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      color: var(--warm-gray);
+      font-size: 15px;
+      transition: background 0.12s, color 0.12s;
+      flex-shrink: 0;
+    }
+    .nav-btn:hover { background: var(--ivory); color: var(--obsidian); }
+
+    .view-toggle {
+      display: flex;
+      background: var(--ivory);
+      border-radius: 8px;
+      padding: 3px;
+      gap: 2px;
+    }
+    .toggle-btn {
+      background: none;
+      border: none;
+      border-radius: 6px;
+      padding: 5px 16px;
+      font-family: 'Figtree', sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--dim);
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+    .toggle-btn.active {
+      background: var(--white);
+      color: var(--obsidian);
+      box-shadow: 0 1px 3px rgba(33,39,33,0.12);
+    }
+
+    /* ---- Calendar wrapper ---- */
+    .calendar-wrap {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    /* ---- Weekday header ---- */
+    .weekday-row {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      background: var(--ivory);
+      border-bottom: 1px solid var(--border);
+    }
+    .weekday-cell {
+      padding: 10px 0;
+      text-align: center;
+    }
+    .wd-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      color: var(--warm-gray);
+      display: block;
+    }
+    .wd-date {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--obsidian);
+      display: block;
+      margin-top: 2px;
+    }
+
+    /* ---- Calendar grid ---- */
+    .cal-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+    }
+    .cal-grid.month-layout { display: flex; flex-direction: column; }
+    .cal-week {
+      position: relative;
+      --event-bar-space: 0px;
+      --ooo-bar-space: 0px;
+    }
+    .day-cells-grid { display: grid; grid-template-columns: repeat(5, 1fr); }
+
+    /* ---- Multi-day event bars ---- */
+    .bars-overlay {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 32px;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      pointer-events: none;
+      padding: 0;
+    }
+    .event-bar-row {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      min-height: 25px;
+      align-items: start;
+    }
+    .event-bar {
+      --event-left-outline: 1.5px;
+      --event-right-outline: 1.5px;
+      position: relative;
+      box-sizing: border-box;
+      background: #006b8f;
+      border: none;
+      border-radius: 4px;
+      color: white;
+      font-family: 'Figtree', sans-serif;
+      font-size: 10.5px;
+      font-weight: 600;
+      padding: 3px 7px;
+      margin: 2px 8px;
+      cursor: pointer;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      text-align: left;
+      line-height: 1.5;
+      transition: filter 0.12s;
+    }
+    .event-bar { pointer-events: auto; }
+    .event-bar:hover { filter: brightness(0.85); }
+    .event-bar::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      box-sizing: border-box;
+      border-color: var(--event-outline, #004961);
+      border-style: solid;
+      border-width: 1.5px var(--event-right-outline) 1.5px var(--event-left-outline);
+      border-radius: inherit;
+      pointer-events: none;
+    }
+    .event-bar-icon {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      vertical-align: middle;
+      margin-right: 5px;
+      margin-top: -1px;
+      filter: brightness(0) invert(1);
+      flex-shrink: 0;
+    }
+    .event-bar.continues-left {
+      --event-left-outline: 0px;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+      margin-left: 0;
+    }
+    .event-bar.continues-right {
+      --event-right-outline: 0px;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      margin-right: 0;
+    }
+
+    /* ---- OOO bars ---- */
+    .ooo-bars-overlay {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 8px;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      pointer-events: none;
+      padding: 0 4px;
+    }
+    .ooo-bar-row {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      min-height: 20px;
+    }
+    .ooo-bar {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      margin: 3px 6px;
+      padding: 0 4px;
+      overflow: hidden;
+      min-width: 0;
+    }
+    .ooo-name {
+      font-family: 'Figtree', sans-serif;
+      font-size: 9.5px;
+      font-weight: 600;
+      color: #b8b3ab;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .ooo-line {
+      flex: 1;
+      height: 3px;
+      background: #c8c3bc;
+      border-radius: 2px;
+      min-width: 8px;
+    }
+    .ooo-bar .ooo-name {
+      min-width: 0;
+      flex-shrink: 1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .cal-cell {
+      border-right: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      height: 155px;
+      box-sizing: border-box;
+      padding: 10px 8px calc(10px + var(--ooo-bar-space));
+      display: flex;
+      flex-direction: column;
+      background: var(--white);
+      min-width: 0;
+      overflow: hidden;
+    }
+    .cal-cell:nth-child(5n) { border-right: none; }
+    .cal-cell.filler { background: var(--filler-bg); }
+    /* Week view cells: taller, no fixed height */
+    .cal-cell.week-cell {
+      height: auto;
+      min-height: 400px;
+    }
+
+    .day-num {
+      min-height: 22px;
+      display: flex;
+      align-items: center;
+      font-size: 12px;
+      font-weight: 700;
+      color: #c4bfb8;
+      margin-bottom: 6px;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+    .cal-cell.has-event-overlay .day-num {
+      margin-bottom: calc(3px + var(--cell-event-bar-space, 0px));
+    }
+    .cal-cell.is-today .day-num {
+      background: var(--terracotta);
+      color: white;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      margin-bottom: 6px;
+    }
+    .cal-cell.is-today.has-event-overlay .day-num {
+      margin-bottom: calc(3px + var(--cell-event-bar-space, 0px));
+    }
+    .filler-num { color: var(--filler-num); }
+    .cal-cell.filler .pill { opacity: 0.38; }
+    .cal-cell.filler .pill:hover { opacity: 0.7; filter: brightness(0.85); }
+
+    /* ---- Pills ---- */
+    .pill {
+      display: block;
+      width: 100%;
+      padding: 2px 7px;
+      box-sizing: border-box;
+      border-radius: 4px;
+      font-family: 'Figtree', sans-serif;
+      font-size: 10.5px;
+      font-weight: 600;
+      color: white;
+      cursor: pointer;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      text-align: left;
+      border: none;
+      line-height: 1.3;
+      margin-bottom: 3px;
+      flex-shrink: 0;
+      transition: filter 0.12s;
+      min-width: 0;
+    }
+    .pill.outlined {
+      box-shadow: inset 0 0 0 1.5px var(--pill-outline);
+    }
+    .pill.sequence-pill {
+      font-weight: 500;
+    }
+    .pill.momentum-pill,
+    .event-bar.momentum-bar {
+      color: #004961;
+    }
+    .pill.momentum-pill .pill-icon,
+    .event-bar.momentum-bar .event-bar-icon {
+      filter: brightness(0) saturate(100%) invert(27%) sepia(77%) saturate(1261%) hue-rotate(163deg) brightness(92%) contrast(101%);
+    }
+    .pill:hover { filter: brightness(0.85); }
+    .pill-icon {
+      display: inline-block;
+      width: 11px;
+      height: 11px;
+      vertical-align: middle;
+      margin-right: 4px;
+      margin-top: -1px;
+      filter: brightness(0) invert(1);
+      flex-shrink: 0;
+    }
+    .week-pill {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      min-height: 50px;
+      padding: 8px 9px;
+      border-radius: 6px;
+      margin-bottom: 8px;
+      white-space: normal;
+      line-height: 1.25;
+    }
+    .week-pill .pill-icon {
+      width: 13px;
+      height: 13px;
+      margin-top: 1px;
+      margin-right: 0;
+    }
+    .week-pill-title-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      min-width: 0;
+    }
+    .week-pill-title {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-width: 0;
+    }
+    .week-pill-meta {
+      display: block;
+      padding-left: 19px;
+      font-size: 9.5px;
+      font-weight: 600;
+      line-height: 1.2;
+      opacity: 0.82;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .overflow-btn {
+      background: none;
+      border: none;
+      font-family: 'Figtree', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      line-height: 1.1;
+      color: var(--dim);
+      cursor: pointer;
+      text-align: left;
+      padding: 1px 7px;
+      flex-shrink: 0;
+    }
+    .overflow-btn:hover { color: var(--obsidian); }
+
+    /* ---- Sync info ---- */
+    .sync-row {
+      text-align: center;
+      margin-top: 16px;
+      font-size: 11px;
+      font-weight: 500;
+      color: #c4bfb8;
+    }
+
+    /* ---- Binder tabs ---- */
+    .binder-tabs-group {
+      position: absolute;
+      right: -30px;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 20;
+      display: flex;
+      flex-direction: column;
+    }
+    .binder-tab-wrap {
+      position: relative;
+      display: flex;
+      align-items: flex-start;
+    }
+    .binder-tab-wrap:first-child { z-index: 2; }
+    .binder-tab-wrap:last-child  { z-index: 1; margin-top: -12px; }
+
+    .binder-tab {
+      width: 30px;
+      padding: 24px 0;
+      border-radius: 0 10px 10px 0;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      box-shadow: 3px 0 12px rgba(33,39,33,0.15);
+      transition: background 0.18s, box-shadow 0.18s;
+    }
+    .binder-tab-wrap:first-child .binder-tab { background: var(--obsidian); }
+    .binder-tab-wrap:last-child  .binder-tab { background: var(--teal); }
+
+    .binder-tab-wrap:first-child:hover .binder-tab {
+      background: var(--pinkish);
+      box-shadow: 4px 0 18px rgba(198,87,154,0.28);
+    }
+    .binder-tab-wrap:last-child:hover .binder-tab {
+      background: #008f76;
+      box-shadow: 4px 0 18px rgba(0,143,118,0.28);
+    }
+
+    .binder-tab-text {
+      writing-mode: vertical-lr;
+      text-orientation: mixed;
+      font-family: 'Figtree', sans-serif;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: white;
+      white-space: nowrap;
+      user-select: none;
+      transition: letter-spacing 0.18s;
+    }
+    .binder-tab-wrap:hover .binder-tab-text {
+      letter-spacing: 0.20em;
+    }
+
+    .binder-panel {
+      position: absolute;
+      right: 30px;
+      top: 0;
+      min-width: 200px;
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-right: none;
+      border-radius: 12px 0 0 12px;
+      padding: 20px 22px;
+      box-shadow: -4px 2px 20px rgba(33,39,33,0.08);
+      opacity: 0;
+      transform: translateX(10px);
+      pointer-events: none;
+      transition: opacity 0.22s ease, transform 0.22s ease;
+      white-space: nowrap;
+    }
+
+    .binder-tab-wrap:hover .binder-panel {
+      opacity: 1;
+      transform: translateX(0);
+      pointer-events: auto;
+    }
+
+    .binder-panel-title {
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.09em;
+      color: var(--dim);
+      margin-bottom: 14px;
+    }
+
+    .legend-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--obsidian);
+    }
+    .legend-row:last-child { margin-bottom: 0; }
+    .legend-swatch {
+      width: 12px;
+      height: 12px;
+      border-radius: 3px;
+      flex-shrink: 0;
+    }
+
+    /* ---- Request button ---- */
+    @keyframes req-pulse {
+      0%   { box-shadow: 0 4px 18px rgba(229,106,84,0.35), 0 0 0 0 rgba(229,106,84,0.30); }
+      60%  { box-shadow: 0 4px 18px rgba(229,106,84,0.35), 0 0 0 12px rgba(229,106,84,0); }
+      100% { box-shadow: 0 4px 18px rgba(229,106,84,0.35), 0 0 0 0 rgba(229,106,84,0); }
+    }
+    .req-btn {
+      position: fixed;
+      bottom: 28px;
+      right: 28px;
+      width: 56px;
+      height: 56px;
+      background: var(--terracotta);
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 90;
+      color: white;
+      animation: req-pulse 2.8s ease-out infinite;
+      transition: transform 0.15s, background 0.15s;
+    }
+    .req-btn:hover {
+      transform: scale(1.08);
+      animation: none;
+      background: #cf5843;
+    }
+
+    .req-panel {
+      position: fixed;
+      bottom: 84px;
+      right: 28px;
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 24px 26px;
+      box-shadow: 0 8px 30px rgba(33,39,33,0.14);
+      z-index: 90;
+      width: 320px;
+      display: none;
+    }
+    .req-panel.open { display: block; }
+    .req-panel p {
+      font-family: 'Figtree', sans-serif;
+      font-size: 13px;
+      line-height: 1.65;
+      color: var(--warm-gray);
+    }
+    .req-panel a:not(.req-cta-btn) {
+      color: var(--teal);
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .req-panel a:not(.req-cta-btn):hover { text-decoration: underline; }
+    .req-panel-divider {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 16px 0;
+    }
+    .req-cta-label {
+      font-family: 'Figtree', sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--dim);
+      margin-bottom: 10px;
+    }
+    .req-cta-btn {
+      display: block;
+      width: 100%;
+      padding: 11px 14px;
+      border-radius: 8px;
+      border: none;
+      background: #c6579a;
+      font-family: 'Figtree', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      color: #ffffff !important;
+      text-align: center;
+      text-decoration: none;
+      margin-bottom: 8px;
+      transition: background 0.14s;
+      box-sizing: border-box;
+    }
+    .req-cta-btn:last-child { margin-bottom: 0; }
+    .req-cta-btn:hover {
+      background: #762857;
+      color: #ffffff !important;
+      text-decoration: none;
+    }
+    .req-cta-btn-golden { background: #ffa300; }
+    .req-cta-btn-golden:hover { background: #cc8200; }
+    .req-cta-btn-terracotta { background: #e56a54; }
+    .req-cta-btn-terracotta:hover { background: #c04f3a; }
+
+    /* ---- Modal overlay ---- */
+    .overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(33, 39, 33, 0.4);
+      z-index: 500;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    .overlay.open { display: flex; }
+
+    /* ---- Modal card ---- */
+    .modal-card {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      width: 520px;
+      max-width: 100%;
+      max-height: 86vh;
+      overflow-y: auto;
+      box-shadow: 0 16px 52px rgba(33,39,33,0.18);
+      position: relative;
+    }
+    .modal-inner { padding: 40px 44px 44px; }
+    .modal-card.modal-wide { width: 720px; }
+
+    /* ---- Campaign modal sections ---- */
+    .campaign-section { margin-bottom: 24px; }
+    .campaign-section:last-child { margin-bottom: 0; }
+    .campaign-section-label {
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--teal);
+      margin-bottom: 8px;
+    }
+    .campaign-section-content {
+      font-size: 14px;
+      line-height: 1.65;
+      color: var(--obsidian);
+    }
+    .campaign-how-list {
+      margin: 0;
+      padding: 0 0 0 18px;
+    }
+    .campaign-how-list li {
+      font-size: 14px;
+      line-height: 1.65;
+      color: var(--obsidian);
+      margin-bottom: 6px;
+    }
+    .campaign-how-list li:last-child { margin-bottom: 0; }
+
+    .modal-close {
+      position: absolute;
+      top: 16px;
+      right: 18px;
+      background: none;
+      border: none;
+      font-size: 20px;
+      line-height: 1;
+      cursor: pointer;
+      color: #c4bfb8;
+      transition: color 0.12s, background 0.12s;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 6px;
+    }
+    .modal-close:hover { color: var(--obsidian); background: var(--ivory); }
+
+    /* ---- Item detail: type indicator + title ---- */
+    .item-type-row {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      margin-bottom: 12px;
+    }
+    .type-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+    .type-name {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--dim);
+    }
+
+    .item-title {
+      font-family: 'Hepta Slab', Georgia, serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--obsidian);
+      line-height: 1.3;
+      margin-bottom: 28px;
+    }
+
+    /* ---- Properties (flex rows, single border-bottom per row) ---- */
+    .props-list { margin-bottom: 28px; }
+
+    .prop-row {
+      display: flex;
+      align-items: flex-start;
+      padding: 13px 0;
+      border-bottom: 1px solid var(--border);
+      gap: 0;
+    }
+    .prop-row:first-child { border-top: 1px solid var(--border); }
+
+    .prop-label {
+      width: 120px;
+      flex-shrink: 0;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #c4bfb8;
+      padding-top: 1px;
+    }
+    .prop-value {
+      flex: 1;
+      font-size: 14px;
+      color: var(--obsidian);
+      line-height: 1.55;
+      min-width: 0;
+    }
+
+    .focus-chip {
+      display: inline-block;
+      background: var(--ivory);
+      border: 1px solid var(--border);
+      color: var(--warm-gray);
+      font-size: 12px;
+      font-weight: 600;
+      padding: 3px 11px;
+      border-radius: 20px;
+    }
+
+    /* ---- Summary block ---- */
+    .summary-block {
+      background: var(--filler-bg);
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin-bottom: 28px;
+      font-size: 14px;
+      line-height: 1.65;
+      color: var(--warm-gray);
+    }
+
+    /* ---- Links ---- */
+    .modal-links { display: flex; flex-direction: column; gap: 10px; }
+    .modal-link-primary {
+      display: block;
+      text-align: center;
+      padding: 14px 20px;
+      border-radius: 8px;
+      font-family: 'Figtree', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: white;
+      text-decoration: none;
+      transition: filter 0.15s;
+    }
+    .modal-link-primary:hover { filter: brightness(0.88); }
+    .modal-link-primary.tbd {
+      color: #8d877f;
+      background: #e8e3dc !important;
+      border: 1px solid var(--border);
+      cursor: default;
+      pointer-events: none;
+    }
+    .modal-link-primary.tbd:hover { filter: none; }
+    .modal-link-outline {
+      display: block;
+      text-align: center;
+      padding: 14px 20px;
+      border-radius: 8px;
+      font-family: 'Figtree', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      text-decoration: none;
+      background: transparent;
+      border: 2px solid;
+      transition: opacity 0.15s;
+    }
+    .modal-link-outline:hover { opacity: 0.72; }
+    .modal-link-outline.tbd {
+      border-color: var(--border) !important;
+      color: #8d877f !important;
+      background: #e8e3dc;
+      cursor: default;
+      pointer-events: none;
+    }
+    .modal-link-secondary {
+      display: block;
+      text-align: center;
+      font-family: 'Figtree', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--warm-gray);
+      text-decoration: none;
+      padding: 13px 20px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      transition: background 0.12s;
+    }
+    .modal-link-secondary:hover { background: var(--ivory); }
+
+    /* ---- Day-view list ---- */
+    .day-view-heading {
+      font-family: 'Hepta Slab', Georgia, serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--obsidian);
+      margin-bottom: 20px;
+    }
+    .day-list { display: flex; flex-direction: column; gap: 8px; }
+    .day-list-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 16px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      cursor: pointer;
+      transition: background 0.12s;
+      background: none;
+      width: 100%;
+      text-align: left;
+      font-family: 'Figtree', sans-serif;
+    }
+    .day-list-item:hover { background: var(--ivory); }
+    .dli-dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+    .dli-text { flex: 1; min-width: 0; }
+    .dli-title { font-size: 14px; font-weight: 600; color: var(--obsidian); display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .day-list-item.sequence-item .dli-title { font-weight: 500; }
+    .dli-sub   { font-size: 12px; color: var(--dim); display: block; margin-top: 3px; }
+    .dli-arrow { color: var(--border); font-size: 18px; flex-shrink: 0; }
+
+    /* ---- Back button ---- */
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: none;
+      border: none;
+      font-family: 'Figtree', sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--dim);
+      cursor: pointer;
+      padding: 0;
+      margin-bottom: 22px;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+    .back-btn:hover { color: var(--obsidian); }
+
+    /* ---- Search ---- */
+    .search-wrap {
+      position: relative;
+      margin-bottom: 20px;
+    }
+    .search-icon {
+      position: absolute;
+      left: 13px;
+      top: 50%;
+      transform: translateY(-50%);
+      pointer-events: none;
+    }
+    .search-input {
+      width: 100%;
+      padding: 11px 40px 11px 38px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      font-family: 'Figtree', sans-serif;
+      font-size: 14px;
+      color: var(--obsidian);
+      background: var(--ivory);
+      outline: none;
+      transition: border-color 0.15s, background 0.15s, box-shadow 0.15s;
+    }
+    .search-input:focus {
+      border-color: #a09b95;
+      background: var(--white);
+      box-shadow: 0 0 0 3px rgba(33,39,33,0.05);
+    }
+    .search-input::placeholder { color: var(--dim); }
+    .search-clear {
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--dim);
+      cursor: pointer;
+      font-size: 18px;
+      line-height: 1;
+      padding: 2px 4px;
+      display: none;
+      border-radius: 4px;
+      transition: color 0.12s;
+    }
+    .search-clear.visible { display: block; }
+    .search-clear:hover { color: var(--obsidian); }
+
+    /* ---- Search results ---- */
+    .search-results { display: none; }
+    .search-results.active { display: block; }
+
+    .search-count {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.09em;
+      color: var(--dim);
+      margin-bottom: 12px;
+    }
+    .result-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 13px 16px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      cursor: pointer;
+      margin-bottom: 8px;
+      background: none;
+      width: 100%;
+      text-align: left;
+      font-family: 'Figtree', sans-serif;
+      transition: background 0.12s;
+    }
+    .result-row:hover { background: var(--ivory); }
+    .result-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+    .result-title {
+      flex: 1;
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--obsidian);
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .result-row.sequence-item .result-title { font-weight: 500; }
+    .result-meta {
+      display: flex;
+      gap: 20px;
+      flex-shrink: 0;
+      align-items: center;
+    }
+    .result-meta span {
+      font-size: 12px;
+      color: var(--dim);
+      white-space: nowrap;
+    }
+    .result-type-chip {
+      font-size: 11px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 4px;
+      color: white;
+      white-space: nowrap;
+    }
+    .result-arrow { color: var(--border); font-size: 18px; flex-shrink: 0; }
+    .no-results {
+      text-align: center;
+      padding: 48px 0;
+      font-size: 14px;
+      color: var(--dim);
+    }
+    /* fix: .result-meta span overrides chip color */
+    .result-meta .result-type-chip { color: white; }
+
+    /* ---- Page eyebrow ---- */
+    .cal-eyebrow {
+      font-family: 'Figtree', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: var(--dim);
+      margin-top: 7px;
+    }
+
+    /* ---- Campaign panel ---- */
+    .binder-panel-wide { min-width: 280px; }
+
+    .campaign-card.coming-soon {
+      filter: grayscale(1) opacity(0.45);
+      cursor: default;
+      position: relative;
+    }
+    .campaign-card.coming-soon::after {
+      content: 'Coming soon!';
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Figtree', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--obsidian);
+      background: rgba(239,233,225,0.82);
+      border-radius: 6px;
+      opacity: 0;
+      transition: opacity 0.18s;
+      pointer-events: none;
+    }
+    .campaign-card.coming-soon:hover {
+      filter: grayscale(1) opacity(0.6);
+      background: inherit;
+      padding-left: 12px;
+      padding-right: 12px;
+    }
+    .campaign-card.coming-soon:hover::after {
+      opacity: 1;
+    }
+    .campaign-card {
+      display: block;
+      width: 100%;
+      text-align: left;
+      background: none;
+      border: none;
+      border-bottom: 1px solid var(--border);
+      padding: 13px 0;
+      cursor: pointer;
+      font-family: 'Figtree', sans-serif;
+      transition: background 0.12s;
+      border-radius: 6px;
+    }
+    .campaign-card:first-child { border-top: 1px solid var(--border); }
+    .campaign-card:last-child { border-bottom: none; padding-bottom: 0; }
+    .campaign-card:hover { background: var(--ivory); padding-left: 6px; padding-right: 6px; }
+    .campaign-name {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--obsidian);
+      margin-bottom: 4px;
+      line-height: 1.4;
+      white-space: normal;
+    }
+    .campaign-card-hint {
+      font-size: 11px;
+      color: var(--dim);
+    }
+    .campaign-motions-label {
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.09em;
+      color: var(--dim);
+      margin: 14px 0 8px;
+    }
+    .modal-link-placeholder {
+      display: flex;
+      align-items: center;
+      color: #8d877f;
+      background: #e8e3dc;
+      cursor: default;
+      pointer-events: none;
+    }
+    .modal-link-placeholder:hover { background: #e8e3dc; }
+    .campaign-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+    .campaign-product {
+      font-size: 11px;
+      font-weight: 600;
+      background: var(--ivory);
+      border: 1px solid var(--border);
+      color: var(--warm-gray);
+      padding: 2px 9px;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+    .campaign-status-active {
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--teal);
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+    .campaign-status-paused {
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--dim);
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+    .campaign-links { display: flex; flex-direction: column; gap: 5px; }
+    .campaign-link {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--teal);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .campaign-link:hover { text-decoration: underline; }
+    .campaign-notes {
+      font-size: 11px;
+      color: var(--dim);
+      margin-top: 6px;
+      line-height: 1.5;
+      white-space: normal;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Logo floats in ivory above the white card -->
+<div class="page-logo">
+  <img src="https://welcome.porticoedu.com/hs-fs/hubfs/Portico_Logo_Horiz_RGB.png" alt="Portico">
+</div>
+
+<!-- White card -->
+<div class="cal-card">
+
+  <!-- Period label -->
+  <div class="period-wrap">
+    <div class="period-label" id="periodLabel"></div>
+  </div>
+
+  <!-- Nav + view toggle: centered as a unit -->
+  <div class="nav-wrap">
+    <button class="nav-btn" id="prevBtn">&#8592;</button>
+    <div class="view-toggle">
+      <button class="toggle-btn active" id="monthBtn">Month</button>
+      <button class="toggle-btn"        id="weekBtn">Week</button>
+    </div>
+    <button class="nav-btn" id="nextBtn">&#8594;</button>
+  </div>
+
+  <!-- Search -->
+  <div class="search-wrap">
+    <svg class="search-icon" width="16" height="16" viewBox="0 0 16 16" fill="none">
+      <circle cx="6.5" cy="6.5" r="4.5" stroke="#a09b95" stroke-width="1.5"/>
+      <path d="M10.5 10.5l3.5 3.5" stroke="#a09b95" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <input class="search-input" id="searchInput" type="text" placeholder="Search content by title, tag, audience...">
+    <button class="search-clear" id="searchClear">&times;</button>
+  </div>
+  <div class="search-results" id="searchResults"></div>
+
+  <!-- Calendar -->
+  <div class="calendar-wrap">
+    <div class="weekday-row" id="weekdayRow"></div>
+    <div class="cal-grid"    id="calGrid"></div>
+  </div>
+
+  <div class="sync-row" id="syncRow"></div>
+
+  <!-- Binder tabs: stacked on right edge -->
+  <div class="binder-tabs-group">
+    <div class="binder-tab-wrap" id="keyTabWrap">
+      <div class="binder-tab">
+        <span class="binder-tab-text">Content Type Key</span>
+      </div>
+      <div class="binder-panel">
+        <div class="binder-panel-title">Content type key</div>
+        <div id="legendRows"></div>
+      </div>
+    </div>
+    <div class="binder-tab-wrap">
+      <div class="binder-tab">
+        <span class="binder-tab-text">Current Campaigns</span>
+      </div>
+      <div class="binder-panel binder-panel-wide">
+        <div class="binder-panel-title">Active paid campaigns</div>
+        <div id="campaignRows"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Request button -->
+<button class="req-btn" id="reqBtn" aria-label="Marketing request">
+  <svg width="28" height="28" viewBox="0 0 22 22" fill="none">
+    <path d="M3 4.5A1.5 1.5 0 014.5 3h13A1.5 1.5 0 0119 4.5v9A1.5 1.5 0 0117.5 15H8l-4 4v-4H4.5A1.5 1.5 0 013 13.5v-9z" fill="white" opacity="0.92"/>
+  </svg>
+</button>
+<div class="req-panel" id="reqPanel">
+  <p>Have a question or need something from marketing?</p>
+  <a class="req-cta-btn req-cta-btn-golden" href="https://forms.office.com/Pages/ResponsePage.aspx?id=Qm0cajT_jkW3O3yxhktEDmSUS03WtSJItO0Qa1cTIstUNDlDVlNUREtEUlQxNU1NRjY1N1dTVk9GOC4u" target="_blank" rel="noopener" style="margin-top:8px;">Submit a request</a>
+  <hr class="req-panel-divider">
+  <div class="req-cta-label">GTM Submissions</div>
+  <a class="req-cta-btn" href="https://simplifyedinc.sharepoint.com/:l:/s/PorticoMarketingPortal/JAAU_z43c7wOQoWot7TkDGcFAYKtoSU9XRdK7tl63wiyv2o?nav=YTU0NmVkNzQtMjg4OS00MmU3LWJjZmItYjMxYjA2NjY1MDk0" target="_blank" rel="noopener">Share competitor intel</a>
+  <a class="req-cta-btn" href="https://simplifyedinc.sharepoint.com/:l:/s/PorticoMarketingPortal/JACTDD80wZEASYnY-JDq3zofAVXqkP5Pknq2rW6M-xYX6Vs?nav=ZWQ4ZTcxOTYtMDI0My00NWNjLWFjODctMTBkM2FkYTJiM2I4" target="_blank" rel="noopener">Submit a case study</a>
+  <hr class="req-panel-divider">
+  <div class="req-cta-label">Marketing Quick Links</div>
+  <a class="req-cta-btn req-cta-btn-terracotta" href="https://simplifyedinc.sharepoint.com/sites/PorticoMarketingPortal/Brand%20Toolkit/Forms/AllItems.aspx" target="_blank" rel="noopener">Brand Toolkit</a>
+  <a class="req-cta-btn req-cta-btn-terracotta" href="https://simplifyedinc.sharepoint.com/sites/PorticoMarketingPortal/Product%20Marketing%20Toolkit/Forms/AllItems.aspx" target="_blank" rel="noopener">Product Toolkit</a>
+</div>
+
+<!-- Modal -->
+<div class="overlay" id="overlay">
+  <div class="modal-card" id="modalCard">
+    <button class="modal-close" id="modalClose">&times;</button>
+    <div class="modal-inner" id="modalInner"></div>
+  </div>
+</div>
+
+<script>
+  /* ─── Constants ─────────────────────────────────────── */
+  const MONTHS_L = ['January','February','March','April','May','June',
+                    'July','August','September','October','November','December'];
+  const MONTHS_S = ['Jan','Feb','Mar','Apr','May','Jun',
+                    'Jul','Aug','Sep','Oct','Nov','Dec'];
+  const WD_LABELS = ['Mon','Tue','Wed','Thu','Fri'];
+
+  const TYPES = {
+    'Momentum 2027':  { color: '#73cae7', label: 'Momentum 2027' },
+    'Email':          { color: '#e56a54', label: 'Email' },
+    'Social':         { color: '#e56a54', label: 'Social' },
+    'Event':          { color: '#006b8f', label: 'Event' },
+    'Event Comms':    { color: '#4298b5', label: 'Event Comms' },
+    'Article':        { color: '#ba422d', label: 'Article' },
+    'Case Study':     { color: '#00856f', label: 'Case Study' },
+    'Webinar':        { color: '#212721', label: 'Webinar' },
+    'Podcast':        { color: '#ffa300', label: 'Podcast' },
+    'Website':        { color: '#ffa300', label: 'Website' },
+    'Landing Page':   { color: '#ffa300', label: 'Landing Page' },
+    'Video':          { color: '#00ab8e', label: 'Video' },
+    'Product Update': { color: '#9c3673', label: 'Product Update' },
+    'Product Comms':  { color: '#da91bc', label: 'Product Comms' },
+    'Sequence':       { color: '#ed9b8c', label: 'Sequence' },
+    'Sales Sequence': { color: '#ed9b8c', label: 'Sequence' },
+    'Sales Asset':    { color: '#e08600', label: 'Sales Asset' },
+    'OOO':            { color: '#c8c3bc', label: 'OOO' },
+  };
+
+  const LEGEND = [
+    { color: '#73cae7', outline: '#ffc157', label: 'Momentum 2027' },
+    { color: '#006b8f', label: 'Event' },
+    { color: '#4298b5', label: 'Event Comms' },
+    { color: '#e56a54', label: 'Email / Social' },
+    { color: '#ba422d', label: 'Article' },
+    { color: '#00856f', label: 'Case Study' },
+    { color: '#ffa300', label: 'Website / Landing Page' },
+    { color: '#212721', label: 'Webinar' },
+    { color: '#00ab8e', label: 'Video' },
+    { color: '#9c3673', label: 'Product Update' },
+    { color: '#da91bc', label: 'Product Comms' },
+    { color: '#ed9b8c', label: 'Sequence' },
+    { color: '#e08600', label: 'Sales Asset / One Pager' },
+  ];
+
+  const MAX_VISIBLE = 4;
+  const MAX_VISIBLE_WITH_OOO = 3;
+  const MONTH_CELL_HEIGHT = 155;
+  const CELL_TOP_PAD = 10;
+  const CELL_BOTTOM_PAD = 10;
+  const DAY_NUM_HEIGHT = 22;
+  const TODAY_NUM_HEIGHT = 22;
+  const BASE_DAY_GAP = 6;
+  const EVENT_DAY_GAP = 3;
+  const EVENT_BAR_ROW_HEIGHT = 27;
+  const EVENT_BAR_GAP = 0;
+  const OOO_ROW_HEIGHT = 22;
+  const OOO_GAP = 6;
+  const PILL_ROW_HEIGHT = 21;
+  const OVERFLOW_ROW_HEIGHT = 13;
+  const CELL_FIT_BUFFER = 0;
+
+  /* ─── State ──────────────────────────────────────────── */
+  let allItems       = [];
+  let viewMode       = 'month';
+  let viewYear       = 2026;
+  let viewMonth      = 5;
+  let weekStart      = getMonday(new Date());
+  let savedMonthView = null; // { year, month } - preserved when entering week view
+
+  /* ─── Date helpers ───────────────────────────────────── */
+  function getMonday(date) {
+    const d = new Date(date);
+    const day = d.getDay();
+    d.setDate(d.getDate() + (day === 0 ? -6 : 1 - day));
+    d.setHours(0, 0, 0, 0);
+    return d;
+  }
+  function addDays(date, n) {
+    const d = new Date(date);
+    d.setDate(d.getDate() + n);
+    return d;
+  }
+  function toDateStr(date) {
+    return date.getFullYear() + '-' +
+           String(date.getMonth() + 1).padStart(2, '0') + '-' +
+           String(date.getDate()).padStart(2, '0');
+  }
+  function fmtDateStr(str) {
+    const [y, m, d] = str.split('-').map(Number);
+    return new Date(y, m - 1, d).toLocaleDateString('en-US', {
+      weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+    });
+  }
+  function typeOf(item) {
+    if (isMomentum2027(item)) return TYPES['Momentum 2027'];
+    return TYPES[item.type] || { color: '#aaa', label: item.type };
+  }
+  function isMomentum2027(item) {
+    return /^Momentum 2027\b/i.test(item.title || '');
+  }
+  function todayStr() { return toDateStr(new Date()); }
+
+  /* ─── Date index ─────────────────────────────────────── */
+  let dateIndex = {};
+  function buildIndex() {
+    dateIndex = {};
+    allItems.forEach((item, idx) => {
+      if (!item.date) return;
+      if (!dateIndex[item.date]) dateIndex[item.date] = [];
+      dateIndex[item.date].push(idx);
+    });
+  }
+
+  /* ─── Campaigns ─────────────────────────────────────── */
+  let allCampaigns = [];
+
+  function buildCampaigns(campaigns) {
+    allCampaigns = campaigns || [];
+    const el = document.getElementById('campaignRows');
+    if (!allCampaigns.length) {
+      el.innerHTML = '<div style="font-size:13px;color:var(--dim);padding-top:8px;">No active campaigns.</div>';
+      return;
+    }
+    el.innerHTML = allCampaigns.map((c, i) =>
+      '<button class="campaign-card coming-soon" data-idx="' + i + '">' +
+        '<div class="campaign-name">' + c.name + '</div>' +
+        '<div class="campaign-card-hint">View details ›</div>' +
+      '</button>'
+    ).join('');
+  }
+
+  function openCampaignModal(c) {
+    const inner = document.getElementById('modalInner');
+
+    let html = '<div class="item-type-row">' +
+      '<div class="type-dot" style="background:var(--teal)"></div>' +
+      '<span class="type-name">Paid Campaign &middot; ' + (c.product || '') + '</span>' +
+    '</div>' +
+    '<div class="item-title">' + c.name + '</div>';
+
+    // Who
+    const whoDesc     = c.who && c.who.description ? c.who.description : '';
+    const audienceUrl = c.who && c.who.audienceLink ? c.who.audienceLink : '';
+    html += '<div class="campaign-section">' +
+      '<div class="campaign-section-label">Who</div>' +
+      '<div class="campaign-section-content">' + (whoDesc || '<span style="color:var(--dim)">Audience TBD</span>') + '</div>';
+    if (audienceUrl) {
+      html += '<div style="margin-top:8px;"><a class="modal-link-secondary" href="' + audienceUrl + '" target="_blank" rel="noopener">HubSpot Segment</a></div>';
+    }
+    html += '</div>';
+
+    // What
+    html += '<div class="campaign-section">' +
+      '<div class="campaign-section-label">What</div>' +
+      '<div class="campaign-section-content">' + (c.what || '<span style="color:var(--dim)">Summary TBD</span>') + '</div>' +
+    '</div>';
+
+    // Where
+    html += '<div class="campaign-section">' +
+      '<div class="campaign-section-label">Where</div>' +
+      '<div class="campaign-section-content">' + (c.where || '<span style="color:var(--dim)">Channels TBD</span>') + '</div>' +
+    '</div>';
+
+    // How
+    if (c.how && c.how.length) {
+      html += '<div class="campaign-section">' +
+        '<div class="campaign-section-label">How</div>' +
+        '<ul class="campaign-how-list">' +
+        c.how.map(pt => '<li>' + pt + '</li>').join('') +
+        '</ul>' +
+      '</div>';
+    }
+
+    // Motions + landing page
+    const hasMotions   = c.motions && c.motions.length;
+    const hasLanding   = !!c.landingPage;
+    if (hasLanding || hasMotions) {
+      html += '<div style="border-top:1px solid var(--border);margin:20px 0 16px;"></div>';
+      html += '<div class="modal-links">';
+      if (hasLanding) {
+        html += '<a class="modal-link-primary" href="' + c.landingPage + '" target="_blank" rel="noopener" style="background:var(--teal)">View Landing Page</a>';
+      }
+      if (hasMotions) {
+        html += '<div class="campaign-motions-label" style="margin-top:' + (hasLanding ? '14px' : '0') + '">Associated Motions</div>';
+        c.motions.forEach(m => {
+          if (m.url) {
+            html += '<a class="modal-link-secondary" href="' + m.url + '" target="_blank" rel="noopener">' + m.label + '</a>';
+          } else {
+            html += '<div class="modal-link-secondary modal-link-placeholder">' + m.label + '</div>';
+          }
+        });
+      }
+      html += '</div>';
+    }
+
+    inner.innerHTML = html;
+    document.getElementById('modalCard').classList.add('modal-wide');
+    document.getElementById('overlay').classList.add('open');
+  }
+
+  /* ─── Legend ─────────────────────────────────────────── */
+  function buildLegend() {
+    document.getElementById('legendRows').innerHTML =
+      LEGEND.map(l => {
+        const outline = l.outline ? ';box-shadow:inset 0 0 0 2px ' + l.outline : '';
+        return (
+        '<div class="legend-row">' +
+          '<div class="legend-swatch" style="background:' + l.color + outline + '"></div>' +
+          '<span>' + l.label + '</span>' +
+        '</div>'
+        );
+      }).join('');
+  }
+
+  /* ─── Period labels ──────────────────────────────────── */
+  function monthPeriodLabel() {
+    return MONTHS_L[viewMonth] + ' ' + viewYear;
+  }
+  function weekPeriodLabel() {
+    const fri = addDays(weekStart, 4);
+    if (weekStart.getMonth() === fri.getMonth()) {
+      return MONTHS_L[weekStart.getMonth()] + ' ' +
+             weekStart.getDate() + '-' + fri.getDate() + ', ' + weekStart.getFullYear();
+    }
+    return MONTHS_S[weekStart.getMonth()] + ' ' + weekStart.getDate() +
+           ' - ' + MONTHS_S[fri.getMonth()] + ' ' + fri.getDate() +
+           ', ' + fri.getFullYear();
+  }
+
+  /* ─── Helpers ───────────────────────────────────────── */
+  function escHtml(s) {
+    return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+  function fmtInt(n) {
+    return Number(n).toLocaleString('en-US');
+  }
+  function isEmailLike(item) {
+    return ['Email', 'Product Comms', 'Event Comms'].includes(item && item.type);
+  }
+  function hasSentSignal(item) {
+    const summary = String(item && item.summary || '').trim().toLowerCase();
+    const status = String(item && item.status || '').trim().toLowerCase();
+    return /\bsent\b/.test(status) ||
+           /^sent\b/.test(summary) ||
+           /\bhubspot campaign stats\b/.test(summary);
+  }
+  function hasNotSentSignal(item) {
+    const text = (
+      String(item && item.status || '') + ' ' +
+      String(item && item.summary || '')
+    ).toLowerCase();
+    return /\bdraft\b|\bplanned\b|\bscheduled\b|\bpending\b|\bnot scheduled\b|\bbefore send\b|\bconfirm\b|\bneeds final\b/.test(text);
+  }
+  function shouldShowSentAudienceCount(item) {
+    if (!isEmailLike(item)) return false;
+    if (hasSentSignal(item)) return true;
+    if (hasNotSentSignal(item)) return false;
+    if (!item || !item.date) return false;
+    return item.date < todayStr();
+  }
+  function audienceListLabel(link, item) {
+    if (link.label) return link.label;
+    if (link.count !== undefined && link.count !== null && shouldShowSentAudienceCount(item)) {
+      return 'Sent to ' + fmtInt(link.count) + ' contacts';
+    }
+    return 'View audience list';
+  }
+  const TYPE_ICONS = {
+    'Momentum 2027':  '<img class="pill-icon" src="icons/palm-tree.png" alt="">',
+    'Event':          '<img class="pill-icon" src="icons/airplane.png" alt="">',
+    'Product Update': '<img class="pill-icon" src="icons/rocket.png" alt="">',
+    'Article':        '<img class="pill-icon" src="icons/pencil.png" alt="">',
+    'Sales Asset':    '<img class="pill-icon" src="icons/art-studies.png" alt="">',
+    'Website':        '<img class="pill-icon" src="icons/web.png" alt="">',
+    'Landing Page':   '<img class="pill-icon" src="icons/web.png" alt="">',
+  };
+  const TYPE_OUTLINES = {
+    'Momentum 2027': '#ffc157',
+    'Event': '#004961',
+    'Product Update': '#4c1a38',
+    'Article': '#7b2717',
+    'Sales Asset': '#c97900',
+  };
+  function outlineFor(item) {
+    if (isMomentum2027(item)) return TYPE_OUTLINES['Momentum 2027'];
+    return TYPE_OUTLINES[item.type] || '';
+  }
+  function iconFor(item, className) {
+    const iconType = isMomentum2027(item) ? 'Momentum 2027' : item.type;
+    const icon = TYPE_ICONS[iconType] || '';
+    return className === 'pill-icon' ? icon : icon.replace('pill-icon', className);
+  }
+
+  /* ─── Multi-day event helpers ───────────────────────── */
+  function isMultiDay(item) {
+    return (item.type === 'Event' || isMomentum2027(item)) && !!item.endDate && item.endDate > item.date;
+  }
+  function isOOO(item) {
+    return item.type === 'OOO';
+  }
+  function isSequence(item) {
+    return item.type === 'Sequence' || item.type === 'Sales Sequence';
+  }
+
+  function daysBetween(fromStr, toStr) {
+    const a = new Date(fromStr + 'T00:00:00');
+    const b = new Date(toStr  + 'T00:00:00');
+    return Math.round((b - a) / 86400000);
+  }
+
+  function getWeekSpanEvents(weekMonStr, weekFriStr) {
+    return allItems
+      .map((item, idx) => ({ item, idx }))
+      .filter(({ item }) => isMultiDay(item))
+      .filter(({ item }) => item.date <= weekFriStr && item.endDate >= weekMonStr)
+      .map(({ item, idx }) => {
+        const startOff = Math.max(daysBetween(weekMonStr, item.date), 0);
+        const endOff   = Math.min(daysBetween(weekMonStr, item.endDate), 4);
+        return {
+          item, idx,
+          startCol: startOff,
+          span: endOff - startOff + 1,
+          continuesLeft:  item.date < weekMonStr,
+          continuesRight: item.endDate > weekFriStr,
+        };
+      });
+  }
+
+  function oooLabel(item) {
+    return item.title.replace(/\s+OOO$/i, '').trim();
+  }
+
+  function getWeekOOOBars(weekMonStr, weekFriStr) {
+    return allItems
+      .map((item, idx) => ({ item, idx }))
+      .filter(({ item }) => isOOO(item) && item.date)
+      .filter(({ item }) => {
+        const end = item.endDate || item.date;
+        return item.date <= weekFriStr && end >= weekMonStr;
+      })
+      .map(({ item, idx }) => {
+        const end = item.endDate || item.date;
+        const startOff = Math.max(daysBetween(weekMonStr, item.date), 0);
+        const endOff   = Math.min(daysBetween(weekMonStr, end), 4);
+        return {
+          item, idx,
+          startCol: startOff,
+          span: endOff - startOff + 1,
+          continuesLeft:  item.date < weekMonStr,
+          continuesRight: end > weekFriStr,
+        };
+      });
+  }
+
+  function renderEventBars(events, container) {
+    const sorted = [...events].sort((a, b) => a.startCol - b.startCol);
+    const rows = [];
+    sorted.forEach(ev => {
+      let placed = false;
+      for (let r = 0; r < rows.length; r++) {
+        const last = rows[r][rows[r].length - 1];
+        if (last.startCol + last.span <= ev.startCol) { rows[r].push(ev); placed = true; break; }
+      }
+      if (!placed) rows.push([ev]);
+    });
+    rows.forEach(row => {
+      const rowEl = document.createElement('div');
+      rowEl.className = 'event-bar-row';
+      row.forEach(ev => {
+        const bar = document.createElement('button');
+        let cls = 'event-bar';
+        if (ev.continuesLeft)  cls += ' continues-left';
+        if (ev.continuesRight) cls += ' continues-right';
+        bar.className = cls;
+        if (isMomentum2027(ev.item)) bar.classList.add('momentum-bar');
+        const tp = typeOf(ev.item);
+        const outline = outlineFor(ev.item);
+        bar.style.background = tp.color;
+        if (outline) bar.style.setProperty('--event-outline', outline);
+        bar.style.gridColumn = (ev.startCol + 1) + ' / span ' + ev.span;
+        bar.innerHTML = iconFor(ev.item, 'event-bar-icon') + escHtml(ev.item.title);
+        bar.addEventListener('click', () => openItemView(ev.idx, null));
+        rowEl.appendChild(bar);
+      });
+      container.appendChild(rowEl);
+    });
+    return rows.length;
+  }
+
+  function reserveEventOverlaySpace(cells, events, rowCount) {
+    const eventSpace = (rowCount * EVENT_BAR_ROW_HEIGHT + EVENT_BAR_GAP) + 'px';
+    events.forEach(ev => {
+      for (let col = ev.startCol; col < ev.startCol + ev.span; col++) {
+        const cell = cells[col];
+        if (!cell) continue;
+        cell.classList.add('has-event-overlay');
+        cell.style.setProperty('--cell-event-bar-space', eventSpace);
+      }
+    });
+  }
+
+  function visibleLimitForMonthCell(totalItems, hasEventOverlay, eventRowCount, oooRowCount, isToday) {
+    if (totalItems <= 0) return 0;
+    const eventSpace = hasEventOverlay ? eventRowCount * EVENT_BAR_ROW_HEIGHT + EVENT_BAR_GAP : 0;
+    const oooSpace = oooRowCount ? oooRowCount * OOO_ROW_HEIGHT + OOO_GAP : 0;
+    const dayHeight = isToday ? TODAY_NUM_HEIGHT : DAY_NUM_HEIGHT;
+    const maxVisible = oooRowCount ? MAX_VISIBLE_WITH_OOO : MAX_VISIBLE;
+    const available = MONTH_CELL_HEIGHT -
+      CELL_TOP_PAD -
+      (CELL_BOTTOM_PAD + oooSpace) -
+      dayHeight -
+      ((hasEventOverlay ? EVENT_DAY_GAP : BASE_DAY_GAP) + eventSpace) -
+      CELL_FIT_BUFFER;
+
+    const cappedTotal = Math.min(totalItems, maxVisible);
+    if (totalItems <= cappedTotal && cappedTotal * PILL_ROW_HEIGHT <= available) {
+      return cappedTotal;
+    }
+
+    const availableWithOverflow = Math.max(0, available - OVERFLOW_ROW_HEIGHT);
+    const fitCount = Math.min(maxVisible, Math.floor(availableWithOverflow / PILL_ROW_HEIGHT));
+    if (fitCount > 0) return fitCount;
+    if (totalItems > 1 && available >= PILL_ROW_HEIGHT + OVERFLOW_ROW_HEIGHT) return 1;
+    if (available >= PILL_ROW_HEIGHT) return 1;
+    return 0;
+  }
+
+  function fillMonthCellItems(meta, eventRowCount, oooRowCount) {
+    const hasEventOverlay = meta.cell.classList.contains('has-event-overlay');
+    const limit = visibleLimitForMonthCell(meta.singleIndices.length, hasEventOverlay, eventRowCount, oooRowCount, meta.isToday);
+    const visible = meta.singleIndices.slice(0, limit);
+    const overflow = meta.inMonth ? meta.singleIndices.slice(limit) : [];
+
+    visible.forEach(idx => meta.cell.appendChild(makePill(idx)));
+    if (overflow.length > 0) {
+      const ob = document.createElement('button');
+      ob.className = 'overflow-btn';
+      ob.textContent = '+' + overflow.length + ' more';
+      ob.addEventListener('click', () => openDayView(meta.dayStr, meta.indices));
+      meta.cell.appendChild(ob);
+    }
+  }
+
+  function renderOOOBars(ooos, container) {
+    const sorted = [...ooos].sort((a, b) => a.startCol - b.startCol || b.span - a.span);
+    const rows = [];
+    sorted.forEach(oo => {
+      let placed = false;
+      for (let r = 0; r < rows.length; r++) {
+        const last = rows[r][rows[r].length - 1];
+        if (last.startCol + last.span <= oo.startCol) { rows[r].push(oo); placed = true; break; }
+      }
+      if (!placed) rows.push([oo]);
+    });
+    rows.forEach(row => {
+      const rowEl = document.createElement('div');
+      rowEl.className = 'ooo-bar-row';
+      row.forEach(oo => {
+        const bar = document.createElement('div');
+        bar.className = 'ooo-bar';
+        bar.style.gridColumn = (oo.startCol + 1) + ' / span ' + oo.span;
+
+        const nameEl = document.createElement('span');
+        nameEl.className = 'ooo-name';
+        nameEl.textContent = oooLabel(oo.item) + ' OOO';
+        bar.appendChild(nameEl);
+
+        const lineEl = document.createElement('span');
+        lineEl.className = 'ooo-line';
+        bar.appendChild(lineEl);
+
+        rowEl.appendChild(bar);
+      });
+      container.appendChild(rowEl);
+    });
+    return rows.length;
+  }
+
+  /* ─── Render ─────────────────────────────────────────── */
+  function render() {
+    viewMode === 'month' ? renderMonth() : renderWeek();
+  }
+
+  function buildWeekdayHeader(isWeek) {
+    const row = document.getElementById('weekdayRow');
+    row.innerHTML = '';
+    for (let i = 0; i < 5; i++) {
+      const cell = document.createElement('div');
+      cell.className = 'weekday-cell';
+      const lbl = document.createElement('span');
+      lbl.className = 'wd-label';
+      lbl.textContent = WD_LABELS[i];
+      cell.appendChild(lbl);
+      if (isWeek) {
+        const d = addDays(weekStart, i);
+        const ds = document.createElement('span');
+        ds.className = 'wd-date';
+        ds.textContent = MONTHS_S[d.getMonth()] + ' ' + d.getDate();
+        cell.appendChild(ds);
+      }
+      row.appendChild(cell);
+    }
+  }
+
+  function renderMonth() {
+    document.getElementById('periodLabel').textContent = monthPeriodLabel();
+    buildWeekdayHeader(false);
+
+    const firstOfMonth = new Date(viewYear, viewMonth, 1);
+    const lastOfMonth  = new Date(viewYear, viewMonth + 1, 0);
+    const startMonday  = getMonday(firstOfMonth);
+    const todStr       = todayStr();
+    const grid         = document.getElementById('calGrid');
+    grid.innerHTML     = '';
+    grid.classList.add('month-layout');
+
+    let cursor = new Date(startMonday);
+    while (true) {
+      const weekMonStr = toDateStr(cursor);
+      const weekFriStr = toDateStr(addDays(cursor, 4));
+      let weekHasMonthDay = false;
+      const cells = [];
+      const dayMetas = [];
+
+      for (let d = 0; d < 5; d++) {
+        const day     = addDays(cursor, d);
+        const dayStr  = toDateStr(day);
+        const inMonth = day.getMonth() === viewMonth && day.getFullYear() === viewYear;
+        const isToday = dayStr === todStr;
+        const indices = dateIndex[dayStr] || [];
+        if (inMonth) weekHasMonthDay = true;
+
+        const cell = document.createElement('div');
+        cell.className = 'cal-cell' +
+          (inMonth ? '' : ' filler') +
+          (isToday ? ' is-today' : '');
+
+        const dn = document.createElement('div');
+        dn.className = 'day-num' + (inMonth ? '' : ' filler-num');
+        dn.textContent = day.getDate();
+        cell.appendChild(dn);
+
+        // Multi-day events and OOO shown in bar layer; exclude them from cell pills
+        const singleIndices = indices.filter(idx => !isMultiDay(allItems[idx]) && !isOOO(allItems[idx]));
+        dayMetas.push({ cell, dayStr, indices, singleIndices, inMonth, isToday });
+        cells.push(cell);
+      }
+
+      // Build week section
+      const weekEl = document.createElement('div');
+      weekEl.className = 'cal-week';
+
+      const dayGrid = document.createElement('div');
+      dayGrid.className = 'day-cells-grid';
+      cells.forEach(c => dayGrid.appendChild(c));
+      weekEl.appendChild(dayGrid);
+
+      const weekEvents = getWeekSpanEvents(weekMonStr, weekFriStr);
+      const weekOOOs   = getWeekOOOBars(weekMonStr, weekFriStr);
+      let eventRowCount = 0;
+      let oooRowCount = 0;
+      if (weekEvents.length) {
+        weekEl.classList.add('has-event-bars');
+        const overlay = document.createElement('div');
+        overlay.className = 'bars-overlay';
+        eventRowCount = renderEventBars(weekEvents, overlay);
+        reserveEventOverlaySpace(cells, weekEvents, eventRowCount);
+        weekEl.appendChild(overlay);
+      }
+      if (weekOOOs.length) {
+        weekEl.classList.add('has-ooo-bars');
+        const overlay = document.createElement('div');
+        overlay.className = 'ooo-bars-overlay';
+        oooRowCount = renderOOOBars(weekOOOs, overlay);
+        weekEl.style.setProperty('--ooo-bar-space', (oooRowCount * OOO_ROW_HEIGHT + OOO_GAP) + 'px');
+        weekEl.appendChild(overlay);
+      }
+      dayMetas.forEach(meta => fillMonthCellItems(meta, eventRowCount, oooRowCount));
+      grid.appendChild(weekEl);
+
+      cursor = addDays(cursor, 7);
+      if (weekHasMonthDay && cursor > lastOfMonth) break;
+    }
+  }
+
+  function renderWeek() {
+    document.getElementById('periodLabel').textContent = weekPeriodLabel();
+    buildWeekdayHeader(true);
+
+    const todStr     = todayStr();
+    const grid       = document.getElementById('calGrid');
+    grid.innerHTML   = '';
+    grid.classList.add('month-layout');
+
+    const weekMonStr = toDateStr(weekStart);
+    const weekFriStr = toDateStr(addDays(weekStart, 4));
+
+    const weekEl = document.createElement('div');
+    weekEl.className = 'cal-week';
+
+    const dayGrid = document.createElement('div');
+    dayGrid.className = 'day-cells-grid';
+    const cells = [];
+
+    for (let d = 0; d < 5; d++) {
+      const day     = addDays(weekStart, d);
+      const dayStr  = toDateStr(day);
+      const isToday = dayStr === todStr;
+      const indices = dateIndex[dayStr] || [];
+
+      const cell = document.createElement('div');
+      cell.className = 'cal-cell week-cell' + (isToday ? ' is-today' : '');
+
+      const dn = document.createElement('div');
+      dn.className = 'day-num';
+      dn.textContent = day.getDate();
+      cell.appendChild(dn);
+
+      indices.filter(idx => !isOOO(allItems[idx]) && !isMultiDay(allItems[idx])).forEach(idx => cell.appendChild(makePill(idx, true)));
+      cells.push(cell);
+      dayGrid.appendChild(cell);
+    }
+
+    weekEl.appendChild(dayGrid);
+
+    const weekEvents = getWeekSpanEvents(weekMonStr, weekFriStr);
+    const weekOOOs   = getWeekOOOBars(weekMonStr, weekFriStr);
+    if (weekEvents.length) {
+      weekEl.classList.add('has-event-bars');
+      const overlay = document.createElement('div');
+      overlay.className = 'bars-overlay';
+      const rowCount = renderEventBars(weekEvents, overlay);
+      reserveEventOverlaySpace(cells, weekEvents, rowCount);
+      weekEl.appendChild(overlay);
+    }
+    if (weekOOOs.length) {
+      weekEl.classList.add('has-ooo-bars');
+      const overlay = document.createElement('div');
+      overlay.className = 'ooo-bars-overlay';
+      const rowCount = renderOOOBars(weekOOOs, overlay);
+      weekEl.style.setProperty('--ooo-bar-space', (rowCount * OOO_ROW_HEIGHT + OOO_GAP) + 'px');
+      weekEl.appendChild(overlay);
+    }
+
+    grid.appendChild(weekEl);
+  }
+
+  function makePill(idx, isWeek = false) {
+    const item = allItems[idx];
+    const tp   = typeOf(item);
+    const btn  = document.createElement('button');
+    btn.className = 'pill';
+    if (isWeek) btn.classList.add('week-pill');
+    if (isSequence(item)) btn.classList.add('sequence-pill');
+    btn.style.background = tp.color;
+    const outline = outlineFor(item);
+    if (outline) {
+      btn.classList.add('outlined');
+      btn.style.setProperty('--pill-outline', outline);
+    }
+    if (isMomentum2027(item)) btn.classList.add('momentum-pill');
+    const icon = iconFor(item, 'pill-icon');
+    if (isWeek) {
+      const metaParts = [tp.label, item.tags].filter(Boolean);
+      const metaText = metaParts.join(' - ');
+      btn.setAttribute('aria-label', metaText ? item.title + ', ' + metaText : item.title);
+      btn.title = metaText ? item.title + ' - ' + metaText : item.title;
+      btn.innerHTML =
+        '<span class="week-pill-title-row">' +
+          icon +
+          '<span class="week-pill-title">' + escHtml(item.title) + '</span>' +
+        '</span>' +
+        '<span class="week-pill-meta">' + escHtml(metaText) + '</span>';
+    } else {
+      btn.innerHTML = icon + escHtml(item.title);
+    }
+    btn.addEventListener('click', () => openItemView(idx, null));
+    return btn;
+  }
+
+  /* ─── Navigation ─────────────────────────────────────── */
+  document.getElementById('prevBtn').addEventListener('click', () => {
+    if (viewMode === 'month') {
+      if (--viewMonth < 0) { viewMonth = 11; viewYear--; }
+      savedMonthView = null;
+    } else {
+      weekStart = addDays(weekStart, -7);
+    }
+    render();
+  });
+  document.getElementById('nextBtn').addEventListener('click', () => {
+    if (viewMode === 'month') {
+      if (++viewMonth > 11) { viewMonth = 0; viewYear++; }
+      savedMonthView = null;
+    } else {
+      weekStart = addDays(weekStart, 7);
+    }
+    render();
+  });
+
+  /* View toggle - preserve month when switching to week and back */
+  document.getElementById('monthBtn').addEventListener('click', () => {
+    if (viewMode === 'month') return;
+    // Restore saved month, or fall back to month containing midweek
+    if (savedMonthView) {
+      viewYear  = savedMonthView.year;
+      viewMonth = savedMonthView.month;
+    } else {
+      const mid = addDays(weekStart, 2);
+      viewYear  = mid.getFullYear();
+      viewMonth = mid.getMonth();
+    }
+    savedMonthView = null;
+    viewMode = 'month';
+    document.getElementById('monthBtn').classList.add('active');
+    document.getElementById('weekBtn').classList.remove('active');
+    render();
+  });
+  document.getElementById('weekBtn').addEventListener('click', () => {
+    if (viewMode === 'week') return;
+    savedMonthView = { year: viewYear, month: viewMonth };
+    weekStart = getMonday(new Date());
+    viewMode  = 'week';
+    document.getElementById('weekBtn').classList.add('active');
+    document.getElementById('monthBtn').classList.remove('active');
+    render();
+  });
+
+  /* ─── Modal ──────────────────────────────────────────── */
+  let dayViewCtx = null;
+
+  function openDayView(dateStr, indices) {
+    dayViewCtx = { dateStr, indices };
+    const inner = document.getElementById('modalInner');
+
+    let html = '<div class="day-view-heading">' + fmtDateStr(dateStr) + '</div>' +
+               '<div class="day-list">';
+    indices.forEach(idx => {
+      const item = allItems[idx];
+      const tp   = typeOf(item);
+      const itemClass = isSequence(item) ? ' sequence-item' : '';
+      html += '<button class="day-list-item' + itemClass + '" data-idx="' + idx + '">' +
+              '<div class="dli-dot" style="background:' + tp.color + '"></div>' +
+              '<div class="dli-text">' +
+                '<span class="dli-title">' + item.title + '</span>' +
+                '<span class="dli-sub">' + item.tags + ' &middot; ' + tp.label + '</span>' +
+              '</div>' +
+              '<span class="dli-arrow">&#8250;</span>' +
+              '</button>';
+    });
+    html += '</div>';
+    inner.innerHTML = html;
+
+    inner.querySelectorAll('.day-list-item').forEach(el => {
+      el.addEventListener('click', () => openItemView(parseInt(el.dataset.idx), dayViewCtx));
+    });
+    document.getElementById('overlay').classList.add('open');
+  }
+
+  function openItemView(idx, fromDayCtx) {
+    const item  = allItems[idx];
+    const tp    = typeOf(item);
+    const inner = document.getElementById('modalInner');
+    let html    = '';
+
+    if (fromDayCtx) {
+      html += '<button class="back-btn" id="backBtn">&#8592; Back</button>';
+    }
+
+    // Type indicator + title
+    html += '<div class="item-type-row">' +
+              '<div class="type-dot" style="background:' + tp.color + '"></div>' +
+              '<span class="type-name">' + tp.label + '</span>' +
+            '</div>' +
+            '<div class="item-title">' + item.title + '</div>';
+
+    // Properties - flex rows, one border-bottom per row
+    html += '<div class="props-list">';
+
+    html += '<div class="prop-row">' +
+              '<div class="prop-label">Published</div>' +
+              '<div class="prop-value">' + (item.date ? fmtDateStr(item.date) : 'Date TBD') + '</div>' +
+            '</div>';
+
+    html += '<div class="prop-row">' +
+              '<div class="prop-label">Product Focus</div>' +
+              '<div class="prop-value"><span class="focus-chip">' + (item.tags || '') + '</span></div>' +
+            '</div>';
+
+    if (item.audience) {
+      html += '<div class="prop-row">' +
+                '<div class="prop-label">Audience</div>' +
+                '<div class="prop-value">' + item.audience + '</div>' +
+              '</div>';
+    }
+    if (item.sender) {
+      html += '<div class="prop-row">' +
+                '<div class="prop-label">Brand/Sender</div>' +
+                '<div class="prop-value">' + item.sender + '</div>' +
+              '</div>';
+    }
+    if (item.summary) {
+      html += '<div class="prop-row">' +
+                '<div class="prop-label">Summary</div>' +
+                '<div class="prop-value">' + item.summary + '</div>' +
+              '</div>';
+    }
+    if (item.attendees) {
+      html += '<div class="prop-row">' +
+                '<div class="prop-label">Attendees</div>' +
+                '<div class="prop-value">' + item.attendees + '</div>' +
+              '</div>';
+    }
+
+    html += '</div>'; // close props-list
+
+    // Links
+    const isWebinar = item.type === 'Webinar';
+    const typeDisplayMap = {
+      'Event': 'Event Brief', 'Sales Asset': 'One-Pager', 'Website': 'Landing Page',
+      'Video': 'Video', 'Email': 'Email', 'Product Comms': 'Email',
+      'Event Comms': 'Email', 'Article': 'Article', 'Case Study': 'Case Study',
+      'Webinar': 'Landing Page', 'Social': 'Post', 'Product Update': 'Product Update',
+      'Sequence': 'Sequence', 'Sales Sequence': 'Sequence',
+    };
+    const typeDisplay = typeDisplayMap[item.type] || item.type;
+    const needsContentPlaceholder = ['Email', 'Product Comms', 'Event Comms'].includes(item.type) && !item.contentLink;
+    const hasRegistrantButton = isWebinar || Object.prototype.hasOwnProperty.call(item, 'registrantLink');
+    const hasAttendeeButton = isWebinar || Object.prototype.hasOwnProperty.call(item, 'attendeeLink');
+    const hasAttendingAccountsButton = Object.prototype.hasOwnProperty.call(item, 'attendingAccountsLink');
+    const audienceLinks = Array.isArray(item.audienceLinks) ? item.audienceLinks : [];
+    const hasAudienceLinks = item.audienceLink || audienceLinks.length > 0;
+    const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || item.youtubeLink || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
+    if (hasLinks) {
+      html += '<div class="modal-links">';
+      if (item.contentLink) {
+        const btnLabel = item.youtubeLink ? 'View in HubSpot' : 'View ' + typeDisplay;
+        html += '<a class="modal-link-primary" href="' + item.contentLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">' + btnLabel + '</a>';
+      } else if (needsContentPlaceholder) {
+        html += '<div class="modal-link-primary tbd">View ' + typeDisplay + '</div>';
+      }
+      if (item.youtubeLink) {
+        html += '<a class="modal-link-primary" href="' + item.youtubeLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">View in YouTube</a>';
+      }
+      if (item.audienceLink) {
+        const audienceLabel = audienceListLabel({
+          count: item.audienceCount,
+          url: item.audienceLink
+        }, item);
+        html += '<a class="modal-link-secondary" href="' + escHtml(item.audienceLink) + '" target="_blank" rel="noopener">' + escHtml(audienceLabel) + '</a>';
+      }
+      audienceLinks.forEach(link => {
+        if (!link.url) return;
+        html += '<a class="modal-link-secondary" href="' + escHtml(link.url) + '" target="_blank" rel="noopener">' + escHtml(audienceListLabel(link, item)) + '</a>';
+      });
+      const outlineStyle = 'style="border-color:' + tp.color + ';color:' + tp.color + '"';
+      if (hasRegistrantButton) {
+        if (item.registrantLink) {
+          html += '<a class="modal-link-outline" ' + outlineStyle + ' href="' + item.registrantLink + '" target="_blank" rel="noopener">View registrants</a>';
+        } else {
+          html += '<a class="modal-link-outline tbd">View registrants</a>';
+        }
+      }
+      if (hasAttendeeButton) {
+        if (item.attendeeLink) {
+          html += '<a class="modal-link-outline" ' + outlineStyle + ' href="' + item.attendeeLink + '" target="_blank" rel="noopener">View attendees</a>';
+        } else {
+          html += '<a class="modal-link-outline tbd">View attendees</a>';
+        }
+      }
+      if (hasAttendingAccountsButton) {
+        if (item.attendingAccountsLink) {
+          html += '<a class="modal-link-outline" ' + outlineStyle + ' href="' + item.attendingAccountsLink + '" target="_blank" rel="noopener">View attending accounts</a>';
+        } else {
+          html += '<a class="modal-link-outline tbd">View attending accounts</a>';
+        }
+      }
+      html += '</div>';
+    }
+
+    inner.innerHTML = html;
+
+    if (fromDayCtx) {
+      document.getElementById('backBtn').addEventListener('click', () =>
+        openDayView(fromDayCtx.dateStr, fromDayCtx.indices));
+    }
+
+    document.getElementById('overlay').classList.add('open');
+  }
+
+  document.getElementById('modalClose').addEventListener('click', closeModal);
+  document.getElementById('overlay').addEventListener('click', e => {
+    if (e.target === document.getElementById('overlay')) closeModal();
+  });
+  function closeModal() {
+    document.getElementById('overlay').classList.remove('open');
+    document.getElementById('modalCard').classList.remove('modal-wide');
+    dayViewCtx = null;
+  }
+
+  /* ─── Search ────────────────────────────────────────── */
+  const searchInput   = document.getElementById('searchInput');
+  const searchClear   = document.getElementById('searchClear');
+  const searchResults = document.getElementById('searchResults');
+  const calWrap       = document.querySelector('.calendar-wrap');
+
+  function shortDate(str) {
+    const [y, m, d] = str.split('-').map(Number);
+    return new Date(y, m - 1, d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  }
+
+  function matchesSearch(item, terms) {
+    const hay = [item.title, item.tags, item.audience, item.sender, item.type, item.summary]
+      .join(' ').toLowerCase();
+    return terms.every(t => hay.includes(t));
+  }
+
+  function showSearchResults(query) {
+    const terms = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    if (!terms.length) { clearSearch(); return; }
+
+    const matches = allItems.filter(i => matchesSearch(i, terms));
+    calWrap.style.display = 'none';
+    document.getElementById('syncRow').style.display = 'none';
+    searchResults.classList.add('active');
+    searchClear.classList.add('visible');
+
+    if (!matches.length) {
+      searchResults.innerHTML = '<div class="no-results">No results for "' + query + '"</div>';
+      return;
+    }
+
+    let html = '<div class="search-count">' + matches.length + ' result' + (matches.length === 1 ? '' : 's') + '</div>';
+    matches.forEach(item => {
+      const tp  = typeOf(item);
+      const idx = allItems.indexOf(item);
+      const itemClass = isSequence(item) ? ' sequence-item' : '';
+      html += '<button class="result-row' + itemClass + '" data-idx="' + idx + '">' +
+        '<div class="result-dot" style="background:' + tp.color + '"></div>' +
+        '<span class="result-title">' + item.title + '</span>' +
+        '<div class="result-meta">' +
+          '<span class="result-type-chip" style="background:' + tp.color + '">' + tp.label + '</span>' +
+          '<span>' + (item.date ? shortDate(item.date) : 'Undated') + '</span>' +
+          (item.tags ? '<span>' + item.tags + '</span>' : '') +
+        '</div>' +
+        '<span class="result-arrow">&#8250;</span>' +
+      '</button>';
+    });
+    searchResults.innerHTML = html;
+
+    searchResults.querySelectorAll('.result-row').forEach(el => {
+      el.addEventListener('click', () => openItemView(parseInt(el.dataset.idx), null));
+    });
+  }
+
+  function clearSearch() {
+    searchInput.value = '';
+    searchClear.classList.remove('visible');
+    searchResults.classList.remove('active');
+    searchResults.innerHTML = '';
+    calWrap.style.display = '';
+    document.getElementById('syncRow').style.display = '';
+  }
+
+  searchInput.addEventListener('input', () => {
+    searchInput.value.trim() ? showSearchResults(searchInput.value) : clearSearch();
+  });
+  searchClear.addEventListener('click', () => { clearSearch(); searchInput.focus(); });
+
+  /* ─── Binder tab z-index on hover ───────────────────── */
+  document.querySelectorAll('.binder-tab-wrap').forEach(wrap => {
+    wrap.addEventListener('mouseenter', () => {
+      document.querySelectorAll('.binder-tab-wrap').forEach(w => w.style.zIndex = '1');
+      wrap.style.zIndex = '3';
+    });
+  });
+
+
+  /* ─── Request panel toggle ───────────────────────────── */
+  document.getElementById('reqBtn').addEventListener('click', e => {
+    e.stopPropagation();
+    document.getElementById('reqPanel').classList.toggle('open');
+  });
+  document.addEventListener('click', e => {
+    if (!e.target.closest('#reqPanel') && !e.target.closest('#reqBtn'))
+      document.getElementById('reqPanel').classList.remove('open');
+  });
+
+  /* ─── Load data ──────────────────────────────────────── */
+  fetch('data.json?v=' + Date.now())
+    .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+    .then(data => {
+      allItems = data.items.filter(i => i.date);
+      if (data.lastUpdated) {
+        const d = new Date(data.lastUpdated);
+        const datePart = d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+        const timePart = d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
+        const updatedBy = data.lastUpdatedBy ? ' by ' + data.lastUpdatedBy : '';
+        document.getElementById('syncRow').textContent = 'Last updated ' + datePart + ' at ' + timePart + updatedBy;
+      }
+      buildIndex();
+      buildLegend();
+      buildCampaigns(data.campaigns || []);
+      render();
+    })
+    .catch(() => { buildIndex(); buildLegend(); buildCampaigns([]); render(); });
+</script>
+</body>
+</html>

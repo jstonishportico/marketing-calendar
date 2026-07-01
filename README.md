@@ -1,8 +1,10 @@
 # Portico Growth OS
 
-Active home base for the Portico Growth OS.
+Active home base for the Portico Growth OS and the Portico marketing calendar repository.
 
 This folder is the durable system of record. Chats can help operate it, but the strategy, sources, dashboard data, connector status, and decisions should live here so the operating system is not trapped inside any one Codex thread.
+
+The existing marketing calendar page remains at the repository root in `index.html`. The recovered Growth OS dashboard app lives in `dashboard/`.
 
 ## Folder Map
 

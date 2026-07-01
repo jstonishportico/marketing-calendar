@@ -1,0 +1,2141 @@
+{
+  "lastUpdated": "2026-06-29T20:02:16Z",
+  "lastUpdatedBy": "Codex",
+  "campaigns": [
+    {
+      "name": "Financial Aid (OBBBA)",
+      "product": "Financial Aid",
+      "status": "Active",
+      "landingPage": "",
+      "who": {
+        "description": "Financial aid administrators and directors at career-focused institutions",
+        "audienceLink": ""
+      },
+      "what": "Awareness campaign focused on how OBBBA changes affect institutional loan limit determinations and what schools need to know before the effective date.",
+      "where": "Google Ads, LinkedIn Ads, outbound email sequences",
+      "how": [
+        "Lead with the compliance angle: schools that miss this will have problems at audit",
+        "Position Portico FA as the tool that handles the new complexity automatically",
+        "Use Live OBBBA Q&A webinar as a conversion point for warm leads"
+      ],
+      "motions": [
+        {
+          "label": "Outbound Sequence - FA Admins",
+          "url": ""
+        },
+        {
+          "label": "Google Ads Campaign",
+          "url": ""
+        },
+        {
+          "label": "LinkedIn Ads Campaign",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Clinical Management (Trajecsys)",
+      "product": "Clinical Management",
+      "status": "Active",
+      "landingPage": "",
+      "who": {
+        "description": "Program directors and clinical coordinators at allied health and nursing programs",
+        "audienceLink": ""
+      },
+      "what": "Brand awareness and lead generation for Trajecsys clinical management, targeting accreditation-driven programs during conference season.",
+      "where": "ACEN and ASRT conference presence, targeted outbound sequences",
+      "how": [
+        "Lead with accreditation outcomes: documentation compliance reduces audit risk",
+        "Leverage Trajecsys brand equity among clinical programs",
+        "Tie The Commons content (case studies, articles) to demo requests"
+      ],
+      "motions": [
+        {
+          "label": "Outbound Sequence - Program Directors",
+          "url": ""
+        },
+        {
+          "label": "ACEN Conference",
+          "url": ""
+        },
+        {
+          "label": "ASRT Conference",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Attendance",
+      "product": "Attendance",
+      "status": "Active",
+      "landingPage": "",
+      "who": {
+        "description": "Campus directors and administrators at career schools focused on student retention and outcomes",
+        "audienceLink": ""
+      },
+      "what": "Brand awareness for Portico Attendance and Skills tracking, positioning it as the answer to retention and externship tracking challenges.",
+      "where": "Google Ads, outbound email sequences",
+      "how": [
+        "Frame attendance technology as a student outcomes issue, not an administrative one",
+        "Connect to externship and skills tracking as a unified value prop",
+        "Drive to The Commons content as a warm-up before outreach"
+      ],
+      "motions": [
+        {
+          "label": "Outbound Sequence - Program Directors",
+          "url": ""
+        },
+        {
+          "label": "Google Ads Campaign",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "date": "2026-04-27",
+      "tags": "Attendance, Skills, Payments",
+      "title": "MyPortico Launch",
+      "type": "Product Update",
+      "audience": "Attendance Users",
+      "sender": "Product",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://welcome.porticoedu.com/myportico"
+    },
+    {
+      "date": "2026-04-29",
+      "tags": "Portico Suite",
+      "title": "CECU Landing Page",
+      "type": "Website",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://welcome.porticoedu.com/cecu-2026"
+    },
+    {
+      "date": "2026-04-29",
+      "tags": "Financial Aid",
+      "title": "Introducing Institutionally Determined Loan Limits",
+      "type": "Video",
+      "audience": "Financial Aid Prospects",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/OBBBA%20Product%20Videos/Introducing%20Institutionally%20Determined%20Loan%20Limits.mp4",
+      "youtubeLink": "https://youtu.be/FsmO1QoJnCU?si=IcQD2ek7XJNY0eER"
+    },
+    {
+      "date": "2026-04-30",
+      "tags": "Clinical Management",
+      "title": "Trajecsys Competitor One-Pager (Editable)",
+      "type": "Sales Asset",
+      "audience": "Trajecsys Prospects",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://canva.link/7xrskaxfpiycmmf"
+    },
+    {
+      "date": "2026-05-01",
+      "tags": "Financial Aid",
+      "title": "OBBBA Resource Hub One-Pager",
+      "type": "Sales Asset",
+      "audience": "Financial Aid Prospects",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/OBBBA%20Resource%20Hub%20One-Pager.pdf"
+    },
+    {
+      "date": "2026-05-04",
+      "tags": "Financial Aid",
+      "title": "Identifying Grandfathered Students in CORE",
+      "type": "Video",
+      "audience": "Financial Aid Prospects",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/OBBBA%20Product%20Videos/Identifying%20Grandfathered%20Students%20in%20CORE.mp4",
+      "youtubeLink": "https://youtu.be/3hO1uCJE_Cc?si=mJpmjNUarlUfaCn2"
+    },
+    {
+      "date": "2026-05-05",
+      "tags": "Attendance, Skills, Payments",
+      "title": "MyPortico / Attendance Product Update",
+      "type": "Email",
+      "audience": "Attendance Users",
+      "sender": "Product",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212223947150?portalId=7762472&preview_key=DARPFiJX&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Legacy CK App Contacts: 3,942 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10583/filters",
+          "count": 3942
+        },
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "tags": "Portico Suite",
+      "title": "FASFAA Landing Page",
+      "type": "Website",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://welcome.porticoedu.com/fasfaa-2026"
+    },
+    {
+      "date": "2026-05-07",
+      "tags": "Financial Aid",
+      "title": "May Financial Aid Newsletter",
+      "type": "Email",
+      "audience": "All Financial Aid Contacts",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212310214031?portalId=7762472&preview_key=QuATuAyT&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "FA Newsletter: 3,071 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+          "count": 3071
+        },
+        {
+          "label": "FA clients: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        },
+        {
+          "label": "Campus Ivy FA contacts: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "tags": "CRM / Recruit",
+      "title": "Document Upload",
+      "type": "Product Update",
+      "audience": "CRM / Recruit Users",
+      "sender": "Product",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-05-11",
+      "tags": "SIS",
+      "title": "Automating Status Changes (\"Power Tools for Registrars\")",
+      "type": "Product Update",
+      "audience": "SIS Users",
+      "sender": "Product",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-05-13",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Email Promo",
+      "type": "Email",
+      "audience": "Financial Aid Prospects & Users",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212822256672?portalId=7762472&preview_key=RkEZpJtn&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "FA Newsletter: 3,071 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+          "count": 3071
+        },
+        {
+          "label": "Campus Ivy FA contacts: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        },
+        {
+          "label": "Financial Aid role list: 3,110 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters",
+          "count": 3110
+        },
+        {
+          "label": "FA clients: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "tags": "CRM",
+      "title": "May Product Newsletter - CRM",
+      "type": "Product Comms",
+      "audience": "CRM Users",
+      "sender": "Portico Product Updates",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212798927407?portalId=7762472&preview_key=touEeIXR&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        },
+        {
+          "label": "CRM users: 5,221 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10723/filters",
+          "count": 5221
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "tags": "SIS",
+      "title": "May Product Newsletter - SIS",
+      "type": "Product Comms",
+      "audience": "SIS Users",
+      "sender": "Portico Product Updates",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/212760711564?portalId=7762472&preview_key=fpNPHixw&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+    },
+    {
+      "date": "2026-05-14",
+      "tags": "Clinical Management",
+      "title": "SPE Tracker One-Pager",
+      "type": "Sales Asset",
+      "audience": "Trajecsys Prospects",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/Trajecsys/Trajecsys%20SPE%20Tracker.pdf"
+    },
+    {
+      "date": "2026-05-18",
+      "tags": "",
+      "title": "Memorial Day Closure Notification",
+      "type": "Email",
+      "audience": "All Customers",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213135558955?portalId=7762472&preview_key=erNHmbtS&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Current customer contacts: 1,967 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters",
+          "count": 1967
+        },
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "tags": "",
+      "title": "May Portico POV Newsletter",
+      "type": "Email",
+      "audience": "Newsletter Subscribers",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213193748535?portalId=7762472&preview_key=aZDnbeEq&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Marketing contacts: 34,089 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+          "count": 34089
+        },
+        {
+          "label": "Portico Roster 2026: 226 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 226
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "tags": "Attendance, Skills, Payments",
+      "title": "May Product Newsletter - Attendance",
+      "type": "Product Comms",
+      "audience": "Attendance Users",
+      "sender": "Portico Product Updates",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-05-22",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Email Promo",
+      "type": "Email",
+      "audience": "Financial Aid Prospects & Users",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213414888365?portalId=7762472&preview_key=HwTRAjHS&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+    },
+    {
+      "date": "2026-05-23",
+      "tags": "",
+      "title": "Customer and Portico employee testimonials",
+      "type": "Video",
+      "audience": "All Customers",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/:i:/s/Marketing/IQConz9ERzTMSaJ82fKYy3AeAXkgIdn30GQqhzNhqyap8oA?e=PkPokl"
+    },
+    {
+      "date": "2026-05-25",
+      "tags": "Portico Brand",
+      "title": "Happy Memorial Day",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-05-26",
+      "tags": "Financial Aid",
+      "title": "FASFAA Pre-Event Email",
+      "type": "Event Comms",
+      "audience": "FASFAA Attendees",
+      "sender": "Noel Suarez",
+      "summary": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10690/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213628093249?portalId=7762472&preview_key=JFstojFf&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 183
+    },
+    {
+      "date": "2026-05-26",
+      "tags": "Financial Aid",
+      "title": "FASFAA 2026 | Daytona Beach, FL",
+      "type": "Event",
+      "audience": "Florida Postsecondary Schools",
+      "sender": "",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQDJy9q5tvFDTYAecn8zVLvtASMPasFobtFVhLA6Tk9ZEDk?e=H",
+      "endDate": "2026-05-29",
+      "attendees": "Karen, TBD (plus Rene Lezcano: Hollywood/Cortiva)",
+      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10690/filters",
+      "attendingAccountsLink": "https://app.hubspot.com/contacts/7762472/objectLists/10731/filters"
+    },
+    {
+      "date": "2026-05-26",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Email Promo (Day-Before)",
+      "type": "Email",
+      "audience": "Financial Aid Prospects & Users",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/213635599434?portalId=7762472&preview_key=efdgYncu&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "FA clients: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        },
+        {
+          "label": "Campus Ivy FA contacts: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        },
+        {
+          "label": "FA Newsletter: 3,071 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+          "count": 3071
+        },
+        {
+          "label": "Financial Aid role list: 3,110 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters",
+          "count": 3110
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "tags": "",
+      "title": "Mark F OOO",
+      "type": "OOO",
+      "audience": "",
+      "sender": "",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-05-29"
+    },
+    {
+      "date": "2026-05-27",
+      "tags": "Financial Aid",
+      "title": "Live OBBBA Q&A",
+      "type": "Webinar",
+      "audience": "Financial Aid Prospects & Users",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://welcome.porticoedu.com/obbba-q-and-a",
+      "registrantLink": "https://app.hubspot.com/contacts/7762472/objectLists/10768/filters",
+      "attendeeLink": ""
+    },
+    {
+      "date": "2026-06-03",
+      "tags": "Clinical Management",
+      "title": "ACEN Pre-Event Email",
+      "type": "Event Comms",
+      "audience": "ACEN Attendees",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10797/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214252251146?portalId=7762472&preview_key=nDVzTBRo&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 1232
+    },
+    {
+      "date": "2026-06-04",
+      "tags": "Portico Suite",
+      "title": "NASFAA Landing Page",
+      "type": "Website",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://welcome.porticoedu.com/nasfaa"
+    },
+    {
+      "date": "2026-06-01",
+      "tags": "",
+      "title": "Nat OOO",
+      "type": "OOO",
+      "audience": "",
+      "sender": "",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-01",
+      "tags": "",
+      "title": "Chris OOO",
+      "type": "OOO",
+      "audience": "",
+      "sender": "",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-06-02"
+    },
+    {
+      "date": "2026-06-01",
+      "tags": "",
+      "title": "Mark OOO",
+      "type": "OOO",
+      "audience": "",
+      "sender": "",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-06-02"
+    },
+    {
+      "date": "2026-06-01",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Post-Webinar Sequence",
+      "type": "Sequence",
+      "audience": "Financial Aid Webinar Registrants",
+      "sender": "Sales",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://app.hubspot.com/sequences/7762472/sequence/306131015?field=updated_at&order=DESC&page=1&enrolledBy=ALL_USERS"
+    },
+    {
+      "date": "2026-06-04",
+      "tags": "Financial Aid",
+      "title": "FASFAA Post-Event Email",
+      "type": "Event Comms",
+      "audience": "FASFAA Attendees",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10690/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214345815347?portalId=7762472&preview_key=omjxlxhZ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 183
+    },
+    {
+      "date": "2026-06-02",
+      "tags": "Momentum",
+      "title": "Portico's 2026 Roadmap (Doug)",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico / Doug Kaplan",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_porticos-2026-roadmap-activity-7467601777698459648-8eUC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3gYN4BB0HNl4B1Zh2Nxe5PT8epmPFG1UQ"
+    },
+    {
+      "date": "2026-06-03",
+      "tags": "Clinical Management",
+      "title": "Vet Tech Webinar Promo Email (Announcement)",
+      "type": "Email",
+      "audience": "Vet Tech Educators",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214229612824?portalId=7762472&preview_key=DNJQqHkf&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 681
+    },
+    {
+      "date": "2026-06-04",
+      "tags": "Financial Aid",
+      "title": "FASFAA Post-Event Sales Sequence",
+      "type": "Sales Sequence",
+      "audience": "FASFAA Attendees",
+      "sender": "Sales",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-09",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Post-Webinar Follow-Up Email",
+      "type": "Email",
+      "audience": "OBBBA Webinar Registrants",
+      "sender": "Portico",
+      "summary": "Sent June 9. Follow-up email with the full Q&A resource and a demo CTA for Financial Aid and managed services. Subject: Your OBBBA questions answered.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10705/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214682207345?portalId=7762472&preview_key=rYzLFlDb&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 279
+    },
+    {
+      "date": "2026-06-10",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Save the Date",
+      "type": "Email",
+      "audience": "General Audience",
+      "sender": "Natalie Gleason",
+      "summary": "Sent June 10 at 11:16 AM UTC-07:00. Save-the-date announcement for Momentum 2027 at Margaritaville Hollywood Beach, May 17-19, 2027. Included segments: Current Customer Contacts (Lifecycle Stage), Portico Roster 2026, and Static List - Momentum 2026 Registrations.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/8245/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214711737976?portalId=7762472&preview_key=wueoDnhp&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 3611
+    },
+    {
+      "date": "2026-07-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Preliminary agenda drafted",
+      "type": "Milestone",
+      "audience": "Momentum planning team",
+      "sender": "Content & Agenda",
+      "summary": "Draft the preliminary agenda so customers can start building the case to attend.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-07-31",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Microsite launched",
+      "type": "Website",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Marketing",
+      "summary": "Launch the Momentum 2027 microsite with updated dates, location, logo, attendee video, form, workflow, and segment routing.",
+      "audienceLink": "",
+      "contentLink": "https://app.hubspot.com/pages/7762472/editor/214591070313/content"
+    },
+    {
+      "date": "2026-08-01",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Early bird registration open",
+      "type": "Registration",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Registration Manager",
+      "summary": "Open early bird registration with promotional pricing and group-rate options.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-08-01",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Sponsorships open",
+      "type": "Sponsorship",
+      "audience": "Potential sponsors",
+      "sender": "Sponsorship Manager",
+      "summary": "Open sponsorship outreach and begin sponsor commitment tracking.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-08-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Call for proposals open",
+      "type": "Call for Proposals",
+      "audience": "Customers and success story advocates",
+      "sender": "Content & Agenda",
+      "summary": "Invite session proposals and customer success story submissions.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-08-17",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Margaritaville deposit #2 due",
+      "type": "Deadline",
+      "audience": "Momentum planning team",
+      "sender": "Chris / G2",
+      "summary": "Second Margaritaville Hollywood Beach deposit due.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2026-10-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Keynote solidified",
+      "type": "Milestone",
+      "audience": "Momentum planning team",
+      "sender": "Executive Sponsor",
+      "summary": "Confirm keynote direction and speaker for promotion.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-10-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Portico team roster set",
+      "type": "Milestone",
+      "audience": "Portico team",
+      "sender": "Portico Team Engagement",
+      "summary": "Set the Portico team roster, roles, responsibilities, and activities.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-11-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Call for proposals closed",
+      "type": "Call for Proposals",
+      "audience": "Customers and success story advocates",
+      "sender": "Content & Agenda",
+      "summary": "Close customer proposal submissions and begin session selection.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-11-16",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Margaritaville deposit #3 due",
+      "type": "Deadline",
+      "audience": "Momentum planning team",
+      "sender": "Chris / G2",
+      "summary": "Third Margaritaville Hollywood Beach deposit due.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2026-12-01",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Regular registration open",
+      "type": "Registration",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Registration Manager",
+      "summary": "Open regular registration after the early bird period.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-12-31",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Sponsorships close",
+      "type": "Sponsorship",
+      "audience": "Potential sponsors",
+      "sender": "Sponsorship Manager",
+      "summary": "Close sponsorship commitments and finalize sponsor deliverables.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-01-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Full schedule announced",
+      "type": "Milestone",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Marketing",
+      "summary": "Announce the full schedule and lock in the agenda promotional story.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-01-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Pathfinder awards open",
+      "type": "Awards",
+      "audience": "Portico customers",
+      "sender": "Marketing",
+      "summary": "Open Pathfinder award nominations.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-03-31",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Pathfinder awards close",
+      "type": "Awards",
+      "audience": "Portico customers",
+      "sender": "Marketing",
+      "summary": "Close Pathfinder award nominations.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-04-15",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Pathfinder awards selected",
+      "type": "Awards",
+      "audience": "Momentum planning team",
+      "sender": "Executive Sponsor",
+      "summary": "Select Pathfinder award winners for recognition at Momentum.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-04-19",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Hotel room block ends - staff",
+      "type": "Deadline",
+      "audience": "Portico team",
+      "sender": "Operations & Logistics",
+      "summary": "Staff hotel room block deadline.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2027-04-26",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Hotel room block ends - all guests",
+      "type": "Deadline",
+      "audience": "Registered attendees",
+      "sender": "Operations & Logistics",
+      "summary": "Guest hotel room block deadline.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2027-05-05",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Know Before You Go webinar",
+      "type": "Webinar",
+      "audience": "Registered attendees",
+      "sender": "Portico",
+      "summary": "Pre-event webinar to help attendees prepare for Momentum 2027.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2027-05-10",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Margaritaville final deposit due",
+      "type": "Deadline",
+      "audience": "Momentum planning team",
+      "sender": "Chris / G2",
+      "summary": "Final Margaritaville Hollywood Beach deposit due.",
+      "audienceLink": "",
+      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
+    },
+    {
+      "date": "2027-05-17",
+      "tags": "Momentum",
+      "title": "Momentum 2027 | Hollywood, FL",
+      "type": "Event",
+      "audience": "Portico customers and VIP prospects",
+      "sender": "Portico",
+      "summary": "Momentum 2027 user conference at Margaritaville Hollywood Beach in Hollywood, FL.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1",
+      "endDate": "2027-05-19",
+      "attendees": "Portico customers, VIP prospects, and Portico team"
+    },
+    {
+      "date": "2027-05-20",
+      "tags": "Momentum",
+      "title": "Momentum 2027: Post-event survey",
+      "type": "Survey",
+      "audience": "Momentum attendees",
+      "sender": "Marketing",
+      "summary": "Send post-event survey to capture attendee feedback and follow-up signals.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-06-04",
+      "tags": "Portico Suite",
+      "title": "How Career Schools Make Operational Changes Stick",
+      "type": "Article",
+      "audience": "The Commons",
+      "sender": "Natalie Gleason",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/how-career-schools-make-operational-changes-stick"
+    },
+    {
+      "date": "2026-07-17",
+      "tags": "The Commons",
+      "title": "OBBBA - Hollywood/Cortiva Case Study",
+      "type": "Case Study",
+      "audience": "The Commons",
+      "sender": "Karen Martin-Brown",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-08",
+      "tags": "CRM / Recruit",
+      "title": "Bulk Doument Send",
+      "type": "Product Update",
+      "audience": "CRM / Recruit Users",
+      "sender": "Product",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-10",
+      "tags": "Clinical Management",
+      "title": "What Scattered Clinical Documentation Does to Students",
+      "type": "Article",
+      "audience": "The Commons",
+      "sender": "Georgia Grey, M.Ed.",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/what-scattered-clinical-documentation-does-to-students"
+    },
+    {
+      "date": "2026-06-10",
+      "tags": "Clinical Management",
+      "title": "The Real Cost of Paper in Clinical Education",
+      "type": "Article",
+      "audience": "The Commons",
+      "sender": "Georgia Grey, M.Ed.",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/the-real-cost-of-paper-in-clinical-education"
+    },
+    {
+      "date": "2026-06-10",
+      "tags": "Financial Aid",
+      "title": "Financial Aid Has a New Ceiling",
+      "type": "Article",
+      "audience": "The Commons",
+      "sender": "Karen Martin-Brown",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/financial-aid-has-a-new-ceiling"
+    },
+    {
+      "date": "2026-07-13",
+      "tags": "CRM / Recruit",
+      "title": "The Case for TikTok in Career School Recruiting",
+      "type": "Article",
+      "audience": "The Commons",
+      "sender": "Jenn Lyles, Darius Goldman",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-10",
+      "tags": "Attendance",
+      "title": "Your Students Are Ahead of Your Attendance Process",
+      "type": "Article",
+      "audience": "The Commons",
+      "sender": "Jackson Batchelder",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/your-students-are-ahead-of-your-attendance-process"
+    },
+    {
+      "date": "2026-06-11",
+      "tags": "Clinical Management",
+      "title": "ACEN 2026 | Indianapolis, IN",
+      "type": "Event",
+      "audience": "Nursing Educators",
+      "sender": "Portico, formerly Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQCOwWZ57RExRpfoOdwRK5cDAZlryGrBp-J5UEjlmdE9CCU?e=SUvKWS",
+      "endDate": "2026-06-12",
+      "attendees": "Georgia, Mandy, Ron",
+      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10797/filters"
+    },
+    {
+      "date": "2026-06-11",
+      "tags": "Clinical Management",
+      "title": "ACEN Booth Social Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Onsite booth/team photo posts from ACEN in Indianapolis on the Portico and Trajecsys LinkedIn pages.",
+      "audienceLink": "",
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_trajecsys-a-portico-brand-is-all-set-up-activity-7470847873555963904-0a6g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3gYN4BB0HNl4B1Zh2Nxe5PT8epmPFG1UQ",
+      "audienceLinks": [
+        {
+          "label": "Trajecsys LinkedIn post",
+          "url": "https://www.linkedin.com/posts/trajecsys-corporation_trajecsys-is-all-set-up-at-acen-in-indianapolis-activity-7470848122643120128--wq3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3gYN4BB0HNl4B1Zh2Nxe5PT8epmPFG1UQ"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "tags": "Financial Aid",
+      "title": "June Financial Aid Newsletter",
+      "type": "Email",
+      "audience": "All Financial Aid Contacts",
+      "sender": "Portico",
+      "summary": "Sent June 11 at 10:46 AM ET. Subject: Portico Financial Aid News: June Newsletter. HubSpot campaign stats: 2,134 included, 1,968 sent, 1,960 delivered.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214838866037?portalId=7762472&preview_key=nrXpTZUQ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 1968,
+      "audienceLinks": [
+        {
+          "label": "FA clients source list: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        },
+        {
+          "label": "Campus Ivy FA source list: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "tags": "Portico Suite",
+      "title": "CECU Social Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Published June 12. Student Victory Tour CECU post promoting Booth 437, OBBBA resources, LinkedIn headshot station, giveaways, and the featured Innovation Hub session.",
+      "audienceLink": "",
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_the-student-victory-tour-is-headed-to-cecu-activity-7471218523353223168-NKZj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3gYN4BB0HNl4B1Zh2Nxe5PT8epmPFG1UQ",
+      "audienceLinks": [
+        {
+          "label": "Promo graphic",
+          "url": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/CECU%20Social%202.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "tags": "Portico Suite",
+      "title": "CECU One-Pager",
+      "type": "Sales Asset",
+      "audience": "CECU Attendees",
+      "sender": "Portico",
+      "summary": "Published June 11. CECU 2026 one-pager for the Student Victory Tour, OBBBA resources, headshot station, giveaways, and event follow-up.",
+      "audienceLink": "",
+      "contentLink": "assets/Portico_CECU_26_One_Pager_R2.pdf"
+    },
+    {
+      "date": "2026-06-11",
+      "tags": "CRM",
+      "title": "June Product Newsletter - CRM",
+      "type": "Product Comms",
+      "audience": "CRM Users",
+      "sender": "Portico Product Updates",
+      "summary": "Sent June 11 at 9:54 AM ET. Subject: Calendar 2.0, Bulk Email Send, New Support Agent, and more. HubSpot campaign stats: 2,682 sent, 2,669 delivered, 362 opens, 16 clicks. Included lists: CRM users All - May 14 2026 and Portico Roster 2026.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10723/filters",
+      "contentLink": "https://welcome.porticoedu.com/new-calendar-2.0-bulk-email-send-new-support-agent-and-more?hs_preview=bInwgRwy-214690764384",
+      "audienceCount": 2682,
+      "audienceLinks": [
+        {
+          "label": "CRM users All - May 14 2026: 5,221 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10723/filters",
+          "count": 5221
+        },
+        {
+          "label": "Portico Roster 2026: 225 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 225
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "tags": "Portico Suite",
+      "title": "CECU Pre-Event Email",
+      "type": "Event Comms",
+      "audience": "CECU Attendees",
+      "sender": "Natalie Gleason",
+      "summary": "Sent June 12. CECU pre-event email to attendees promoting Booth 437, OBBBA resources, LinkedIn headshot station, giveaways, and the featured Innovation Hub session.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10868/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214877810361?portalId=7762472&preview_key=pWNSOrDz&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+    },
+    {
+      "date": "2026-06-12",
+      "tags": "Clinical Management",
+      "title": "Vet Tech Webinar Promo Email",
+      "type": "Email",
+      "audience": "Vet Tech Educators",
+      "sender": "Trajecsys",
+      "summary": "Sent June 12. Webinar invite for the June 23 distance vet tech session on skills verification and clinical documentation in Trajecsys.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214936813461?portalId=7762472&preview_key=tLpWvLgy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 681
+    },
+    {
+      "date": "2026-06-11",
+      "tags": "SIS",
+      "title": "June Product Newsletter - SIS",
+      "type": "Product Comms",
+      "audience": "SIS Users",
+      "sender": "Portico Product Updates",
+      "summary": "Sent June 11. Subject: Registrar Power Tools, New Support Agent, and more Portico SIS news. HubSpot campaign stats: 1,076 sent and delivered, 194 opens, 8 clicks. Included lists: SIS Users - April 2026 and Portico Roster 2026.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10536/filters",
+      "contentLink": "https://welcome.porticoedu.com/registrar-power-tools-new-support-agent-and-more-portico-sis-news?hs_preview=YmeINlXI-214736626584",
+      "audienceCount": 1076,
+      "audienceLinks": [
+        {
+          "label": "SIS Users - April 2026: 1,500 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10536/filters",
+          "count": 1500
+        },
+        {
+          "label": "Portico Roster 2026: 225 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 225
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "tags": "Financial Aid",
+      "title": "NASFAA Pre-Event Email",
+      "type": "Event Comms",
+      "audience": "NASFAA 2026 Registrants",
+      "sender": "Portico",
+      "summary": "Scheduled for June 16. NASFAA pre-event email from Portico, verified against the HubSpot email asset. Audience: NASFAA 2026 Registrants.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10879/filters",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-5a743c37-6037-42c1-a970-7da81436ea10?hs_preview=fdkfbFNp-215100970569",
+      "audienceCount": 693
+    },
+    {
+      "date": "2026-06-15",
+      "tags": "Attendance, Skills, Payments",
+      "title": "June Product Newsletter - Attendance",
+      "type": "Product Comms",
+      "audience": "Attendance Users",
+      "sender": "Portico Product Updates",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-07-15",
+      "tags": "Attendance",
+      "title": "Reimagine Your Externships",
+      "type": "Article",
+      "audience": "The Commons",
+      "sender": "Ryan Barnhart",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-16",
+      "tags": "Clinical Management",
+      "title": "June Product Newsletter - Clinical Management",
+      "type": "Product Comms",
+      "audience": "Clinical Users",
+      "sender": "Portico Product Updates",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-16",
+      "tags": "Clinical Management",
+      "title": "Vet Tech Webinar Promo Email (1 Week Out)",
+      "type": "Email",
+      "audience": "Vet Tech Educators",
+      "sender": "Trajecsys",
+      "summary": "Sent June 16. Subject: Join us June 23: A smarter model for Vet Tech skills verification. Verified against the HubSpot email asset.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214936814376?portalId=7762472&preview_key=IkuePMZy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Vet Tech Insycle Import - 6.12.26: 33 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10881/filters",
+          "count": 33
+        },
+        {
+          "label": "Vet Tech Webinar Invitation - June 2026: 684 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+          "count": 684
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "tags": "Financial Aid",
+      "title": "CECU Session Spotlight",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Scheduled for June 16 shortly after 10 AM ET. Featured OBBBA session spotlight for Siana Stewart-Mullings and Margaret Smith's Innovation Hub session.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/CECU%20OB3%20Social.png"
+    },
+    {
+      "date": "2026-06-18",
+      "tags": "Clinical Management",
+      "title": "ACEN Post-Event Email",
+      "type": "Event Comms",
+      "audience": "ACEN 2026 Leads",
+      "sender": "Trajecsys",
+      "summary": "Scheduled June 18. Subject: Trajecsys for ACEN accreditation. Verified against the HubSpot email asset.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10831/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215283909236?portalId=7762472&preview_key=KwODXtdg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 55
+    },
+    {
+      "date": "2026-06-17",
+      "tags": "Payments",
+      "title": "Payments Explainer Video",
+      "type": "Video",
+      "audience": "",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-17",
+      "tags": "Attendance, Skills, Payments",
+      "title": "MyPortico student and admin intro videos",
+      "type": "Video",
+      "audience": "",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-18",
+      "tags": "Portico Brand",
+      "title": "Juneteenth closure notice",
+      "type": "Email",
+      "audience": "Portico roster and current customer contacts",
+      "sender": "Portico",
+      "summary": "Scheduled June 18. Subject: Portico Juneteenth Closure. Verified against the HubSpot email asset.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214866376502?portalId=7762472&preview_key=wNPeJVhQ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026: 225 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 225
+        },
+        {
+          "label": "Current customer contacts: 1,970 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters",
+          "count": 1970
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Email Promo",
+      "type": "Email",
+      "audience": "Financial Aid Prospects & Users",
+      "sender": "Portico",
+      "summary": "Scheduled June 25. Subject: Still have OBBBA questions? Promo for the July 15 OBBBA Live Q&A, with links to the May 27 recording and Q&A answers. Verified against the HubSpot email asset.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214946422924?portalId=7762472&preview_key=MKcxLMQF&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "FA Newsletter: 3,071 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+          "count": 3071
+        },
+        {
+          "label": "Financial Aid role list: 3,404 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters",
+          "count": 3404
+        },
+        {
+          "label": "FA clients: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        },
+        {
+          "label": "Campus Ivy FA contacts: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "tags": "Portico Suite",
+      "title": "CECU Final Reminder Email",
+      "type": "Event Comms",
+      "audience": "CECU 2026 Registrants",
+      "sender": "Portico",
+      "summary": "Scheduled June 18. Subject: See you at CECU? Verified against the HubSpot email asset.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214877799947?portalId=7762472&preview_key=UzWLBYxb&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 688
+    },
+    {
+      "date": "2026-06-19",
+      "tags": "Portico Brand",
+      "title": "Happy Juneteenth",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Scheduled in HubSpot. Copy: Today we observe Juneteenth and the ongoing pursuit of freedom, opportunity, and equality. Our offices will be closed on Friday, June 19, in observance of the holiday. Graphic: Portico_Juneteenth26.jpg.",
+      "audienceLink": "",
+      "contentLink": "https://www.linkedin.com/feed/update/urn:li:activity:7473687288724754432"
+    },
+    {
+      "date": "2026-06-19",
+      "tags": "Portico Community",
+      "title": "The Commons Soft Publish",
+      "type": "Website",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Site goes live as a soft publish, with no public announcement yet. Launch target date is June 22, 2026.",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com"
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "The Commons Official Launch",
+      "type": "Milestone",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Official launch target date for The Commons MVP microsite and launch communications.",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com"
+    },
+    {
+      "date": "2026-06-10",
+      "tags": "The Commons",
+      "title": "The Commons Sales + CS Briefing",
+      "type": "Internal Comms",
+      "audience": "Sales + CS",
+      "sender": "Marketing",
+      "summary": "Internal briefing on The Commons from the MVP launch plan.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-17",
+      "tags": "The Commons",
+      "title": "The Commons LinkedIn Page Live",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons",
+      "summary": "The Commons LinkedIn page goes live ahead of launch.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-17",
+      "tags": "The Commons",
+      "title": "Contributor Organic Posts",
+      "type": "Social",
+      "audience": "Contributor Networks",
+      "sender": "Founding Contributors",
+      "summary": "June 17-18: contributors post organically on their expertise, with no Commons mention yet.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-17",
+      "tags": "The Commons",
+      "title": "Portico Commons Teaser Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "June 17-18: Portico LinkedIn teaser post with the message: Something's coming June 22.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-18",
+      "tags": "The Commons",
+      "title": "Contributor Launch Briefing",
+      "type": "Contributor Comms",
+      "audience": "Founding Contributors",
+      "sender": "Marketing",
+      "summary": "Send launch-day briefing to contributors with what to post, when to post, and suggested framing.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "Contributor Launch Posts",
+      "type": "Social",
+      "audience": "Contributor Networks",
+      "sender": "Founding Contributors",
+      "summary": "7-8 AM: contributors post personal launch-day content on LinkedIn.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "The Commons Official Launch Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons",
+      "summary": "Scheduled for Monday, June 22 at 11:15 AM on The Commons LinkedIn. Live post link pending.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "Portico Commons Amplification Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "Scheduled for Monday, June 22 at 11:15 AM on Portico LinkedIn. Live post link pending.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "Introducing The Commons",
+      "type": "Email",
+      "audience": "Marketing contacts (draft audience)",
+      "sender": "Portico",
+      "summary": "Draft in HubSpot; not scheduled yet. Customer launch email for The Commons. Confirm the final audience before send.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215296371343?portalId=7762472&preview_key=jmHPnDvv&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Marketing contacts: 34,368 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+          "count": 34368
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "The Commons Sales/CS Outreach",
+      "type": "Sales Enablement",
+      "audience": "Active Accounts and Prospects",
+      "sender": "Sales + CS",
+      "summary": "PM: Sales and CS personal outreach to active accounts and prospects who could benefit from The Commons.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "CECU Commons URL Sharing",
+      "type": "Event Promo",
+      "audience": "CECU Attendees",
+      "sender": "Onsite Portico Team",
+      "summary": "June 22 and CECU ongoing: in-person verbal references and live URL sharing for The Commons.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-23",
+      "tags": "The Commons",
+      "title": "Contributor Launch Amplification",
+      "type": "Social",
+      "audience": "Contributor Networks",
+      "sender": "Founding Contributors",
+      "summary": "June 23-24: contributors amplify launch posts on LinkedIn, staggered.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-23",
+      "tags": "The Commons",
+      "title": "Your Students Are Ahead of Your Attendance Process",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons",
+      "summary": "Scheduled for Tuesday, June 23 on The Commons LinkedIn. Live post link pending.",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/your-students-are-ahead-of-your-attendance-process"
+    },
+    {
+      "date": "2026-06-26",
+      "tags": "The Commons",
+      "title": "The Commons First Content Follow-Up Email",
+      "type": "Email",
+      "audience": "Portico Customers",
+      "sender": "Portico",
+      "summary": "Week of June 23: follow-up email featuring the first Commons content piece.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-18",
+      "tags": "",
+      "title": "Jess OOO",
+      "type": "OOO",
+      "audience": "",
+      "sender": "",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-06-26"
+    },
+    {
+      "date": "2026-06-23",
+      "tags": "Portico Suite",
+      "title": "CECU We're Here Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Natalie / Portico",
+      "summary": "Natalie to post from CECU on Tuesday. Live post link pending.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "Portico Suite",
+      "title": "CECU 2026 | Cleveland, OH",
+      "type": "Event",
+      "audience": "Career education schools in U.S.",
+      "sender": "",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQAOqTCKwQyUQIcJ9jTgdAFgAfvrCs_ql78gYyqJaiyzLB0?e=Fme",
+      "endDate": "2026-06-24",
+      "attendees": "Natalie, Dale, Cara, Marc, Chris, Siana",
+      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters"
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "Clinical Management",
+      "title": "Vet Tech Webinar Promo Email (Day Before)",
+      "type": "Email",
+      "audience": "Vet Tech Educators",
+      "sender": "Trajecsys",
+      "summary": "Scheduled June 22. Subject: TOMORROW: How to manage distance Vet Tech programs. Verified against the HubSpot email asset.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214936846925?portalId=7762472&preview_key=WPzHjIwy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Vet Tech Insycle Import - 6.12.26: 33 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10881/filters",
+          "count": 33
+        },
+        {
+          "label": "Vet Tech Webinar Invitation - June 2026: 684 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+          "count": 684
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "tags": "Clinical Management",
+      "title": "Vet Tech Webinar Promo Email (Morning Of)",
+      "type": "Email",
+      "audience": "Vet Tech Educators",
+      "sender": "Trajecsys",
+      "summary": "Scheduled June 23. Subject: Today: Clinical skills verification for Vet Tech programs. Verified against the HubSpot email asset.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214941718634?portalId=7762472&preview_key=okFsNpzK&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Vet Tech Insycle Import - 6.12.26: 33 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10881/filters",
+          "count": 33
+        },
+        {
+          "label": "Vet Tech Webinar Invitation - June 2026: 684 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
+          "count": 684
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "tags": "Clinical Management",
+      "title": "Vet Tech Webinar (2 PM ET)",
+      "type": "Webinar",
+      "audience": "Vet Tech Educators",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://welcome.porticoedu.com/distance-vet-tech-webinar"
+    },
+    {
+      "date": "2026-06-24",
+      "tags": "",
+      "title": "June Portico POV Newsletter",
+      "type": "Email",
+      "audience": "Marketing contacts and Portico roster",
+      "sender": "Portico",
+      "summary": "Planned for June 24. Draft is in HubSpot; The Commons links need to be confirmed after go-live before the newsletter goes out.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215277530992?portalId=7762472&preview_key=JFnnJrrC&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Marketing contacts: 34,368 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+          "count": 34368
+        },
+        {
+          "label": "Portico Roster 2026: 225 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+          "count": 225
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "tags": "Financial Aid",
+      "title": "NASFAA 2026 | National Harbor, MD",
+      "type": "Event",
+      "audience": "FA professionals in U.S. institutions",
+      "sender": "",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQDsdzVU-d6aQ4G87NCHCgg2AaQFPhbRZ1e2e67Ys_pRG-g?e=7KWfZp",
+      "endDate": "2026-07-01",
+      "attendees": "Siana, Noel, Karen, Christina"
+    },
+    {
+      "date": "2026-06-29",
+      "tags": "Portico Suite",
+      "title": "CECU Post-Event Email",
+      "type": "Event Comms",
+      "audience": "CECU Attendees",
+      "sender": "Natalie Gleason",
+      "summary": "Sent June 29. CECU recap/resource follow-up to attendees.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216085122991?portalId=7762472&preview_key=tGVdjeYg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 383
+    },
+    {
+      "date": "2026-06-30",
+      "tags": "Portico Suite",
+      "title": "CECU Sales Sequence",
+      "type": "Sequence",
+      "audience": "Warm leads, booth scans, session attendees, and target accounts",
+      "sender": "Sales",
+      "summary": "Post-CECU follow-up sequence",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-07-01",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Email Promo",
+      "type": "Email",
+      "audience": "Financial Aid Prospects & Users",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-07-02",
+      "tags": "Portico Brand",
+      "title": "July 3 closure notice email",
+      "type": "Email",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-07-04",
+      "tags": "Portico Brand",
+      "title": "Happy July 4",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-07-08",
+      "tags": "Financial Aid",
+      "title": "NASFAA Post-Event Email",
+      "type": "Event Comms",
+      "audience": "NASFAA Attendees",
+      "sender": "Noel Suarez",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-07-09",
+      "tags": "Financial Aid",
+      "title": "July Financial Aid Newsletter",
+      "type": "Email",
+      "audience": "FA Users",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-07-13",
+      "tags": "Clinical Management",
+      "title": "AARC Forum | Bonita Springs, FL",
+      "type": "Event",
+      "audience": "",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-07-15",
+      "attendees": "Brian"
+    },
+    {
+      "date": "2026-07-14",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Email Promo (Day-Before)",
+      "type": "Email",
+      "audience": "Financial Aid Prospects & Users",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-07-15",
+      "tags": "Payments",
+      "title": "Payments \"Launch\"",
+      "type": "Website",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-07-15",
+      "tags": "Clinical Management",
+      "title": "AEIRS | San Francisco, CA",
+      "type": "Event",
+      "audience": "",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-07-17",
+      "attendees": "Mark Moore"
+    },
+    {
+      "date": "2026-07-15",
+      "tags": "Financial Aid",
+      "title": "Live OBBBA Q&A",
+      "type": "Webinar",
+      "audience": "Financial Aid Prospects & Users",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "registrantLink": "",
+      "attendeeLink": ""
+    },
+    {
+      "date": "2026-07-17",
+      "tags": "Clinical Management",
+      "title": "CAAHEP Workshop | Denver, CO",
+      "type": "Event",
+      "audience": "",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-07-18",
+      "attendees": "Shawna"
+    },
+    {
+      "date": "2026-07-31",
+      "tags": "Clinical Management",
+      "title": "AVTE | Portland, OR",
+      "type": "Event",
+      "audience": "Vet Tech Educators",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-08-02",
+      "attendees": "Cara, Dale"
+    },
+    {
+      "date": "2026-08-05",
+      "tags": "Portico Suite",
+      "title": "FAPSC | Orlando, FL",
+      "type": "Event",
+      "audience": "Florida Postsecondary Schools",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-08-07",
+      "attendees": "Shawna"
+    },
+    {
+      "date": "2026-08-05",
+      "tags": "Portico Suite",
+      "title": "AFIT | Albuquerque, NM",
+      "type": "Event",
+      "audience": "Community Colleges",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-08-08",
+      "attendees": "Noel, Ron, Chris"
+    },
+    {
+      "date": "2026-08-10",
+      "tags": "Portico Suite",
+      "title": "CSPEN | Austin, TX",
+      "type": "Event",
+      "audience": "",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-08-13",
+      "attendees": "Chris"
+    },
+    {
+      "date": "2026-08-17",
+      "tags": "",
+      "title": "Jess OOO",
+      "type": "OOO",
+      "audience": "",
+      "sender": "",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-08-21"
+    },
+    {
+      "date": "2026-09-04",
+      "tags": "Portico Brand",
+      "title": "Labor day closure announcement",
+      "type": "Email",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-09-07",
+      "tags": "Portico Brand",
+      "title": "Happy labor day",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-09-24",
+      "tags": "Clinical Management",
+      "title": "SDMS | Atlanta, GA",
+      "type": "Event",
+      "audience": "Sonography",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-09-26",
+      "attendees": "Cid/Brian/Marc"
+    },
+    {
+      "date": "2026-09-28",
+      "tags": "Portico Suite",
+      "title": "CCST Annual | San Antonio, TX",
+      "type": "Event",
+      "audience": "",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-09-29",
+      "attendees": "Daniel?"
+    },
+    {
+      "date": "2026-10-07",
+      "tags": "Portico Suite",
+      "title": "CAPPS Annual | San Diego, CA",
+      "type": "Event",
+      "audience": "California - Enterprise",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-10-09",
+      "attendees": "Cara (Shawna backup)"
+    },
+    {
+      "date": "2026-10-10",
+      "tags": "Clinical Management",
+      "title": "CACN/COADN | Monterey, CA",
+      "type": "Event",
+      "audience": "CA nursing Joint association conference",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-10-13",
+      "attendees": "Jackson"
+    },
+    {
+      "date": "2026-10-14",
+      "tags": "Portico Suite",
+      "title": "PMTS Owners Summit | New York, NY",
+      "type": "Event",
+      "audience": "",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-10-17",
+      "attendees": "Jackson"
+    },
+    {
+      "date": "2026-10-24",
+      "tags": "Clinical Management",
+      "title": "FNCE | San Antonio, TX",
+      "type": "Event",
+      "audience": "Food & Nutrition Conference Expo",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-10-27",
+      "attendees": "Cara"
+    },
+    {
+      "date": "2026-10-25",
+      "tags": "Clinical Management",
+      "title": "AACN | Washington, DC",
+      "type": "Event",
+      "audience": "Nursing Colleges",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-10-27",
+      "attendees": "Todd?"
+    },
+    {
+      "date": "2026-10-27",
+      "tags": "Clinical Management",
+      "title": "ASAHP | Nashville, TN",
+      "type": "Event",
+      "audience": "Health professions education",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-10-29",
+      "attendees": "Mark Moore"
+    },
+    {
+      "date": "2026-10-31",
+      "tags": "Portico Brand",
+      "title": "Happy Halloween",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-01",
+      "tags": "Portico Brand",
+      "title": "Happy national career education day",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-10",
+      "tags": "Portico Suite",
+      "title": "COE | Atlanta, GA",
+      "type": "Event",
+      "audience": "",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-11-12",
+      "attendees": "Mandy, Georgia"
+    },
+    {
+      "date": "2026-11-11",
+      "tags": "Portico Brand",
+      "title": "Happy Veterans Day",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-12",
+      "tags": "Clinical Management",
+      "title": "OADN | San Antonio, TX",
+      "type": "Event",
+      "audience": "Nursing",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-11-14",
+      "attendees": "Shawna"
+    },
+    {
+      "date": "2026-11-14",
+      "tags": "Clinical Management",
+      "title": "AARC Congress | New Orleans, LA",
+      "type": "Event",
+      "audience": "Respiratory Therapists",
+      "sender": "Trajecsys",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": "",
+      "endDate": "2026-11-17",
+      "attendees": "Noel"
+    },
+    {
+      "date": "2026-11-25",
+      "tags": "Portico Brand",
+      "title": "Thanksgiving closure announcement email",
+      "type": "Email",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-26",
+      "tags": "Portico Brand",
+      "title": "Happy Thanksgiving",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-12-20",
+      "tags": "Portico Brand",
+      "title": "Holiday wishes",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Portico",
+      "summary": "",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "Introducing The Commons (Momentum Subscribers)",
+      "type": "Email",
+      "audience": "Momentum subscribers (draft audience needs final check)",
+      "sender": "Portico",
+      "summary": "Draft in HubSpot; secondary first-look version for Momentum subscribers. Confirm the final Momentum audience before send.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215296407217?portalId=7762472&preview_key=xnHTeTvy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Marketing contacts draft audience: 34,368 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+          "count": 34368
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "tags": "The Commons",
+      "title": "Trajecsys Commons Launch Post",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "Trajecsys",
+      "summary": "Scheduled for Monday, June 22 at 11:15 AM on Trajecsys LinkedIn. Live post link pending.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-24",
+      "tags": "The Commons",
+      "title": "The Commons Supercut",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons, Portico, Trajecsys",
+      "summary": "Scheduled for Wednesday, June 24 on all three LinkedIn channels. Live post links pending.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-06-25",
+      "tags": "The Commons, Clinical Management",
+      "title": "What Paper Processes Are Costing Your Students",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons, Trajecsys",
+      "summary": "Scheduled for Thursday, June 25 on The Commons and Trajecsys LinkedIn. Live post links pending.",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/the-real-cost-of-paper-in-clinical-education"
+    },
+    {
+      "date": "2026-06-26",
+      "tags": "The Commons",
+      "title": "How Career Schools Make Operational Changes Stick",
+      "type": "Social",
+      "audience": "General Audience",
+      "sender": "The Commons, Portico",
+      "summary": "Scheduled for Friday, June 26 on The Commons and Portico LinkedIn. Article: How Career Schools Make Change Stick. Live post links pending.",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/how-career-schools-make-operational-changes-stick"
+    }
+  ]
+}
