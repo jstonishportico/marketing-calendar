@@ -130,13 +130,16 @@
     .calendar-wrap {
       border: 1px solid var(--border);
       border-radius: 12px;
-      overflow: hidden;
+      overflow-x: auto;
+      overflow-y: hidden;
+      -webkit-overflow-scrolling: touch;
     }
 
     /* ---- Weekday header ---- */
     .weekday-row {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
+      min-width: 760px;
       background: var(--ivory);
       border-bottom: 1px solid var(--border);
     }
@@ -164,6 +167,7 @@
     .cal-grid {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
+      min-width: 760px;
     }
     .cal-grid.month-layout { display: flex; flex-direction: column; }
     .cal-week {
