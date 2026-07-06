@@ -1221,7 +1221,7 @@
     <button class="nav-btn" id="prevBtn">&#8592;</button>
     <div class="view-toggle">
       <button class="toggle-btn active" id="monthBtn">Month</button>
-      <button class="toggle-btn"        id="weekBtn">Week</button>
+      <button class="toggle-btn" id="weekBtn">Week</button>
     </div>
     <button class="nav-btn" id="nextBtn">&#8594;</button>
   </div>
@@ -1358,11 +1358,13 @@
   const CELL_FIT_BUFFER = 0;
 
   /* ─── State ──────────────────────────────────────────── */
+  const today = new Date();
+
   let allItems       = [];
   let viewMode       = 'month';
-  let viewYear       = 2026;
-  let viewMonth      = 5;
-  let weekStart      = getMonday(new Date());
+  let viewYear       = today.getFullYear();
+  let viewMonth      = today.getMonth();
+  let weekStart      = getMonday(today);
   let savedMonthView = null; // { year, month } - preserved when entering week view
 
   /* ─── Date helpers ───────────────────────────────────── */
@@ -1389,10 +1391,52 @@
       weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
     });
   }
+  function parseLocalDateParam(value) {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(value || '')) return null;
+    const [year, month, day] = value.split('-').map(Number);
+    const parsed = new Date(year, month - 1, day);
+    if (
+      parsed.getFullYear() !== year ||
+      parsed.getMonth() !== month - 1 ||
+      parsed.getDate() !== day
+    ) return null;
+    return parsed;
+  }
+  function parseMonthParam(value) {
+    if (!/^\d{4}-\d{2}$/.test(value || '')) return null;
+    const [year, month] = value.split('-').map(Number);
+    if (month < 1 || month > 12) return null;
+    return { year, month: month - 1 };
+  }
+  function applyInitialViewFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    const dateParam = parseLocalDateParam(params.get('date'));
+    const monthParam = parseMonthParam(params.get('month'));
+
+    if (params.get('view') === 'week') {
+      viewMode = 'week';
+      weekStart = getMonday(dateParam || new Date());
+    }
+
+    if (monthParam) {
+      viewYear = monthParam.year;
+      viewMonth = monthParam.month;
+    } else if (dateParam) {
+      viewYear = dateParam.getFullYear();
+      viewMonth = dateParam.getMonth();
+    }
+  }
+  function syncViewToggle() {
+    document.getElementById('monthBtn').classList.toggle('active', viewMode === 'month');
+    document.getElementById('weekBtn').classList.toggle('active', viewMode === 'week');
+  }
   function typeOf(item) {
     if (isMomentum2027(item)) return TYPES['Momentum 2027'];
     return TYPES[item.type] || { color: '#aaa', label: item.type };
   }
+
+  applyInitialViewFromUrl();
+  syncViewToggle();
   function isMomentum2027(item) {
     return /^Momentum 2027\b/i.test(item.title || '');
   }
@@ -2010,8 +2054,7 @@
     }
     savedMonthView = null;
     viewMode = 'month';
-    document.getElementById('monthBtn').classList.add('active');
-    document.getElementById('weekBtn').classList.remove('active');
+    syncViewToggle();
     render();
   });
   document.getElementById('weekBtn').addEventListener('click', () => {
@@ -2019,8 +2062,7 @@
     savedMonthView = { year: viewYear, month: viewMonth };
     weekStart = getMonday(new Date());
     viewMode  = 'week';
-    document.getElementById('weekBtn').classList.add('active');
-    document.getElementById('monthBtn').classList.remove('active');
+    syncViewToggle();
     render();
   });
 

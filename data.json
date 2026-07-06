@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T20:02:16Z",
+  "lastUpdated": "2026-07-06T12:06:34-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1629,49 +1629,25 @@
       "attendees": "Siana, Noel, Karen, Christina"
     },
     {
-      "date": "2026-06-29",
-      "tags": "Portico Suite",
-      "title": "CECU Post-Event Email",
-      "type": "Event Comms",
-      "audience": "CECU Attendees",
-      "sender": "Natalie Gleason",
-      "summary": "Sent June 29. CECU recap/resource follow-up to attendees.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216085122991?portalId=7762472&preview_key=tGVdjeYg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceCount": 383
-    },
-    {
-      "date": "2026-06-30",
-      "tags": "Portico Suite",
-      "title": "CECU Sales Sequence",
-      "type": "Sequence",
-      "audience": "Warm leads, booth scans, session attendees, and target accounts",
-      "sender": "Sales",
-      "summary": "Post-CECU follow-up sequence",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-07-01",
-      "tags": "Financial Aid",
-      "title": "OBBBA Q&A Email Promo",
-      "type": "Email",
-      "audience": "Financial Aid Prospects & Users",
-      "sender": "Portico",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-07-02",
       "tags": "Portico Brand",
       "title": "July 3 closure notice email",
       "type": "Email",
-      "audience": "General Audience",
+      "audience": "Portico roster and current customer contacts",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Sent July 2 at 2:55 PM ET from HubSpot Marketing Email. HubSpot asset: 4th of July 2026 Closure Notification, email ID 216378094211, state PUBLISHED. Subject: Portico July 3rd Closure. Included lists: Portico Roster 2026 and Current Customer Contacts (Lifecycle Stage). Excluded lists: Unsubscribed from all email and NeverBounce Contact Clean. Graymail suppression was on.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216378094211?portalId=7762472&preview_key=HtZuiEBm&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Current Customer Contacts (Lifecycle Stage)",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters"
+        }
+      ]
     },
     {
       "date": "2026-07-04",
@@ -1683,6 +1659,39 @@
       "summary": "",
       "audienceLink": "",
       "contentLink": ""
+    },
+    {
+      "date": "2026-07-06",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Email Promo",
+      "type": "Email",
+      "audience": "Financial Aid Prospects & Users",
+      "sender": "Portico",
+      "summary": "Planned July 6. Same-day promo for the July 15 Live OBBBA Q&A, pointing financial aid teams to register and bring institution-specific questions.",
+      "audienceLink": "",
+      "contentLink": "https://welcome.porticoedu.com/obbba-q-and-a-july",
+      "audienceLinks": [
+        {
+          "label": "FA Newsletter: 3,071 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
+          "count": 3071
+        },
+        {
+          "label": "Financial Aid role list: 3,404 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters",
+          "count": 3404
+        },
+        {
+          "label": "FA clients: 2,870 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+          "count": 2870
+        },
+        {
+          "label": "Campus Ivy FA contacts: 171 contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
+          "count": 171
+        }
+      ]
     },
     {
       "date": "2026-07-08",
@@ -1763,7 +1772,7 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/obbba-q-and-a-july",
       "registrantLink": "",
       "attendeeLink": ""
     },
@@ -2136,6 +2145,61 @@
       "summary": "Scheduled for Friday, June 26 on The Commons and Portico LinkedIn. Article: How Career Schools Make Change Stick. Live post links pending.",
       "audienceLink": "",
       "contentLink": "https://thecommons.porticoedu.com/how-career-schools-make-operational-changes-stick"
+    },
+    {
+      "date": "2026-09-08",
+      "tags": "Clinical Management, Trajecsys, Experiment",
+      "title": "Trajecsys Sales Webinar: Pharm Tech",
+      "type": "Webinar",
+      "audience": "Pharmacy Technician Programs",
+      "sender": "Trajecsys",
+      "summary": "Tentative Sales Webinar date from Ron Bright's June 24 Teams note. Owner: Mark. Part of the Trajecsys Demo Days / lower-funnel education experiment prep; exact time, registration path, and attendee expectations still need confirmation.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-09-10",
+      "tags": "Clinical Management, Trajecsys, Experiment",
+      "title": "Trajecsys Sales Webinar: Medical Assisting",
+      "type": "Webinar",
+      "audience": "Medical Assisting Programs",
+      "sender": "Trajecsys",
+      "summary": "Tentative Sales Webinar date from Ron Bright's June 24 Teams note. Owner: Shawna. Part of the Trajecsys Demo Days / lower-funnel education experiment prep; exact time, registration path, and attendee expectations still need confirmation.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-10-08",
+      "tags": "Clinical Management, Trajecsys, Experiment",
+      "title": "Trajecsys Sales Webinar: Nursing",
+      "type": "Webinar",
+      "audience": "Nursing Programs",
+      "sender": "Trajecsys",
+      "summary": "Tentative Sales Webinar date from Ron Bright's June 24 Teams note. Owner: Ron. Part of the Trajecsys Demo Days / lower-funnel education experiment prep; exact time, registration path, and attendee expectations still need confirmation.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-03",
+      "tags": "Clinical Management, Trajecsys, Experiment",
+      "title": "Trajecsys Sales Webinar: Nursing",
+      "type": "Webinar",
+      "audience": "Nursing Programs",
+      "sender": "Trajecsys",
+      "summary": "Tentative Sales Webinar date from Ron Bright's June 24 Teams note. Owner: Georgia. Part of the Trajecsys Demo Days / lower-funnel education experiment prep; exact time, registration path, and attendee expectations still need confirmation.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-12-09",
+      "tags": "Clinical Management, Trajecsys, Experiment",
+      "title": "Trajecsys Sales Webinar: Dental Assisting",
+      "type": "Webinar",
+      "audience": "Dental Assisting Programs",
+      "sender": "Trajecsys",
+      "summary": "Tentative Sales Webinar date from Ron Bright's June 24 Teams note. Owner: Mark. Part of the Trajecsys Demo Days / lower-funnel education experiment prep; exact time, registration path, and attendee expectations still need confirmation.",
+      "audienceLink": "",
+      "contentLink": ""
     }
   ]
 }
