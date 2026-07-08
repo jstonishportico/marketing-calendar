@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T12:06:34-04:00",
+  "lastUpdated": "2026-07-08T09:30:50-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1669,7 +1669,7 @@
       "sender": "Portico",
       "summary": "Planned July 6. Same-day promo for the July 15 Live OBBBA Q&A, pointing financial aid teams to register and bring institution-specific questions.",
       "audienceLink": "",
-      "contentLink": "https://welcome.porticoedu.com/obbba-q-and-a-july",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216591456061?portalId=7762472&preview_key=WKauApor&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceLinks": [
         {
           "label": "FA Newsletter: 3,071 contacts",
@@ -1713,7 +1713,7 @@
       "sender": "Portico",
       "summary": "",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-d8b35de4-ac5d-4db8-bcdc-95d6e42a053c?hs_preview=IFqHvEEE-216607446425"
     },
     {
       "date": "2026-07-13",
@@ -2200,6 +2200,126 @@
       "summary": "Tentative Sales Webinar date from Ron Bright's June 24 Teams note. Owner: Mark. Part of the Trajecsys Demo Days / lower-funnel education experiment prep; exact time, registration path, and attendee expectations still need confirmation.",
       "audienceLink": "",
       "contentLink": ""
+    },
+    {
+      "date": "2026-07-09",
+      "tags": "Events, Thought Leadership",
+      "title": "CECU Three Key Takeaways Email",
+      "type": "Email",
+      "audience": "CECU attendees and Portico prospects",
+      "sender": "Portico",
+      "summary": "Send the Commons CECU recap email with Ryan's three key takeaways and link readers to the full article.",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/top-3-takeaways-from-cecu-2026",
+      "audienceLinks": []
+    },
+    {
+      "date": "2026-07-09",
+      "tags": "Clinical Management, Events",
+      "title": "AEIRS Pre-Event Email",
+      "type": "Email",
+      "audience": "AEIRS attendees",
+      "sender": "Trajecsys",
+      "summary": "Pre-event email for AEIRS; draft for Siana review before the attendee send.",
+      "audienceLink": "",
+      "contentLink": "",
+      "audienceLinks": []
+    },
+    {
+      "date": "2026-07-10",
+      "tags": "Financial Aid, Events",
+      "title": "NASFAA Virtual Conference Email",
+      "type": "Email",
+      "audience": "NASFAA Virtual Summit attendees",
+      "sender": "Portico",
+      "summary": "Pre-conference email encouraging attendees to visit the virtual sponsor listing, explore the Financial Aid Hub, and register for the July OBBBA Q&A.",
+      "audienceLink": "",
+      "contentLink": "https://www.nasfaa.org/virtual_conference_sponsor_listings?id=422",
+      "audienceLinks": []
+    },
+    {
+      "date": "2026-07-10",
+      "tags": "Financial Aid, Compliance",
+      "title": "FISAP Reporting Request Email",
+      "type": "Email",
+      "audience": "FA customers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Initial customer request email for Portico FISAP preparation support; request forms due 7/31/26.",
+      "audienceLink": "",
+      "contentLink": "",
+      "audienceLinks": []
+    },
+    {
+      "date": "2026-07-13",
+      "tags": "Clinical Management, Social, Events",
+      "title": "AARC Summer Forum Social Post",
+      "type": "Social Post",
+      "audience": "Respiratory care educators and Portico followers",
+      "sender": "Portico",
+      "summary": "Social post for AARC Summer Forum; no attendee list available, with possible photo follow-up once Mark shares event photos.",
+      "audienceLink": "",
+      "contentLink": "",
+      "audienceLinks": []
+    },
+    {
+      "date": "2026-07-16",
+      "tags": "Financial Aid, Compliance",
+      "title": "FVT/GE Reporting Request Email",
+      "type": "Email",
+      "audience": "FA customers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Initial customer request email for Portico FVT/GE reporting support; request forms due 8/7/26 and ED reporting due 10/1/26.",
+      "audienceLink": "",
+      "contentLink": "",
+      "audienceLinks": []
+    },
+    {
+      "date": "2026-07-24",
+      "tags": "Financial Aid, Compliance",
+      "title": "FISAP Reporting Request Reminder",
+      "type": "Email",
+      "audience": "FA customers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Reminder for customers who want Portico to prepare their FISAP report; request forms due 7/31/26.",
+      "audienceLink": "",
+      "contentLink": "",
+      "audienceLinks": []
+    },
+    {
+      "date": "2026-07-30",
+      "tags": "Financial Aid, Compliance",
+      "title": "FISAP Reporting Request Final Reminder",
+      "type": "Email",
+      "audience": "FA customers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Final reminder before the 7/31/26 FISAP support request deadline.",
+      "audienceLink": "",
+      "contentLink": "",
+      "audienceLinks": []
+    },
+    {
+      "date": "2026-07-31",
+      "tags": "Financial Aid, Compliance",
+      "title": "FVT/GE Reporting Request Reminder",
+      "type": "Email",
+      "audience": "FA customers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Reminder for customers who want Portico to complete FVT/GE reporting; request forms due 8/7/26.",
+      "audienceLink": "",
+      "contentLink": "",
+      "audienceLinks": []
+    },
+    {
+      "date": "2026-08-06",
+      "tags": "Financial Aid, Compliance",
+      "title": "FVT/GE Reporting Request Final Reminder",
+      "type": "Email",
+      "audience": "FA customers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Final reminder before the 8/7/26 FVT/GE support request deadline.",
+      "audienceLink": "",
+      "contentLink": "",
+      "audienceLinks": []
     }
   ]
 }
