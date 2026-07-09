@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T12:00:00-04:00",
+  "lastUpdated": "2026-07-09T12:30:00-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -2244,7 +2244,7 @@
       "type": "Email",
       "audience": "FA customers",
       "sender": "Portico Financial Aid Services",
-      "summary": "Initial customer request email for Portico FISAP preparation support; request forms due 7/31/26.",
+      "summary": "Scheduled. Initial customer request email for Portico FISAP preparation support; request forms due 7/31/26.",
       "audienceLink": "",
       "contentLink": "",
       "audienceLinks": []
