@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T10:04:00-04:00",
+  "lastUpdated": "2026-07-09T12:00:00-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1783,7 +1783,7 @@
       "type": "Event",
       "audience": "",
       "sender": "Trajecsys",
-      "summary": "",
+      "summary": "CAAHEP attendee list uploaded to HubSpot. Event runs 7/17/26-7/18/26; Mark attending.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-07-18",
@@ -2220,7 +2220,7 @@
       "type": "Email",
       "audience": "AEIRS attendees",
       "sender": "Trajecsys",
-      "summary": "Pre-event email for AEIRS; draft for Siana review before the attendee send.",
+      "summary": "Scheduled. Pre-event email for AEIRS is scheduled; Shawna reviewed/owns the event path. No AEIRS social post planned.",
       "audienceLink": "",
       "contentLink": "",
       "audienceLinks": []
@@ -2232,9 +2232,9 @@
       "type": "Email",
       "audience": "NASFAA Virtual Summit attendees",
       "sender": "Portico",
-      "summary": "Pre-conference email encouraging attendees to visit the virtual sponsor listing, explore the Financial Aid Hub, and register for the July OBBBA Q&A.",
+      "summary": "Sent. Promoted the OB3 Q&A webinar and encouraged NASFAA Virtual attendees to visit the Portico virtual booth.",
       "audienceLink": "",
-      "contentLink": "https://www.nasfaa.org/virtual_conference_sponsor_listings?id=422",
+      "contentLink": "",
       "audienceLinks": []
     },
     {
@@ -2256,7 +2256,7 @@
       "type": "Social Post",
       "audience": "Respiratory care educators and Portico followers",
       "sender": "Portico",
-      "summary": "Social post for AARC Summer Forum; no attendee list available, with possible photo follow-up once Mark shares event photos.",
+      "summary": "Likely on-the-ground booth/social coverage rather than a standalone pre-event post. No attendee list available.",
       "audienceLink": "",
       "contentLink": "",
       "audienceLinks": []
