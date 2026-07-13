@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T12:30:00-04:00",
+  "lastUpdated": "2026-07-13T09:52:00-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -948,7 +948,7 @@
       "contentLink": "https://thecommons.porticoedu.com/financial-aid-has-a-new-ceiling"
     },
     {
-      "date": "2026-07-13",
+      "date": "2026-07-20",
       "tags": "CRM / Recruit",
       "title": "The Case for TikTok in Career School Recruiting",
       "type": "Article",
@@ -1142,17 +1142,6 @@
       "type": "Product Comms",
       "audience": "Attendance Users",
       "sender": "Portico Product Updates",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-07-15",
-      "tags": "Attendance",
-      "title": "Reimagine Your Externships",
-      "type": "Article",
-      "audience": "The Commons",
-      "sender": "Ryan Barnhart",
       "summary": "",
       "audienceLink": "",
       "contentLink": ""
@@ -1662,58 +1651,135 @@
     },
     {
       "date": "2026-07-06",
-      "tags": "Financial Aid",
-      "title": "OBBBA Q&A Email Promo",
+      "tags": "Financial Aid, OBBBA, Webinar",
+      "title": "OBBBA Q&A Reminder (July 15)",
       "type": "Email",
       "audience": "Financial Aid Prospects & Users",
       "sender": "Portico",
-      "summary": "Planned July 6. Same-day promo for the July 15 Live OBBBA Q&A, pointing financial aid teams to register and bring institution-specific questions.",
-      "audienceLink": "",
+      "summary": "Sent July 6 at 3:34 PM ET. HubSpot dashboard: 3,101 delivered, 13.93% open rate, 1.23% click rate. Subject: July 15: live OBBBA Q&A.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216591456061?portalId=7762472&preview_key=WKauApor&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceLinks": [
         {
-          "label": "FA Newsletter: 3,071 contacts",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
-          "count": 3071
+          "label": "List - FA Clients - August 2025",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters"
         },
         {
-          "label": "Financial Aid role list: 3,404 contacts",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters",
-          "count": 3404
+          "label": "Campus Ivy_FA Newsletter Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters"
         },
         {
-          "label": "FA clients: 2,870 contacts",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
-          "count": 2870
+          "label": "FA Newsletter",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters"
         },
         {
-          "label": "Campus Ivy FA contacts: 171 contacts",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
-          "count": 171
+          "label": "[Role] Financial Aid",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters"
         }
-      ]
-    },
-    {
-      "date": "2026-07-08",
-      "tags": "Financial Aid",
-      "title": "NASFAA Post-Event Email",
-      "type": "Event Comms",
-      "audience": "NASFAA Attendees",
-      "sender": "Noel Suarez",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      ],
+      "excludedAudienceLinks": [
+        {
+          "label": "OBBBA Q&A Registrants [July 15]",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10706/filters"
+        },
+        {
+          "label": "Unsubscribed",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "NeverBounce",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "campaign": "Q226 OBBBA",
+      "hubspotEmailId": "216591456061",
+      "hubspotName": "OBBBA Q&A Reminder (July 15)",
+      "delivered": 3101,
+      "openRate": "13.93%",
+      "clickRate": "1.23%",
+      "publishedAt": "2026-07-06T15:34:00-04:00",
+      "status": "Sent",
+      "audienceCount": 3101
     },
     {
       "date": "2026-07-09",
-      "tags": "Financial Aid",
-      "title": "July Financial Aid Newsletter",
+      "tags": "Financial Aid, Event Follow-Up, OBBBA",
+      "title": "NASFAA 2026 Post-Event Email",
       "type": "Email",
-      "audience": "FA Users",
+      "audience": "NASFAA 2026 Registrants",
+      "sender": "Noel Suarez",
+      "summary": "Sent July 9 at 12:23 PM ET. HubSpot dashboard: 638 delivered, 18.03% open rate, 2.04% click rate. Subject: Your NASFAA resources.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10879/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216757887580?portalId=7762472&preview_key=kjnaFQbE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "NASFAA 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10879/filters"
+        }
+      ],
+      "excludedAudienceLinks": [
+        {
+          "label": "Unsubscribed",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "NeverBounce",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "campaign": "NASFAA 2026",
+      "hubspotEmailId": "216757887580",
+      "hubspotName": "NAFAA 2026 Post-Event Email",
+      "delivered": 638,
+      "openRate": "18.03%",
+      "clickRate": "2.04%",
+      "publishedAt": "2026-07-09T12:23:00-04:00",
+      "status": "Sent",
+      "audienceCount": 638
+    },
+    {
+      "date": "2026-07-09",
+      "tags": "Financial Aid, Newsletter",
+      "title": "FA Newsletter - July 2026",
+      "type": "Email",
+      "audience": "All Financial Aid Contacts",
       "sender": "Portico",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-d8b35de4-ac5d-4db8-bcdc-95d6e42a053c?hs_preview=IFqHvEEE-216607446425"
+      "summary": "Sent July 9 at 12:26 PM ET. HubSpot dashboard: 832 delivered, 33.65% open rate, 3.37% click rate. Subject: Portico Financial Aid News: July Newsletter.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216607446425?portalId=7762472&preview_key=IFqHvEEE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "List - FA Clients - August 2025",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters"
+        },
+        {
+          "label": "Campus Ivy_FA Newsletter Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters"
+        },
+        {
+          "label": "FA Newsletter",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters"
+        }
+      ],
+      "excludedAudienceLinks": [
+        {
+          "label": "Unsubscribed",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "NeverBounce",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "campaign": "Q126 - Financial Aid",
+      "hubspotEmailId": "216607446425",
+      "hubspotName": "FA Newsletter - July 2026",
+      "delivered": 832,
+      "openRate": "33.65%",
+      "clickRate": "3.37%",
+      "publishedAt": "2026-07-09T12:26:00-04:00",
+      "status": "Sent",
+      "audienceCount": 832
     },
     {
       "date": "2026-07-13",
@@ -1741,12 +1807,12 @@
     },
     {
       "date": "2026-07-15",
-      "tags": "Payments",
-      "title": "Payments \"Launch\"",
-      "type": "Website",
-      "audience": "General Audience",
+      "tags": "Financial Aid",
+      "title": "OBBBA Q&A Email Promo (Morning-Of)",
+      "type": "Email",
+      "audience": "Financial Aid Prospects & Users",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Morning-of reminder for the July 15 Live OBBBA Q&A.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -2203,51 +2269,138 @@
     },
     {
       "date": "2026-07-08",
-      "tags": "Events, Thought Leadership",
-      "title": "CECU Three Key Takeaways Email",
+      "tags": "Events, Thought Leadership, The Commons",
+      "title": "CECU 2026 Key Takeaways",
       "type": "Email",
-      "audience": "CECU attendees and Portico prospects",
-      "sender": "Portico",
-      "summary": "Sent July 8. Commons CECU recap email with Ryan's three key takeaways and a CTA to read the full article.",
-      "audienceLink": "",
+      "audience": "CECU attendees and The Commons subscribers",
+      "sender": "Dr. Ryan Barnhart",
+      "summary": "Sent July 8 at 9:55 AM ET. HubSpot dashboard: 607 delivered, 20.59% open rate, 0.66% click rate. Subject: What changed at CECU 2026.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216659403852?portalId=7762472&preview_key=WRRCJNrb&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceLinks": []
+      "audienceLinks": [
+        {
+          "label": "CECU 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters"
+        },
+        {
+          "label": "The Commons Subscribers",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10949/filters"
+        }
+      ],
+      "excludedAudienceLinks": [
+        {
+          "label": "Unsubscribed",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "NeverBounce",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "campaign": "CECU 2026",
+      "hubspotEmailId": "216659403852",
+      "hubspotName": "CECU 2026 Key Takeaways",
+      "delivered": 607,
+      "openRate": "20.59%",
+      "clickRate": "0.66%",
+      "publishedAt": "2026-07-08T09:55:00-04:00",
+      "status": "Sent",
+      "audienceCount": 607
+    },
+    {
+      "date": "2026-07-10",
+      "tags": "Clinical Management, Trajecsys, Event Promo",
+      "title": "AEIRS Pre-Event Email",
+      "type": "Email",
+      "audience": "AEIRS 2026 Registrants",
+      "sender": "Shawna Granger",
+      "summary": "Sent July 10 at 11:20 AM ET. HubSpot dashboard: 127 delivered, 15.75% open rate, 0% click rate. Subject: See you at AEIRS?",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10967/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216827075120?portalId=7762472&preview_key=VZMmAdPE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "AEIRS 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10967/filters"
+        }
+      ],
+      "excludedAudienceLinks": [
+        {
+          "label": "MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ],
+      "campaign": "AEIRS 2026",
+      "hubspotEmailId": "216827075120",
+      "hubspotName": "AEIRS Pre-Event Email",
+      "delivered": 127,
+      "openRate": "15.75%",
+      "clickRate": "0%",
+      "publishedAt": "2026-07-10T11:20:00-04:00",
+      "status": "Sent",
+      "audienceCount": 127
     },
     {
       "date": "2026-07-09",
-      "tags": "Clinical Management, Events",
-      "title": "AEIRS Pre-Event Email",
-      "type": "Email",
-      "audience": "AEIRS attendees",
-      "sender": "Trajecsys",
-      "summary": "Scheduled. Pre-event email for AEIRS is scheduled; Shawna reviewed/owns the event path. No AEIRS social post planned.",
-      "audienceLink": "",
-      "contentLink": "",
-      "audienceLinks": []
-    },
-    {
-      "date": "2026-07-10",
-      "tags": "Financial Aid, Events",
-      "title": "NASFAA Virtual Conference Email",
+      "tags": "Financial Aid, Event Promo, OBBBA",
+      "title": "NASFAA Virtual 2026 Pre-Event Email",
       "type": "Email",
       "audience": "NASFAA Virtual Summit attendees",
       "sender": "Portico",
-      "summary": "Sent. Promoted the OB3 Q&A webinar and encouraged NASFAA Virtual attendees to visit the Portico virtual booth.",
-      "audienceLink": "",
-      "contentLink": "",
-      "audienceLinks": []
+      "summary": "Sent July 9 at 2:20 PM ET. HubSpot dashboard: 109 delivered, 25.69% open rate, 7.34% click rate. Subject: Add the OBBBA Q&A to your NASFAA schedule.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10971/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216827120805?portalId=7762472&preview_key=DHpSPnFf&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "NASFAA Virtual Summit Attendees 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10971/filters"
+        }
+      ],
+      "excludedAudienceLinks": [
+        {
+          "label": "Unsubscribed",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "NeverBounce",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "campaign": "NASFAA Virtual 2026",
+      "hubspotEmailId": "216827120805",
+      "hubspotName": "NAFAA Virtual 2026 Pre-Event Email",
+      "delivered": 109,
+      "openRate": "25.69%",
+      "clickRate": "7.34%",
+      "publishedAt": "2026-07-09T14:20:00-04:00",
+      "status": "Sent",
+      "audienceCount": 109
     },
     {
-      "date": "2026-07-10",
+      "date": "2026-07-08",
       "tags": "Financial Aid, Compliance",
-      "title": "FISAP Reporting Request Email",
+      "title": "FISAP Reporting_July 8",
       "type": "Email",
       "audience": "FA customers",
       "sender": "Portico Financial Aid Services",
-      "summary": "Scheduled. Initial customer request email for Portico FISAP preparation support; request forms due 7/31/26.",
-      "audienceLink": "",
-      "contentLink": "",
-      "audienceLinks": []
+      "summary": "Sent July 8 at 1:00 PM ET. HubSpot dashboard: 169 delivered, 46.75% open rate, 13.61% click rate. Subject: FISAP Reporting Assistance.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10952/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216591466582?portalId=7762472&preview_key=QiUjAATX&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "FA MS Emails_July 5 for FVT Reporting",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10952/filters"
+        }
+      ],
+      "excludedAudienceLinks": [],
+      "campaign": "Q126 - Financial Aid",
+      "hubspotEmailId": "216591466582",
+      "hubspotName": "FISAP Reporting_July 8",
+      "delivered": 169,
+      "openRate": "46.75%",
+      "clickRate": "13.61%",
+      "publishedAt": "2026-07-08T13:00:00-04:00",
+      "status": "Sent",
+      "audienceCount": 169
     },
     {
       "date": "2026-07-13",
@@ -2320,6 +2473,33 @@
       "audienceLink": "",
       "contentLink": "",
       "audienceLinks": []
+    },
+    {
+      "date": "2026-07-09",
+      "tags": "Financial Aid, Compliance",
+      "title": "ADD/DROP_July 9",
+      "type": "Email",
+      "audience": "Add/Drop FA Contacts",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Sent July 9 at 1:00 PM ET. HubSpot dashboard: 106 delivered, 63.21% open rate, 35.85% click rate. Subject: Add/Drop Information Request.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10958/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216591593848?portalId=7762472&preview_key=WmVcSCLY&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Add/Drop FA Contacts_July 6",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10958/filters"
+        }
+      ],
+      "excludedAudienceLinks": [],
+      "campaign": "Q126 - Financial Aid",
+      "hubspotEmailId": "216591593848",
+      "hubspotName": "ADD/DROP_July 9",
+      "delivered": 106,
+      "openRate": "63.21%",
+      "clickRate": "35.85%",
+      "publishedAt": "2026-07-09T13:00:00-04:00",
+      "status": "Sent",
+      "audienceCount": 106
     }
   ]
 }
