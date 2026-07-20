@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T09:52:00-04:00",
+  "lastUpdated": "2026-07-20T09:30:00-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -1796,14 +1796,18 @@
     },
     {
       "date": "2026-07-15",
-      "tags": "Financial Aid",
+      "tags": "Financial Aid, OBBBA, Webinar",
       "title": "OBBBA Q&A Email Promo (Morning-Of)",
       "type": "Email",
       "audience": "Financial Aid Prospects & Users",
       "sender": "Portico",
-      "summary": "Morning-of reminder for the July 15 Live OBBBA Q&A.",
+      "summary": "Sent 7/15/26. Subject: TODAY: live OBBBA Q&A.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/217216536381?portalId=7762472&preview_key=MwKwVKzV&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "217216536381",
+      "hubspotName": "OBBBA Q&A Day-of Reminder (July 15)",
+      "publishedAt": "2026-07-15T11:58:51-04:00",
+      "status": "Sent"
     },
     {
       "date": "2026-07-15",
@@ -2489,6 +2493,51 @@
       "publishedAt": "2026-07-09T13:00:00-04:00",
       "status": "Sent",
       "audienceCount": 106
+    },
+    {
+      "date": "2026-07-16",
+      "title": "SIS Product Update - 7/16/26",
+      "tags": "SIS, Product Update",
+      "type": "Email",
+      "audience": "Portico SIS Customers",
+      "sender": "Portico Product Team",
+      "summary": "Sent 7/16/26. Subject: New SIS Training Course, Attendance by Enrollment Report, and more.",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/217154971820?portalId=7762472&preview_key=nPdbUucW&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "217154971820",
+      "hubspotName": "SIS Product Update - 7.16.2026",
+      "publishedAt": "2026-07-16T15:31:26-04:00",
+      "status": "Sent",
+      "audienceLink": ""
+    },
+    {
+      "date": "2026-07-16",
+      "title": "CRM Product Update - 7/16/26",
+      "tags": "CRM, Product Update",
+      "type": "Email",
+      "audience": "Portico CRM Customers",
+      "sender": "Portico Product Team",
+      "summary": "Sent 7/16/26. Subject: New CRM Training Course, Direct Campaign Mapping, Paperless enhancements, and more.",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/217154981797?portalId=7762472&preview_key=FEiicVDs&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "217154981797",
+      "hubspotName": "CRM Product Update - 7.16.2026",
+      "publishedAt": "2026-07-16T12:13:52-04:00",
+      "status": "Sent",
+      "audienceLink": ""
+    },
+    {
+      "date": "2026-07-17",
+      "title": "OBBBA Q&A Recording & Resources Follow-Up",
+      "tags": "Financial Aid, OBBBA, Webinar Follow-Up",
+      "type": "Email",
+      "audience": "OBBBA Q&A Registrants",
+      "sender": "Portico",
+      "summary": "Sent 7/17/26. Subject: OBBBA Q&A recording and resources.",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/217378563338?portalId=7762472&preview_key=gywELTaP&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "217378563338",
+      "hubspotName": "OBBBA Q&A Follow-Up (July 15)",
+      "publishedAt": "2026-07-17T11:14:47-04:00",
+      "status": "Sent",
+      "audienceLink": ""
     }
   ]
 }
