@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T09:48:00-04:00",
+  "lastUpdated": "2026-07-20T09:54:51-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -502,13 +502,16 @@
       "date": "2026-06-03",
       "tags": "Clinical Management",
       "title": "ACEN Pre-Event Email",
-      "type": "Event Comms",
+      "type": "Email",
       "audience": "ACEN Attendees",
       "sender": "Trajecsys",
-      "summary": "",
+      "summary": "Sent 6/3/26. Subject: See you at ACEN Standards in Action?",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10797/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214252251146?portalId=7762472&preview_key=nDVzTBRo&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceCount": 1232
+      "audienceCount": 1232,
+      "hubspotEmailId": "214252251146",
+      "hubspotName": "ACEN 2026 Pre-Event Email",
+      "status": "Sent"
     },
     {
       "date": "2026-06-04",
@@ -571,13 +574,16 @@
       "date": "2026-06-04",
       "tags": "Financial Aid",
       "title": "FASFAA Post-Event Email",
-      "type": "Event Comms",
+      "type": "Email",
       "audience": "FASFAA Attendees",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Sent 6/4/26. Subject: After FASFAA: OBBBA prep.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10690/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214345815347?portalId=7762472&preview_key=omjxlxhZ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceCount": 183
+      "audienceCount": 183,
+      "hubspotEmailId": "214345815347",
+      "hubspotName": "FASFAA 2026 Post-Event Email",
+      "status": "Sent"
     },
     {
       "date": "2026-06-02",
@@ -597,10 +603,13 @@
       "type": "Email",
       "audience": "Vet Tech Educators",
       "sender": "Trajecsys",
-      "summary": "",
+      "summary": "Sent 6/3/26. Subject: A better way to verify vet tech skills.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214229612824?portalId=7762472&preview_key=DNJQqHkf&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceCount": 681
+      "audienceCount": 681,
+      "hubspotEmailId": "214229612824",
+      "hubspotName": "Vet Tech Webinar Invite - June 2026",
+      "status": "Sent"
     },
     {
       "date": "2026-06-04",
@@ -623,7 +632,10 @@
       "summary": "Sent June 9. Follow-up email with the full Q&A resource and a demo CTA for Financial Aid and managed services. Subject: Your OBBBA questions answered.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10705/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214682207345?portalId=7762472&preview_key=rYzLFlDb&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceCount": 279
+      "audienceCount": 279,
+      "hubspotEmailId": "214682207345",
+      "hubspotName": "OBBBA Q&A Answers (May 27)",
+      "status": "Sent"
     },
     {
       "date": "2026-06-10",
@@ -635,7 +647,10 @@
       "summary": "Sent June 10 at 11:16 AM UTC-07:00. Save-the-date announcement for Momentum 2027 at Margaritaville Hollywood Beach, May 17-19, 2027. Included segments: Current Customer Contacts (Lifecycle Stage), Portico Roster 2026, and Static List - Momentum 2026 Registrations.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/8245/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214711737976?portalId=7762472&preview_key=wueoDnhp&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceCount": 3611
+      "audienceCount": 3611,
+      "hubspotEmailId": "214711737976",
+      "hubspotName": "Momentum 2027 Save the Date",
+      "status": "Sent"
     },
     {
       "date": "2026-07-15",
@@ -893,17 +908,6 @@
       "contentLink": "https://thecommons.porticoedu.com/how-career-schools-make-operational-changes-stick"
     },
     {
-      "date": "2026-07-17",
-      "tags": "The Commons",
-      "title": "OBBBA - Hollywood/Cortiva Case Study",
-      "type": "Case Study",
-      "audience": "The Commons",
-      "sender": "Karen Martin-Brown",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-06-08",
       "tags": "CRM / Recruit",
       "title": "Bulk Doument Send",
@@ -948,7 +952,7 @@
       "contentLink": "https://thecommons.porticoedu.com/financial-aid-has-a-new-ceiling"
     },
     {
-      "date": "2026-07-20",
+      "date": "2026-07-30",
       "tags": "CRM / Recruit",
       "title": "The Case for TikTok in Career School Recruiting",
       "type": "Article",
@@ -1022,7 +1026,10 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
           "count": 171
         }
-      ]
+      ],
+      "hubspotEmailId": "214838866037",
+      "hubspotName": "FA Newsletter - June 2026",
+      "status": "Sent"
     },
     {
       "date": "2026-06-12",
@@ -1056,12 +1063,12 @@
       "date": "2026-06-11",
       "tags": "CRM",
       "title": "June Product Newsletter - CRM",
-      "type": "Product Comms",
+      "type": "Email",
       "audience": "CRM Users",
       "sender": "Portico Product Updates",
       "summary": "Sent June 11 at 9:54 AM ET. Subject: Calendar 2.0, Bulk Email Send, New Support Agent, and more. HubSpot campaign stats: 2,682 sent, 2,669 delivered, 362 opens, 16 clicks. Included lists: CRM users All - May 14 2026 and Portico Roster 2026.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10723/filters",
-      "contentLink": "https://welcome.porticoedu.com/new-calendar-2.0-bulk-email-send-new-support-agent-and-more?hs_preview=bInwgRwy-214690764384",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214690764384?portalId=7762472&preview_key=bInwgRwy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceCount": 2682,
       "audienceLinks": [
         {
@@ -1074,18 +1081,24 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
           "count": 225
         }
-      ]
+      ],
+      "hubspotEmailId": "214690764384",
+      "hubspotName": "CRM Product Update - 6.11.2026",
+      "status": "Sent"
     },
     {
       "date": "2026-06-12",
       "tags": "Portico Suite",
       "title": "CECU Pre-Event Email",
-      "type": "Event Comms",
+      "type": "Email",
       "audience": "CECU Attendees",
       "sender": "Natalie Gleason",
       "summary": "Sent June 12. CECU pre-event email to attendees promoting Booth 437, OBBBA resources, LinkedIn headshot station, giveaways, and the featured Innovation Hub session.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10868/filters",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214877810361?portalId=7762472&preview_key=pWNSOrDz&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214877810361?portalId=7762472&preview_key=pWNSOrDz&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "214877810361",
+      "hubspotName": "CECU 2026 Pre-Event Email",
+      "status": "Sent"
     },
     {
       "date": "2026-06-12",
@@ -1097,18 +1110,21 @@
       "summary": "Sent June 12. Webinar invite for the June 23 distance vet tech session on skills verification and clinical documentation in Trajecsys.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214936813461?portalId=7762472&preview_key=tLpWvLgy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceCount": 681
+      "audienceCount": 681,
+      "hubspotEmailId": "214936813461",
+      "hubspotName": "Vet Tech Webinar Invite 2 - June 2026",
+      "status": "Sent"
     },
     {
       "date": "2026-06-11",
       "tags": "SIS",
       "title": "June Product Newsletter - SIS",
-      "type": "Product Comms",
+      "type": "Email",
       "audience": "SIS Users",
       "sender": "Portico Product Updates",
       "summary": "Sent June 11. Subject: Registrar Power Tools, New Support Agent, and more Portico SIS news. HubSpot campaign stats: 1,076 sent and delivered, 194 opens, 8 clicks. Included lists: SIS Users - April 2026 and Portico Roster 2026.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10536/filters",
-      "contentLink": "https://welcome.porticoedu.com/registrar-power-tools-new-support-agent-and-more-portico-sis-news?hs_preview=YmeINlXI-214736626584",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214736626584?portalId=7762472&preview_key=YmeINlXI&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceCount": 1076,
       "audienceLinks": [
         {
@@ -1121,41 +1137,25 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
           "count": 225
         }
-      ]
+      ],
+      "hubspotEmailId": "214736626584",
+      "hubspotName": "SIS Product Update - 6.11.2026",
+      "status": "Sent"
     },
     {
       "date": "2026-06-16",
       "tags": "Financial Aid",
       "title": "NASFAA Pre-Event Email",
-      "type": "Event Comms",
+      "type": "Email",
       "audience": "NASFAA 2026 Registrants",
       "sender": "Portico",
-      "summary": "Scheduled for June 16. NASFAA pre-event email from Portico, verified against the HubSpot email asset. Audience: NASFAA 2026 Registrants.",
+      "summary": "Sent 6/16/26. Subject: OBBBA readiness at NASFAA.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10879/filters",
-      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-5a743c37-6037-42c1-a970-7da81436ea10?hs_preview=fdkfbFNp-215100970569",
-      "audienceCount": 693
-    },
-    {
-      "date": "2026-06-15",
-      "tags": "Attendance, Skills, Payments",
-      "title": "June Product Newsletter - Attendance",
-      "type": "Product Comms",
-      "audience": "Attendance Users",
-      "sender": "Portico Product Updates",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-06-16",
-      "tags": "Clinical Management",
-      "title": "June Product Newsletter - Clinical Management",
-      "type": "Product Comms",
-      "audience": "Clinical Users",
-      "sender": "Portico Product Updates",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215100970569?portalId=7762472&preview_key=fdkfbFNp&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceCount": 693,
+      "hubspotEmailId": "215100970569",
+      "hubspotName": "NASFAA 2026 Pre-Event Email",
+      "status": "Sent"
     },
     {
       "date": "2026-06-16",
@@ -1178,13 +1178,16 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
           "count": 684
         }
-      ]
+      ],
+      "hubspotEmailId": "214936814376",
+      "hubspotName": "Vet Tech Webinar Invite 3 - June 2026",
+      "status": "Sent"
     },
     {
       "date": "2026-06-16",
       "tags": "Financial Aid",
       "title": "CECU Session Spotlight",
-      "type": "Social",
+      "type": "Graphic",
       "audience": "General Audience",
       "sender": "Portico",
       "summary": "Scheduled for June 16 shortly after 10 AM ET. Featured OBBBA session spotlight for Siana Stewart-Mullings and Margaret Smith's Innovation Hub session.",
@@ -1195,13 +1198,16 @@
       "date": "2026-06-18",
       "tags": "Clinical Management",
       "title": "ACEN Post-Event Email",
-      "type": "Event Comms",
+      "type": "Email",
       "audience": "ACEN 2026 Leads",
       "sender": "Trajecsys",
-      "summary": "Scheduled June 18. Subject: Trajecsys for ACEN accreditation. Verified against the HubSpot email asset.",
+      "summary": "Sent 6/18/26. Subject: Trajecsys for ACEN accreditation.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10831/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215283909236?portalId=7762472&preview_key=KwODXtdg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceCount": 55
+      "audienceCount": 55,
+      "hubspotEmailId": "215283909236",
+      "hubspotName": "ACEN Post-Event Email",
+      "status": "Sent"
     },
     {
       "date": "2026-06-17",
@@ -1232,7 +1238,7 @@
       "type": "Email",
       "audience": "Portico roster and current customer contacts",
       "sender": "Portico",
-      "summary": "Scheduled June 18. Subject: Portico Juneteenth Closure. Verified against the HubSpot email asset.",
+      "summary": "Sent 6/18/26. Subject: Portico Juneteenth Closure.",
       "audienceLink": "",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214866376502?portalId=7762472&preview_key=wNPeJVhQ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceLinks": [
@@ -1246,7 +1252,10 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters",
           "count": 1970
         }
-      ]
+      ],
+      "hubspotEmailId": "214866376502",
+      "hubspotName": "Juneteenth 2026 Closure Notification",
+      "status": "Sent"
     },
     {
       "date": "2026-06-25",
@@ -1255,7 +1264,7 @@
       "type": "Email",
       "audience": "Financial Aid Prospects & Users",
       "sender": "Portico",
-      "summary": "Scheduled June 25. Subject: Still have OBBBA questions? Promo for the July 15 OBBBA Live Q&A, with links to the May 27 recording and Q&A answers. Verified against the HubSpot email asset.",
+      "summary": "Sent 6/25/26. Subject: Still have OBBBA questions?",
       "audienceLink": "",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214946422924?portalId=7762472&preview_key=MKcxLMQF&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceLinks": [
@@ -1279,19 +1288,25 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters",
           "count": 171
         }
-      ]
+      ],
+      "hubspotEmailId": "214946422924",
+      "hubspotName": "OBBBA Q&A Reminder (July 15)",
+      "status": "Sent"
     },
     {
       "date": "2026-06-18",
       "tags": "Portico Suite",
       "title": "CECU Final Reminder Email",
-      "type": "Event Comms",
+      "type": "Email",
       "audience": "CECU 2026 Registrants",
       "sender": "Portico",
-      "summary": "Scheduled June 18. Subject: See you at CECU? Verified against the HubSpot email asset.",
+      "summary": "Sent 6/18/26. Subject: See you at CECU?",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214877799947?portalId=7762472&preview_key=UzWLBYxb&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceCount": 688
+      "audienceCount": 688,
+      "hubspotEmailId": "214877799947",
+      "hubspotName": "CECU 2026 Reminder Email",
+      "status": "Sent"
     },
     {
       "date": "2026-06-19",
@@ -1417,24 +1432,6 @@
     {
       "date": "2026-06-22",
       "tags": "The Commons",
-      "title": "Introducing The Commons",
-      "type": "Email",
-      "audience": "Marketing contacts (draft audience)",
-      "sender": "Portico",
-      "summary": "Draft in HubSpot; not scheduled yet. Customer launch email for The Commons. Confirm the final audience before send.",
-      "audienceLink": "",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215296371343?portalId=7762472&preview_key=jmHPnDvv&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceLinks": [
-        {
-          "label": "Marketing contacts: 34,368 contacts",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
-          "count": 34368
-        }
-      ]
-    },
-    {
-      "date": "2026-06-22",
-      "tags": "The Commons",
       "title": "The Commons Sales/CS Outreach",
       "type": "Sales Enablement",
       "audience": "Active Accounts and Prospects",
@@ -1473,17 +1470,6 @@
       "audience": "General Audience",
       "sender": "The Commons",
       "summary": "Scheduled for Tuesday, June 23 on The Commons LinkedIn. Live post link pending.",
-      "audienceLink": "",
-      "contentLink": "https://thecommons.porticoedu.com/your-students-are-ahead-of-your-attendance-process"
-    },
-    {
-      "date": "2026-06-26",
-      "tags": "The Commons",
-      "title": "The Commons First Content Follow-Up Email",
-      "type": "Email",
-      "audience": "Portico Customers",
-      "sender": "Portico",
-      "summary": "Week of June 23: follow-up email featuring the first Commons content piece.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -1531,7 +1517,7 @@
       "type": "Email",
       "audience": "Vet Tech Educators",
       "sender": "Trajecsys",
-      "summary": "Scheduled June 22. Subject: TOMORROW: How to manage distance Vet Tech programs. Verified against the HubSpot email asset.",
+      "summary": "Sent 6/22/26. Subject: TOMORROW: How to manage distance Vet Tech programs.",
       "audienceLink": "",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214936846925?portalId=7762472&preview_key=WPzHjIwy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceLinks": [
@@ -1545,7 +1531,10 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
           "count": 684
         }
-      ]
+      ],
+      "hubspotEmailId": "214936846925",
+      "hubspotName": "Vet Tech Webinar Day-Before Invite - June 2026",
+      "status": "Sent"
     },
     {
       "date": "2026-06-23",
@@ -1554,7 +1543,7 @@
       "type": "Email",
       "audience": "Vet Tech Educators",
       "sender": "Trajecsys",
-      "summary": "Scheduled June 23. Subject: Today: Clinical skills verification for Vet Tech programs. Verified against the HubSpot email asset.",
+      "summary": "Sent 6/23/26. Subject: Today: Clinical skills verification for Vet Tech programs.",
       "audienceLink": "",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/214941718634?portalId=7762472&preview_key=okFsNpzK&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceLinks": [
@@ -1568,7 +1557,10 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10795/filters",
           "count": 684
         }
-      ]
+      ],
+      "hubspotEmailId": "214941718634",
+      "hubspotName": "Vet Tech Webinar Morning-of Invite - June 2026",
+      "status": "Sent"
     },
     {
       "date": "2026-06-23",
@@ -1582,13 +1574,13 @@
       "contentLink": "https://welcome.porticoedu.com/distance-vet-tech-webinar"
     },
     {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "tags": "",
       "title": "June Portico POV Newsletter",
       "type": "Email",
       "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
-      "summary": "Planned for June 24. Draft is in HubSpot; The Commons links need to be confirmed after go-live before the newsletter goes out.",
+      "summary": "Sent 6/25/26. Subject: Portico POV: Introducing The Commons Community.",
       "audienceLink": "",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215277530992?portalId=7762472&preview_key=JFnnJrrC&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceLinks": [
@@ -1602,7 +1594,10 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
           "count": 225
         }
-      ]
+      ],
+      "hubspotEmailId": "215277530992",
+      "hubspotName": "Portico POV - June 2026",
+      "status": "Sent"
     },
     {
       "date": "2026-06-29",
@@ -1636,7 +1631,10 @@
           "label": "Current Customer Contacts (Lifecycle Stage)",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters"
         }
-      ]
+      ],
+      "hubspotEmailId": "216378094211",
+      "hubspotName": "4th of July 2026 Closure Notification",
+      "status": "Sent"
     },
     {
       "date": "2026-07-04",
@@ -2133,24 +2131,6 @@
     {
       "date": "2026-06-22",
       "tags": "The Commons",
-      "title": "Introducing The Commons (Momentum Subscribers)",
-      "type": "Email",
-      "audience": "Momentum subscribers (draft audience needs final check)",
-      "sender": "Portico",
-      "summary": "Draft in HubSpot; secondary first-look version for Momentum subscribers. Confirm the final Momentum audience before send.",
-      "audienceLink": "",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215296407217?portalId=7762472&preview_key=xnHTeTvy&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "audienceLinks": [
-        {
-          "label": "Marketing contacts draft audience: 34,368 contacts",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
-          "count": 34368
-        }
-      ]
-    },
-    {
-      "date": "2026-06-22",
-      "tags": "The Commons",
       "title": "Trajecsys Commons Launch Post",
       "type": "Social",
       "audience": "General Audience",
@@ -2179,7 +2159,7 @@
       "sender": "The Commons, Trajecsys",
       "summary": "Scheduled for Thursday, June 25 on The Commons and Trajecsys LinkedIn. Live post links pending.",
       "audienceLink": "",
-      "contentLink": "https://thecommons.porticoedu.com/the-real-cost-of-paper-in-clinical-education"
+      "contentLink": ""
     },
     {
       "date": "2026-06-26",
@@ -2190,7 +2170,7 @@
       "sender": "The Commons, Portico",
       "summary": "Scheduled for Friday, June 26 on The Commons and Portico LinkedIn. Article: How Career Schools Make Change Stick. Live post links pending.",
       "audienceLink": "",
-      "contentLink": "https://thecommons.porticoedu.com/how-career-schools-make-operational-changes-stick"
+      "contentLink": ""
     },
     {
       "date": "2026-09-08",
@@ -2403,20 +2383,11 @@
       "sender": "Portico Financial Aid Services",
       "summary": "Initial customer request email for Portico FVT/GE reporting support; request forms due 8/7/26 and ED reporting due 10/1/26.",
       "audienceLink": "",
-      "contentLink": "",
-      "audienceLinks": []
-    },
-    {
-      "date": "2026-07-24",
-      "tags": "Financial Aid, Compliance",
-      "title": "FISAP Reporting Request Reminder",
-      "type": "Email",
-      "audience": "FA customers",
-      "sender": "Portico Financial Aid Services",
-      "summary": "Reminder for customers who want Portico to prepare their FISAP report; request forms due 7/31/26.",
-      "audienceLink": "",
-      "contentLink": "",
-      "audienceLinks": []
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/216378236575?portalId=7762472&preview_key=DzySLbrR&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [],
+      "hubspotEmailId": "216378236575",
+      "hubspotName": "FVT Reporting_July 5",
+      "status": "Sent"
     },
     {
       "date": "2026-07-30",
@@ -2485,7 +2456,7 @@
       "date": "2026-07-16",
       "title": "SIS Product Update - 7.16.2026",
       "tags": "SIS, Product Update",
-      "type": "Product Comms",
+      "type": "Email",
       "audience": "Portico roster and SIS Product Updates",
       "sender": "Product",
       "summary": "Sent July 16 at 3:31 PM ET. HubSpot asset: SIS Product Update - 7.16.2026. Subject: New SIS Training Course, Attendance by Enrollment Report, and more.",
@@ -2525,7 +2496,7 @@
       "date": "2026-07-16",
       "title": "CRM Product Update - 7.16.2026",
       "tags": "CRM, Product Update",
-      "type": "Product Comms",
+      "type": "Email",
       "audience": "Portico roster and CRM Product Updates",
       "sender": "Product",
       "summary": "Sent July 16 at 12:13 PM ET. HubSpot asset: CRM Product Update - 7.16.2026. Subject: New CRM Training Course, Direct Campaign Mapping, Paperless enhancements, and more.",
@@ -2627,6 +2598,60 @@
       "publishedAt": "2026-07-15T15:58:51.745Z",
       "summary": "Sent July 15 at 11:58 AM ET. HubSpot asset: OBBBA Q&A Day-of Reminder (July 15). Subject: TODAY: live OBBBA Q&A.",
       "status": "Sent"
+    },
+    {
+      "date": "2026-07-21",
+      "tags": "Financial Aid, OBBBA, Operations",
+      "title": "Moving from Reactive to Proactive Financial Aid",
+      "type": "Article",
+      "audience": "The Commons",
+      "sender": "Karen Martin-Brown",
+      "summary": "Final draft and CMS prep on 7/20/26; planned Commons publication on 7/21/26.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "title": "Introducing The Commons (Momentum Subscribers Only)",
+      "tags": "The Commons",
+      "audience": "Momentum subscribers",
+      "sender": "Portico",
+      "date": "2026-06-22",
+      "type": "Email",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215357945720?portalId=7762472&preview_key=IANIAPys&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "215357945720",
+      "hubspotName": "Introducing The Commons (Momentum Subscribers Only)",
+      "status": "Sent",
+      "summary": "Sent 6/22/26. Subject: Meet The Commons.",
+      "audienceLink": ""
+    },
+    {
+      "title": "CK Product Email - June 23 2026",
+      "tags": "Attendance, Product Update",
+      "audience": "Legacy CK app contacts",
+      "sender": "Portico Product Updates",
+      "date": "2026-06-23",
+      "type": "Email",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215277312881?portalId=7762472&preview_key=UOYSWuyP&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "215277312881",
+      "hubspotName": "CK Product Email - June 23 2026",
+      "status": "Sent",
+      "summary": "Sent 6/23/26. Subject: New Student Exceptions and Student Group Import.",
+      "audienceLink": ""
+    },
+    {
+      "title": "Clinical Product Email - June 2026",
+      "tags": "Clinical Management, Product Update",
+      "audience": "Clinical Management contacts",
+      "sender": "Portico Product Updates",
+      "date": "2026-06-24",
+      "type": "Email",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/215331009826?portalId=7762472&preview_key=PauVvQbs&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "215331009826",
+      "hubspotName": "Clinical Product Email - June 2026",
+      "status": "Sent",
+      "summary": "Sent 6/24/26. Subject: New Clinical Shift Features in Trajecsys.",
+      "audienceLink": ""
     }
   ]
 }
