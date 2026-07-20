@@ -2165,13 +2165,14 @@
     if (hasLinks) {
       html += '<div class="modal-links">';
       if (item.contentLink) {
-        const btnLabel = item.youtubeLink ? 'View in HubSpot' : 'View ' + typeDisplay;
+        const btnLabel = item.youtubeLink && !isWebinar ? 'View in HubSpot' : 'View ' + typeDisplay;
         html += '<a class="modal-link-primary" href="' + item.contentLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">' + btnLabel + '</a>';
       } else if (needsContentPlaceholder) {
         html += '<div class="modal-link-primary tbd">View ' + typeDisplay + '</div>';
       }
       if (item.youtubeLink) {
-        html += '<a class="modal-link-primary" href="' + item.youtubeLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">View in YouTube</a>';
+        const youtubeLabel = isWebinar ? 'Watch Recording' : 'View in YouTube';
+        html += '<a class="modal-link-primary" href="' + item.youtubeLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">' + youtubeLabel + '</a>';
       }
       if (item.audienceLink) {
         const audienceLabel = audienceListLabel({
