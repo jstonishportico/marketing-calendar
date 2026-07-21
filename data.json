@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T13:45:00-04:00",
-  "lastUpdatedBy": "Codex",
+  "lastUpdated": "2026-07-21T14:35:31-04:00",
+  "lastUpdatedBy": "Codex - FAPSC landing page link + deck verification",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -1853,11 +1853,11 @@
       "type": "Event",
       "audience": "Florida Postsecondary Schools",
       "sender": "Portico",
-      "summary": "FAPSC event in Orlando, FL. Source: master event spreadsheet and active content calendar.",
+      "summary": "FAPSC 2026 in Orlando, FL at JW Marriott Grande Lakes. Verified against the latest prep deck: full Portico Suite audience, Booth #610, and Danny Schwantes presenting the attendance-focused breakout session on 8/6/26 at 1:00 PM.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-08-07",
-      "attendees": "Noel, Ron, Chris\nJackson (Marc)"
+      "attendees": "Dale Scott, Noel Suarez, Danny Schwantes, Ron Bright, Dylan Harmon, Chris Coia"
     },
     {
       "date": "2026-08-05",
@@ -2765,15 +2765,15 @@
     },
     {
       "date": "2026-07-21",
-      "tags": "Portico Suite, Major Event",
+      "tags": "Portico Suite, Major Event, Approved Landing Page",
       "title": "FAPSC Landing Page",
       "type": "Landing Page",
       "audience": "Florida Postsecondary Schools",
       "sender": "Marketing",
-      "summary": "Approved dedicated landing page for FAPSC. Build around the full Portico Suite for Florida postsecondary schools; add the HubSpot landing-page URL once the page exists.",
+      "summary": "Live dedicated landing page for FAPSC. Verified 7/21/26 against the latest prep deck: full Portico Suite positioning for Florida career/postsecondary schools, FAPSC 2026, Booth #610, and career-school operations across financial aid, attendance, and clinical management.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Approved / Planned"
+      "contentLink": "https://welcome.porticoedu.com/fapsc",
+      "status": "Live"
     },
     {
       "date": "2026-07-29",
