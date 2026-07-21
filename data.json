@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T13:15:00-04:00",
+  "lastUpdated": "2026-07-21T13:45:00-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -2676,17 +2676,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-07-30",
-      "tags": "Clinical Management, Event Prep",
-      "title": "AVTE Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for AVTE: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-07-31",
       "tags": "Clinical Management, Event Promo",
       "title": "AVTE On-Site LinkedIn Post",
@@ -2738,17 +2727,6 @@
       "audience": "Community Colleges",
       "sender": "Portico",
       "summary": "Planned pre-event LinkedIn post for AFIT. Confirm creative and CTA before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-08-04",
-      "tags": "Portico Suite, Event Prep",
-      "title": "AFIT Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for AFIT: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -2820,17 +2798,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-08-04",
-      "tags": "Portico Suite, Event Prep",
-      "title": "FAPSC Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for FAPSC: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-08-05",
       "tags": "Portico Suite, Event Promo",
       "title": "FAPSC On-Site LinkedIn Post",
@@ -2898,17 +2865,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-08-07",
-      "tags": "Portico Suite, Event Prep",
-      "title": "CSPEN Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for CSPEN: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-08-10",
       "tags": "Portico Suite, Event Promo",
       "title": "CSPEN On-Site LinkedIn Post",
@@ -2964,17 +2920,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-09-23",
-      "tags": "Clinical Management, Event Prep",
-      "title": "SDMS Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for SDMS: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-09-24",
       "tags": "Clinical Management, Event Promo",
       "title": "SDMS On-Site LinkedIn Post",
@@ -3026,17 +2971,6 @@
       "audience": "Event audience",
       "sender": "Portico",
       "summary": "Planned pre-event LinkedIn post for CCST Annual. Confirm creative and CTA before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-09-25",
-      "tags": "Portico Suite, Event Prep",
-      "title": "CCST Annual Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for CCST Annual: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -3108,17 +3042,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-10-06",
-      "tags": "Portico Suite, Event Prep",
-      "title": "CAPPS Annual Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for CAPPS Annual: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-10-07",
       "tags": "Portico Suite, Event Promo",
       "title": "CAPPS Annual On-Site LinkedIn Post",
@@ -3170,17 +3093,6 @@
       "audience": "CA nursing Joint association conference",
       "sender": "Trajecsys",
       "summary": "Planned pre-event LinkedIn post for CACN/COADN. Confirm creative and CTA before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-10-09",
-      "tags": "Clinical Management, Event Prep",
-      "title": "CACN/COADN Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for CACN/COADN: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -3253,17 +3165,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-10-12",
-      "tags": "Clinical Management, Event Prep",
-      "title": "TAVNE Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for TAVNE: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-10-13",
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE On-Site LinkedIn Post",
@@ -3319,17 +3220,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-10-13",
-      "tags": "Portico Suite, Event Prep",
-      "title": "PMTS Owners Summit Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for PMTS Owners Summit: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-10-14",
       "tags": "Portico Suite, Event Promo",
       "title": "PMTS Owners Summit On-Site LinkedIn Post",
@@ -3381,17 +3271,6 @@
       "audience": "Food & Nutrition Conference Expo",
       "sender": "Trajecsys",
       "summary": "Planned pre-event LinkedIn post for FNCE. Confirm creative and CTA before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-10-23",
-      "tags": "Clinical Management, Event Prep",
-      "title": "FNCE Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for FNCE: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -3462,17 +3341,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-10-23",
-      "tags": "Clinical Management, Event Prep",
-      "title": "AACN Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for AACN: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
       "title": "AACN On-Site LinkedIn Post",
@@ -3524,17 +3392,6 @@
       "audience": "Health professions education",
       "sender": "Portico, formerly Trajecsys",
       "summary": "Planned pre-event LinkedIn post for ASAHP. Confirm creative and CTA before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-10-26",
-      "tags": "Clinical Management, Event Prep",
-      "title": "ASAHP Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for ASAHP: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -3607,17 +3464,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-10-29",
-      "tags": "Clinical Management, Event Prep",
-      "title": "NELNE Fall Conference Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for NELNE Fall Conference: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-10-30",
       "tags": "Clinical Management, Event Promo",
       "title": "NELNE Fall Conference On-Site LinkedIn Post",
@@ -3681,17 +3527,6 @@
       "audience": "Event audience",
       "sender": "Portico",
       "summary": "Planned pre-event LinkedIn post for COE. Confirm creative and CTA before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-11-09",
-      "tags": "Portico Suite, Event Prep",
-      "title": "COE Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for COE: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -3763,17 +3598,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-11-11",
-      "tags": "Clinical Management, Event Prep",
-      "title": "OADN Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for OADN: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-11-12",
       "tags": "Clinical Management, Event Promo",
       "title": "OADN On-Site LinkedIn Post",
@@ -3837,17 +3661,6 @@
       "audience": "Respiratory Therapists",
       "sender": "Portico, formerly Trajecsys",
       "summary": "Planned pre-event LinkedIn post for AARC Congress. Confirm creative and CTA before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-11-13",
-      "tags": "Clinical Management, Event Prep",
-      "title": "AARC Congress Internal Sales Enablement Note",
-      "type": "Internal Prep",
-      "audience": "On-site sales team",
-      "sender": "Marketing / Sales",
-      "summary": "Internal prep note for AARC Congress: final booth/location details, attendee roster, meeting link, lead form, required note-taking format, and campaign-tagging reminders.",
       "audienceLink": "",
       "contentLink": ""
     },
