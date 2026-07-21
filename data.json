@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T12:00:00-04:00",
+  "lastUpdated": "2026-07-21T13:15:00-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -2788,13 +2788,14 @@
     {
       "date": "2026-07-21",
       "tags": "Portico Suite, Major Event",
-      "title": "FAPSC Landing Page Decision",
+      "title": "FAPSC Landing Page",
       "type": "Landing Page",
-      "audience": "Marketing / Events",
+      "audience": "Florida Postsecondary Schools",
       "sender": "Marketing",
-      "summary": "Major event flagged for landing-page review. Confirm whether FAPSC needs a dedicated landing page as soon as possible before the campaign build continues.",
+      "summary": "Approved dedicated landing page for FAPSC. Build around the full Portico Suite for Florida postsecondary schools; add the HubSpot landing-page URL once the page exists.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Approved / Planned"
     },
     {
       "date": "2026-07-29",
@@ -2865,13 +2866,14 @@
     {
       "date": "2026-07-21",
       "tags": "Portico Suite, Major Event",
-      "title": "CSPEN Landing Page Decision",
+      "title": "CSPEN Landing Page",
       "type": "Landing Page",
-      "audience": "Marketing / Events",
+      "audience": "CSPEN attendees / career education leaders",
       "sender": "Marketing",
-      "summary": "Major event flagged for landing-page review. Confirm whether CSPEN needs a dedicated landing page as soon as possible before the campaign build continues.",
+      "summary": "Approved dedicated landing page for CSPEN. Build around the full Portico Suite for career education leaders; confirm the current attendee/list audience before email promotion.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Approved / Planned"
     },
     {
       "date": "2026-08-03",
@@ -3074,13 +3076,14 @@
     {
       "date": "2026-09-16",
       "tags": "Portico Suite, Major Event",
-      "title": "CAPPS Annual Landing Page Decision",
+      "title": "CAPPS Annual Landing Page",
       "type": "Landing Page",
-      "audience": "Marketing / Events",
+      "audience": "California - Enterprise",
       "sender": "Marketing",
-      "summary": "Major event flagged for landing-page review. Confirm whether CAPPS Annual needs a dedicated landing page before the campaign build starts.",
+      "summary": "Approved dedicated landing page for CAPPS Annual. Build around the full Portico Suite for California enterprise and postsecondary audiences; confirm the current attendee/list audience before email promotion.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Approved / Planned"
     },
     {
       "date": "2026-09-30",
@@ -3650,13 +3653,14 @@
     {
       "date": "2026-10-20",
       "tags": "Portico Suite, Major Event",
-      "title": "COE Landing Page Decision",
+      "title": "COE Landing Page",
       "type": "Landing Page",
-      "audience": "Marketing / Events",
+      "audience": "COE attendees / opportunity education leaders",
       "sender": "Marketing",
-      "summary": "Major event flagged for landing-page review. Confirm whether COE needs a dedicated landing page before the campaign build starts.",
+      "summary": "Approved dedicated landing page for COE. Build around the full Portico Suite and confirm the current sponsor package, attendee audience, and list access before promotion.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Approved / Planned"
     },
     {
       "date": "2026-11-03",
@@ -3727,13 +3731,14 @@
     {
       "date": "2026-10-22",
       "tags": "Clinical Management, Major Event",
-      "title": "OADN Landing Page Decision",
+      "title": "OADN Landing Page",
       "type": "Landing Page",
-      "audience": "Marketing / Events",
+      "audience": "Nursing",
       "sender": "Marketing",
-      "summary": "Major event flagged for landing-page review. Confirm whether OADN needs a dedicated landing page before the campaign build starts.",
+      "summary": "Approved dedicated landing page for OADN. Build around Clinical Management for nursing education and the priority OADN audience; add the HubSpot landing-page URL once the page exists.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Approved / Planned"
     },
     {
       "date": "2026-11-05",
@@ -3804,13 +3809,14 @@
     {
       "date": "2026-10-23",
       "tags": "Clinical Management, Major Event",
-      "title": "AARC Congress Landing Page Decision",
+      "title": "AARC Congress Landing Page",
       "type": "Landing Page",
-      "audience": "Marketing / Events",
+      "audience": "Respiratory Therapists",
       "sender": "Marketing",
-      "summary": "Major event flagged for landing-page review. Confirm whether AARC Congress needs a dedicated landing page before the campaign build starts.",
+      "summary": "Approved dedicated landing page for AARC Congress. Build around Clinical Management for respiratory therapy programs; add the HubSpot landing-page URL once the page exists.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Approved / Planned"
     },
     {
       "date": "2026-11-06",
