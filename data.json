@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T14:35:31-04:00",
-  "lastUpdatedBy": "Codex - FAPSC landing page link + deck verification",
+  "lastUpdated": "2026-07-22T10:35:00-04:00",
+  "lastUpdatedBy": "Codex - FISAP and FVT resend requests",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -3696,6 +3696,30 @@
       "summary": "Sales follow-up task for AARC Congress. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
       "audienceLink": "",
       "contentLink": ""
+    },
+    {
+      "date": "2026-07-22",
+      "tags": "Financial Aid, Compliance",
+      "title": "FISAP Reporting Request Resend",
+      "type": "Email",
+      "audience": "Fiscal-requested school list",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Targeted resend requested by Fiscal for the supplied school list. Add the HubSpot email preview and send-list link after scheduling.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-07-22",
+      "tags": "Financial Aid, Compliance",
+      "title": "FVT/GE Reporting Request Resend",
+      "type": "Email",
+      "audience": "Fiscal-requested school list",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Targeted resend requested by Fiscal for the supplied school list. Add the HubSpot email preview and send-list link after scheduling.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
     }
   ]
 }
