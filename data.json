@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-22T10:35:00-04:00",
-  "lastUpdatedBy": "Codex - FISAP and FVT resend requests",
+  "lastUpdated": "2026-07-22T11:00:00-04:00",
+  "lastUpdatedBy": "Codex - sent resends and FAPSC master-roster reconciliation",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -1853,11 +1853,11 @@
       "type": "Event",
       "audience": "Florida Postsecondary Schools",
       "sender": "Portico",
-      "summary": "FAPSC 2026 in Orlando, FL at JW Marriott Grande Lakes. Verified against the latest prep deck: full Portico Suite audience, Booth #610, and Danny Schwantes presenting the attendance-focused breakout session on 8/6/26 at 1:00 PM.",
+      "summary": "FAPSC 2026 in Orlando, FL from 8/5/26 to 8/7/26. Master conference spreadsheet source of truth. Platform focus and 10x20 booth.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-08-07",
-      "attendees": "Dale Scott, Noel Suarez, Danny Schwantes, Ron Bright, Dylan Harmon, Chris Coia"
+      "attendees": "Noel Suarez, Ron Bright, Chris Coia, Jackson Batchelder"
     },
     {
       "date": "2026-08-05",
@@ -3704,10 +3704,10 @@
       "type": "Email",
       "audience": "Fiscal-requested school list",
       "sender": "Portico Financial Aid Services",
-      "summary": "Targeted resend requested by Fiscal for the supplied school list. Add the HubSpot email preview and send-list link after scheduling.",
+      "summary": "Sent 7/22/26 to the 63-recipient list requested by Fiscal. HubSpot email and send-list links pending API visibility.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Sent"
     },
     {
       "date": "2026-07-22",
@@ -3716,10 +3716,10 @@
       "type": "Email",
       "audience": "Fiscal-requested school list",
       "sender": "Portico Financial Aid Services",
-      "summary": "Targeted resend requested by Fiscal for the supplied school list. Add the HubSpot email preview and send-list link after scheduling.",
+      "summary": "Sent 7/22/26 to the 63-recipient list requested by Fiscal. HubSpot email and send-list links pending API visibility.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Sent"
     }
   ]
 }
