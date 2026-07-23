@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-22T11:00:00-04:00",
-  "lastUpdatedBy": "Codex - sent resends and FAPSC master-roster reconciliation",
+  "lastUpdated": "2026-07-23T16:20:00-04:00",
+  "lastUpdatedBy": "Codex - July Portico POV newsletter draft",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2652,6 +2652,18 @@
       "status": "Sent",
       "summary": "Sent 6/24/26. Subject: New Clinical Shift Features in Trajecsys.",
       "audienceLink": ""
+    },
+    {
+      "date": "2026-07-24",
+      "tags": "Portico Brand, Newsletter",
+      "title": "July Portico POV Newsletter",
+      "type": "Email",
+      "audience": "Marketing contacts and Portico roster",
+      "sender": "Portico",
+      "summary": "Planned July Portico POV issue featuring the Financial Aid Risk Calculator, July OBBBA Q&A recording, three Commons articles, recent product progress, and upcoming events.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Draft"
     },
     {
       "date": "2026-07-24",
