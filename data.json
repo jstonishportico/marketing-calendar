@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T16:20:00-04:00",
-  "lastUpdatedBy": "Codex - July Portico POV newsletter draft",
+  "lastUpdated": "2026-07-23T15:45:00-04:00",
+  "lastUpdatedBy": "Codex - July 23 sent email and Commons publish update",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2606,10 +2606,10 @@
       "type": "Article",
       "audience": "The Commons",
       "sender": "Karen Martin-Brown",
-      "summary": "Final draft and CMS prep on 7/20/26; planned Commons publication on 7/21/26.",
+      "summary": "Published on The Commons. Karen Martin-Brown explains how financial aid teams can strengthen operations before OBBBA pressure points become compliance or student-service problems.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://thecommons.porticoedu.com/reactive-to-proactive-fa",
+      "status": "Published"
     },
     {
       "title": "Introducing The Commons (Momentum Subscribers Only)",
@@ -2654,16 +2654,34 @@
       "audienceLink": ""
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-23",
+      "tags": "Financial Aid, Compliance",
+      "title": "G5 Refund Processing Notification",
+      "type": "Email",
+      "audience": "Portico Financial Aid Services partners",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Sent July 23 at 12:58 PM ET. HubSpot asset: G6 Refund Process Notification - 7.23.26. Subject: Update on Department of Education G5 Refund Processing – Full-Service Managed Services Clients.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/217827122856?portalId=7762472&preview_key=lCLcsuas&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "217827122856",
+      "hubspotName": "G6 Refund Process Notification - 7.23.26",
+      "publishedAt": "2026-07-23T16:58:27.429Z",
+      "status": "Sent"
+    },
+    {
+      "date": "2026-07-23",
       "tags": "Portico Brand, Newsletter",
       "title": "July Portico POV Newsletter",
       "type": "Email",
       "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
-      "summary": "Planned July Portico POV issue featuring the Financial Aid Risk Calculator, July OBBBA Q&A recording, three Commons articles, recent product progress, and upcoming events.",
+      "summary": "Sent July 23 at 3:19 PM ET. HubSpot asset: Portico POV - July 2026. Subject: Portico POV: July Edition.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Draft"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/217838157733?portalId=7762472&preview_key=pzUqQrtX&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "hubspotEmailId": "217838157733",
+      "hubspotName": "Portico POV - July 2026",
+      "publishedAt": "2026-07-23T19:19:26.167Z",
+      "status": "Sent"
     },
     {
       "date": "2026-07-24",
