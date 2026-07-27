@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-27T09:50:41-04:00",
-  "lastUpdatedBy": "Codex - July 27 CSPEN and AVTE reconciliation",
+  "lastUpdated": "2026-07-27T10:03:32-04:00",
+  "lastUpdatedBy": "Codex - AFIT and FAPSC audience overlap correction",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2740,7 +2740,7 @@
       "contentLink": ""
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-28",
       "tags": "Portico Suite, Event Promo",
       "title": "AFIT Pre-Event Email",
       "type": "Event Comms",
@@ -2762,7 +2762,7 @@
       "contentLink": ""
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "tags": "Portico Suite, Event Promo",
       "title": "AFIT On-Site LinkedIn Post",
       "type": "Social",
@@ -2773,7 +2773,7 @@
       "contentLink": ""
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "tags": "Portico Suite, Event Follow-Up",
       "title": "AFIT Post-Event Email",
       "type": "Event Comms",
@@ -2784,7 +2784,7 @@
       "contentLink": ""
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "tags": "Portico Suite, Sales Follow-Up",
       "title": "AFIT Sales Follow-Up",
       "type": "Sales Sequence",
@@ -2818,7 +2818,7 @@
       "contentLink": ""
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-03",
       "tags": "Portico Suite, Event Promo",
       "title": "FAPSC Pre-Event Social Post",
       "type": "Social",
@@ -2851,7 +2851,7 @@
       "contentLink": ""
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-13",
       "tags": "Portico Suite, Sales Follow-Up",
       "title": "FAPSC Sales Follow-Up",
       "type": "Sales Sequence",
