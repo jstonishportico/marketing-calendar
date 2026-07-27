@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T15:45:00-04:00",
-  "lastUpdatedBy": "Codex - July 23 sent email and Commons publish update",
+  "lastUpdated": "2026-07-27T09:50:41-04:00",
+  "lastUpdatedBy": "Codex - July 27 CSPEN and AVTE reconciliation",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2684,15 +2684,16 @@
       "status": "Sent"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-27",
       "tags": "Clinical Management, Event Promo",
       "title": "AVTE Pre-Event Email",
       "type": "Event Comms",
       "audience": "Vet Tech Educators",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Planned pre-event email for AVTE. Invite the audience to connect with Portico/Trajecsys before the event and route to the approved meeting, reply, or booth CTA once available.",
+      "summary": "Due today for AVTE, July 31 through August 2. The HubSpot email asset was not yet visible in the July 27 read-only sweep. Add the real email preview and audience links after the email is built or scheduled.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Due Today"
     },
     {
       "date": "2026-07-28",
@@ -2861,16 +2862,16 @@
       "contentLink": ""
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-27",
       "tags": "Portico Suite, Major Event",
       "title": "CSPEN Landing Page",
       "type": "Landing Page",
       "audience": "CSPEN attendees / career education leaders",
       "sender": "Marketing",
-      "summary": "Approved dedicated landing page for CSPEN. Build around the full Portico Suite for career education leaders; confirm the current attendee/list audience before email promotion.",
+      "summary": "Due today for CSPEN, August 10 through August 13. Build and publish the approved full Portico Suite landing page, then add the real live landing-page URL.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Approved / Planned"
+      "status": "Due Today"
     },
     {
       "date": "2026-08-03",
