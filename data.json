@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-27T10:03:32-04:00",
-  "lastUpdatedBy": "Codex - AFIT and FAPSC audience overlap correction",
+  "lastUpdated": "2026-07-28T14:30:00-04:00",
+  "lastUpdatedBy": "Codex - FAPSC and CSPEN secondary pre-event emails",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2829,6 +2829,17 @@
       "contentLink": ""
     },
     {
+      "date": "2026-08-04",
+      "tags": "Portico Suite, Event Promo",
+      "title": "FAPSC Book-a-Meeting Email",
+      "type": "Event Comms",
+      "audience": "FAPSC attendees and Florida postsecondary schools",
+      "sender": "Portico",
+      "summary": "Secondary pre-event email focused on reserving time with the Portico team before FAPSC. Add the real HubSpot email preview, audience, and approved meeting links after the email is built.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
       "date": "2026-08-05",
       "tags": "Portico Suite, Event Promo",
       "title": "FAPSC On-Site LinkedIn Post",
@@ -2892,6 +2903,17 @@
       "audience": "Event audience",
       "sender": "Portico",
       "summary": "Planned pre-event LinkedIn post for CSPEN. Confirm creative and CTA before scheduling.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-08-07",
+      "tags": "Portico Suite, Event Promo",
+      "title": "CSPEN Book-a-Meeting Email",
+      "type": "Event Comms",
+      "audience": "CSPEN attendees and career education leaders",
+      "sender": "Portico",
+      "summary": "Secondary pre-event email focused on reserving time with the Portico team before CSPEN. Add the real HubSpot email preview, audience, and approved meeting links after the email is built.",
       "audienceLink": "",
       "contentLink": ""
     },
