@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T13:22:26-04:00",
-  "lastUpdatedBy": "Codex - AVTE email and social asset status update",
+  "lastUpdated": "2026-07-28T13:33:20-04:00",
+  "lastUpdatedBy": "Codex - AFIT pre-event email moved to Thursday",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2741,13 +2741,13 @@
       "contentLink": ""
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-30",
       "tags": "Portico Suite, Event Promo",
       "title": "AFIT Pre-Event Email",
       "type": "Event Comms",
       "audience": "Community Colleges",
       "sender": "Portico",
-      "summary": "Planned pre-event email for AFIT. Invite the audience to connect with Portico/Trajecsys before the event and route to the approved meeting, reply, or booth CTA once available.",
+      "summary": "Planned pre-event email for AFIT on Thursday, July 30. Invite the audience to connect with Portico before the event and route to the approved meeting or reply CTA once available.",
       "audienceLink": "",
       "contentLink": ""
     },
