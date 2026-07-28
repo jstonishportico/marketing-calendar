@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T14:30:00-04:00",
-  "lastUpdatedBy": "Codex - FAPSC and CSPEN secondary pre-event emails",
+  "lastUpdated": "2026-07-28T13:22:26-04:00",
+  "lastUpdatedBy": "Codex - AVTE email and social asset status update",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2684,16 +2684,16 @@
       "status": "Sent"
     },
     {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "tags": "Clinical Management, Event Promo",
       "title": "AVTE Pre-Event Email",
       "type": "Event Comms",
       "audience": "Vet Tech Educators",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "Due today for AVTE, July 31 through August 2. The HubSpot email asset was not yet visible in the July 27 read-only sweep. Add the real email preview and audience links after the email is built or scheduled.",
+      "sender": "Shawna Granger",
+      "summary": "Drafted in HubSpot for AVTE, July 31 through August 2, and awaiting final approval. Internal preview and audience links are stored in the private source workbook.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Due Today"
+      "status": "Awaiting Approval"
     },
     {
       "date": "2026-07-28",
@@ -2702,9 +2702,10 @@
       "type": "Social",
       "audience": "Vet Tech Educators",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Planned pre-event LinkedIn post for AVTE. Confirm creative and CTA before scheduling.",
+      "summary": "Published AVTE pre-event post on the Trajecsys LinkedIn page.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://www.linkedin.com/posts/heading-to-avte-stop-by-the-trajecsys-booth-share-7487920079452508160-O716/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3gYN4BB0HNl4B1Zh2Nxe5PT8epmPFG1UQ",
+      "status": "Posted"
     },
     {
       "date": "2026-07-31",
