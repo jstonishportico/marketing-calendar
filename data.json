@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-29T10:36:00-04:00",
-  "lastUpdatedBy": "Codex - AVTE HubSpot preview linked",
+  "lastUpdated": "2026-07-29T12:25:00-04:00",
+  "lastUpdatedBy": "Codex - monthly newsletter cadence added",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2684,16 +2684,18 @@
       "status": "Sent"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "tags": "Clinical Management, Event Promo",
       "title": "AVTE Pre-Event Email",
       "type": "Event Comms",
       "audience": "Vet Tech Educators",
       "sender": "Shawna Granger",
-      "summary": "Drafted in HubSpot for AVTE, July 31 through August 2, and awaiting final approval. The HubSpot preview is linked for review.",
+      "summary": "Sent July 29 from Shawna Granger to the Vet Tech Webinar audience.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/-temporary-slug-f40de33c-5f50-4743-9c7b-4c937fb33a5e?hs_preview=YhqetOMv-218205865030",
-      "status": "Awaiting Approval"
+      "status": "Sent",
+      "hubspotEmailId": "218205865030",
+      "publishedAt": "2026-07-29T15:32:10.617Z"
     },
     {
       "date": "2026-07-28",
@@ -2814,9 +2816,12 @@
       "type": "Event Comms",
       "audience": "Florida Postsecondary Schools",
       "sender": "Portico",
-      "summary": "Planned pre-event email for FAPSC. Invite the audience to connect with Portico/Trajecsys before the event and route to the approved meeting, reply, or booth CTA once available.",
+      "summary": "Sent July 29 to FAPSC 2026 registrants.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/218285162890?portalId=7762472&preview_key=xCgjuLSs&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "hubspotEmailId": "218285162890",
+      "publishedAt": "2026-07-29T16:16:08.488Z"
     },
     {
       "date": "2026-08-03",
@@ -2880,10 +2885,10 @@
       "type": "Landing Page",
       "audience": "CSPEN attendees / career education leaders",
       "sender": "Marketing",
-      "summary": "Due today for CSPEN, August 10 through August 13. Build and publish the approved full Portico Suite landing page, then add the real live landing-page URL.",
+      "summary": "Published for CSPEN, August 10 through August 13. Add the live landing-page URL when it is available in the shared source.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Due Today"
+      "status": "Published"
     },
     {
       "date": "2026-08-03",
@@ -3774,6 +3779,136 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Sent"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "August Financial Aid Newsletter",
+      "series": "Financial Aid",
+      "tags": "Financial Aid, Newsletter",
+      "type": "Email",
+      "audience": "Financial Aid customers and subscribers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Monthly Financial Aid newsletter. Planned for the second Thursday, with holiday and major-send adjustments as needed.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "August Portico POV Newsletter",
+      "series": "Portico POV",
+      "tags": "Portico Brand, Newsletter",
+      "type": "Email",
+      "audience": "Marketing contacts and Portico roster",
+      "sender": "Portico",
+      "summary": "Monthly Portico POV newsletter. Planned for the fourth Thursday, with November and December moved earlier for holiday weeks.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "September Financial Aid Newsletter",
+      "series": "Financial Aid",
+      "tags": "Financial Aid, Newsletter",
+      "type": "Email",
+      "audience": "Financial Aid customers and subscribers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Monthly Financial Aid newsletter. Planned for the second Thursday, with holiday and major-send adjustments as needed.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "September Portico POV Newsletter",
+      "series": "Portico POV",
+      "tags": "Portico Brand, Newsletter",
+      "type": "Email",
+      "audience": "Marketing contacts and Portico roster",
+      "sender": "Portico",
+      "summary": "Monthly Portico POV newsletter. Planned for the fourth Thursday, with November and December moved earlier for holiday weeks.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "October Financial Aid Newsletter",
+      "series": "Financial Aid",
+      "tags": "Financial Aid, Newsletter",
+      "type": "Email",
+      "audience": "Financial Aid customers and subscribers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Monthly Financial Aid newsletter. Planned for the second Thursday, with holiday and major-send adjustments as needed.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "October Portico POV Newsletter",
+      "series": "Portico POV",
+      "tags": "Portico Brand, Newsletter",
+      "type": "Email",
+      "audience": "Marketing contacts and Portico roster",
+      "sender": "Portico",
+      "summary": "Monthly Portico POV newsletter. Planned for the fourth Thursday, with November and December moved earlier for holiday weeks.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "November Financial Aid Newsletter",
+      "series": "Financial Aid",
+      "tags": "Financial Aid, Newsletter",
+      "type": "Email",
+      "audience": "Financial Aid customers and subscribers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Monthly Financial Aid newsletter. Planned for the second Thursday, with holiday and major-send adjustments as needed.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "November Portico POV Newsletter",
+      "series": "Portico POV",
+      "tags": "Portico Brand, Newsletter",
+      "type": "Email",
+      "audience": "Marketing contacts and Portico roster",
+      "sender": "Portico",
+      "summary": "Monthly Portico POV newsletter. Planned for the fourth Thursday, with November and December moved earlier for holiday weeks.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-12-10",
+      "title": "December Financial Aid Newsletter",
+      "series": "Financial Aid",
+      "tags": "Financial Aid, Newsletter",
+      "type": "Email",
+      "audience": "Financial Aid customers and subscribers",
+      "sender": "Portico Financial Aid Services",
+      "summary": "Monthly Financial Aid newsletter. Planned for the second Thursday, with holiday and major-send adjustments as needed.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-12-17",
+      "title": "December Portico POV Newsletter",
+      "series": "Portico POV",
+      "tags": "Portico Brand, Newsletter",
+      "type": "Email",
+      "audience": "Marketing contacts and Portico roster",
+      "sender": "Portico",
+      "summary": "Monthly Portico POV newsletter. Planned for the fourth Thursday, with November and December moved earlier for holiday weeks.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
     }
   ]
 }
