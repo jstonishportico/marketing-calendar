@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T15:42:35.916Z",
-  "lastUpdatedBy": "Codex July 31 Portico social collision correction",
+  "lastUpdated": "2026-07-31T15:58:34.588Z",
+  "lastUpdatedBy": "Codex July 31 Momentum 2027 landing-page correction",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -666,13 +666,16 @@
     {
       "date": "2026-07-31",
       "tags": "Momentum",
-      "title": "Momentum 2027: Microsite launched",
-      "type": "Website",
+      "title": "Momentum 2027 Landing Page",
+      "type": "Landing Page",
       "audience": "Portico customers and VIP prospects",
       "sender": "Marketing",
-      "summary": "Launch the Momentum 2027 microsite with updated dates, location, logo, attendee video, form, workflow, and segment routing.",
+      "summary": "Published July 31. Verified Momentum 2027 page for May 17-19, 2027 in Hollywood Beach, Florida.",
       "audienceLink": "",
-      "contentLink": "https://app.hubspot.com/pages/7762472/editor/214591070313/content"
+      "contentLink": "https://welcome.porticoedu.com/momentum-2027-std",
+      "contentLabel": "View Landing Page",
+      "hubspotPageId": "218290049848",
+      "status": "Published"
     },
     {
       "date": "2026-08-01",
