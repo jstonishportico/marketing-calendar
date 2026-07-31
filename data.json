@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T15:35:43.384Z",
-  "lastUpdatedBy": "Codex July 31 high-value social update",
+  "lastUpdated": "2026-07-31T15:42:35.916Z",
+  "lastUpdatedBy": "Codex July 31 Portico social collision correction",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2704,17 +2704,6 @@
       "audience": "AVTE event-sourced contacts",
       "sender": "Sales",
       "summary": "Sales follow-up task for AVTE. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-07-31",
-      "tags": "Portico Suite, Event Promo",
-      "title": "AFIT Pre-Event Social Post",
-      "type": "Social",
-      "audience": "Community Colleges",
-      "sender": "Portico",
-      "summary": "Planned pre-event LinkedIn post for AFIT. Confirm creative and CTA before scheduling.",
       "audienceLink": "",
       "contentLink": ""
     },
