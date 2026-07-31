@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T15:02:16.282Z",
-  "lastUpdatedBy": "Codex July 31 Pathways and Attendance update",
+  "lastUpdated": "2026-07-31T15:35:43.384Z",
+  "lastUpdatedBy": "Codex July 31 high-value social update",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -3991,10 +3991,23 @@
       "type": "Social",
       "audience": "Attendance audience",
       "sender": "Portico",
-      "summary": "Shorter carousel approved by Jessica and planned for publication July 31. Add the live LinkedIn post URL after publication.",
+      "summary": "Shorter carousel is finished and ready for publication. Add the live LinkedIn post URL after publication.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Publishing Today"
+      "status": "Ready to Publish"
+    },
+    {
+      "date": "2026-07-17",
+      "tags": "Clinical Management, LinkedIn",
+      "title": "SPE Tracker LinkedIn Carousel",
+      "type": "Social",
+      "audience": "Nursing and allied health program leaders",
+      "sender": "Trajecsys",
+      "summary": "Designed SPE Tracker carousel completed by Amanda Widzinski. Publication date and live LinkedIn post URL are still pending.",
+      "audienceLink": "",
+      "contentLink": "https://simplifyedinc.sharepoint.com/:b:/s/Marketing/IQAzuOy8dlLeS5L-Vo_shmFmAVoBRIaCIP0l8lqW4XmlWMQ?e=CkuMjf",
+      "contentLabel": "View Creative",
+      "status": "Creative Complete"
     }
   ]
 }
