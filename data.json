@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-29T12:25:00-04:00",
-  "lastUpdatedBy": "Codex - monthly newsletter cadence added",
+  "lastUpdated": "2026-07-31T14:48:16.833Z",
+  "lastUpdatedBy": "Codex morning sweep reconciliation",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -950,17 +950,6 @@
       "summary": "",
       "audienceLink": "",
       "contentLink": "https://thecommons.porticoedu.com/financial-aid-has-a-new-ceiling"
-    },
-    {
-      "date": "2026-07-30",
-      "tags": "CRM / Recruit",
-      "title": "The Case for TikTok in Career School Recruiting",
-      "type": "Article",
-      "audience": "The Commons",
-      "sender": "Jenn Lyles, Darius Goldman",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-06-10",
@@ -2390,30 +2379,6 @@
       "status": "Sent"
     },
     {
-      "date": "2026-07-30",
-      "tags": "Financial Aid, Compliance",
-      "title": "FISAP Reporting Request Final Reminder",
-      "type": "Email",
-      "audience": "FA customers",
-      "sender": "Portico Financial Aid Services",
-      "summary": "Final reminder before the 7/31/26 FISAP support request deadline.",
-      "audienceLink": "",
-      "contentLink": "",
-      "audienceLinks": []
-    },
-    {
-      "date": "2026-07-31",
-      "tags": "Financial Aid, Compliance",
-      "title": "FVT/GE Reporting Request Reminder",
-      "type": "Email",
-      "audience": "FA customers",
-      "sender": "Portico Financial Aid Services",
-      "summary": "Reminder for customers who want Portico to complete FVT/GE reporting; request forms due 8/7/26.",
-      "audienceLink": "",
-      "contentLink": "",
-      "audienceLinks": []
-    },
-    {
       "date": "2026-08-06",
       "tags": "Financial Aid, Compliance",
       "title": "FVT/GE Reporting Request Final Reminder",
@@ -2721,13 +2686,13 @@
       "contentLink": ""
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-05",
       "tags": "Clinical Management, Event Follow-Up",
       "title": "AVTE Post-Event Email",
       "type": "Event Comms",
       "audience": "AVTE attendees and event-sourced contacts",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Planned post-event email for AVTE. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
+      "summary": "Planned post-event email for AVTE. Moved from August 3 to avoid overlapping the CSPEN pre-event email audience through the Portico roster.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -2739,17 +2704,6 @@
       "audience": "AVTE event-sourced contacts",
       "sender": "Sales",
       "summary": "Sales follow-up task for AVTE. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-07-30",
-      "tags": "Portico Suite, Event Promo",
-      "title": "AFIT Pre-Event Email",
-      "type": "Event Comms",
-      "audience": "Community Colleges",
-      "sender": "Portico",
-      "summary": "Planned pre-event email for AFIT on Thursday, July 30. Invite the audience to connect with Portico before the event and route to the approved meeting or reply CTA once available.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -3909,6 +3863,114 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
+    },
+    {
+      "date": "2026-07-30",
+      "tags": "Clinical Management, Demo Follow-Up",
+      "title": "Trajecsys Demo Follow-Up Email 1",
+      "type": "Email",
+      "audience": "Contacts enrolled in the Trajecsys demo follow-up workflow",
+      "sender": "Trajecsys",
+      "summary": "Automated Trajecsys demo follow-up email activated July 30.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/218366106640?portalId=7762472&preview_key=rNelcukc&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [],
+      "hubspotEmailId": "218366106640",
+      "hubspotName": "Trajecsys Demo Abandoned Cart",
+      "publishedAt": "2026-07-30T10:55:42-04:00",
+      "status": "Automated"
+    },
+    {
+      "date": "2026-07-30",
+      "tags": "Clinical Management, Demo Follow-Up",
+      "title": "Trajecsys Demo Follow-Up Email 2",
+      "type": "Email",
+      "audience": "Contacts enrolled in the Trajecsys demo follow-up workflow",
+      "sender": "Trajecsys",
+      "summary": "Second automated Trajecsys demo follow-up email activated July 30.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/218366210394?portalId=7762472&preview_key=NUItjfzE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [],
+      "hubspotEmailId": "218366210394",
+      "hubspotName": "Trajecsys Abandoned Cart 2",
+      "publishedAt": "2026-07-30T10:58:33-04:00",
+      "status": "Automated"
+    },
+    {
+      "date": "2026-07-31",
+      "tags": "Clinical Management, Webinar Promo",
+      "title": "OADN Webinar Promo Email",
+      "type": "Email",
+      "audience": "Nursing program leaders and OADN audience",
+      "sender": "Trajecsys",
+      "summary": "Sent July 31 to the Portico roster and nursing-role audience.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/218437459262?portalId=7762472&preview_key=yIqyfOdm&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Nursing Role Audience",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters"
+        }
+      ],
+      "excludedAudienceLinks": [
+        {
+          "label": "MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ],
+      "hubspotEmailId": "218437459262",
+      "hubspotName": "OADN Webinar Promo - August 2026",
+      "publishedAt": "2026-07-31T10:29:59-04:00",
+      "status": "Sent"
+    },
+    {
+      "date": "2026-08-04",
+      "tags": "Clinical Management, Webinar Promo",
+      "title": "OADN Webinar Social Post",
+      "type": "Social",
+      "audience": "Nursing program leaders and OADN audience",
+      "sender": "Trajecsys",
+      "summary": "Planned social promotion for the August 13 OADN webinar.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-08-12",
+      "tags": "Clinical Management, Webinar Promo",
+      "title": "OADN Webinar Reminder Email",
+      "type": "Email",
+      "audience": "Nursing program leaders and OADN audience",
+      "sender": "Trajecsys",
+      "summary": "Planned day-before reminder for the August 13 OADN webinar.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-08-13",
+      "tags": "Clinical Management, Webinar",
+      "title": "Beyond Clinical Tracking: Building a Stronger Nursing Program Through Better Data",
+      "type": "Webinar",
+      "audience": "Nursing program leaders and OADN audience",
+      "sender": "Trajecsys and OADN",
+      "summary": "OADN webinar on August 13 at 1:00 PM ET and 10:00 AM PT.",
+      "audienceLink": "",
+      "contentLink": "https://us06web.zoom.us/meeting/register/7UB4hvPvQnucQ71Zw9mXEg#/registration",
+      "contentLabel": "Register"
+    },
+    {
+      "date": "2026-09-10",
+      "tags": "Financial Aid, Webinar",
+      "title": "FASFAA SOR Webinar",
+      "type": "Webinar",
+      "audience": "FASFAA members and financial aid professionals",
+      "sender": "Portico and FASFAA",
+      "summary": "Confirmed for September 10 from 2:00 to 3:00 PM ET. Portico presenter selection is pending.",
+      "audienceLink": "",
+      "contentLink": ""
     }
   ]
 }
