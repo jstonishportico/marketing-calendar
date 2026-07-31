@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T14:48:16.833Z",
-  "lastUpdatedBy": "Codex morning sweep reconciliation",
+  "lastUpdated": "2026-07-31T15:02:16.282Z",
+  "lastUpdatedBy": "Codex July 31 Pathways and Attendance update",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -3971,6 +3971,30 @@
       "summary": "Confirmed for September 10 from 2:00 to 3:00 PM ET. Portico presenter selection is pending.",
       "audienceLink": "",
       "contentLink": ""
+    },
+    {
+      "date": "2026-07-30",
+      "tags": "Portico Pathways, Learning",
+      "title": "Portico Pathways Landing Page",
+      "type": "Landing Page",
+      "audience": "Portico customers and learners",
+      "sender": "Portico",
+      "summary": "Portico Pathways landing page published July 30.",
+      "audienceLink": "",
+      "contentLink": "https://welcome.porticoedu.com/portico-pathways",
+      "status": "Published"
+    },
+    {
+      "date": "2026-07-31",
+      "tags": "Attendance, LinkedIn",
+      "title": "Attendance LinkedIn Carousel",
+      "type": "Social",
+      "audience": "Attendance audience",
+      "sender": "Portico",
+      "summary": "Shorter carousel approved by Jessica and planned for publication July 31. Add the live LinkedIn post URL after publication.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Publishing Today"
     }
   ]
 }
