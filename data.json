@@ -2770,7 +2770,7 @@
       "publishedAt": "2026-07-29T16:16:08.488Z"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "tags": "Portico Suite, Event Promo",
       "title": "FAPSC Pre-Event Social Post",
       "type": "Social",
@@ -2783,11 +2783,11 @@
     {
       "date": "2026-08-04",
       "tags": "Portico Suite, Event Promo",
-      "title": "FAPSC Book-a-Meeting Email",
+      "title": "FAPSC Pre-Event Email",
       "type": "Event Comms",
       "audience": "FAPSC attendees and Florida postsecondary schools",
       "sender": "Portico",
-      "summary": "Secondary pre-event email focused on reserving time with the Portico team before FAPSC. Add the real HubSpot email preview, audience, and approved meeting links after the email is built.",
+      "summary": "Planned pre-event email for FAPSC. Add the approved HubSpot preview and audience after the email is built.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -2837,7 +2837,7 @@
       "status": "Published"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "tags": "Portico Suite, Event Promo",
       "title": "CSPEN Pre-Event Email",
       "type": "Event Comms",
@@ -2861,11 +2861,11 @@
     {
       "date": "2026-08-07",
       "tags": "Portico Suite, Event Promo",
-      "title": "CSPEN Book-a-Meeting Email",
+      "title": "CSPEN Pre-Event Email",
       "type": "Event Comms",
       "audience": "CSPEN attendees and career education leaders",
       "sender": "Portico",
-      "summary": "Secondary pre-event email focused on reserving time with the Portico team before CSPEN. Add the real HubSpot email preview, audience, and approved meeting links after the email is built.",
+      "summary": "Planned pre-event email for CSPEN. Add the approved HubSpot preview and audience after the email is built.",
       "audienceLink": "",
       "contentLink": ""
     },
