@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-05T18:22:05.158Z",
-  "lastUpdatedBy": "Codex August 5 overdue calendar reconciliation",
+  "lastUpdated": "2026-08-05T19:34:18.577Z",
+  "lastUpdatedBy": "Codex August 5 AVTE no-list correction",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2687,30 +2687,6 @@
       "summary": "On-site LinkedIn post for AVTE. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
       "audienceLink": "",
       "contentLink": ""
-    },
-    {
-      "date": "2026-08-05",
-      "tags": "Clinical Management, Event Follow-Up",
-      "title": "AVTE Post-Event Email",
-      "type": "Event Comms",
-      "audience": "AVTE attendees and event-sourced contacts",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "Jessica started the AVTE post-event email on August 5.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "In Progress"
-    },
-    {
-      "date": "2026-08-06",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "AVTE Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "AVTE event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up moved to August 6 after the AVTE post-event email.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
     },
     {
       "date": "2026-08-06",
