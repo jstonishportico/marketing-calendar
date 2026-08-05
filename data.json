@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-04T11:32:48Z",
-  "lastUpdatedBy": "Codex August 4 missed pre-event schedule update",
+  "lastUpdated": "2026-08-05T18:22:05.158Z",
+  "lastUpdatedBy": "Codex August 5 overdue calendar reconciliation",
   "campaigns": [
     {
       "name": "Financial Aid (OBBBA)",
@@ -2695,20 +2695,22 @@
       "type": "Event Comms",
       "audience": "AVTE attendees and event-sourced contacts",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Planned post-event email for AVTE. Moved from August 3 to avoid overlapping the CSPEN pre-event email audience through the Portico roster.",
+      "summary": "Jessica started the AVTE post-event email on August 5.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "In Progress"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-06",
       "tags": "Clinical Management, Sales Follow-Up",
       "title": "AVTE Sales Follow-Up",
       "type": "Sales Sequence",
       "audience": "AVTE event-sourced contacts",
       "sender": "Sales",
-      "summary": "Sales follow-up task for AVTE. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
+      "summary": "Sales follow-up moved to August 6 after the AVTE post-event email.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-08-06",
@@ -2770,37 +2772,16 @@
       "publishedAt": "2026-07-29T16:16:08.488Z"
     },
     {
-      "date": "2026-08-04",
-      "tags": "Portico Suite, Event Promo",
-      "title": "FAPSC Pre-Event Social Post",
-      "type": "Social",
-      "audience": "Florida Postsecondary Schools",
-      "sender": "Portico",
-      "summary": "Planned pre-event LinkedIn post for FAPSC. Confirm creative and CTA before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-08-04",
-      "tags": "Portico Suite, Event Promo",
-      "title": "FAPSC Pre-Event Email",
-      "type": "Event Comms",
-      "audience": "FAPSC attendees and Florida postsecondary schools",
-      "sender": "Portico",
-      "summary": "Planned pre-event email for FAPSC. Add the approved HubSpot preview and audience after the email is built.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-08-05",
       "tags": "Portico Suite, Event Promo",
       "title": "FAPSC On-Site LinkedIn Post",
       "type": "Social",
       "audience": "Florida Postsecondary Schools",
       "sender": "Portico",
-      "summary": "On-site LinkedIn post for FAPSC. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
+      "summary": "Waiting on photos from the FAPSC team before the on-site post can be published.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Waiting on Photos"
     },
     {
       "date": "2026-08-10",
@@ -2835,17 +2816,6 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
-    },
-    {
-      "date": "2026-08-04",
-      "tags": "Portico Suite, Event Promo",
-      "title": "CSPEN Pre-Event Email",
-      "type": "Event Comms",
-      "audience": "CSPEN attendees",
-      "sender": "Portico",
-      "summary": "Planned pre-event email for CSPEN. Invite the audience to connect with Portico/Trajecsys before the event and route to the approved meeting, reply, or booth CTA once available.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-08-07",
@@ -3920,17 +3890,6 @@
       "status": "Sent"
     },
     {
-      "date": "2026-08-04",
-      "tags": "Clinical Management, Webinar Promo",
-      "title": "OADN Webinar Social Post",
-      "type": "Social",
-      "audience": "Nursing program leaders and OADN audience",
-      "sender": "Trajecsys",
-      "summary": "Planned social promotion for the August 13 OADN webinar.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-08-12",
       "tags": "Clinical Management, Webinar Promo",
       "title": "OADN Webinar Reminder Email",
@@ -4000,6 +3959,38 @@
       "contentLink": "https://simplifyedinc.sharepoint.com/:b:/s/Marketing/IQAzuOy8dlLeS5L-Vo_shmFmAVoBRIaCIP0l8lqW4XmlWMQ?e=CkuMjf",
       "contentLabel": "View Creative",
       "status": "Creative Complete"
+    },
+    {
+      "date": "2026-08-05",
+      "tags": "Portico Suite, Event Comms",
+      "title": "FAPSC Welcome Email",
+      "type": "Email",
+      "audience": "FAPSC 2026 registrants",
+      "sender": "Portico",
+      "summary": "Sent August 5 to FAPSC 2026 registrants.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10968/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/218777607478?portalId=7762472&preview_key=qAyqakpK&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "FAPSC 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10968/filters"
+        }
+      ],
+      "excludedAudienceLinks": [
+        {
+          "label": "Unsubscribed from all email",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "hubspotEmailId": "218777607478",
+      "hubspotName": "Welcome to FAPSC 2026",
+      "publishedAt": "2026-08-05T10:44:45-04:00",
+      "status": "Sent"
     }
   ]
 }
