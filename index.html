@@ -2207,12 +2207,12 @@
     };
     const typeDisplay = typeDisplayMap[item.type] || item.type;
     const needsContentPlaceholder = ['Email', 'Product Comms', 'Event Comms'].includes(item.type) && !item.contentLink;
-    const hasRegistrantButton = isWebinar || Object.prototype.hasOwnProperty.call(item, 'registrantLink');
-    const hasAttendeeButton = isWebinar || Object.prototype.hasOwnProperty.call(item, 'attendeeLink');
+    const hasRegistrantButton = Object.prototype.hasOwnProperty.call(item, 'registrantLink');
+    const hasAttendeeButton = Object.prototype.hasOwnProperty.call(item, 'attendeeLink');
     const hasAttendingAccountsButton = Object.prototype.hasOwnProperty.call(item, 'attendingAccountsLink');
     const audienceLinks = Array.isArray(item.audienceLinks) ? item.audienceLinks : [];
     const hasAudienceLinks = item.audienceLink || audienceLinks.length > 0;
-    const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || item.youtubeLink || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
+    const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || item.youtubeLink || item.registrationLink || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
     if (hasLinks) {
       html += '<div class="modal-links">';
       if (item.contentLink) {
@@ -2224,6 +2224,9 @@
       if (item.youtubeLink) {
         const youtubeLabel = isWebinar ? 'Watch Recording' : 'View in YouTube';
         html += '<a class="modal-link-primary" href="' + item.youtubeLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">' + youtubeLabel + '</a>';
+      }
+      if (item.registrationLink) {
+        html += '<a class="modal-link-secondary" href="' + escHtml(item.registrationLink) + '" target="_blank" rel="noopener">View Registration Page</a>';
       }
       if (item.audienceLink) {
         const audienceLabel = audienceListLabel({
