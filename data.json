@@ -2777,16 +2777,32 @@
     },
     {
       "date": "2026-08-14",
-      "title": "(A) Demo Days 2026 Reminder",
+      "tags": "Portico Suite, Event Follow-Up",
+      "title": "CSPEN Post-Event Email",
+      "type": "Event Comms",
+      "audience": "CSPEN attendees and event-sourced contacts",
+      "sender": "Portico",
+      "summary": "Planned post-event email for CSPEN. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Demo Days 2026 Reminder",
       "tags": "Demo Days 2026",
       "type": "Email",
-      "audience": "HubSpot send audience",
+      "audience": "Demo Days 2026 Send List",
       "sender": "Jessica Stonish",
       "summary": "Don’t miss Portico Demo Days 2026. Results as of 8/26/26: 9,078 delivered, 14.9% opened, 0.4% clicked.",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11112/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/219482314752?portalId=7762472&preview_key=XXqmlQAx&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "contentLabel": "View Email",
-      "audienceLinks": [],
+      "audienceLinks": [
+        {
+          "label": "Demo Days 2026 Send List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11112/filters"
+        }
+      ],
       "hubspotEmailId": "219482314752",
       "hubspotName": "(A) Demo Days 2026 Reminder",
       "publishedAt": "2026-08-14T17:55:17.207Z",
@@ -2800,17 +2816,6 @@
         "clickRate": 0.37453183520599254,
         "updatedAt": "2026-08-26T18:07:15Z"
       }
-    },
-    {
-      "date": "2026-08-14",
-      "tags": "Portico Suite, Event Follow-Up",
-      "title": "CSPEN Post-Event Email",
-      "type": "Event Comms",
-      "audience": "CSPEN attendees and event-sourced contacts",
-      "sender": "Portico",
-      "summary": "Planned post-event email for CSPEN. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-08-14",
@@ -3211,13 +3216,18 @@
       "title": "Demo Days 2026 Week-Before Reminder",
       "tags": "Demo Days 2026",
       "type": "Email",
-      "audience": "HubSpot send audience",
+      "audience": "Demo Days 2026 Send List",
       "sender": "Jessica Stonish",
       "summary": "LIVE next week: Portico Demo Days. Results as of 8/26/26: 19,165 delivered, 7.3% opened, 0.2% clicked.",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11112/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/220302539415?portalId=7762472&preview_key=hFpOrPkT&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "contentLabel": "View Email",
-      "audienceLinks": [],
+      "audienceLinks": [
+        {
+          "label": "Demo Days 2026 Send List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11112/filters"
+        }
+      ],
       "hubspotEmailId": "220302539415",
       "hubspotName": "Demo Days 2026 Week-Before Reminder",
       "publishedAt": "2026-08-25T19:41:15.620Z",
