@@ -3361,8 +3361,8 @@
       }
     },
     {
-      "date": "2026-09-01",
-      "title": "Portico Demo Day: Financial Aid Software and Services",
+      "date": "2026-09-03",
+      "title": "Portico Demo Day: Financial Aid",
       "tags": "Financial Aid, Portico Suite, Webinar",
       "type": "Webinar",
       "audience": "All prospects and cross-sell prospects",
@@ -3405,7 +3405,7 @@
     },
     {
       "date": "2026-09-02",
-      "title": "Portico Demo Day: CRM",
+      "title": "Portico Demo Day: Portico Recruit (CRM)",
       "tags": "CRM, Portico Suite, Webinar",
       "type": "Webinar",
       "audience": "All prospects and cross-sell prospects",
@@ -3424,7 +3424,7 @@
     },
     {
       "date": "2026-09-02",
-      "title": "Portico Demo Day: SIS",
+      "title": "Portico Demo Day: Portico Student (SIS)",
       "tags": "SIS, Portico Suite, Webinar",
       "type": "Webinar",
       "audience": "All prospects and cross-sell prospects",
@@ -3443,12 +3443,12 @@
     },
     {
       "date": "2026-09-03",
-      "title": "Portico Demo Day: Attendance",
-      "tags": "Attendance, Portico Suite, Webinar",
+      "title": "Portico Demo Day: Attendance & Skills",
+      "tags": "Attendance, Skills, Portico Suite, Webinar",
       "type": "Webinar",
       "audience": "All prospects and cross-sell prospects",
       "sender": "Portico",
-      "summary": "Portico Demo Days session at 3:00 PM ET.",
+      "summary": "Portico Demo Days session at 2:00 PM ET.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11130/filters",
       "contentLink": "https://welcome.porticoedu.com/demo-days",
       "status": "Planned",
@@ -3461,13 +3461,13 @@
       ]
     },
     {
-      "date": "2026-09-03",
-      "title": "Portico Demo Day: Clinical Management",
+      "date": "2026-09-01",
+      "title": "Demo Day: Trajecsys Clinical Management",
       "tags": "Clinical Management, Portico Suite, Webinar",
       "type": "Webinar",
       "audience": "All prospects and cross-sell prospects",
-      "sender": "Portico",
-      "summary": "Portico Demo Days session at 4:30 PM ET.",
+      "sender": "Trajecsys",
+      "summary": "Demo Days session at 1:00 PM ET.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11132/filters",
       "contentLink": "https://welcome.porticoedu.com/demo-days",
       "status": "Planned",
@@ -3486,7 +3486,7 @@
       "type": "Webinar",
       "audience": "All prospects and cross-sell prospects",
       "sender": "Portico",
-      "summary": "Portico Demo Days session at 4:00 PM ET.",
+      "summary": "Portico Demo Days session at 3:00 PM ET.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11131/filters",
       "contentLink": "https://welcome.porticoedu.com/demo-days",
       "status": "Planned",
@@ -5047,7 +5047,7 @@
       "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
     }
   ],
-  "lastUpdated": "2026-08-31T13:26:39-04:00",
+  "lastUpdated": "2026-08-31T15:52:54-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
