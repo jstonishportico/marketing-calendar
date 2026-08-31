@@ -3295,24 +3295,70 @@
       "series": "Portico POV",
       "tags": "Portico Brand, Newsletter",
       "type": "Email",
-      "audience": "Marketing contacts and Portico roster",
+      "audience": "Portico Roster 2026; Marketing Contacts",
       "sender": "Portico",
-      "summary": "Monthly Portico POV newsletter. Planned for the fourth Thursday, with November and December moved earlier for holiday weeks.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "summary": "Portico POV: August Edition. Results as of 8/31/26: 23,452 delivered, 14.3% opened, 0.4% clicked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/220487617375?portalId=7762472&preview_key=yUikWgsg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Marketing Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters"
+        }
+      ],
+      "contentLabel": "View Email",
+      "hubspotEmailId": "220487617375",
+      "hubspotName": "Portico POV - August 2026",
+      "publishedAt": "2026-08-27T17:30:39.413Z",
+      "results": {
+        "sent": 23648,
+        "delivered": 23452,
+        "opens": 3360,
+        "openRate": 14.327,
+        "clicks": 92,
+        "clickRate": 0.392,
+        "updatedAt": "2026-08-31T17:26:39Z"
+      }
     },
     {
       "date": "2026-08-31",
-      "title": "Portico Demo Days Promo Email (Day Before)",
+      "title": "Demo Days 2026 Day-Before Reminder",
       "tags": "Portico Suite, Webinar Promo",
       "type": "Email",
-      "audience": "All prospects and cross-sell prospects",
+      "audience": "Demo Days 2026 Invite - Buyer Roles; Demo Days 2026 Invite",
       "sender": "Portico",
-      "summary": "Day-before reminder for the 9/1-9/3 Portico Demo Days series. HubSpot email preview and audience list pending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "summary": "LIVE TOMORROW: What's new in Portico. Results as of 8/31/26 at 1:26 PM ET: 18,912 delivered, 2.2% opened, 0.1% clicked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11157/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/220743679755?portalId=7762472&preview_key=wyaxosdr&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Demo Days 2026 Invite - Buyer Roles",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11157/filters"
+        },
+        {
+          "label": "Demo Days 2026 Invite",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11112/filters"
+        }
+      ],
+      "contentLabel": "View Email",
+      "hubspotEmailId": "220743679755",
+      "hubspotName": "Demo Days 2026 Day-Before Reminder",
+      "publishedAt": "2026-08-31T14:16:59.780Z",
+      "results": {
+        "sent": 19063,
+        "delivered": 18912,
+        "opens": 407,
+        "openRate": 2.152,
+        "clicks": 25,
+        "clickRate": 0.132,
+        "updatedAt": "2026-08-31T17:26:39Z"
+      }
     },
     {
       "date": "2026-09-01",
@@ -3465,26 +3511,51 @@
       "status": "Planned"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-08-28",
       "tags": "Portico Brand",
-      "title": "Labor day closure announcement",
+      "title": "Labor Day 2026 Closure Notification",
       "type": "Email",
-      "audience": "General Audience",
+      "audience": "Portico Roster 2026; Current Customer Contacts (Lifecycle Stage)",
       "sender": "Portico",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Portico Labor Day Closure. Results as of 8/31/26: 4,369 delivered, 15.5% opened, 0.1% clicked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/220411808692?portalId=7762472&preview_key=mNmvxXhE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Current Customer Contacts (Lifecycle Stage)",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters"
+        }
+      ],
+      "contentLabel": "View Email",
+      "hubspotEmailId": "220411808692",
+      "hubspotName": "Labor Day 2026 Closure Notification",
+      "publishedAt": "2026-08-28T18:09:10.570Z",
+      "status": "Sent",
+      "results": {
+        "sent": 4370,
+        "delivered": 4369,
+        "opens": 676,
+        "openRate": 15.473,
+        "clicks": 3,
+        "clickRate": 0.069,
+        "updatedAt": "2026-08-31T17:37:29Z"
+      }
     },
     {
       "date": "2026-09-07",
       "tags": "Portico Brand",
-      "title": "Happy labor day",
+      "title": "Happy Labor Day from Portico",
       "type": "Social",
       "audience": "General Audience",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Organic Portico social post for Labor Day.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-09-07",
@@ -4976,6 +5047,72 @@
       "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
     }
   ],
-  "lastUpdated": "2026-08-26T14:07:15-04:00",
-  "lastUpdatedBy": "Codex + Jessica Stonish"
+  "lastUpdated": "2026-08-31T13:26:39-04:00",
+  "lastUpdatedBy": "Codex + Jessica Stonish",
+  "campaigns": [
+    {
+      "name": "Intent-based outbound campaigns",
+      "product": "Attendance, Financial Aid, and Clinical Management",
+      "currentStatus": "On 8/10 we launched a new set of campaigns across Attendance, Financial Aid, and Clinical Management*. These campaigns include intent signals like “added a new program” or “opened a new campus” or “hired X buyer role” with customized messaging based on the account signal. We will run this test to validate whether or not outbound is a valid growth lever for Portico.",
+      "currentStatusNote": "*CM campaign delayed due to ownership clarification, launching week of August 31.",
+      "priorStatus": "Prior to 8/10: We ran an initial test of 500 accounts* and ~2000 contacts using standardized messaging across three campaigns: Attendance, Financial Aid, and Clinical Management. This test was unsuccessful, with very few positive responses, proving that blanket outbound sequences do not work for our audience.",
+      "priorStatusNote": "*Due to budget, LinkedIn is focused on these 500 target accounts and the buyer roles within them.",
+      "who": {
+        "description": "Enterprise and programmatic accounts showing a relevant intent signal, plus the buyer roles within the 500 target accounts receiving LinkedIn ads.",
+        "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11044/filters"
+      },
+      "what": "Intent signals and contact-level customization are now part of the campaign test. The first campaign batch engaged 2,205 contacts, tagged as active or in a 60-day cool down before they can be reengaged. The enriched account list included 498 accounts when the 8/10 update was shared and was still expanding.",
+      "where": "Instantly email, Lemlist enterprise LinkedIn outreach, and LinkedIn ads matched to each contact’s current campaign.",
+      "how": [
+        "Customization may use a new academic or operations leader, a new campus, open roles with attendance responsibilities, or target-role messaging when no stronger intent signal is available.",
+        "Email and ad engagement is available on HubSpot contact records.",
+        "Enriched account match rates as of 8/10 were SIS 42%, LMS 45%, learning environment 94%, program accreditor 92%, programs 92%, school type 94%, student population 81%, on-ground students 81%, and number of campuses 84%."
+      ],
+      "links": [
+        {
+          "label": "Current Campaign Copy",
+          "url": "https://simplifyedinc-my.sharepoint.com/:w:/g/personal/jstonish_porticoedu_com/IQCPdQaj4K8qRLcBuyAeQ7ZhAaWSr5Tw8h5_gfeuR2HUc-U?e=rdDjaW"
+        },
+        {
+          "label": "Enterprise Accounts Included",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11044/filters"
+        },
+        {
+          "label": "Programmatic Accounts Included",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11043/filters"
+        },
+        {
+          "label": "LinkedIn Ads Reporting",
+          "url": "https://client-reports-production-0d09.up.railway.app/portico?return=%2Fportico%2Flinkedin-ads-report#ads",
+          "note": "Ask Marketing for the reporting login."
+        },
+        {
+          "label": "First Campaign Batch Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objects/0-1/views/69603068/list"
+        },
+        {
+          "label": "First Campaign Batch Enriched Accounts",
+          "url": "https://app.hubspot.com/contacts/7762472/objects/0-2/views/69602443/list"
+        },
+        {
+          "label": "Portico Outbound Campaigns",
+          "url": "https://docs.google.com/document/d/1nE4uyOMXxYAAf6d59mnYpb770rTTx9X2sAsg8-dwdgI/edit?usp=sharing"
+        }
+      ],
+      "customization": [
+        {
+          "label": "Attendance Customization",
+          "url": "https://docs.google.com/spreadsheets/d/1KPN6arvRodElEEMCkvp1s7N33L837zrNvQguhRgBs2o/edit?usp=sharing"
+        },
+        {
+          "label": "Financial Aid Customization",
+          "note": "To be added shortly"
+        },
+        {
+          "label": "Clinical Management Customization",
+          "note": "To be added shortly"
+        }
+      ]
+    }
+  ]
 }

@@ -1303,11 +1303,11 @@
       </div>
     </div>
     <div class="binder-tab-wrap">
-      <div class="binder-tab">
+      <button class="binder-tab" id="campaignTabButton" type="button">
         <span class="binder-tab-text">Current Campaigns</span>
-      </div>
+      </button>
       <div class="binder-panel binder-panel-wide">
-        <div class="binder-panel-title">Active paid campaigns</div>
+        <div class="binder-panel-title">Current campaigns</div>
         <div id="campaignRows"></div>
       </div>
     </div>
@@ -1510,7 +1510,7 @@
       return;
     }
     el.innerHTML = allCampaigns.map((c, i) =>
-      '<button class="campaign-card coming-soon" data-idx="' + i + '">' +
+      '<button class="campaign-card" data-idx="' + i + '" onclick="openCampaignModal(allCampaigns[' + i + '])">' +
         '<div class="campaign-name">' + c.name + '</div>' +
         '<div class="campaign-card-hint">View details ›</div>' +
       '</button>'
@@ -1525,6 +1525,22 @@
       '<span class="type-name">Paid Campaign &middot; ' + (c.product || '') + '</span>' +
     '</div>' +
     '<div class="item-title">' + c.name + '</div>';
+
+    if (c.currentStatus) {
+      html += '<div class="campaign-section">' +
+        '<div class="campaign-section-label">Current Status</div>' +
+        '<div class="campaign-section-content">' + c.currentStatus + '</div>' +
+        (c.currentStatusNote ? '<div class="campaign-notes" style="margin-top:10px;">' + c.currentStatusNote + '</div>' : '') +
+      '</div>';
+    }
+
+    if (c.priorStatus) {
+      html += '<div class="campaign-section">' +
+        '<div class="campaign-section-label">Prior Test</div>' +
+        '<div class="campaign-section-content"><em>' + c.priorStatus + '</em></div>' +
+        (c.priorStatusNote ? '<div class="campaign-notes" style="margin-top:10px;"><em>' + c.priorStatusNote + '</em></div>' : '') +
+      '</div>';
+    }
 
     // Who
     const whoDesc     = c.who && c.who.description ? c.who.description : '';
@@ -1559,6 +1575,30 @@
       '</div>';
     }
 
+    if (c.links && c.links.length) {
+      html += '<div class="campaign-section">' +
+        '<div class="campaign-section-label">Campaign Links</div>' +
+        '<div class="modal-links">' +
+        c.links.map(link =>
+          '<a class="modal-link-secondary" href="' + link.url + '" target="_blank" rel="noopener">' + link.label + '</a>' +
+          (link.note ? '<div class="campaign-notes">' + link.note + '</div>' : '')
+        ).join('') +
+        '</div>' +
+      '</div>';
+    }
+
+    if (c.customization && c.customization.length) {
+      html += '<div class="campaign-section">' +
+        '<div class="campaign-section-label">Customization</div>' +
+        '<div class="modal-links">' +
+        c.customization.map(link => link.url
+          ? '<a class="modal-link-secondary" href="' + link.url + '" target="_blank" rel="noopener">' + link.label + '</a>'
+          : '<div class="modal-link-secondary modal-link-placeholder">' + link.label + ' &middot; ' + link.note + '</div>'
+        ).join('') +
+        '</div>' +
+      '</div>';
+    }
+
     // Motions + landing page
     const hasMotions   = c.motions && c.motions.length;
     const hasLanding   = !!c.landingPage;
@@ -1585,6 +1625,10 @@
     document.getElementById('modalCard').classList.add('modal-wide');
     document.getElementById('overlay').classList.add('open');
   }
+
+  document.getElementById('campaignTabButton').addEventListener('click', () => {
+    if (allCampaigns.length) openCampaignModal(allCampaigns[0]);
+  });
 
   /* ─── Legend ─────────────────────────────────────────── */
   function buildLegend() {
