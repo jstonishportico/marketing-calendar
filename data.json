@@ -3558,42 +3558,6 @@
       "status": "Planned"
     },
     {
-      "date": "2026-09-07",
-      "title": "Trajecsys Demo Days Pharmacy Technician Promo Email (Day Before)",
-      "tags": "Clinical Management, Webinar Promo",
-      "type": "Email",
-      "audience": "Pharmacy Technician job titles",
-      "sender": "Trajecsys",
-      "summary": "Role-specific day-before reminder for the 9/8 Pharmacy Technician session. HubSpot email preview and audience list pending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "OBBBA Updates Promo Email (Day Before)",
-      "tags": "Financial Aid, Webinar Promo",
-      "type": "Email",
-      "audience": "Current FA customers",
-      "sender": "Portico",
-      "summary": "Day-before reminder for the 9/9 OBBBA updates webinar. HubSpot email preview and audience list pending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "Trajecsys Demo Day: Pharmacy Technician",
-      "tags": "Clinical Management, Webinar",
-      "type": "Webinar",
-      "audience": "Pharmacy Technician job titles",
-      "sender": "Trajecsys",
-      "summary": "Trajecsys Demo Days session at 1:00 PM ET.",
-      "audienceLink": "",
-      "contentLink": "https://welcome.porticoedu.com/cm-demo-days",
-      "status": "Planned"
-    },
-    {
       "date": "2026-09-09",
       "title": "OBBBA Updates in Portico FA CORE",
       "tags": "Financial Aid, Webinar",
@@ -3611,18 +3575,6 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/11135/filters"
         }
       ]
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Trajecsys Demo Days Medical Assisting Promo Email (Day Before)",
-      "tags": "Clinical Management, Webinar Promo",
-      "type": "Email",
-      "audience": "Medical Assisting job titles",
-      "sender": "Trajecsys",
-      "summary": "Role-specific day-before reminder for the 9/10 Medical Assisting session. HubSpot email preview and audience list pending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
     },
     {
       "date": "2026-09-10",
@@ -5045,10 +4997,128 @@
       "summary": "Send post-event survey to capture attendee feedback and follow-up signals.",
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Trajecsys for Pharm Tech Day-Of Invite",
+      "tags": "Demo Days 2026",
+      "type": "Email",
+      "audience": "HubSpot A/B send audience",
+      "sender": "Trajecsys",
+      "summary": "Today: Trajecsys for Pharm Tech. Sent from HubSpot on 2026-09-08.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/221376116353?portalId=7762472&preview_key=xbBNerCj&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "contentLabel": "View Email",
+      "audienceLinks": [],
+      "hubspotEmailId": "221376116353",
+      "hubspotName": "Trajecsys for Pharm Tech Day-Of Invite - September 2026",
+      "publishedAt": "2026-09-08T13:45:52.155Z",
+      "status": "Sent"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Trajecsys for Medical Assisting Invite",
+      "tags": "Demo Days 2026",
+      "type": "Email",
+      "audience": "COARC July 2026; [Role] Pharm Tech; [Role] Dental Assisting; [Role] Medical Assisting; [ROLE] Nursing",
+      "sender": "Trajecsys",
+      "summary": "See Trajecsys for Medical Assisting. Sent from HubSpot on 2026-09-08.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10970/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/221394387295?portalId=7762472&preview_key=csEtEWVR&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "COARC July 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10970/filters"
+        },
+        {
+          "label": "[Role] Pharm Tech",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11173/filters"
+        },
+        {
+          "label": "[Role] Dental Assisting",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11174/filters"
+        },
+        {
+          "label": "[Role] Medical Assisting",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11175/filters"
+        },
+        {
+          "label": "[ROLE] Nursing",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters"
+        }
+      ],
+      "hubspotEmailId": "221394387295",
+      "hubspotName": "Trajecsys for MA Invite - September 2026",
+      "publishedAt": "2026-09-08T18:42:45.348Z",
+      "status": "Sent"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "September Clinical Product Email",
+      "tags": "Q126 - Clinical Management",
+      "type": "Email",
+      "audience": "Trajecsys Users - September 2026; MF_2026 Clinical Management Contacts",
+      "sender": "Portico Clinical Management",
+      "summary": "Clinical shift options, new Support Agent, and more. Sent from HubSpot on 2026-09-09.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/221465875270?portalId=7762472&preview_key=vvxRNkgH&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        },
+        {
+          "label": "MF_2026 Clinical Management Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10928/filters"
+        }
+      ],
+      "hubspotEmailId": "221465875270",
+      "hubspotName": "Clinical Product Email - September 2026",
+      "publishedAt": "2026-09-09T18:31:55.635Z",
+      "status": "Sent"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Trajecsys for Medical Assisting Day-Of Invite",
+      "tags": "Clinical Management, Webinar Promo",
+      "type": "Email",
+      "audience": "Medical Assisting job titles",
+      "sender": "Trajecsys",
+      "summary": "Day-of invite for the 1:00 PM ET Medical Assisting session. HubSpot publication is pending.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Trajecsys for Pharm Tech Reminder",
+      "tags": "Clinical Management, Webinar Promo",
+      "type": "Email",
+      "audience": "Pharmacy Technician job titles",
+      "sender": "Trajecsys",
+      "summary": "Planned reminder for the 9/16 Pharm Tech session. HubSpot email preview and audience list pending.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Trajecsys Demo Day: Pharmacy Technician",
+      "tags": "Clinical Management, Webinar",
+      "type": "Webinar",
+      "audience": "Pharmacy Technician job titles",
+      "sender": "Trajecsys",
+      "summary": "Trajecsys Demo Days session at 2:30 PM ET and 11:30 AM PT.",
+      "audienceLink": "",
+      "contentLink": "https://welcome.porticoedu.com/cm-demo-days",
+      "contentLabel": "View Registration Page",
+      "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-08-31T15:52:54-04:00",
-  "lastUpdatedBy": "Codex + Jessica Stonish",
+  "lastUpdated": "2026-09-10T09:30:00-04:00",
+  "lastUpdatedBy": "Codex September 10 HubSpot and webinar reconciliation",
   "campaigns": [
     {
       "name": "Intent-based outbound campaigns",
