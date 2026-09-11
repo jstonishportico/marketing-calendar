@@ -2251,12 +2251,13 @@
     };
     const typeDisplay = typeDisplayMap[item.type] || item.type;
     const needsContentPlaceholder = ['Email', 'Product Comms', 'Event Comms'].includes(item.type) && !item.contentLink;
+    const hasRegistrationButton = Object.prototype.hasOwnProperty.call(item, 'registrationLink');
     const hasRegistrantButton = Object.prototype.hasOwnProperty.call(item, 'registrantLink');
     const hasAttendeeButton = Object.prototype.hasOwnProperty.call(item, 'attendeeLink');
     const hasAttendingAccountsButton = Object.prototype.hasOwnProperty.call(item, 'attendingAccountsLink');
     const audienceLinks = Array.isArray(item.audienceLinks) ? item.audienceLinks : [];
     const hasAudienceLinks = item.audienceLink || audienceLinks.length > 0;
-    const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || item.youtubeLink || item.registrationLink || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
+    const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || item.youtubeLink || hasRegistrationButton || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
     if (hasLinks) {
       html += '<div class="modal-links">';
       if (item.contentLink) {
@@ -2269,10 +2270,16 @@
         const youtubeLabel = isWebinar ? 'Watch Recording' : 'View in YouTube';
         html += '<a class="modal-link-primary" href="' + item.youtubeLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">' + youtubeLabel + '</a>';
       }
-      if (item.registrationLink) {
-        html += '<a class="modal-link-secondary" href="' + escHtml(item.registrationLink) + '" target="_blank" rel="noopener">View Registration Page</a>';
+      if (hasRegistrationButton) {
+        if (item.registrationLink) {
+          html += '<a class="modal-link-secondary" href="' + escHtml(item.registrationLink) + '" target="_blank" rel="noopener">View Registration Page</a>';
+        } else {
+          html += '<div class="modal-link-secondary tbd">Registration page unavailable</div>';
+        }
       }
-      if (item.audienceLink) {
+      // Use the legacy single-list fallback only when the card does not have
+      // dedicated, named audience-list buttons.
+      if (item.audienceLink && audienceLinks.length === 0) {
         const audienceLabel = audienceListLabel({
           count: item.audienceCount,
           url: item.audienceLink

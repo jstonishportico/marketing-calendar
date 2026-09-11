@@ -3368,16 +3368,11 @@
       "audience": "All prospects and cross-sell prospects",
       "sender": "Portico",
       "summary": "Portico Demo Days session at 1:00 PM ET.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11129/filters",
       "contentLink": "https://welcome.porticoedu.com/demo-days",
-      "status": "Planned",
+      "status": "Completed",
       "contentLabel": "View Registration Page",
-      "audienceLinks": [
-        {
-          "label": "Registrant List",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11129/filters"
-        }
-      ]
+      "registrantLink": "https://app.hubspot.com/contacts/7762472/objectLists/11129/filters",
+      "attendeeLink": ""
     },
     {
       "date": "2026-09-02",
@@ -3399,16 +3394,11 @@
       "audience": "All prospects and cross-sell prospects",
       "sender": "Portico",
       "summary": "Portico Demo Days session at 2:00 PM ET.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11122/filters",
       "contentLink": "https://welcome.porticoedu.com/demo-days",
-      "status": "Planned",
+      "status": "Completed",
       "contentLabel": "View Registration Page",
-      "audienceLinks": [
-        {
-          "label": "Registrant List",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11122/filters"
-        }
-      ]
+      "registrantLink": "https://app.hubspot.com/contacts/7762472/objectLists/11122/filters",
+      "attendeeLink": ""
     },
     {
       "date": "2026-09-02",
@@ -3418,16 +3408,11 @@
       "audience": "All prospects and cross-sell prospects",
       "sender": "Portico",
       "summary": "Portico Demo Days session at 3:00 PM ET.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11128/filters",
       "contentLink": "https://welcome.porticoedu.com/demo-days",
-      "status": "Planned",
+      "status": "Completed",
       "contentLabel": "View Registration Page",
-      "audienceLinks": [
-        {
-          "label": "Registrant List",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11128/filters"
-        }
-      ]
+      "registrantLink": "https://app.hubspot.com/contacts/7762472/objectLists/11128/filters",
+      "attendeeLink": ""
     },
     {
       "date": "2026-09-03",
@@ -3437,16 +3422,11 @@
       "audience": "All prospects and cross-sell prospects",
       "sender": "Portico",
       "summary": "Portico Demo Days session at 2:00 PM ET.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11130/filters",
       "contentLink": "https://welcome.porticoedu.com/demo-days",
-      "status": "Planned",
+      "status": "Completed",
       "contentLabel": "View Registration Page",
-      "audienceLinks": [
-        {
-          "label": "Registrant List",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11130/filters"
-        }
-      ]
+      "registrantLink": "https://app.hubspot.com/contacts/7762472/objectLists/11130/filters",
+      "attendeeLink": ""
     },
     {
       "date": "2026-09-01",
@@ -3456,16 +3436,11 @@
       "audience": "All prospects and cross-sell prospects",
       "sender": "Trajecsys",
       "summary": "Demo Days session at 1:00 PM ET.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11132/filters",
       "contentLink": "https://welcome.porticoedu.com/demo-days",
-      "status": "Planned",
+      "status": "Completed",
       "contentLabel": "View Registration Page",
-      "audienceLinks": [
-        {
-          "label": "Registrant List",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11132/filters"
-        }
-      ]
+      "registrantLink": "https://app.hubspot.com/contacts/7762472/objectLists/11132/filters",
+      "attendeeLink": ""
     },
     {
       "date": "2026-09-03",
@@ -3475,16 +3450,11 @@
       "audience": "All prospects and cross-sell prospects",
       "sender": "Portico",
       "summary": "Portico Demo Days session at 3:00 PM ET.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11131/filters",
       "contentLink": "https://welcome.porticoedu.com/demo-days",
-      "status": "Planned",
+      "status": "Completed",
       "contentLabel": "View Registration Page",
-      "audienceLinks": [
-        {
-          "label": "Registrant List",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11131/filters"
-        }
-      ]
+      "registrantLink": "https://app.hubspot.com/contacts/7762472/objectLists/11131/filters",
+      "attendeeLink": ""
     },
     {
       "date": "2026-09-03",
@@ -3553,16 +3523,11 @@
       "audience": "Current FA customers",
       "sender": "Portico",
       "summary": "Webinar at 1:00 PM ET for current FA customers.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11135/filters",
       "contentLink": "https://welcome.porticoedu.com/core-obbba-updates",
-      "status": "Planned",
+      "status": "Completed",
       "contentLabel": "View Registration Page",
-      "audienceLinks": [
-        {
-          "label": "Registrant List",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11135/filters"
-        }
-      ]
+      "registrantLink": "https://app.hubspot.com/contacts/7762472/objectLists/11135/filters",
+      "attendeeLink": ""
     },
     {
       "date": "2026-09-10",
@@ -3571,9 +3536,13 @@
       "type": "Webinar",
       "audience": "FASFAA members and financial aid professionals",
       "sender": "Portico and FASFAA",
-      "summary": "Confirmed for September 10 from 2:00 to 3:00 PM ET. Portico presenter selection is pending.",
+      "summary": "External FASFAA SOR webinar held 9/10/26 from 2:00 to 3:00 PM ET. Registration page, registrant list, and attendee list are not available in the calendar source.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "registrationLink": "",
+      "registrantLink": "",
+      "attendeeLink": "",
+      "status": "Completed"
     },
     {
       "date": "2026-09-10",
@@ -3617,10 +3586,13 @@
       "type": "Webinar",
       "audience": "Medical Assisting job titles",
       "sender": "Trajecsys",
-      "summary": "Trajecsys Demo Days session at 1:00 PM ET.",
+      "summary": "Trajecsys Demo Day at 1:00 PM ET. The series registration page is available; event-specific registrant and attendee lists are still needed.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/cm-demo-days",
-      "status": "Planned"
+      "status": "Completed",
+      "registrantLink": "",
+      "attendeeLink": "",
+      "contentLabel": "View Registration Page"
     },
     {
       "date": "2026-09-16",
@@ -3928,10 +3900,13 @@
       "type": "Webinar",
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
-      "summary": "Trajecsys Demo Days session at 1:00 PM ET.",
+      "summary": "Trajecsys Demo Days session at 1:00 PM ET. Event-specific registrant and attendee lists are pending.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/cm-demo-days",
-      "status": "Planned"
+      "status": "Planned",
+      "registrantLink": "",
+      "attendeeLink": "",
+      "contentLabel": "View Registration Page"
     },
     {
       "date": "2026-10-09",
@@ -4522,10 +4497,13 @@
       "type": "Webinar",
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
-      "summary": "Trajecsys Demo Days session at 1:00 PM ET.",
+      "summary": "Trajecsys Demo Days session at 1:00 PM ET. Event-specific registrant and attendee lists are pending.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/cm-demo-days",
-      "status": "Planned"
+      "status": "Planned",
+      "registrantLink": "",
+      "attendeeLink": "",
+      "contentLabel": "View Registration Page"
     },
     {
       "date": "2026-11-05",
@@ -4843,10 +4821,13 @@
       "type": "Webinar",
       "audience": "Dental Assisting job titles",
       "sender": "Trajecsys",
-      "summary": "Trajecsys Demo Days session at 1:00 PM ET.",
+      "summary": "Trajecsys Demo Days session at 1:00 PM ET. Event-specific registrant and attendee lists are pending.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/cm-demo-days",
-      "status": "Planned"
+      "status": "Planned",
+      "registrantLink": "",
+      "attendeeLink": "",
+      "contentLabel": "View Registration Page"
     },
     {
       "date": "2026-12-10",
@@ -5180,10 +5161,13 @@
       "tags": "Clinical Management, Webinar",
       "sender": "Trajecsys",
       "type": "Webinar",
-      "summary": "Trajecsys Demo Day at 2:00 PM ET and 11:00 AM PT. Registration page update is pending.",
+      "summary": "Trajecsys Demo Day at 2:00 PM ET and 11:00 AM PT. Registration-page update, event-specific registrant list, and attendee list are pending.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "registrantLink": "",
+      "attendeeLink": "",
+      "registrationLink": ""
     },
     {
       "date": "2026-09-28",
@@ -5258,8 +5242,8 @@
       "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-09-11T09:45:00-04:00",
-  "lastUpdatedBy": "Codex September 11 calendar reconciliation",
+  "lastUpdated": "2026-09-11T11:30:00-04:00",
+  "lastUpdatedBy": "Codex September 11 link-integrity audit",
   "campaigns": [
     {
       "name": "Intent-based outbound campaigns",
