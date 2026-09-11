@@ -3380,18 +3380,6 @@
       ]
     },
     {
-      "date": "2026-09-01",
-      "title": "Trajecsys Demo Days Pharmacy Technician Promo Email (One Week Out)",
-      "tags": "Clinical Management, Webinar Promo",
-      "type": "Email",
-      "audience": "Pharmacy Technician job titles",
-      "sender": "Trajecsys",
-      "summary": "Role-specific one-week promo for the 9/8 Pharmacy Technician session. HubSpot email preview and audience list pending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
-    },
-    {
       "date": "2026-09-02",
       "title": "OBBBA Updates Promo Email (One Week Out)",
       "tags": "Financial Aid, Webinar Promo",
@@ -3593,12 +3581,34 @@
       "series": "Financial Aid",
       "tags": "Financial Aid, Newsletter",
       "type": "Email",
-      "audience": "Financial Aid customers and subscribers",
+      "audience": "Portico Roster 2026; FA Newsletter; Campus Ivy_FA Newsletter Contacts; List - FA Clients - August 2025",
       "sender": "Portico Financial Aid Services",
-      "summary": "Monthly Financial Aid newsletter. Planned for the second Thursday, with holiday and major-send adjustments as needed.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "summary": "Portico Financial Aid News: September Updates. Sent from HubSpot on 9/10/26.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/221592387743?portalId=7762472&preview_key=hhfPaNgn&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "FA Newsletter",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters"
+        },
+        {
+          "label": "Campus Ivy_FA Newsletter Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters"
+        },
+        {
+          "label": "List - FA Clients - August 2025",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters"
+        }
+      ],
+      "contentLabel": "View Email",
+      "hubspotEmailId": "221592387743",
+      "hubspotName": "FA Newsletter - September 2026",
+      "publishedAt": "2026-09-10T17:43:21.451Z"
     },
     {
       "date": "2026-09-10",
@@ -5080,45 +5090,176 @@
       "status": "Sent"
     },
     {
-      "date": "2026-09-10",
-      "title": "Trajecsys for Medical Assisting Day-Of Invite",
-      "tags": "Clinical Management, Webinar Promo",
+      "date": "2026-09-11",
+      "title": "FA Product Downtime Notification",
+      "audience": "Portico Financial Aid customers",
+      "tags": "Financial Aid, Product Comms",
+      "sender": "Portico Financial Aid",
+      "summary": "Planned customer notice about scheduled Portico Financial Aid downtime. HubSpot publication is pending.",
       "type": "Email",
-      "audience": "Medical Assisting job titles",
-      "sender": "Trajecsys",
-      "summary": "Day-of invite for the 1:00 PM ET Medical Assisting session. HubSpot publication is pending.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
     },
     {
-      "date": "2026-09-15",
-      "title": "Trajecsys for Pharm Tech Reminder",
-      "tags": "Clinical Management, Webinar Promo",
+      "date": "2026-09-11",
+      "title": "OBBBA Post-Webinar Email",
+      "audience": "OBBBA webinar registrants and attendees",
+      "tags": "Financial Aid, Webinar Follow-Up",
+      "sender": "Portico",
+      "summary": "Planned follow-up for the 9/9 OBBBA Updates webinar. HubSpot publication is pending.",
       "type": "Email",
-      "audience": "Pharmacy Technician job titles",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "FA Product Downtime Reminder",
+      "audience": "Portico Financial Aid customers",
+      "tags": "Financial Aid, Product Comms",
+      "sender": "Portico Financial Aid",
+      "summary": "Planned reminder cloned from the 9/11 FA product downtime notification. HubSpot publication is pending.",
+      "type": "Email",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Trajecsys for Nutrition and Dietetics Announcement",
+      "audience": "Nutrition and Dietetics job titles",
+      "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
-      "summary": "Planned reminder for the 9/16 Pharm Tech session. HubSpot email preview and audience list pending.",
+      "summary": "Announcement for the 9/23 Nutrition and Dietetics Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
     },
     {
       "date": "2026-09-16",
-      "title": "Trajecsys Demo Day: Pharmacy Technician",
-      "tags": "Clinical Management, Webinar",
-      "type": "Webinar",
-      "audience": "Pharmacy Technician job titles",
+      "title": "Trajecsys for Nutrition and Dietetics One-Week Invite",
+      "audience": "Nutrition and Dietetics job titles",
+      "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
-      "summary": "Trajecsys Demo Days session at 2:30 PM ET and 11:30 AM PT.",
+      "summary": "One-week invite for the 9/23 Nutrition and Dietetics Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
       "audienceLink": "",
-      "contentLink": "https://welcome.porticoedu.com/cm-demo-days",
-      "contentLabel": "View Registration Page",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Trajecsys for Nutrition and Dietetics Day-Before Reminder",
+      "audience": "Nutrition and Dietetics job titles",
+      "tags": "Clinical Management, Webinar Promo",
+      "sender": "Trajecsys",
+      "summary": "Day-before reminder for the 9/23 Nutrition and Dietetics Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Trajecsys for Nutrition and Dietetics Day-Of Invite",
+      "audience": "Nutrition and Dietetics job titles",
+      "tags": "Clinical Management, Webinar Promo",
+      "sender": "Trajecsys",
+      "summary": "Day-of invite for the 2:00 PM ET Nutrition and Dietetics Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Trajecsys Demo Day: Nutrition and Dietetics",
+      "audience": "Nutrition and Dietetics job titles",
+      "tags": "Clinical Management, Webinar",
+      "sender": "Trajecsys",
+      "type": "Webinar",
+      "summary": "Trajecsys Demo Day at 2:00 PM ET and 11:00 AM PT. Registration page update is pending.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Trajecsys Demo Day Nursing 10/8 Announcement",
+      "audience": "Nursing job titles",
+      "tags": "Clinical Management, Webinar Promo",
+      "sender": "Trajecsys",
+      "summary": "Announcement for the 10/8 Nursing Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Trajecsys Demo Day Nursing 10/8 Day-Of Invite",
+      "audience": "Nursing job titles",
+      "tags": "Clinical Management, Webinar Promo",
+      "sender": "Trajecsys",
+      "summary": "Day-of invite for the 10/8 Nursing Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Trajecsys Demo Day Nursing 11/3 Announcement",
+      "audience": "Nursing job titles",
+      "tags": "Clinical Management, Webinar Promo",
+      "sender": "Trajecsys",
+      "summary": "Announcement for the 11/3 Nursing Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Trajecsys Demo Day Nursing 11/3 Day-Of Invite",
+      "audience": "Nursing job titles",
+      "tags": "Clinical Management, Webinar Promo",
+      "sender": "Trajecsys",
+      "summary": "Day-of invite for the 11/3 Nursing Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Trajecsys Demo Day Dental Assisting Announcement",
+      "audience": "Dental Assisting job titles",
+      "tags": "Clinical Management, Webinar Promo",
+      "sender": "Trajecsys",
+      "summary": "Announcement for the 12/9 Dental Assisting Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-12-09",
+      "title": "Trajecsys Demo Day Dental Assisting Day-Of Invite",
+      "audience": "Dental Assisting job titles",
+      "tags": "Clinical Management, Webinar Promo",
+      "sender": "Trajecsys",
+      "summary": "Day-of invite for the 12/9 Dental Assisting Demo Day. HubSpot email preview and audience list pending.",
+      "type": "Email",
+      "audienceLink": "",
+      "contentLink": "",
       "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-09-10T09:30:00-04:00",
-  "lastUpdatedBy": "Codex September 10 HubSpot and webinar reconciliation",
+  "lastUpdated": "2026-09-11T09:45:00-04:00",
+  "lastUpdatedBy": "Codex September 11 calendar reconciliation",
   "campaigns": [
     {
       "name": "Intent-based outbound campaigns",
