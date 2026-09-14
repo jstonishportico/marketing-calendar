@@ -5250,13 +5250,14 @@
       "audience": "Sonography",
       "sender": "Portico, formerly Trajecsys",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/sdms",
+      "contentLabel": "View Landing Page",
       "date": "2026-09-14",
       "tags": "Clinical Management, Event Promo",
       "title": "SDMS Landing Page",
       "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Dedicated event landing page planned for SDMS. Add the final page only after the event details, CTA, and destination are verified."
+      "status": "Live",
+      "summary": "Dedicated SDMS event landing page."
     },
     {
       "audience": "Sonography",
@@ -5273,13 +5274,14 @@
       "audience": "Career education schools in Texas",
       "sender": "Portico",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/ccst",
+      "contentLabel": "View Landing Page",
       "date": "2026-09-14",
       "tags": "Portico Suite, Event Promo",
       "title": "CCST Annual Landing Page",
       "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Dedicated event landing page planned for CCST Annual. Add the final page only after the event details, CTA, and destination are verified."
+      "status": "Live",
+      "summary": "Dedicated CCST Annual event landing page."
     },
     {
       "audience": "Career education schools in Texas",
@@ -5718,8 +5720,8 @@
       "summary": "Pre-event LinkedIn post for Career Schools NYS. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available."
     }
   ],
-  "lastUpdated": "2026-09-14T18:48:25.483Z",
-  "lastUpdatedBy": "Codex September 14 event-promotion update",
+  "lastUpdated": "2026-09-14T20:19:54Z",
+  "lastUpdatedBy": "Codex September 14 CCST and SDMS landing-page link update",
   "campaigns": [
     {
       "name": "Intent-based outbound campaigns",
