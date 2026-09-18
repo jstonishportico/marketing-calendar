@@ -5718,10 +5718,58 @@
       "title": "Career Schools NYS Pre-Event Social Post",
       "type": "Social",
       "summary": "Pre-event LinkedIn post for Career Schools NYS. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available."
+    },
+    {
+      "date": "2026-09-28",
+      "tags": "Clinical Management, SDMS, Event Follow-Up",
+      "title": "SDMS Post-Event Survey",
+      "type": "Survey",
+      "audience": "SDMS attendees and event-sourced contacts",
+      "sender": "Trajecsys",
+      "summary": "Planned post-event survey. Confirm the final questions, audience, and survey destination before sending.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-09-29",
+      "tags": "Momentum 2027",
+      "title": "Momentum 2027 Budget Request Email",
+      "type": "Email",
+      "audience": "Portico customers and career education professionals who need institutional approval",
+      "sender": "Portico",
+      "summary": "Planned send using the completed budget-request email. Confirm the early-bird deadline, savings, CTA destination, and HubSpot audience before scheduling.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-05",
+      "tags": "Clinical Management, Respiratory Care, CoARC",
+      "title": "CoARC List Campaign",
+      "type": "Campaign",
+      "audience": "CoARC respiratory care program contacts",
+      "sender": "Trajecsys",
+      "summary": "Planned list-based Trajecsys campaign. Confirm the current CoARC list, campaign goal, message, exclusions, owner, and HubSpot routing before launch.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-06",
+      "tags": "Clinical Management, Nursing, The Commons",
+      "title": "Is your nursing program ready for a state board review?",
+      "type": "Article",
+      "audience": "The Commons",
+      "sender": "Brian Bright",
+      "summary": "Target publication date. Brian review, customer-story confirmation, nursing regulatory review, final byline, and publication approval remain open.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-09-14T20:19:54Z",
-  "lastUpdatedBy": "Codex September 14 CCST and SDMS landing-page link update",
+  "lastUpdated": "2026-09-18T12:00:00-04:00",
+  "lastUpdatedBy": "Codex September 18 SDMS survey and campaign planning update",
   "campaigns": [
     {
       "name": "Intent-based outbound campaigns",
@@ -5788,5 +5836,5 @@
       ]
     }
   ],
-  "updated": "2026-09-14"
+  "updated": "2026-09-18"
 }
