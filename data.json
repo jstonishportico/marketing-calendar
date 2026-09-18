@@ -3718,7 +3718,7 @@
       "type": "Event Comms",
       "audience": "SDMS attendees and event-sourced contacts",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Planned post-event email for SDMS. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
+      "summary": "Planned post-event email for SDMS attendees and event-sourced contacts. Drive recipients to request a Trajecsys demo.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -5718,18 +5718,6 @@
       "title": "Career Schools NYS Pre-Event Social Post",
       "type": "Social",
       "summary": "Pre-event LinkedIn post for Career Schools NYS. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available."
-    },
-    {
-      "date": "2026-09-28",
-      "tags": "Clinical Management, SDMS, Event Follow-Up",
-      "title": "SDMS Post-Event Survey",
-      "type": "Survey",
-      "audience": "SDMS attendees and event-sourced contacts",
-      "sender": "Trajecsys",
-      "summary": "Planned post-event survey. Confirm the final questions, audience, and survey destination before sending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
     },
     {
       "date": "2026-09-29",
