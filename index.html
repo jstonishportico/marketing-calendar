@@ -2256,8 +2256,9 @@
     const hasAttendeeButton = Object.prototype.hasOwnProperty.call(item, 'attendeeLink');
     const hasAttendingAccountsButton = Object.prototype.hasOwnProperty.call(item, 'attendingAccountsLink');
     const audienceLinks = Array.isArray(item.audienceLinks) ? item.audienceLinks : [];
+    const contentLinks = Array.isArray(item.contentLinks) ? item.contentLinks : [];
     const hasAudienceLinks = item.audienceLink || audienceLinks.length > 0;
-    const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || item.youtubeLink || hasRegistrationButton || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
+    const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || contentLinks.length > 0 || item.youtubeLink || hasRegistrationButton || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
     if (hasLinks) {
       html += '<div class="modal-links">';
       if (item.contentLink) {
@@ -2266,6 +2267,10 @@
       } else if (needsContentPlaceholder) {
         html += '<div class="modal-link-primary tbd">View ' + typeDisplay + '</div>';
       }
+      contentLinks.forEach(link => {
+        if (!link.url) return;
+        html += '<a class="modal-link-primary" href="' + escHtml(link.url) + '" target="_blank" rel="noopener" style="background:' + tp.color + '">' + escHtml(link.label) + '</a>';
+      });
       if (item.youtubeLink) {
         const youtubeLabel = isWebinar ? 'Watch Recording' : 'View in YouTube';
         html += '<a class="modal-link-primary" href="' + item.youtubeLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">' + youtubeLabel + '</a>';
@@ -2356,7 +2361,9 @@
     const terms = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
     if (!terms.length) { clearSearch(); return; }
 
-    const matches = allItems.filter(i => matchesSearch(i, terms));
+    const matches = allItems
+      .filter(i => matchesSearch(i, terms))
+      .sort((a, b) => (a.date || '9999-12-31').localeCompare(b.date || '9999-12-31') || a.title.localeCompare(b.title));
     calWrap.style.display = 'none';
     document.getElementById('syncRow').style.display = 'none';
     searchResults.classList.add('active');
