@@ -3877,17 +3877,6 @@
     },
     {
       "date": "2026-10-07",
-      "tags": "Portico Suite, Event Promo",
-      "title": "PMTS Owners Summit Pre-Event Email",
-      "type": "Event Comms",
-      "audience": "Paul Mitchell school owners",
-      "sender": "Portico",
-      "summary": "One-week pre-event email planned for PMTS Owners Summit. Confirm the attendee audience, meeting route, and landing page before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-10-07",
       "title": "Trajecsys Demo Days Nursing 10/8 Promo Email (Day Before)",
       "tags": "Clinical Management, Webinar Promo",
       "type": "Email",
@@ -3925,17 +3914,6 @@
       "registrantLink": "",
       "attendeeLink": "",
       "contentLabel": "View Registration Page"
-    },
-    {
-      "date": "2026-10-09",
-      "tags": "Portico Suite, Event Promo",
-      "title": "PMTS Owners Summit Pre-Event Social Post",
-      "type": "Social",
-      "audience": "Paul Mitchell school owners",
-      "sender": "Portico",
-      "summary": "Pre-event LinkedIn post for PMTS Owners Summit. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-10-09",
@@ -4030,30 +4008,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-10-14",
-      "tags": "Portico Suite",
-      "title": "PMTS Owners Summit | New York, NY",
-      "type": "Event",
-      "audience": "Paul Mitchell school owners",
-      "sender": "Portico",
-      "summary": "PMTS Owners Summit event in New York, NY. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
-      "audienceLink": "",
-      "contentLink": "",
-      "endDate": "2026-10-17",
-      "attendees": "Todd"
-    },
-    {
-      "date": "2026-10-14",
-      "tags": "Portico Suite, Event Promo",
-      "title": "PMTS Owners Summit On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Event audience",
-      "sender": "Portico",
-      "summary": "On-site LinkedIn post for PMTS Owners Summit. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-10-15",
       "tags": "Clinical Management, Sales Follow-Up",
       "title": "CACN/COADN Sales Follow-Up",
@@ -4121,17 +4075,6 @@
     },
     {
       "date": "2026-10-19",
-      "tags": "Portico Suite, Event Follow-Up",
-      "title": "PMTS Owners Summit Post-Event Email",
-      "type": "Event Comms",
-      "audience": "PMTS Owners Summit attendees and event-sourced contacts",
-      "sender": "Portico",
-      "summary": "Planned post-event email for PMTS Owners Summit. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-10-19",
       "tags": "Clinical Management, Sales Follow-Up",
       "title": "TAVNE Sales Follow-Up",
       "type": "Sales Sequence",
@@ -4163,17 +4106,6 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
-    },
-    {
-      "date": "2026-10-20",
-      "tags": "Portico Suite, Sales Follow-Up",
-      "title": "PMTS Owners Summit Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "PMTS Owners Summit event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for PMTS Owners Summit. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-10-21",
@@ -5304,12 +5236,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-22",
+      "date": "2026-09-28",
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE Landing Page",
       "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Dedicated event landing page planned for TAVNE. Add the final page only after the event details, CTA, and destination are verified."
+      "status": "Blocked - Event Brief",
+      "summary": "Moved to 9/28/26 pending the TAVNE event brief and verified event details."
     },
     {
       "audience": "Veterinary nursing educators",
@@ -5321,29 +5253,6 @@
       "title": "TAVNE Final Pre-Event Email",
       "type": "Event Comms",
       "summary": "Final pre-event email planned a few days before TAVNE. Check overlap with other sends and link only to the verified event landing page."
-    },
-    {
-      "audience": "Paul Mitchell school owners",
-      "sender": "Portico",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-09-23",
-      "tags": "Portico Suite, Event Promo",
-      "title": "PMTS Owners Summit Landing Page",
-      "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Dedicated event landing page planned for PMTS Owners Summit. Add the final page only after the event details, CTA, and destination are verified."
-    },
-    {
-      "audience": "Paul Mitchell school owners",
-      "sender": "Portico",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-13",
-      "tags": "Portico Suite, Event Promo",
-      "title": "PMTS Owners Summit Final Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before PMTS Owners Summit. Check overlap with other sends and link only to the verified event landing page."
     },
     {
       "audience": "Financial aid professionals",
@@ -5751,7 +5660,7 @@
       "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-09-23T19:29:29.363Z",
+  "lastUpdated": "2026-09-23T19:45:25.149Z",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
