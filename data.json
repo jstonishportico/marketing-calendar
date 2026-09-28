@@ -3687,10 +3687,20 @@
       "type": "Email",
       "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
-      "summary": "Monthly Portico POV newsletter. Planned for the fourth Thursday, with November and December moved earlier for holiday weeks.",
+      "summary": "Sent from HubSpot on 9/24/26 to Marketing Contacts and Portico Roster 2026. Subject: Portico POV: September Edition.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/222756357035?portalId=7762472&preview_key=XqbNuntU&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "View Marketing Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters"
+        },
+        {
+          "label": "View Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        }
+      ]
     },
     {
       "date": "2026-09-25",
@@ -5164,13 +5174,14 @@
     {
       "audience": "Sonography",
       "sender": "Portico, formerly Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-09-22",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11238/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/222637210256?portalId=7762472&preview_key=aGvAVqhL&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "date": "2026-09-23",
       "tags": "Clinical Management, Event Promo",
       "title": "SDMS Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before SDMS. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "Sent from HubSpot on 9/23/26 to the [Role] Sonography list. Subject: SDMS Tomorrow: Clinical Recordkeeping for Sonography.",
+      "status": "Sent"
     },
     {
       "audience": "Career education schools in Texas",
@@ -5188,14 +5199,14 @@
     {
       "audience": "Career education schools in Texas",
       "sender": "Portico",
-      "audienceLink": "",
-      "contentLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11243/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/222837887771?portalId=7762472&preview_key=dEdpEHYt&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-09-25",
       "tags": "Portico Suite, Event Promo",
       "title": "CCST Annual Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned for 9/25/26. Include the CCST session on 9/28/26 from 3:25–3:35 PM, See Portico Financial Aid Software in Action. Link only to the verified event landing page.",
-      "status": "Planned"
+      "summary": "Sent from HubSpot on 9/25/26 to the CCST 2026 Registrants list. Subject: A reminder for CCST. Includes the 9/28/26 session, See Portico Financial Aid Software in Action.",
+      "status": "Sent"
     },
     {
       "audience": "California enterprise and postsecondary schools",
@@ -5660,7 +5671,7 @@
       "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-09-23T19:45:25.149Z",
+  "lastUpdated": "2026-09-28T12:42:07.894Z",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
