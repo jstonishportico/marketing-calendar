@@ -3750,17 +3750,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-09-29",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "SDMS Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "SDMS event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for SDMS. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-10-01",
       "tags": "Portico Suite, Event Promo",
       "title": "CAPPS Annual Pre-Event Email",
@@ -5669,9 +5658,21 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Ignyte + Portico Partnership Landing Page",
+      "audience": "Portico and Ignyte referral teams",
+      "tags": "Payments, Partnership",
+      "sender": "Portico + Ignyte by Yrefy",
+      "type": "Landing Page",
+      "summary": "Complete the first referral-intake landing page by end of day. Messaging is the primary work. Keep the page focused on referring a school to Ignyte and do not imply a current Portico Payments integration.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Draft Due"
     }
   ],
-  "lastUpdated": "2026-09-28T12:42:07.894Z",
+  "lastUpdated": "2026-09-28T12:51:57.283Z",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
