@@ -3745,9 +3745,10 @@
       "type": "Event Comms",
       "audience": "SDMS attendees and event-sourced contacts",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Planned post-event email for SDMS attendees and event-sourced contacts. Drive recipients to request a Trajecsys demo.",
+      "summary": "Sent 9/28/26, confirmed by Jessica. The email directs recipients to schedule a Trajecsys walkthrough. HubSpot preview and audience-list links still need to be captured.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Sent"
     },
     {
       "date": "2026-10-01",
