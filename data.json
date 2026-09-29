@@ -3773,7 +3773,7 @@
       "title": "CACN/COADN Landing Page",
       "type": "Landing Page",
       "status": "Blocked - Event Brief",
-      "summary": "Scheduled for 2026-09-30 as part of the outstanding event landing-page build day."
+      "summary": "Scheduled for 9/30/26 pending the CACN/COADN event brief and verified details, including the booth number."
     },
     {
       "date": "2026-09-21",
@@ -3832,7 +3832,7 @@
       "title": "TAVNE Landing Page",
       "type": "Landing Page",
       "status": "Blocked - Event Brief",
-      "summary": "Scheduled for 2026-09-30 as part of the outstanding event landing-page build day."
+      "summary": "Scheduled for 9/30/26 pending the TAVNE event brief and verified event details."
     },
     {
       "date": "2026-09-24",
@@ -3942,16 +3942,16 @@
       "status": "Sent"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "title": "Trajecsys Demo Day Nursing 10/8 Announcement",
       "audience": "Nursing job titles",
       "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
-      "summary": "Announcement for the 10/8 Nursing Demo Day. HubSpot email preview and audience list pending.",
+      "summary": "Prepare the 10/8 Nursing Demo Day promotional email today. Keep the calendar card linkless until the HubSpot Marketing Email preview and nursing audience list are confirmed.",
       "type": "Email",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned - Today"
     },
     {
       "date": "2026-09-30",
@@ -3974,7 +3974,7 @@
       "title": "WFAA Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for WFAA. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day."
+      "summary": "Dedicated event landing page planned for WFAA. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "date": "2026-10-01",
@@ -4017,7 +4017,7 @@
       "type": "Landing Page",
       "audience": "Nursing colleges",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Dedicated event landing page planned for AACN. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day.",
+      "summary": "Dedicated event landing page planned for AACN. Add the final page only after the event details, CTA, and destination are verified.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4054,7 +4054,7 @@
       "title": "FNCE Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for FNCE. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day."
+      "summary": "Dedicated event landing page planned for FNCE. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "audience": "Keiser University programs",
@@ -4066,7 +4066,7 @@
       "title": "Keiser University Convocation Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for Keiser University Convocation. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day."
+      "summary": "Dedicated event landing page planned for Keiser University Convocation. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "audience": "California enterprise and postsecondary schools",
@@ -4096,12 +4096,12 @@
       "sender": "Portico, formerly Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-30",
+      "date": "2026-10-06",
       "tags": "Clinical Management, Event Promo",
       "title": "ASAHP Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for ASAHP. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day."
+      "summary": "Dedicated event landing page planned for ASAHP. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "date": "2026-10-06",
@@ -4166,12 +4166,12 @@
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-30",
+      "date": "2026-10-07",
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for ELEVATE. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day."
+      "summary": "Dedicated event landing page planned for ELEVATE. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "date": "2026-10-07",
@@ -4241,12 +4241,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-30",
+      "date": "2026-10-09",
       "tags": "Clinical Management, Event Promo",
       "title": "NELNE Fall Conference Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for NELNE Fall Conference. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day."
+      "summary": "Dedicated event landing page planned for NELNE Fall Conference. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "audience": "Veterinary nursing educators",
@@ -4496,13 +4496,13 @@
       "contentLink": ""
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-20",
       "tags": "Portico Suite, Event Promo",
       "title": "COE Landing Page",
       "type": "Landing Page",
       "audience": "Career education leaders",
       "sender": "Portico",
-      "summary": "Dedicated event landing page planned for COE. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day.",
+      "summary": "Dedicated event landing page planned for COE. Add the final page only after the event details, CTA, and destination are verified.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4598,13 +4598,13 @@
       "contentLink": ""
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-22",
       "tags": "Clinical Management, Event Promo",
       "title": "OADN Landing Page",
       "type": "Landing Page",
       "audience": "Nursing education leaders",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Dedicated event landing page planned for OADN. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day.",
+      "summary": "Dedicated event landing page planned for OADN. Add the final page only after the event details, CTA, and destination are verified.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4623,13 +4623,13 @@
       "status": "Planned"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-23",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress Landing Page",
       "type": "Landing Page",
       "audience": "Respiratory therapists and educators",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Dedicated event landing page planned for AARC Congress. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day.",
+      "summary": "Dedicated event landing page planned for AARC Congress. Add the final page only after the event details, CTA, and destination are verified.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4829,12 +4829,12 @@
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-30",
+      "date": "2026-10-28",
       "tags": "Portico Suite, Event Promo",
       "title": "Career Schools NYS Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for Career Schools NYS. Add the final page only after the event details, CTA, and destination are verified. Scheduled for 2026-09-30 as part of the outstanding event landing-page build day."
+      "summary": "Dedicated event landing page planned for Career Schools NYS. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "audience": "Career education schools in the United States",
@@ -5674,19 +5674,19 @@
       "status": "Draft Due"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-09-29",
       "title": "Portico Payments Announcement Email",
       "tags": "Payments, Product Launch",
       "type": "Email",
       "audience": "Portico customers and qualified Payments prospects",
       "sender": "Portico",
-      "summary": "Tentative first Portico Payments launch email. Keep linkless until the HubSpot Marketing Email preview and audience are confirmed. Before scheduling, replace the video placeholder and approve the capability and Ignyte relationship language.",
+      "summary": "Prepare the first Portico Payments launch email today. Keep it linkless until the HubSpot Marketing Email preview and audience are confirmed. Replace the video placeholder and approve the capability and Ignyte relationship language before scheduling.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Tentative - Review Gates Open"
+      "status": "Planned - Today; Review Gates Open"
     }
   ],
-  "lastUpdated": "2026-09-29T16:49:44.602Z",
+  "lastUpdated": "2026-09-29T17:30:46.926Z",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
