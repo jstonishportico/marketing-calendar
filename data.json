@@ -5675,6 +5675,18 @@
     },
     {
       "date": "2026-09-30",
+      "title": "Ignyte + Portico Partnership Social Post",
+      "audience": "Career education schools and Portico partners",
+      "tags": "Payments, Partnership",
+      "sender": "Portico + Ignyte by Yrefy",
+      "type": "Social",
+      "summary": "Prepare the social post to support the Ignyte referral partnership landing page. Keep the language focused on referrals and do not imply a current Portico Payments integration.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Draft Due"
+    },
+    {
+      "date": "2026-09-30",
       "title": "Portico Payments Announcement Email",
       "tags": "Payments, Product Launch",
       "type": "Email",
