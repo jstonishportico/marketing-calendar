@@ -3768,12 +3768,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "tags": "Clinical Management, Event Promo",
       "title": "CACN/COADN Landing Page",
       "type": "Landing Page",
       "status": "Blocked - Event Brief",
-      "summary": "Scheduled for 9/30/26 pending the CACN/COADN event brief and verified details, including the booth number."
+      "summary": "Moved to 10/1/26. The page remains blocked pending the CACN/COADN event brief and verified details, including the booth number."
     },
     {
       "date": "2026-09-21",
@@ -3827,12 +3827,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE Landing Page",
       "type": "Landing Page",
       "status": "Blocked - Event Brief",
-      "summary": "Scheduled for 9/30/26 pending the TAVNE event brief and verified event details."
+      "summary": "Moved to 10/1/26. The page remains blocked pending the TAVNE event brief and verified event details."
     },
     {
       "date": "2026-09-24",
@@ -3969,7 +3969,7 @@
       "sender": "Portico Financial Aid",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Landing Page",
       "type": "Landing Page",
@@ -4011,7 +4011,7 @@
       "status": "Planned"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-11",
       "tags": "Clinical Management, Event Promo",
       "title": "AACN Landing Page",
       "type": "Landing Page",
@@ -4049,7 +4049,7 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-30",
+      "date": "2026-10-10",
       "tags": "Clinical Management, Event Promo",
       "title": "FNCE Landing Page",
       "type": "Landing Page",
@@ -4061,7 +4061,7 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-09-30",
+      "date": "2026-10-09",
       "tags": "Clinical Management, Event Promo",
       "title": "Keiser University Convocation Landing Page",
       "type": "Landing Page",
@@ -4241,7 +4241,7 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-09",
+      "date": "2026-10-16",
       "tags": "Clinical Management, Event Promo",
       "title": "NELNE Fall Conference Landing Page",
       "type": "Landing Page",
@@ -5674,19 +5674,31 @@
       "status": "Draft Due"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "title": "Portico Payments Announcement Email",
       "tags": "Payments, Product Launch",
       "type": "Email",
       "audience": "Portico customers and qualified Payments prospects",
       "sender": "Portico",
-      "summary": "Prepare the first Portico Payments launch email today. Keep it linkless until the HubSpot Marketing Email preview and audience are confirmed. Replace the video placeholder and approve the capability and Ignyte relationship language before scheduling.",
+      "summary": "Sent 9/30/26, confirmed by Jessica. Add the HubSpot Marketing Email preview and audience-list links when available.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned - Today; Review Gates Open"
+      "status": "Sent"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Portico Payments Launch Social Post",
+      "tags": "Payments, Product Launch",
+      "type": "Social",
+      "audience": "Career education professionals",
+      "sender": "Portico",
+      "summary": "Prepare the launch graphic and social copy for the 10/1/26 Payments post. Add the approved creative or live-post link when available.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-09-29T17:30:46.926Z",
+  "lastUpdated": "2026-09-30T10:00:00-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
