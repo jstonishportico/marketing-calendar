@@ -3768,12 +3768,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "tags": "Clinical Management, Event Promo",
       "title": "CACN/COADN Landing Page",
       "type": "Landing Page",
-      "status": "Blocked - Event Brief",
-      "summary": "Moved to 10/1/26. The page remains blocked pending the CACN/COADN event brief and verified details, including the booth number."
+      "status": "In Progress",
+      "summary": "Landing page build and code started. Finish on 10/2/26; verified booth information is still pending."
     },
     {
       "date": "2026-09-21",
@@ -3827,12 +3827,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE Landing Page",
       "type": "Landing Page",
       "status": "Blocked - Event Brief",
-      "summary": "Moved to 10/1/26. The page remains blocked pending the TAVNE event brief and verified event details."
+      "summary": "Moved to 10/2/26. The page remains blocked pending the TAVNE event brief and verified event details."
     },
     {
       "date": "2026-09-24",
@@ -3954,22 +3954,23 @@
       "status": "Planned - Today"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "tags": "Portico Suite, Event Follow-Up",
       "title": "CCST Annual Post-Event Email",
       "type": "Event Comms",
       "audience": "CCST Annual attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Planned post-event email for CCST Annual. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
+      "summary": "Sent 10/1/26, confirmed by Jessica. Add the HubSpot Marketing Email preview and audience-list links when available.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Sent"
     },
     {
       "audience": "Financial aid professionals",
       "sender": "Portico Financial Aid",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Landing Page",
       "type": "Landing Page",
@@ -3983,9 +3984,10 @@
       "type": "Event Comms",
       "audience": "California enterprise and postsecondary schools",
       "sender": "Portico",
-      "summary": "One-week pre-event email planned for CAPPS Annual. Confirm the attendee audience, meeting route, and landing page before scheduling.",
+      "summary": "Sent 10/1/26, confirmed by Jessica. Add the HubSpot Marketing Email preview and audience-list links when available.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Sent"
     },
     {
       "date": "2026-10-01",
@@ -4005,10 +4007,10 @@
       "type": "Email",
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
-      "summary": "Role-specific one-week promo for the 10/8 Nursing session. HubSpot email preview and audience list pending.",
+      "summary": "Sent 10/1/26, confirmed by Jessica. Add the HubSpot Marketing Email preview and audience-list links when available.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Sent"
     },
     {
       "date": "2026-10-11",
@@ -5662,7 +5664,7 @@
       "status": "Planned"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "title": "Ignyte + Portico Partnership Landing Page",
       "audience": "Portico and Ignyte referral teams",
       "tags": "Payments, Partnership",
@@ -5671,10 +5673,10 @@
       "summary": "Complete the first referral-intake landing page by end of day. Messaging is the primary work. Keep the page focused on referring a school to Ignyte and do not imply a current Portico Payments integration.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Draft Due"
+      "status": "In Progress"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-05",
       "title": "Ignyte + Portico Partnership Social Post",
       "audience": "Career education schools and Portico partners",
       "tags": "Payments, Partnership",
@@ -5683,7 +5685,7 @@
       "summary": "Prepare the social post to support the Ignyte referral partnership landing page. Keep the language focused on referrals and do not imply a current Portico Payments integration.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Draft Due"
+      "status": "Planned"
     },
     {
       "date": "2026-09-30",
@@ -5699,18 +5701,18 @@
     },
     {
       "date": "2026-10-01",
-      "title": "Portico Payments Launch Social Post",
+      "title": "Payments Launch Social Post 1",
       "tags": "Payments, Product Launch",
       "type": "Social",
       "audience": "Career education professionals",
       "sender": "Portico",
-      "summary": "Prepare the launch graphic and social copy for the 10/1/26 Payments post. Add the approved creative or live-post link when available.",
+      "summary": "First Payments launch social post planned for 10/1/26 using the Payments explainer video. Add the approved copy or live-post link when available.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "In Progress"
     }
   ],
-  "lastUpdated": "2026-09-30T10:00:00-04:00",
+  "lastUpdated": "2026-10-01T12:00:00-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
