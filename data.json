@@ -3767,13 +3767,14 @@
       "audience": "California nursing programs",
       "sender": "Trajecsys",
       "audienceLink": "",
-      "contentLink": "",
       "date": "2026-10-02",
       "tags": "Clinical Management, Event Promo",
       "title": "CACN/COADN Landing Page",
       "type": "Landing Page",
-      "status": "In Progress",
-      "summary": "Landing page build and code started. Finish on 10/2/26; verified booth information is still pending."
+      "status": "Live",
+      "summary": "Live 10/2/26. The page invites CACN/COADN attendees to meet Trajecsys and intentionally omits the unverified booth number.",
+      "contentLink": "https://welcome.porticoedu.com/cacn-coadn",
+      "contentLabel": "View Landing Page"
     },
     {
       "date": "2026-09-21",
@@ -4031,9 +4032,10 @@
       "type": "Event Comms",
       "audience": "California nursing programs",
       "sender": "Trajecsys",
-      "summary": "One-week pre-event email planned for CACN/COADN. Confirm the attendee audience, meeting route, and landing page before scheduling.",
+      "summary": "Trajecsys-branded draft completed 10/2/26. The live CACN/COADN landing page is the CTA. HubSpot preview and audience list remain pending.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Draft Ready"
     },
     {
       "date": "2026-10-02",
@@ -4042,9 +4044,10 @@
       "type": "Social",
       "audience": "California enterprise and postsecondary schools",
       "sender": "Portico",
-      "summary": "Pre-event LinkedIn post for CAPPS Annual. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
+      "summary": "Published 10/2/26, confirmed by Jessica. Add the live LinkedIn post link when available.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Published"
     },
     {
       "audience": "Food and nutrition educators",
@@ -5673,7 +5676,7 @@
       "summary": "Complete the first referral-intake landing page by end of day. Messaging is the primary work. Keep the page focused on referring a school to Ignyte and do not imply a current Portico Payments integration.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "In Progress"
+      "status": "Complete"
     },
     {
       "date": "2026-10-05",
@@ -5706,13 +5709,13 @@
       "type": "Social",
       "audience": "Career education professionals",
       "sender": "Portico",
-      "summary": "First Payments launch social post planned for 10/1/26 using the Payments explainer video. Add the approved copy or live-post link when available.",
+      "summary": "Payments explainer video published 10/1/26, confirmed by Jessica. Add the live-post link when available.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "In Progress"
+      "status": "Published"
     }
   ],
-  "lastUpdated": "2026-10-01T12:00:00-04:00",
+  "lastUpdated": "2026-10-02T12:00:00-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
