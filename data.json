@@ -3828,12 +3828,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-02",
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE Landing Page",
       "type": "Landing Page",
       "status": "Blocked - Event Brief",
-      "summary": "Moved to 10/2/26. The page remains blocked pending the TAVNE event brief and verified event details."
+      "date": "2026-10-05",
+      "summary": "Due 10/5/26, the day before the first pre-event email on 10/6/26. The page remains blocked pending the TAVNE event brief and verified event details."
     },
     {
       "date": "2026-09-24",
@@ -3971,12 +3971,12 @@
       "sender": "Portico Financial Aid",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-02",
+      "date": "2026-10-13",
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for WFAA. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Due 10/13/26, the day before the first pre-event email on 10/14/26. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "date": "2026-10-01",
@@ -4014,13 +4014,13 @@
       "status": "Sent"
     },
     {
-      "date": "2026-10-11",
+      "date": "2026-10-18",
       "tags": "Clinical Management, Event Promo",
       "title": "AACN Landing Page",
       "type": "Landing Page",
       "audience": "Nursing colleges",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Dedicated event landing page planned for AACN. Add the final page only after the event details, CTA, and destination are verified.",
+      "summary": "Due 10/18/26, the day before the first pre-event email on 10/19/26. Add the final page only after the event details, CTA, and destination are verified.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4054,35 +4054,36 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-10",
+      "date": "2026-10-15",
       "tags": "Clinical Management, Event Promo",
       "title": "FNCE Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for FNCE. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Due 10/15/26, the day before the first pre-event email on 10/16/26. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "audience": "Keiser University programs",
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-09",
+      "date": "2026-10-14",
       "tags": "Clinical Management, Event Promo",
       "title": "Keiser University Convocation Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for Keiser University Convocation. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Due 10/14/26, the day before the first pre-event email on 10/15/26. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "audience": "California enterprise and postsecondary schools",
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "tags": "Portico Suite, Event Promo",
       "title": "CAPPS Annual Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before CAPPS Annual. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "Completed and scheduled for 10/6/26, confirmed by Jessica. Add the HubSpot Marketing Email preview and audience-list links when available.",
+      "status": "Scheduled"
     },
     {
       "date": "2026-10-05",
@@ -4101,12 +4102,12 @@
       "sender": "Portico, formerly Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-06",
+      "date": "2026-10-19",
       "tags": "Clinical Management, Event Promo",
       "title": "ASAHP Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for ASAHP. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Due 10/19/26, the day before the first pre-event email on 10/20/26. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "date": "2026-10-06",
@@ -4171,12 +4172,12 @@
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-07",
+      "date": "2026-10-20",
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for ELEVATE. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Due 10/20/26, the day before the first pre-event email on 10/21/26. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "date": "2026-10-07",
@@ -4246,12 +4247,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-16",
+      "date": "2026-10-22",
       "tags": "Clinical Management, Event Promo",
       "title": "NELNE Fall Conference Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for NELNE Fall Conference. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Due 10/22/26, the day before the first pre-event email on 10/23/26. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
       "audience": "Veterinary nursing educators",
@@ -5715,7 +5716,7 @@
       "status": "Published"
     }
   ],
-  "lastUpdated": "2026-10-02T12:00:00-04:00",
+  "lastUpdated": "2026-10-05T10:07:57-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
