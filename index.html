@@ -1302,15 +1302,6 @@
         <div id="legendRows"></div>
       </div>
     </div>
-    <div class="binder-tab-wrap">
-      <button class="binder-tab" id="campaignTabButton" type="button">
-        <span class="binder-tab-text">Current Campaigns</span>
-      </button>
-      <div class="binder-panel binder-panel-wide">
-        <div class="binder-panel-title">Current campaigns</div>
-        <div id="campaignRows"></div>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -1625,10 +1616,6 @@
     document.getElementById('modalCard').classList.add('modal-wide');
     document.getElementById('overlay').classList.add('open');
   }
-
-  document.getElementById('campaignTabButton').addEventListener('click', () => {
-    if (allCampaigns.length) openCampaignModal(allCampaigns[0]);
-  });
 
   /* ─── Legend ─────────────────────────────────────────── */
   function buildLegend() {
@@ -2444,10 +2431,9 @@
       }
       buildIndex();
       buildLegend();
-      buildCampaigns(data.campaigns || []);
       render();
     })
-    .catch(() => { buildIndex(); buildLegend(); buildCampaigns([]); render(); });
+    .catch(() => { buildIndex(); buildLegend(); render(); });
 </script>
 </body>
 </html>
