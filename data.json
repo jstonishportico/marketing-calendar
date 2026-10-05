@@ -3831,9 +3831,9 @@
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE Landing Page",
       "type": "Landing Page",
-      "status": "Blocked - Event Brief",
+      "status": "Complete",
       "date": "2026-10-05",
-      "summary": "Due 10/5/26, the day before the first pre-event email on 10/6/26. The page remains blocked pending the TAVNE event brief and verified event details."
+      "summary": "Landing page completed 10/5/26, confirmed by Jessica. Add the live page URL after its destination is verified."
     },
     {
       "date": "2026-09-24",
@@ -4032,10 +4032,10 @@
       "type": "Event Comms",
       "audience": "California nursing programs",
       "sender": "Trajecsys",
-      "summary": "Moved to 10/5/26 for the first pre-event send. The Trajecsys-branded draft is ready and the live CACN/COADN landing page is the CTA. HubSpot preview and audience list remain pending.",
+      "summary": "Sent from HubSpot on 10/5/26 at 3:49 PM ET. HubSpot Marketing Email preview linked.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Draft Ready"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223662375002?portalId=7762472&preview_key=zAGnWvJL&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Published"
     },
     {
       "date": "2026-10-02",
@@ -4077,12 +4077,12 @@
       "audience": "California enterprise and postsecondary schools",
       "sender": "Portico",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223636347455?portalId=7762472&preview_key=dFrAYBlK&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-10-06",
       "tags": "Portico Suite, Event Promo",
       "title": "CAPPS Annual Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Completed and scheduled for 10/6/26, confirmed by Jessica. Add the HubSpot Marketing Email preview and audience-list links when available.",
+      "summary": "Scheduled in HubSpot for 10/6/26 at 12:03 PM ET. HubSpot Marketing Email preview linked.",
       "status": "Scheduled"
     },
     {
@@ -5686,10 +5686,10 @@
       "tags": "Payments, Partnership",
       "sender": "Portico + Ignyte by Yrefy",
       "type": "Social",
-      "summary": "Prepare the social post to support the Ignyte referral partnership landing page. Keep the language focused on referrals and do not imply a current Portico Payments integration.",
+      "summary": "Published 10/5/26, confirmed by Jessica. Add the direct post URL when available.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Published"
     },
     {
       "date": "2026-09-30",
