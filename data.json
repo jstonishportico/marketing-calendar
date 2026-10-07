@@ -3824,7 +3824,7 @@
       "status": "Sent"
     },
     {
-      "audience": "Veterinary nursing educators",
+      "audience": "Vocational nursing educators",
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/tavne",
@@ -4076,14 +4076,14 @@
     {
       "audience": "California enterprise and postsecondary schools",
       "sender": "Portico",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223636347455?portalId=7762472&preview_key=dFrAYBlK&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-10-06",
       "tags": "Portico Suite, Event Promo",
       "title": "CAPPS Annual Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Scheduled in HubSpot for 10/6/26 at 12:03 PM ET. HubSpot Marketing Email preview linked.",
-      "status": "Scheduled"
+      "summary": "Sent from HubSpot on 10/6/26 at 12:03 PM ET to CAPPS 2026 Attendees. HubSpot email preview linked.",
+      "status": "Sent"
     },
     {
       "date": "2026-10-05",
@@ -4122,15 +4122,16 @@
       "status": "Planned"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE Pre-Event Email",
       "type": "Event Comms",
-      "audience": "Veterinary nursing educators",
+      "audience": "Vocational nursing educators",
       "sender": "Trajecsys",
-      "summary": "One-week pre-event email planned for TAVNE. Confirm the attendee audience, meeting route, and landing page before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Sent from HubSpot on 10/7/26 at 1:35 PM ET to the approved Texas nursing-school list. HubSpot email preview linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223844393043?portalId=7762472&preview_key=jnJdLqhB&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent"
     },
     {
       "date": "2026-10-07",
@@ -4186,10 +4187,10 @@
       "type": "Email",
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
-      "summary": "Role-specific day-before reminder for the 10/8 Nursing session. HubSpot email preview and audience list pending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "summary": "Sent from HubSpot on 10/7/26 at 11:55 AM ET to the Nursing role list, with current users and registrants excluded. HubSpot email preview linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223844451963?portalId=7762472&preview_key=GjEPRUUi&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent"
     },
     {
       "audience": "California nursing programs",
@@ -4210,10 +4211,10 @@
       "type": "Email",
       "audience": "Financial Aid customers and subscribers",
       "sender": "Portico Financial Aid Services",
-      "summary": "Monthly Financial Aid newsletter. Planned for the second Thursday, with holiday and major-send adjustments as needed.",
+      "summary": "Set in HubSpot for 10/8/26. HubSpot currently reports Processing; confirm final send state tomorrow. Email preview linked.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223855348294?portalId=7762472&preview_key=DCmSHeeE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Scheduled"
     },
     {
       "date": "2026-10-08",
@@ -4255,7 +4256,7 @@
       "summary": "Due 10/22/26, the day before the first pre-event email on 10/23/26. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
-      "audience": "Veterinary nursing educators",
+      "audience": "Vocational nursing educators",
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
@@ -4270,7 +4271,7 @@
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE Pre-Event Social Post",
       "type": "Social",
-      "audience": "Veterinary nursing educators",
+      "audience": "Vocational nursing educators",
       "sender": "Trajecsys",
       "summary": "Pre-event LinkedIn post for TAVNE. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
       "audienceLink": "",
@@ -4327,7 +4328,7 @@
       "tags": "Clinical Management",
       "title": "TAVNE | Austin, TX",
       "type": "Event",
-      "audience": "Veterinary nursing educators",
+      "audience": "Vocational nursing educators",
       "sender": "Trajecsys",
       "summary": "TAVNE event in Austin, TX. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
       "audienceLink": "",
@@ -5714,9 +5715,33 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
+    },
+    {
+      "title": "FA New Award Year FY27-28",
+      "date": "2026-10-06",
+      "status": "Sent",
+      "type": "Email",
+      "audience": "Financial Aid customers, demo registrants, and Financial Aid role contacts",
+      "sender": "Portico",
+      "tags": "Financial Aid, Customer Update",
+      "summary": "Sent from HubSpot on 10/6/26 at 3:48 PM ET. HubSpot email preview linked.",
+      "audienceLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223769926923?portalId=7762472&preview_key=cMfzfSki&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+    },
+    {
+      "title": "FA Funding Notice - 10/12/26",
+      "date": "2026-10-07",
+      "status": "Sent",
+      "type": "Email",
+      "audience": "Financial Aid customers",
+      "sender": "Portico",
+      "tags": "Financial Aid, Customer Notice",
+      "summary": "Sent from HubSpot on 10/7/26 at 3:06 PM ET to Financial Aid customers. HubSpot email preview linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223855130451?portalId=7762472&preview_key=IvzXTCkg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
     }
   ],
-  "lastUpdated": "2026-10-05T11:38:00-04:00",
+  "lastUpdated": "2026-10-07T16:55:50-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
