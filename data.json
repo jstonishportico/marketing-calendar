@@ -4032,10 +4032,20 @@
       "type": "Event Comms",
       "audience": "California nursing programs",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot on 10/5/26 at 3:49 PM ET. HubSpot Marketing Email preview linked.",
-      "audienceLink": "",
+      "summary": "Sent from HubSpot on 10/5/26 at 3:49 PM ET to CACN/COADN 2026 Registrants. HubSpot email preview linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11298/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223662375002?portalId=7762472&preview_key=zAGnWvJL&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "status": "Published"
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: CACN/COADN 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11298/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-02",
@@ -4083,7 +4093,17 @@
       "title": "CAPPS Annual Final Pre-Event Email",
       "type": "Event Comms",
       "summary": "Sent from HubSpot on 10/6/26 at 12:03 PM ET to CAPPS 2026 Attendees. HubSpot email preview linked.",
-      "status": "Sent"
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: CAPPS 2026 Attendees",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-05",
@@ -4131,7 +4151,17 @@
       "summary": "Sent from HubSpot on 10/7/26 at 1:35 PM ET to the approved Texas nursing-school list. HubSpot email preview linked.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223844393043?portalId=7762472&preview_key=jnJdLqhB&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "status": "Sent"
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: Approved VN Schools Texas (Texas Nursing) - October 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-07",
@@ -4190,18 +4220,47 @@
       "summary": "Sent from HubSpot on 10/7/26 at 11:55 AM ET to the Nursing role list, with current users and registrants excluded. HubSpot email preview linked.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223844451963?portalId=7762472&preview_key=GjEPRUUi&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "status": "Sent"
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: [ROLE] Nursing",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys for Nursing Registrants - October 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11294/filters"
+        }
+      ]
     },
     {
       "audience": "California nursing programs",
       "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11298/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223950933132?portalId=7762472&preview_key=wupfssYq&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-10-08",
       "tags": "Clinical Management, Event Promo",
       "title": "CACN/COADN Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before CACN/COADN. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "Sent from HubSpot on 10/8/26 at 3:12 PM ET to CACN/COADN 2026 Registrants. HubSpot email preview linked.",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: CACN/COADN 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11298/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-08",
@@ -4211,10 +4270,36 @@
       "type": "Email",
       "audience": "Financial Aid customers and subscribers",
       "sender": "Portico Financial Aid Services",
-      "summary": "Set in HubSpot for 10/8/26. HubSpot currently reports Processing; confirm final send state tomorrow. Email preview linked.",
-      "audienceLink": "",
+      "summary": "Set in HubSpot for 10/8/26 with FA clients, Portico Roster, Campus Ivy contacts, and FA Newsletter included. HubSpot still reports Processing at the 10/8 check; confirm completed send before marking Sent. The FA Newsletter list and email preview are linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223855348294?portalId=7762472&preview_key=DCmSHeeE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "status": "Scheduled"
+      "status": "Scheduled",
+      "audienceLinks": [
+        {
+          "label": "Included: List - FA Clients - August 2025",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters"
+        },
+        {
+          "label": "Included: Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Included: Campus Ivy_FA Newsletter Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters"
+        },
+        {
+          "label": "Included: FA Newsletter",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters"
+        },
+        {
+          "label": "Excluded: Unsubscribed from all email",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-08",
@@ -4222,11 +4307,33 @@
       "audience": "Nursing job titles",
       "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
-      "summary": "Day-of invite for the 10/8 Nursing Demo Day. HubSpot email preview and audience list pending.",
+      "summary": "Sent from HubSpot on 10/8/26 at 10:40 AM ET to the Nursing role list. Trajecsys users, webinar registrants, and customer contacts were excluded. HubSpot email preview linked.",
       "type": "Email",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223920581466?portalId=7762472&preview_key=aQGAHTSL&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: [ROLE] Nursing",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys for Nursing Registrants - October 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11294/filters"
+        },
+        {
+          "label": "Excluded: Contact Type: Customer",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11307/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-08",
@@ -5724,9 +5831,27 @@
       "audience": "Financial Aid customers, demo registrants, and Financial Aid role contacts",
       "sender": "Portico",
       "tags": "Financial Aid, Customer Update",
-      "summary": "Sent from HubSpot on 10/6/26 at 3:48 PM ET. HubSpot email preview linked.",
-      "audienceLink": "",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223769926923?portalId=7762472&preview_key=cMfzfSki&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+      "summary": "Sent from HubSpot on 10/6/26 at 3:48 PM ET to FA customers, FA Demo Day registrants, and Financial Aid role contacts. The primary FA customer list and email preview are linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223769926923?portalId=7762472&preview_key=cMfzfSki&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Included: List - Customers - FA",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters"
+        },
+        {
+          "label": "Included: Demo Day Registrants: Financial Aid",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11129/filters"
+        },
+        {
+          "label": "Included: [Role] Financial Aid",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10494/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ]
     },
     {
       "title": "FA Funding Notice - 10/12/26",
@@ -5738,10 +5863,68 @@
       "tags": "Financial Aid, Customer Notice",
       "summary": "Sent from HubSpot on 10/7/26 at 3:06 PM ET to Financial Aid customers. HubSpot email preview linked.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters",
-      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223855130451?portalId=7762472&preview_key=IvzXTCkg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0"
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223855130451?portalId=7762472&preview_key=IvzXTCkg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Included: List - Customers - FA",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ]
+    },
+    {
+      "title": "Trajecsys Pre-Demo Day Customer Comm - 10/8/26",
+      "date": "2026-10-08",
+      "status": "Sent",
+      "type": "Email",
+      "audience": "Trajecsys Demo Day customer communication list",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Customer Update",
+      "summary": "Sent from HubSpot on 10/8/26 at 11:04 AM ET to TEMP Trajecsys Pre-Demo Customer Comm. HubSpot email preview and send list linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11308/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223920531720?portalId=7762472&preview_key=ppBgbqOu&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Included: TEMP Trajecsys Pre-Demo Customer Comm",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11308/filters"
+        }
+      ]
+    },
+    {
+      "title": "Momentum 2027 Budget Letter",
+      "date": "2026-10-07",
+      "status": "Sent",
+      "type": "Email",
+      "audience": "Momentum invite list and current customer contacts",
+      "sender": "Portico",
+      "tags": "Momentum 2027, Event Promo",
+      "summary": "Sent from HubSpot on 10/7/26 at 1:37 PM ET. Included Momentum 2026 Invite and Current Customer Contacts. The HubSpot list name says 2026 even though this email is for Momentum 2027; verify list membership before reuse. Email preview and primary list linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9897/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/221418360853?portalId=7762472&preview_key=RdWOiqEA&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "audienceLinks": [
+        {
+          "label": "Included: Momentum 2026 Invite",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9897/filters"
+        },
+        {
+          "label": "Included: Current Customer Contacts (Lifecycle Stage)",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters"
+        },
+        {
+          "label": "Excluded: Unsubscribed from all email",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-10-07T16:55:50-04:00",
+  "lastUpdated": "2026-10-08T15:20:08-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
