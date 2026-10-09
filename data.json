@@ -4130,13 +4130,13 @@
       "summary": "Due 10/19/26, the day before the first pre-event email on 10/20/26. Add the final page only after the event details, CTA, and destination are verified."
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-13",
       "tags": "Clinical Management, Nursing, The Commons",
       "title": "Is your nursing program ready for a state board review?",
       "type": "Article",
       "audience": "The Commons",
       "sender": "Brian Bright",
-      "summary": "Moved to 10/8/26. Brian review, customer-story confirmation, nursing regulatory review, final byline, and publication approval remain open.",
+      "summary": "Moved to 10/13/26. Brian review, customer-story confirmation, nursing regulatory review, final byline, and publication approval remain open.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4270,10 +4270,10 @@
       "type": "Email",
       "audience": "Financial Aid customers and subscribers",
       "sender": "Portico Financial Aid Services",
-      "summary": "Set in HubSpot for 10/8/26 with FA clients, Portico Roster, Campus Ivy contacts, and FA Newsletter included. HubSpot still reports Processing at the 10/8 check; confirm completed send before marking Sent. The FA Newsletter list and email preview are linked.",
+      "summary": "HubSpot reports Published on 10/8/26. Included FA clients, Portico Roster, Campus Ivy contacts, and FA Newsletter subscribers. The email preview and named send lists are linked.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223855348294?portalId=7762472&preview_key=DCmSHeeE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "status": "Scheduled",
+      "status": "Sent",
       "audienceLinks": [
         {
           "label": "Included: List - FA Clients - August 2025",
@@ -4367,11 +4367,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-09",
+      "date": "2026-10-08",
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before TAVNE. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "Jessica confirmed this TAVNE email went out on 10/8/26. The matching HubSpot Marketing Email record, preview, and send list were not located in the 10/9 check; links remain pending.",
+      "status": "Sent"
     },
     {
       "date": "2026-10-09",
@@ -4380,9 +4381,10 @@
       "type": "Social",
       "audience": "Vocational nursing educators",
       "sender": "Trajecsys",
-      "summary": "Pre-event LinkedIn post for TAVNE. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
+      "summary": "Published 10/9/26 on the Trajecsys LinkedIn page. Direct post linked.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "https://www.linkedin.com/posts/trajecsys-corporation_headed-to-tavne-mandy-ray-from-trajecsys-activity-7514333709676957697-YWM0",
+      "status": "Published"
     },
     {
       "date": "2026-10-10",
@@ -5922,9 +5924,43 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
         }
       ]
+    },
+    {
+      "title": "Momentum 2027 Budget Post",
+      "date": "2026-10-09",
+      "status": "Published",
+      "type": "Social",
+      "audience": "Career education professionals",
+      "sender": "Portico",
+      "tags": "Momentum 2027, Event Promo",
+      "summary": "Published 10/9/26 on LinkedIn. Direct post linked.",
+      "audienceLink": "",
+      "contentLink": "https://lnkd.in/p/ehHgVSrh"
+    },
+    {
+      "title": "Jessica Out of Office",
+      "date": "2026-10-12",
+      "type": "OOO",
+      "audience": "",
+      "sender": "",
+      "tags": "",
+      "summary": "Jessica is out of office Monday 10/12/26.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "title": "Chris Coia Out of Office",
+      "date": "2026-10-09",
+      "type": "OOO",
+      "audience": "",
+      "sender": "",
+      "tags": "",
+      "summary": "Chris Coia is out of office Friday 10/9/26.",
+      "audienceLink": "",
+      "contentLink": ""
     }
   ],
-  "lastUpdated": "2026-10-08T15:20:08-04:00",
+  "lastUpdated": "2026-10-09T10:58:11-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
