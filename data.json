@@ -4411,15 +4411,26 @@
       "contentLink": ""
     },
     {
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "tags": "Portico Suite, Event Follow-Up",
       "title": "CAPPS Annual Post-Event Email",
       "type": "Event Comms",
       "audience": "CAPPS Annual attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Planned post-event email for CAPPS Annual. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Scheduled in HubSpot for 10/13/26 to CAPPS 2026 Attendees. The matching email preview and send lists are linked. Verify the completed send after Tuesday.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224012533288?portalId=7762472&preview_key=QSmmUyih&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Scheduled",
+      "audienceLinks": [
+        {
+          "label": "Included: CAPPS 2026 Attendees",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-13",
@@ -5960,7 +5971,7 @@
       "contentLink": ""
     }
   ],
-  "lastUpdated": "2026-10-09T10:58:11-04:00",
+  "lastUpdated": "2026-10-09T13:39:03-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
