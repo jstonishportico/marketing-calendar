@@ -4136,10 +4136,10 @@
       "type": "Article",
       "audience": "The Commons",
       "sender": "Brian Bright",
-      "summary": "Moved to 10/13/26. Brian review, customer-story confirmation, nursing regulatory review, final byline, and publication approval remain open.",
+      "summary": "Jessica confirmed the article work complete on 10/13/26. Publication and live article link have not been independently verified.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Complete"
     },
     {
       "date": "2026-10-07",
@@ -4400,27 +4400,16 @@
       "attendees": "Georgia"
     },
     {
-      "date": "2026-10-12",
-      "tags": "Clinical Management, Event Promo",
-      "title": "CACN/COADN On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "CA nursing Joint association conference",
-      "sender": "Trajecsys",
-      "summary": "On-site LinkedIn post for CACN/COADN. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-10-13",
       "tags": "Portico Suite, Event Follow-Up",
       "title": "CAPPS Annual Post-Event Email",
       "type": "Event Comms",
       "audience": "CAPPS Annual attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Scheduled in HubSpot for 10/13/26 to CAPPS 2026 Attendees. The matching email preview and send lists are linked. Verify the completed send after Tuesday.",
+      "summary": "Jessica confirmed the CAPPS email work complete on 10/13/26. HubSpot still showed Processing at the latest check; confirm Sent before marking delivery complete. The matching email preview and send lists are linked.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224012533288?portalId=7762472&preview_key=QSmmUyih&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "status": "Scheduled",
+      "status": "Processing",
       "audienceLinks": [
         {
           "label": "Included: CAPPS 2026 Attendees",
