@@ -509,17 +509,6 @@
     },
     {
       "date": "2026-06-04",
-      "tags": "Financial Aid",
-      "title": "FASFAA Post-Event Sales Sequence",
-      "type": "Sales Sequence",
-      "audience": "FASFAA Attendees",
-      "sender": "Sales",
-      "summary": "",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-06-04",
       "tags": "Portico Suite",
       "title": "How Career Schools Make Operational Changes Stick",
       "type": "Article",
@@ -2416,17 +2405,6 @@
     },
     {
       "date": "2026-08-12",
-      "tags": "Portico Suite, Sales Follow-Up",
-      "title": "AFIT Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "AFIT event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for AFIT. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-08-12",
       "title": "IPEDS Webinar Reminder - August 2026",
       "tags": "Customer Webinars",
       "type": "Email",
@@ -2731,17 +2709,6 @@
     },
     {
       "date": "2026-08-13",
-      "tags": "Portico Suite, Sales Follow-Up",
-      "title": "FAPSC Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "FAPSC event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for FAPSC. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-08-13",
       "title": "SIS Product Update - 8.13.2026",
       "tags": "Product: SIS",
       "type": "Email",
@@ -2967,17 +2934,6 @@
       "summary": "Invite session proposals and customer success story submissions.",
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2026-08-17",
-      "tags": "Portico Suite, Sales Follow-Up",
-      "title": "CSPEN Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "CSPEN event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for CSPEN. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-08-17",
@@ -3971,12 +3927,12 @@
       "sender": "Portico Financial Aid",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-13",
+      "date": "2026-10-15",
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Due 10/13/26, the day before the first pre-event email on 10/14/26. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Moved to 10/15/26 at Jessica’s request. Page has not been built or published; add its URL only after verification."
     },
     {
       "date": "2026-10-01",
@@ -3989,17 +3945,6 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Sent"
-    },
-    {
-      "date": "2026-10-01",
-      "tags": "Portico Suite, Sales Follow-Up",
-      "title": "CCST Annual Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "CCST Annual event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for CCST Annual. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-10-01",
@@ -4076,12 +4021,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "tags": "Clinical Management, Event Promo",
       "title": "Keiser University Convocation Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Due 10/14/26, the day before the first pre-event email on 10/15/26. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Moved to 10/15/26 at Jessica’s request. Page has not been built or published; add its URL only after verification."
     },
     {
       "audience": "California enterprise and postsecondary schools",
@@ -4406,10 +4351,10 @@
       "type": "Event Comms",
       "audience": "CAPPS Annual attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Jessica confirmed the CAPPS email work complete on 10/13/26. HubSpot still showed Processing at the latest check; confirm Sent before marking delivery complete. The matching email preview and send lists are linked.",
+      "summary": "Sent from HubSpot on 10/13/26 at 8:56 AM ET to CAPPS 2026 Attendees. The matching email preview and included/excluded lists are linked.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224012533288?portalId=7762472&preview_key=QSmmUyih&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
-      "status": "Processing",
+      "status": "Sent",
       "audienceLinks": [
         {
           "label": "Included: CAPPS 2026 Attendees",
@@ -4420,17 +4365,6 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
         }
       ]
-    },
-    {
-      "date": "2026-10-13",
-      "tags": "Portico Suite, Sales Follow-Up",
-      "title": "CAPPS Annual Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "CAPPS Annual event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for CAPPS Annual. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-10-13",
@@ -4446,15 +4380,16 @@
       "attendees": "Mandy"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "tags": "Clinical Management, Event Promo",
       "title": "TAVNE On-Site LinkedIn Post",
       "type": "Social",
       "audience": "Event audience",
       "sender": "Trajecsys",
-      "summary": "On-site LinkedIn post for TAVNE. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
+      "summary": "Jessica confirmed this was posted on the Trajecsys LinkedIn account on 10/14/26. Direct post URL is pending verification.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Published"
     },
     {
       "date": "2026-10-14",
@@ -4463,31 +4398,32 @@
       "type": "Event Comms",
       "audience": "CACN/COADN attendees and event-sourced contacts",
       "sender": "Trajecsys",
-      "summary": "Planned post-event email for CACN/COADN. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Sent from HubSpot on 10/14/26 at 3:33 PM ET to CACN/COADN 2026 Registrants. The matching email preview and included/excluded lists are linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11298/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224313286809?portalId=7762472&preview_key=bMOYPXCJ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: CACN/COADN 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11298/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "audience": "Financial aid professionals",
       "sender": "Portico Financial Aid",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Pre-Event Email",
       "type": "Event Comms",
-      "summary": "One-week pre-event email planned for WFAA. Confirm the attendee audience, meeting route, and landing page before scheduling."
-    },
-    {
-      "date": "2026-10-15",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "CACN/COADN Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "CACN/COADN event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for CACN/COADN. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Jessica moved the WFAA pre-event email to 10/15/26. No matching scheduled HubSpot email or published WFAA landing page was found at the 10/14 check; attach verified links when ready.",
+      "status": "Planned"
     },
     {
       "audience": "Keiser University programs",
@@ -4501,7 +4437,7 @@
       "summary": "One-week pre-event email planned for Keiser University Convocation. Confirm the attendee audience, meeting route, and landing page before scheduling."
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-21",
       "tags": "Momentum",
       "title": "Momentum 2027: Keynote solidified",
       "type": "Milestone",
@@ -4512,7 +4448,7 @@
       "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-21",
       "tags": "Momentum",
       "title": "Momentum 2027: Portico team roster set",
       "type": "Milestone",
@@ -4563,17 +4499,6 @@
       "audience": "Nursing colleges",
       "sender": "Portico, formerly Trajecsys",
       "summary": "One-week pre-event email planned for AACN. Confirm the attendee audience, meeting route, and landing page before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-10-19",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "TAVNE Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "TAVNE event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for TAVNE. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -4977,28 +4902,6 @@
       "contentLink": ""
     },
     {
-      "date": "2026-10-29",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "AACN Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "AACN event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for AACN. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-10-29",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "FNCE Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "FNCE event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for FNCE. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "audience": "Nursing educators",
       "sender": "Trajecsys",
       "audienceLink": "",
@@ -5082,17 +4985,6 @@
     },
     {
       "date": "2026-11-02",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "ASAHP Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "ASAHP event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for ASAHP. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-11-02",
       "tags": "Clinical Management, Event Follow-Up",
       "title": "NELNE Fall Conference Post-Event Email",
       "type": "Event Comms",
@@ -5122,17 +5014,6 @@
       "audience": "Career education leaders",
       "sender": "Portico",
       "summary": "One-week pre-event email planned for COE. Confirm the attendee audience, meeting route, and landing page before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-11-03",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "NELNE Fall Conference Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "NELNE Fall Conference event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for NELNE Fall Conference. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -5405,17 +5286,6 @@
     },
     {
       "date": "2026-11-16",
-      "tags": "Portico Suite, Sales Follow-Up",
-      "title": "COE Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "COE event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for COE. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-11-16",
       "tags": "Momentum",
       "title": "Momentum 2027: Margaritaville deposit #3 due",
       "type": "Deadline",
@@ -5433,17 +5303,6 @@
       "audience": "OADN attendees and event-sourced contacts",
       "sender": "Portico, formerly Trajecsys",
       "summary": "Planned post-event email for OADN. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-11-17",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "OADN Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "OADN event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for OADN. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -5482,17 +5341,6 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
-    },
-    {
-      "date": "2026-11-19",
-      "tags": "Clinical Management, Sales Follow-Up",
-      "title": "AARC Congress Sales Follow-Up",
-      "type": "Sales Sequence",
-      "audience": "AARC Congress event-sourced contacts",
-      "sender": "Sales",
-      "summary": "Sales follow-up task for AARC Congress. Route by product interest, use event notes, and associate meetings/deals/follow-up with the event campaign where available.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-11-19",
@@ -5796,9 +5644,9 @@
       "tags": "Payments, Partnership",
       "sender": "Portico + Ignyte by Yrefy",
       "type": "Social",
-      "summary": "Published 10/5/26, confirmed by Jessica. Add the direct post URL when available.",
+      "summary": "Published 10/5/26, confirmed by Jessica. Direct Portico LinkedIn post linked.",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_career-schools-need-more-ways-to-help-students-activity-7512896051796701184-gjnx",
       "status": "Published"
     },
     {
@@ -5958,9 +5806,57 @@
       "summary": "Chris Coia is out of office Friday 10/9/26.",
       "audienceLink": "",
       "contentLink": ""
+    },
+    {
+      "date": "2026-10-13",
+      "tags": "Clinical Management, Event Promo",
+      "title": "TAVNE 2026 Pre-Event Email 2",
+      "type": "Event Comms",
+      "audience": "Approved VN Schools Texas (Texas Nursing)",
+      "sender": "Trajecsys",
+      "summary": "Sent from HubSpot on 10/13/26 at 11:17 AM ET. This is a separate HubSpot asset from the owner-reported 10/8 TAVNE email; the matching preview and send lists are linked.",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224263571796?portalId=7762472&preview_key=qFKrvNcL&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters",
+      "audienceLinks": [
+        {
+          "label": "Included: Approved VN Schools Texas (Texas Nursing) - October 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "tags": "Attendance, Payments, Product Updates",
+      "title": "Attendance Product Updates - October 2026",
+      "type": "Email",
+      "audience": "Portico Roster 2026 and Legacy CK App Contacts",
+      "sender": "Portico",
+      "summary": "Sent from HubSpot on 10/14/26 at 10:39 AM ET. Subject: Attendance & Payments Updates: New Training Course, Checklist Management, One-Time Invoices. The matching preview and send lists are linked.",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224293236545?portalId=7762472&preview_key=xkGlkecA&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
+      "audienceLinks": [
+        {
+          "label": "Included: Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Included: Legacy CK App Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10583/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-10-13T08:58:27-04:00",
+  "lastUpdated": "2026-10-14T15:41:31-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
