@@ -3917,22 +3917,32 @@
       "type": "Event Comms",
       "audience": "CCST Annual attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Sent 10/1/26, confirmed by Jessica. Add the HubSpot Marketing Email preview and audience-list links when available.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Sent"
+      "summary": "Sent from HubSpot on 10/1/26 at 12:48 PM ET. Subject: Your next step after CCST. Matching email preview and send lists linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11243/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223356293659?portalId=7762472&preview_key=PXjpVftg&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: CCST 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11243/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "audience": "Financial aid professionals",
       "sender": "Portico Financial Aid",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/wfaa",
       "date": "2026-10-15",
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Landing Page",
       "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Moved to 10/15/26 at Jessica’s request. Page has not been built or published; add its URL only after verification."
+      "status": "Published",
+      "summary": "Published in HubSpot on 10/15/26. WFAA 2026 landing page linked."
     },
     {
       "date": "2026-10-01",
@@ -3941,10 +3951,20 @@
       "type": "Event Comms",
       "audience": "California enterprise and postsecondary schools",
       "sender": "Portico",
-      "summary": "Sent 10/1/26, confirmed by Jessica. Add the HubSpot Marketing Email preview and audience-list links when available.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Sent"
+      "summary": "Sent from HubSpot on 10/1/26 at 1:54 PM ET. Subject: Before you head to CAPPS. Matching email preview and send lists linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223368182898?portalId=7762472&preview_key=bibTmdzF&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: CAPPS 2026 Attendees",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-01",
@@ -3953,10 +3973,28 @@
       "type": "Email",
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
-      "summary": "Sent 10/1/26, confirmed by Jessica. Add the HubSpot Marketing Email preview and audience-list links when available.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Sent"
+      "summary": "Sent from HubSpot on 10/1/26 at 11:30 AM ET. Subject: [WEBINAR] See Trajecsys for Nursing in action. Matching email preview and send lists linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/223336808755?portalId=7762472&preview_key=LsDVQBui&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: [ROLE] Nursing",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys for Nursing Registrants - October 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11294/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-18",
@@ -4014,7 +4052,7 @@
       "title": "FNCE Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Due 10/15/26, the day before the first pre-event email on 10/16/26. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Landing page planned for 10/15/26. HubSpot CMS did not show a published page at the latest check; add its verified URL when live."
     },
     {
       "audience": "Keiser University programs",
@@ -4026,7 +4064,7 @@
       "title": "Keiser University Convocation Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Moved to 10/15/26 at Jessica’s request. Page has not been built or published; add its URL only after verification."
+      "summary": "Landing page planned for 10/15/26. HubSpot CMS did not show a published page at the latest check; add its verified URL when live."
     },
     {
       "audience": "California enterprise and postsecondary schools",
@@ -4081,10 +4119,10 @@
       "type": "Article",
       "audience": "The Commons",
       "sender": "Brian Bright",
-      "summary": "Jessica confirmed the article work complete on 10/13/26. Publication and live article link have not been independently verified.",
+      "summary": "Published on The Commons on 10/13/26. Brian Bright article linked.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Complete"
+      "contentLink": "https://thecommons.porticoedu.com/is-your-nursing-program-ready-for-a-state-board-review",
+      "status": "Published"
     },
     {
       "date": "2026-10-07",
@@ -4418,11 +4456,11 @@
       "sender": "Portico Financial Aid",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Jessica moved the WFAA pre-event email to 10/15/26. No matching scheduled HubSpot email or published WFAA landing page was found at the 10/14 check; attach verified links when ready.",
+      "summary": "Moved to Friday 10/16/26 at Jessica’s request. Attach the matching HubSpot preview and send lists after the email is created or scheduled.",
       "status": "Planned"
     },
     {
@@ -4430,11 +4468,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "tags": "Clinical Management, Event Promo",
       "title": "Keiser University Convocation Pre-Event Email",
       "type": "Event Comms",
-      "summary": "One-week pre-event email planned for Keiser University Convocation. Confirm the attendee audience, meeting route, and landing page before scheduling."
+      "summary": "Moved to Friday 10/16/26 at Jessica’s request. Attach the matching HubSpot preview and send lists after the email is created or scheduled.",
+      "status": "Planned"
     },
     {
       "date": "2026-10-21",
@@ -4465,9 +4504,10 @@
       "type": "Event Comms",
       "audience": "Food and nutrition educators",
       "sender": "Trajecsys",
-      "summary": "One-week pre-event email planned for FNCE. Confirm the attendee audience, meeting route, and landing page before scheduling.",
+      "summary": "Pre-event email planned for Friday 10/16/26. Confirm the attendee audience and link the matching HubSpot preview and send lists when scheduled.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-10-16",
@@ -5632,10 +5672,10 @@
       "tags": "Payments, Partnership",
       "sender": "Portico + Ignyte by Yrefy",
       "type": "Landing Page",
-      "summary": "Complete the first referral-intake landing page by end of day. Messaging is the primary work. Keep the page focused on referring a school to Ignyte and do not imply a current Portico Payments integration.",
+      "summary": "Published in HubSpot on 10/1/26. Partnership landing page linked.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Complete"
+      "contentLink": "https://welcome.porticoedu.com/ignyte",
+      "status": "Published"
     },
     {
       "date": "2026-10-05",
@@ -5854,9 +5894,35 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
         }
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "tags": "CRM, Product Updates",
+      "title": "CRM Product Updates - 10.15.2026",
+      "type": "Email",
+      "audience": "CRM Users - August 2026 and Portico Roster 2026",
+      "sender": "Portico",
+      "summary": "Sent from HubSpot on 10/15/26 at 10:56 AM ET. Subject: NEW! Re-Entry Management, paperless reminders, and Task Board upgrades. Matching email preview and send lists linked.",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224489733970?portalId=7762472&preview_key=PfIjrySB&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11123/filters",
+      "audienceLinks": [
+        {
+          "label": "Included: CRM Users - August 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11123/filters"
+        },
+        {
+          "label": "Included: Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-10-14T15:41:31-04:00",
+  "lastUpdated": "2026-10-15T14:28:04-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
