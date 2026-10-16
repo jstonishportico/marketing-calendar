@@ -4460,8 +4460,8 @@
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Moved to Friday 10/16/26 at Jessica’s request. Attach the matching HubSpot preview and send lists after the email is created or scheduled.",
-      "status": "Planned"
+      "summary": "Email draft completed 10/16/26. Awaiting the approved WFAA send list and final subject/recipient check before scheduling; no send confirmed.",
+      "status": "Draft"
     },
     {
       "audience": "Keiser University programs",
@@ -4516,9 +4516,24 @@
       "type": "Event Comms",
       "audience": "TAVNE attendees and event-sourced contacts",
       "sender": "Trajecsys",
-      "summary": "Planned post-event email for TAVNE. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Sent from HubSpot on 10/16/26 at 2:15 PM ET. Subject: After TAVNE, keep nursing records ready. Matching preview and send lists linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224640334918?portalId=7762472&preview_key=bZWNCcTG&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: Approved VN Schools Texas (Texas Nursing) - October 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters"
+        },
+        {
+          "label": "Included: TAVNE 2026 Giveaway Leads (All)",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11335/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "audience": "Financial aid professionals",
@@ -5644,14 +5659,28 @@
     {
       "date": "2026-10-16",
       "title": "Trajecsys for Nutrition and Dietetics One-Week Invite",
-      "summary": "First pre-event email planned one week before the 10/23 Nutrition and Dietetics Demo Day at 2:00 PM ET. HubSpot preview and audience list are pending.",
+      "summary": "Sent from HubSpot on 10/16/26 at 2:44 PM ET. Subject: See Trajecsys for Nutrition and Dietetics in action. Matching preview and send lists linked.",
       "audience": "Nutrition and Dietetics job titles",
       "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
       "type": "Email",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224653164325?portalId=7762472&preview_key=YecaMGON&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: [ROLE] Nutrition & Dietetics",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-21",
@@ -5920,9 +5949,35 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
         }
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "tags": "SIS, Product Updates",
+      "title": "SIS Product Updates - 10.15.2026",
+      "type": "Email",
+      "audience": "SIS Users - August 2026 and Portico Roster 2026",
+      "sender": "Portico",
+      "summary": "Sent from HubSpot on 10/15/26 at 2:31 PM ET. Subject: Portico SIS Updates: Repeat Course Policies, Enrollment Filtering, LOA Revenue & More. Matching email preview and send lists linked.",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224498401814?portalId=7762472&preview_key=TFGpqpaP&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11124/filters",
+      "audienceLinks": [
+        {
+          "label": "Included: SIS Users - August 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11124/filters"
+        },
+        {
+          "label": "Included: Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-10-15T14:28:04-04:00",
+  "lastUpdated": "2026-10-16T16:11:46-04:00",
   "lastUpdatedBy": "Codex + Jessica Stonish",
   "campaigns": [
     {
