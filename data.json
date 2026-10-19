@@ -4452,18 +4452,6 @@
       ]
     },
     {
-      "audience": "Financial aid professionals",
-      "sender": "Portico Financial Aid",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-16",
-      "tags": "Financial Aid, Event Promo",
-      "title": "WFAA Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "Email draft completed 10/16/26. Awaiting the approved WFAA send list and final subject/recipient check before scheduling; no send confirmed.",
-      "status": "Draft"
-    },
-    {
       "audience": "Keiser University programs",
       "sender": "Trajecsys",
       "audienceLink": "",
@@ -4573,13 +4561,21 @@
     {
       "audience": "Financial aid professionals",
       "sender": "Portico Financial Aid",
-      "audienceLink": "",
-      "contentLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11346/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224652874248?portalId=7762472&preview_key=mZVPXdxm&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-10-19",
       "tags": "Financial Aid, Event Promo",
-      "title": "WFAA Final Pre-Event Email",
+      "title": "WFAA Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before WFAA. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "Sent from HubSpot on 10/19/26 at 11:22 AM ET. Subject: Let’s meet at WFAA this week. Sent to WFAA 2026 Registrants; matching preview and recipient list linked.",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Included: WFAA 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11346/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-20",
@@ -5974,13 +5970,32 @@
       "type": "Email",
       "audience": "Customers and success story advocates",
       "sender": "Portico",
-      "summary": "Planned for 10/19/26 at Jessica’s request, following today’s call-for-proposals social post. Confirm the submission destination, audience and exclusions, and same-day overlap with WFAA/AACN before scheduling in HubSpot. Proposal deadline 11/15/26.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "summary": "Sent from HubSpot on 10/19/26 at 3:47 PM ET. Subject: Momentum 2027 call for proposals is open. Included Momentum 2026 Invite and Current Customer Contacts; exclusions and matching preview linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9897/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224879954594?portalId=7762472&preview_key=pxnhzlke&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Included: Momentum 2026 Invite",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9897/filters"
+        },
+        {
+          "label": "Included: Current Customer Contacts (Lifecycle Stage)",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10734/filters"
+        },
+        {
+          "label": "Excluded: Unsubscribed from all email",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-10-19T09:57:07-04:00",
+  "lastUpdated": "2026-10-19T16:19:36-04:00",
   "lastUpdatedBy": "Jessica + Codex",
   "campaigns": [
     {
