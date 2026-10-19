@@ -3997,13 +3997,13 @@
       ]
     },
     {
-      "date": "2026-10-18",
+      "date": "2026-10-20",
       "tags": "Clinical Management, Event Promo",
       "title": "AACN Landing Page",
       "type": "Landing Page",
       "audience": "Nursing colleges",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Due 10/18/26, the day before the first pre-event email on 10/19/26. Add the final page only after the event details, CTA, and destination are verified.",
+      "summary": "Carried from 10/18 to 10/20 at Jessica’s request. Publish and verify before scheduling the remaining AACN pre-event email. Add the verified HubSpot URL when live.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4059,12 +4059,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "tags": "Clinical Management, Event Promo",
       "title": "Keiser University Convocation Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Planned for 10/19/26, the day before the 10/20/26 pre-event email. Add the verified URL when the HubSpot page is published."
+      "summary": "Carried from 10/19 to 10/20 at Jessica’s request. Publish and verify before the Keiser pre-event email; the original day-before buffer was missed. Add the verified HubSpot URL when live."
     },
     {
       "audience": "California enterprise and postsecondary schools",
@@ -4105,12 +4105,12 @@
       "sender": "Portico, formerly Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "tags": "Clinical Management, Event Promo",
       "title": "ASAHP Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Due 10/19/26, the day before the first pre-event email on 10/20/26. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Carried from 10/19 to 10/20 at Jessica’s request. Publish and verify before the ASAHP pre-event email. Add the verified HubSpot URL when live."
     },
     {
       "date": "2026-10-13",
@@ -4460,7 +4460,7 @@
       "tags": "Clinical Management, Event Promo",
       "title": "Keiser University Convocation Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Single remaining pre-event send planned for 10/20/26 after the landing page is live. Confirm the event audience and link the HubSpot preview and send lists only when scheduled.",
+      "summary": "Planned for 10/20/26. Publish and verify the matching landing page first; confirm audience, timing, and overlap with other sends before scheduling. Link the HubSpot preview and send lists when scheduled.",
       "status": "Planned"
     },
     {
@@ -4536,17 +4536,6 @@
       "status": "Published"
     },
     {
-      "date": "2026-10-19",
-      "tags": "Clinical Management, Event Promo",
-      "title": "AACN Pre-Event Email",
-      "type": "Event Comms",
-      "audience": "Nursing colleges",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "One-week pre-event email planned for AACN. Confirm the attendee audience, meeting route, and landing page before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "audience": "Financial aid professionals",
       "sender": "Portico Financial Aid",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11346/filters",
@@ -4572,7 +4561,7 @@
       "type": "Event Comms",
       "audience": "Health professions education",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "One-week pre-event email planned for ASAHP. Confirm the attendee audience, meeting route, and landing page before scheduling.",
+      "summary": "Planned for 10/20/26. Publish and verify the matching landing page first; confirm audience, timing, and overlap with other sends before scheduling. Link the HubSpot preview and send lists when scheduled.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -4641,9 +4630,10 @@
       "contentLink": "",
       "date": "2026-10-22",
       "tags": "Clinical Management, Event Promo",
-      "title": "AACN Final Pre-Event Email",
+      "title": "AACN Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before AACN. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "Single remaining AACN pre-event send planned for 10/22/26 after the landing page is published. Build and confirm audience on 10/20; link the HubSpot preview and send lists when scheduled.",
+      "status": "Planned"
     },
     {
       "date": "2026-10-22",
@@ -5994,7 +5984,7 @@
       "contentLink": ""
     }
   ],
-  "lastUpdated": "2026-10-19T16:39:15-04:00",
+  "lastUpdated": "2026-10-19T16:43:31-04:00",
   "lastUpdatedBy": "Jessica + Codex",
   "campaigns": [
     {
