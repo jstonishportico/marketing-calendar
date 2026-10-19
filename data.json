@@ -4047,24 +4047,24 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-15",
+      "date": "2026-10-20",
       "tags": "Clinical Management, Event Promo",
       "title": "FNCE Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Landing page planned for 10/15/26. HubSpot CMS did not show a published page at the latest check; add its verified URL when live."
+      "summary": "Planned for 10/20/26, the day before the 10/21/26 pre-event email. Add the verified URL when the HubSpot page is published."
     },
     {
       "audience": "Keiser University programs",
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-15",
+      "date": "2026-10-19",
       "tags": "Clinical Management, Event Promo",
       "title": "Keiser University Convocation Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Landing page planned for 10/15/26. HubSpot CMS did not show a published page at the latest check; add its verified URL when live."
+      "summary": "Planned for 10/19/26, the day before the 10/20/26 pre-event email. Add the verified URL when the HubSpot page is published."
     },
     {
       "audience": "California enterprise and postsecondary schools",
@@ -4468,11 +4468,11 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-16",
+      "date": "2026-10-20",
       "tags": "Clinical Management, Event Promo",
       "title": "Keiser University Convocation Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Moved to Friday 10/16/26 at Jessica’s request. Attach the matching HubSpot preview and send lists after the email is created or scheduled.",
+      "summary": "Single remaining pre-event send planned for 10/20/26 after the landing page is live. Confirm the event audience and link the HubSpot preview and send lists only when scheduled.",
       "status": "Planned"
     },
     {
@@ -4498,13 +4498,13 @@
       "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
     },
     {
-      "date": "2026-10-16",
+      "date": "2026-10-21",
       "tags": "Clinical Management, Event Promo",
       "title": "FNCE Pre-Event Email",
       "type": "Event Comms",
       "audience": "Food and nutrition educators",
       "sender": "Trajecsys",
-      "summary": "Pre-event email planned for Friday 10/16/26. Confirm the attendee audience and link the matching HubSpot preview and send lists when scheduled.",
+      "summary": "Single remaining pre-event send planned for 10/21/26 after the landing page is live. Confirm the event audience and link the HubSpot preview and send lists only when scheduled.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4611,17 +4611,6 @@
       "contentLink": "",
       "date": "2026-10-20",
       "tags": "Clinical Management, Event Promo",
-      "title": "Keiser University Convocation Final Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before Keiser University Convocation. Check overlap with other sends and link only to the verified event landing page."
-    },
-    {
-      "audience": "Keiser University programs",
-      "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-20",
-      "tags": "Clinical Management, Event Promo",
       "title": "Keiser University Convocation Pre-Event Social Post",
       "type": "Social",
       "summary": "Pre-event LinkedIn post for Keiser University Convocation. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available."
@@ -4636,17 +4625,6 @@
       "title": "ELEVATE Pre-Event Email",
       "type": "Event Comms",
       "summary": "One-week pre-event email planned for ELEVATE. Confirm the attendee audience, meeting route, and landing page before scheduling."
-    },
-    {
-      "audience": "Food and nutrition educators",
-      "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-21",
-      "tags": "Clinical Management, Event Promo",
-      "title": "FNCE Final Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before FNCE. Check overlap with other sends and link only to the verified event landing page."
     },
     {
       "date": "2026-10-21",
@@ -5976,10 +5954,34 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
         }
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "tags": "Momentum, Social",
+      "title": "Momentum 2027 Call for Proposals Social Post",
+      "type": "Social",
+      "audience": "Customers and success story advocates",
+      "sender": "Portico",
+      "summary": "Published 10/19/26. Invites customer session proposals across six tracks; proposal deadline 11/15/26.",
+      "audienceLink": "",
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_found-a-fix-your-team-now-relies-on-lets-activity-7517940231614930944-oFgT",
+      "status": "Published"
+    },
+    {
+      "date": "2026-10-23",
+      "tags": "Momentum, Email",
+      "title": "Momentum 2027 Call for Proposals Email",
+      "type": "Email",
+      "audience": "Customers and success story advocates",
+      "sender": "Portico",
+      "summary": "Planned for 10/23/26 following the 10/19 social post, after the 10/22 Portico POV newsletter. Confirm the submission destination, audience and exclusions, then create and schedule the HubSpot email. Proposal deadline 11/15/26.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-10-16T16:16:11-04:00",
-  "lastUpdatedBy": "Codex + Jessica Stonish",
+  "lastUpdated": "2026-10-19T09:41:55-04:00",
+  "lastUpdatedBy": "Jessica + Codex",
   "campaigns": [
     {
       "name": "Intent-based outbound campaigns",
@@ -6046,5 +6048,5 @@
       ]
     }
   ],
-  "updated": "2026-09-18"
+  "updated": "2026-10-19"
 }
