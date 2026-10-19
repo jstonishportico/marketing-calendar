@@ -4903,10 +4903,10 @@
       "date": "2026-10-28",
       "endDate": "2026-10-30",
       "tags": "Portico Suite",
-      "title": "ELEVATE | Miami, FL",
+      "title": "ELEVATE - Aquinas/CMVC | Miami, FL",
       "type": "Event",
       "attendees": "Siana, Kim, Jackson, Danny",
-      "summary": "ELEVATE event in Miami, FL. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan."
+      "summary": "ELEVATE - Aquinas/CMVC, 10/28/26–10/30/26 in Miami, FL. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan."
     },
     {
       "date": "2026-10-28",
@@ -4953,19 +4953,6 @@
       "type": "Event",
       "attendees": "Ron",
       "summary": "NELNE Fall Conference event in CCRI Newport Campus, RI. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan."
-    },
-    {
-      "date": "2026-10-30",
-      "tags": "Clinical Management",
-      "title": "NELNE Fall Conference | CCRI, RI",
-      "type": "Event",
-      "audience": "Nursing",
-      "sender": "Trajecsys",
-      "summary": "NELNE Fall Conference event in CCRI, RI. Source: master event spreadsheet and active content calendar.",
-      "audienceLink": "",
-      "contentLink": "",
-      "endDate": "2026-10-30",
-      "attendees": "Ron"
     },
     {
       "date": "2026-10-30",
@@ -5981,9 +5968,33 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
         }
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "endDate": "2026-10-24",
+      "tags": "Conference",
+      "title": "AACS",
+      "type": "Event",
+      "audience": "",
+      "sender": "",
+      "summary": "AACS, 10/22/26–10/24/26, confirmed in Jessica’s current conference spreadsheet. Location, audience, roster, and product focus have not yet been verified.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-05",
+      "endDate": "2026-11-06",
+      "tags": "Conference",
+      "title": "ACEN Leap Workshop",
+      "type": "Event",
+      "audience": "",
+      "sender": "",
+      "summary": "ACEN Leap Workshop, 11/5/26–11/6/26, confirmed in Jessica’s current conference spreadsheet. Location, audience, roster, and product focus have not yet been verified.",
+      "audienceLink": "",
+      "contentLink": ""
     }
   ],
-  "lastUpdated": "2026-10-19T16:31:25-04:00",
+  "lastUpdated": "2026-10-19T16:39:15-04:00",
   "lastUpdatedBy": "Jessica + Codex",
   "campaigns": [
     {
