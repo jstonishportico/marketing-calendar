@@ -5983,9 +5983,21 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Keiser University Convocation Pre-Event Social Post",
+      "type": "Social",
+      "tags": "Clinical Management, Event Promo",
+      "audience": "Keiser University programs",
+      "sender": "Trajecsys",
+      "summary": "Jessica confirmed the drafted Keiser post was published on the Trajecsys LinkedIn account on 10/20/26. Direct post URL pending.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Published"
     }
   ],
-  "lastUpdated": "2026-10-20T14:53:14-04:00",
+  "lastUpdated": "2026-10-20T15:09:00-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
