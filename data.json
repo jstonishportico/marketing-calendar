@@ -4055,18 +4055,6 @@
       "summary": "Planned for 10/20/26, the day before the 10/21/26 pre-event email. Add the verified URL when the HubSpot page is published."
     },
     {
-      "audience": "Keiser University programs",
-      "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-20",
-      "tags": "Clinical Management, Event Promo",
-      "title": "Keiser University Convocation Landing Page",
-      "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Carried from 10/19 to 10/20 at Jessica’s request. Publish and verify before the Keiser pre-event email; the original day-before buffer was missed. Add the verified HubSpot URL when live."
-    },
-    {
       "audience": "California enterprise and postsecondary schools",
       "sender": "Portico",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters",
@@ -4452,18 +4440,6 @@
       ]
     },
     {
-      "audience": "Keiser University programs",
-      "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-20",
-      "tags": "Clinical Management, Event Promo",
-      "title": "Keiser University Convocation Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "Planned for 10/20/26. Publish and verify the matching landing page first; confirm audience, timing, and overlap with other sends before scheduling. Link the HubSpot preview and send lists when scheduled.",
-      "status": "Planned"
-    },
-    {
       "date": "2026-10-21",
       "tags": "Momentum",
       "title": "Momentum 2027: Keynote solidified",
@@ -4576,17 +4552,6 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
-    },
-    {
-      "audience": "Keiser University programs",
-      "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-20",
-      "tags": "Clinical Management, Event Promo",
-      "title": "Keiser University Convocation Pre-Event Social Post",
-      "type": "Social",
-      "summary": "Pre-event LinkedIn post for Keiser University Convocation. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available."
     },
     {
       "audience": "Career education schools in the United States",
@@ -6020,8 +5985,8 @@
       "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-10-20T08:19:50-04:00",
-  "lastUpdatedBy": "Jessica + Codex",
+  "lastUpdated": "2026-10-20T14:53:14-04:00",
+  "lastUpdatedBy": "Codex",
   "campaigns": [
     {
       "name": "Intent-based outbound campaigns",
