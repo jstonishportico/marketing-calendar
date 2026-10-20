@@ -5962,12 +5962,12 @@
     {
       "date": "2026-10-22",
       "endDate": "2026-10-24",
-      "tags": "Conference",
-      "title": "AACS",
+      "tags": "Portico Suite",
+      "title": "AACS | Las Vegas, NV",
       "type": "Event",
-      "audience": "",
-      "sender": "",
-      "summary": "AACS, 10/22/26–10/24/26, confirmed in Jessica’s current conference spreadsheet. Location, audience, roster, and product focus have not yet been verified.",
+      "audience": "Beauty, barber, and wellness education leaders",
+      "sender": "Portico",
+      "summary": "AACS Annual Conference at Mandalay Bay in Las Vegas, 10/22/26–10/24/26 per Jessica’s current conference spreadsheet. Portico is exhibiting; the AACS event brief lists booth 812.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -5982,9 +5982,45 @@
       "summary": "ACEN Leap Workshop, 11/5/26–11/6/26, confirmed in Jessica’s current conference spreadsheet. Location, audience, roster, and product focus have not yet been verified.",
       "audienceLink": "",
       "contentLink": ""
+    },
+    {
+      "date": "2026-10-20",
+      "title": "AACS Landing Page",
+      "type": "Landing Page",
+      "tags": "Portico Suite, Event Promo",
+      "audience": "Beauty, barber, and wellness education leaders",
+      "sender": "Portico",
+      "summary": "Planned for 10/20/26 to support AACS promotion. Confirm the event CTA and publish the HubSpot page before linking it.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "AACS Pre-Event Email",
+      "type": "Event Comms",
+      "tags": "Portico Suite, Event Promo",
+      "audience": "Beauty, barber, and wellness education leaders",
+      "sender": "Portico",
+      "summary": "Planned for 10/21/26 after the AACS landing page is live. The event brief says the attendee email is in progress, but no matching HubSpot email asset was found on 10/20. Confirm the attendee list, exclusions, and overlap with other Portico sends before scheduling.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "AACS Pre-Event Social Post",
+      "type": "Social",
+      "tags": "Portico Suite, Event Promo",
+      "audience": "Beauty, barber, and wellness education leaders",
+      "sender": "Portico",
+      "summary": "Planned Portico social post for AACS. Confirm creative and the live destination before publishing; add the direct post URL afterward.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-10-19T16:43:31-04:00",
+  "lastUpdated": "2026-10-20T08:19:50-04:00",
   "lastUpdatedBy": "Jessica + Codex",
   "campaigns": [
     {
