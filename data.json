@@ -5955,10 +5955,10 @@
       "tags": "Portico Suite, Event Promo",
       "audience": "Beauty, barber, and wellness education leaders",
       "sender": "Portico",
-      "summary": "Planned for 10/20/26 to support AACS promotion. Confirm the event CTA and publish the HubSpot page before linking it.",
+      "summary": "Published in HubSpot and served landing page verified on 10/21/26.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://welcome.porticoedu.com/aacs",
+      "status": "Published"
     },
     {
       "date": "2026-10-21",
@@ -5967,22 +5967,22 @@
       "tags": "Portico Suite, Event Promo",
       "audience": "Beauty, barber, and wellness education leaders",
       "sender": "Portico",
-      "summary": "Planned for 10/21/26 after the AACS landing page is live. The event brief says the attendee email is in progress, but no matching HubSpot email asset was found on 10/20. Confirm the attendee list, exclusions, and overlap with other Portico sends before scheduling.",
-      "audienceLink": "",
+      "summary": "HubSpot shows SCHEDULED for 10/21/26 at 11:32 AM ET to AACS 2026 Registrants. Confirm actual send state before marking sent.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11326/filters",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Scheduled"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-20",
       "title": "AACS Pre-Event Social Post",
       "type": "Social",
       "tags": "Portico Suite, Event Promo",
       "audience": "Beauty, barber, and wellness education leaders",
       "sender": "Portico",
-      "summary": "Planned Portico social post for AACS. Confirm creative and the live destination before publishing; add the direct post URL afterward.",
+      "summary": "Jessica confirmed the AACS Portico LinkedIn post published on 10/20/26. Direct post URL pending.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Published"
     },
     {
       "date": "2026-10-20",
@@ -5997,7 +5997,7 @@
       "status": "Published"
     }
   ],
-  "lastUpdated": "2026-10-20T15:09:00-04:00",
+  "lastUpdated": "2026-10-21T10:36:53-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
