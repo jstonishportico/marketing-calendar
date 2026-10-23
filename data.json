@@ -4047,13 +4047,14 @@
       "audience": "Food and nutrition educators",
       "sender": "Trajecsys",
       "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-26",
+      "contentLink": "https://welcome.porticoedu.com/fnce",
+      "date": "2026-10-23",
       "tags": "Clinical Management, Event Promo",
       "title": "FNCE Landing Page",
       "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Carried into Monday 10/26 as an on-site page task. FNCE runs 10/24–27, so confirm whether this page still serves attendees before investing in it. No matching published HubSpot page found 10/23."
+      "status": "Published",
+      "summary": "Published 10/23/26; served FNCE page and its meeting form verified. FNCE runs 10/24–27. Intro copy still mentions nursing and allied health rather than nutrition and dietetics; copy QA remains open.",
+      "contentLabel": "View Landing Page"
     },
     {
       "audience": "California enterprise and postsecondary schools",
@@ -6085,7 +6086,7 @@
       "status": "Published"
     }
   ],
-  "lastUpdated": "2026-10-23T16:45:10-04:00",
+  "lastUpdated": "2026-10-23T16:50:18-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
