@@ -3997,13 +3997,13 @@
       ]
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
       "title": "AACN Landing Page",
       "type": "Landing Page",
       "audience": "Nursing colleges",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Carried from 10/18 to 10/20 at Jessica’s request. Publish and verify before scheduling the remaining AACN pre-event email. Add the verified HubSpot URL when live.",
+      "summary": "Moved to Monday 10/26 at Jessica’s request. AACN runs 10/25–27. HubSpot has an AACN 2026 draft with a temporary slug; publish and verify the final page before outreach. No live page URL yet.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4047,12 +4047,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-20",
+      "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
       "title": "FNCE Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Planned for 10/20/26, the day before the 10/21/26 pre-event email. Add the verified URL when the HubSpot page is published."
+      "summary": "Carried into Monday 10/26 as an on-site page task. FNCE runs 10/24–27, so confirm whether this page still serves attendees before investing in it. No matching published HubSpot page found 10/23."
     },
     {
       "audience": "California enterprise and postsecondary schools",
@@ -4093,12 +4093,12 @@
       "sender": "Portico, formerly Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-20",
+      "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
       "title": "ASAHP Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Carried from 10/19 to 10/20 at Jessica’s request. Publish and verify before the ASAHP pre-event email. Add the verified HubSpot URL when live."
+      "summary": "Carried to Monday 10/26, one day before ASAHP begins 10/27. No published HubSpot ASAHP page found 10/23."
     },
     {
       "date": "2026-10-13",
@@ -4173,13 +4173,13 @@
       "audience": "Career education schools in the United States",
       "sender": "Portico",
       "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-20",
+      "contentLink": "https://welcome.porticoedu.com/elevate",
+      "date": "2026-10-22",
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Landing Page",
       "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Due 10/20/26, the day before the first pre-event email on 10/21/26. Add the final page only after the event details, CTA, and destination are verified."
+      "status": "Published",
+      "summary": "ELEVATE 2026 page published at the verified HubSpot CMS URL; Jessica confirmed it was finished 10/22/26."
     },
     {
       "date": "2026-10-07",
@@ -4326,12 +4326,12 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-22",
+      "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
       "title": "NELNE Fall Conference Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Due 10/22/26, the day before the first pre-event email on 10/23/26. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Carried to Monday 10/26. No matching published HubSpot page found 10/23."
     },
     {
       "audience": "Vocational nursing educators",
@@ -4462,16 +4462,16 @@
       "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
-      "title": "FNCE Pre-Event Email",
+      "title": "FNCE On-Site Email — Audience Blocked",
       "type": "Event Comms",
       "audience": "Food and nutrition educators",
       "sender": "Trajecsys",
-      "summary": "Single remaining pre-event send planned for 10/21/26 after the landing page is live. Confirm the event audience and link the HubSpot preview and send lists only when scheduled.",
+      "summary": "Original 10/21 pre-event send did not ship. Carried to Monday 10/26 only if a verified FNCE attendee list becomes available while the 10/24–27 event is underway. No FNCE-specific list or HubSpot email asset found 10/23; do not send to the Nutrition and Dietetics role list as a substitute.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Blocked"
     },
     {
       "date": "2026-10-16",
@@ -4531,24 +4531,25 @@
       ]
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
       "title": "ASAHP Pre-Event Email",
       "type": "Event Comms",
       "audience": "Health professions education",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Planned for 10/20/26. Publish and verify the matching landing page first; confirm audience, timing, and overlap with other sends before scheduling. Link the HubSpot preview and send lists when scheduled.",
+      "summary": "Consolidated late ASAHP pre-event outreach into one Monday 10/26 send opportunity. No verified ASAHP attendee list or HubSpot email asset found 10/23. Publish the page and confirm audience before sending.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Blocked"
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-28",
       "tags": "Portico Suite, Event Promo",
       "title": "COE Landing Page",
       "type": "Landing Page",
       "audience": "Career education leaders",
       "sender": "Portico",
-      "summary": "Dedicated event landing page planned for COE. Add the final page only after the event details, CTA, and destination are verified.",
+      "summary": "Carried into next week from 10/20. No published HubSpot COE page found 10/23; verify event details before publishing.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4556,13 +4557,20 @@
     {
       "audience": "Career education schools in the United States",
       "sender": "Portico",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters",
       "contentLink": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Pre-Event Email",
       "type": "Event Comms",
-      "summary": "One-week pre-event email planned for ELEVATE. Confirm the attendee audience, meeting route, and landing page before scheduling."
+      "summary": "Sent from HubSpot 10/22/26 at 11:04 AM ET to ELEVATE Miami 2026 Registrants. HubSpot email 225106923009. Public preview URL pending a share-safe destination.",
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: ELEVATE Miami 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-21",
@@ -4571,9 +4579,10 @@
       "type": "Social",
       "audience": "Food and nutrition educators",
       "sender": "Trajecsys",
-      "summary": "Pre-event LinkedIn post for FNCE. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
+      "summary": "Published to Trajecsys LinkedIn on 10/21/26, confirmed by Jessica. Direct post URL pending.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Published"
     },
     {
       "audience": "Financial aid professionals",
@@ -4591,25 +4600,14 @@
     {
       "audience": "Nursing colleges",
       "sender": "Portico, formerly Trajecsys",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11333/filters",
       "contentLink": "",
-      "date": "2026-10-22",
+      "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
-      "title": "AACN Pre-Event Email",
+      "title": "AACN On-Site Outreach Email",
       "type": "Event Comms",
-      "summary": "Single remaining AACN pre-event send planned for 10/22/26 after the landing page is published. Build and confirm audience on 10/20; link the HubSpot preview and send lists when scheduled.",
+      "summary": "Moved from 10/22 to Monday 10/26 at Jessica’s request. AACN is underway by then, so this is on-site outreach rather than a pre-event send. Local copy exists, but no HubSpot email asset or live landing page was found. Use AACN 2026 Registrants (Clean), review eligibility and exclusions before send.",
       "status": "Planned"
-    },
-    {
-      "date": "2026-10-22",
-      "tags": "Clinical Management, Event Promo",
-      "title": "AACN Pre-Event Social Post",
-      "type": "Social",
-      "audience": "Nursing colleges",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "Pre-event LinkedIn post for AACN. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-10-22",
@@ -4618,55 +4616,44 @@
       "type": "Landing Page",
       "audience": "Nursing education leaders",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Dedicated event landing page planned for OADN. Add the final page only after the event details, CTA, and destination are verified.",
+      "summary": "Natalie refreshed the existing /oadn page for 2026; HubSpot CMS and served URL confirm it is published. Content and lead-capture QA remain open for the OADN ad.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://welcome.porticoedu.com/oadn",
+      "status": "Published"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-29",
       "title": "October Portico POV Newsletter",
       "series": "Portico POV",
       "tags": "Portico Brand, Newsletter",
       "type": "Email",
       "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
-      "summary": "Monthly Portico POV newsletter. Planned for the fourth Thursday, with November and December moved earlier for holiday weeks.",
+      "summary": "Jessica moved the October Portico POV newsletter to next week. Build/review the issue and HubSpot audience before scheduling; no published newsletter asset found 10/23.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-29",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress Landing Page",
       "type": "Landing Page",
       "audience": "Respiratory therapists and educators",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Dedicated event landing page planned for AARC Congress. Add the final page only after the event details, CTA, and destination are verified.",
+      "summary": "Carried into next week from 10/23. The existing AARC giveaway page at /ast2026 is not a verified Congress landing page; build or confirm a matching event page.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
     },
     {
-      "audience": "Health professions education",
-      "sender": "Portico, formerly Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-23",
-      "tags": "Clinical Management, Event Promo",
-      "title": "ASAHP Final Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before ASAHP. Check overlap with other sends and link only to the verified event landing page."
-    },
-    {
-      "date": "2026-10-23",
+      "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
       "title": "ASAHP Pre-Event Social Post",
       "type": "Social",
       "audience": "Health professions education",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Pre-event LinkedIn post for ASAHP. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
+      "summary": "Carried from 10/23 to Monday 10/26, before ASAHP starts 10/27. Publication was not verified at weekend close; confirm before posting.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -4675,11 +4662,11 @@
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-23",
+      "date": "2026-10-26",
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Pre-Event Social Post",
       "type": "Social",
-      "summary": "Pre-event LinkedIn post for ELEVATE. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available."
+      "summary": "Carried from 10/23 to Monday 10/26, before ELEVATE starts 10/28. Publication was not verified at weekend close; confirm before posting."
     },
     {
       "audience": "Keiser University programs",
@@ -4695,15 +4682,16 @@
       "summary": "Keiser University Convocation event in West Palm Beach, FL. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan."
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-27",
       "tags": "Clinical Management, Event Promo",
       "title": "NELNE Fall Conference Pre-Event Email",
       "type": "Event Comms",
       "audience": "Nursing educators",
       "sender": "Trajecsys",
-      "summary": "One-week pre-event email planned for NELNE Fall Conference. Confirm the attendee audience, meeting route, and landing page before scheduling.",
+      "summary": "Carried to Tuesday 10/27. NELNE is 10/30; no verified attendee list or HubSpot email asset found 10/23. Send only after page and audience are confirmed.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Blocked"
     },
     {
       "date": "2026-10-23",
@@ -4712,7 +4700,7 @@
       "tags": "Clinical Management, Webinar",
       "sender": "Trajecsys",
       "type": "Webinar",
-      "summary": "Trajecsys Demo Day for Nutrition and Dietetics on 10/23/26 at 2:00 PM ET and 11:00 AM PT. Registration is live.",
+      "summary": "Scheduled 10/23/26 at 2 PM ET. One-week, second, and day-of invitations are sent. Session completion/recording not verified at calendar close; add confirmation and recording when available.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/cm-demo-days",
       "status": "Planned",
@@ -4754,7 +4742,7 @@
       "type": "Social",
       "audience": "Nursing Colleges",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "On-site LinkedIn post for AACN. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
+      "summary": "Monday 10/26 on-site social for AACN, replacing the unconfirmed 10/22 pre-event placeholder. Confirm post/creative with the team and add the live URL after publication.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -5590,14 +5578,36 @@
     {
       "date": "2026-10-21",
       "title": "Trajecsys for Nutrition and Dietetics Final Reminder",
-      "summary": "Second pre-event email planned two days before the 10/23 Nutrition and Dietetics Demo Day at 2:00 PM ET. HubSpot preview and audience list are pending.",
+      "summary": "Second Nutrition and Dietetics webinar invitation sent 10/21/26 at 12:10 PM ET from HubSpot email 225067516852. Registrants and customer/exclusion lists suppressed. Public preview URL pending a share-safe destination.",
       "audience": "Nutrition and Dietetics job titles",
       "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
       "type": "Email",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: [ROLE] Nutrition & Dietetics",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        },
+        {
+          "label": "Excluded: Contact Type: Customer",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11307/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys for Nutrition & Dietetics Registrants - October 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11348/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-01",
@@ -5967,10 +5977,16 @@
       "tags": "Portico Suite, Event Promo",
       "audience": "Beauty, barber, and wellness education leaders",
       "sender": "Portico",
-      "summary": "HubSpot shows SCHEDULED for 10/21/26 at 11:32 AM ET to AACS 2026 Registrants. Confirm actual send state before marking sent.",
+      "summary": "Sent from HubSpot 10/21/26 at 11:32 AM ET to AACS 2026 Registrants. HubSpot email 225049834073. Public email preview omitted because its preview URL contains a private key.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11326/filters",
       "contentLink": "",
-      "status": "Scheduled"
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "Included: AACS 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11326/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-20",
@@ -5995,9 +6011,66 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Trajecsys for Nutrition and Dietetics Day-Of Invite",
+      "type": "Email",
+      "tags": "Clinical Management, Webinar Promo",
+      "audience": "Nutrition and Dietetics job titles",
+      "sender": "Trajecsys",
+      "summary": "Sent from HubSpot 10/23/26 at 10:03 AM ET for the 2 PM webinar. HubSpot email 225288460949. Registrants and customer/exclusion lists suppressed. Public preview URL pending a share-safe destination.",
+      "status": "Sent",
+      "contentLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters",
+      "audienceLinks": [
+        {
+          "label": "Included: [ROLE] Nutrition & Dietetics",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        },
+        {
+          "label": "Excluded: Contact Type: Customer",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11307/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys for Nutrition & Dietetics Registrants - October 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11348/filters"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "title": "What I Wish I Knew in My First Year of Admissions",
+      "type": "Article",
+      "tags": "The Commons, Admissions",
+      "audience": "Admissions leaders and teams",
+      "sender": "The Commons",
+      "summary": "Lauren Bischoff’s article published this week, confirmed by Jessica and Natalie. Served article URL returned HTTP 200 on 10/23.",
+      "status": "Published",
+      "contentLink": "https://thecommons.porticoedu.com/what-i-wish-i-knew-in-my-first-year-of-admissions"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "OADN Trajecsys × Cisive Happy Hour RSVP Page",
+      "type": "Landing Page",
+      "tags": "Clinical Management, Event Promo",
+      "audience": "OADN attendees and invited guests",
+      "sender": "Trajecsys and Cisive",
+      "summary": "Carried to Monday 10/26. Build a separate co-branded RSVP page and form for the 11/12 happy hour at Mexico Ceaty in San Antonio. Amanda’s postcard has a placeholder URL; confirm the venue contract before public launch and replace the postcard URL after the page is live.",
+      "status": "Planned",
+      "contentLink": "",
+      "audienceLink": ""
     }
   ],
-  "lastUpdated": "2026-10-21T10:36:53-04:00",
+  "lastUpdated": "2026-10-23T16:19:15-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -6065,5 +6138,5 @@
       ]
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-10-23"
 }
