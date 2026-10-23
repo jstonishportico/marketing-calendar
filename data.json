@@ -4647,26 +4647,28 @@
       "status": "Planned"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-23",
       "tags": "Clinical Management, Event Promo",
       "title": "ASAHP Pre-Event Social Post",
       "type": "Social",
       "audience": "Health professions education",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Carried from 10/23 to Monday 10/26, before ASAHP starts 10/27. Publication was not verified at weekend close; confirm before posting.",
+      "summary": "Published to the Trajecsys LinkedIn page on 10/23/26, confirmed by Jessica. Direct post URL pending.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Published"
     },
     {
       "audience": "Career education schools in the United States",
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-26",
+      "date": "2026-10-23",
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Pre-Event Social Post",
       "type": "Social",
-      "summary": "Carried from 10/23 to Monday 10/26, before ELEVATE starts 10/28. Publication was not verified at weekend close; confirm before posting."
+      "summary": "Published to the Portico LinkedIn page on 10/23/26, confirmed by Jessica. Direct post URL pending.",
+      "status": "Published"
     },
     {
       "audience": "Keiser University programs",
@@ -6082,7 +6084,7 @@
       "status": "Published"
     }
   ],
-  "lastUpdated": "2026-10-23T16:28:42-04:00",
+  "lastUpdated": "2026-10-23T16:35:59-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
