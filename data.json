@@ -4742,7 +4742,7 @@
       "type": "Social",
       "audience": "Nursing Colleges",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Monday 10/26 on-site social for AACN, replacing the unconfirmed 10/22 pre-event placeholder. Confirm post/creative with the team and add the live URL after publication.",
+      "summary": "Separate AACN on-site post planned for Monday 10/26 if current event photo or context is available. The pre-event post was published Thursday 10/22. Add the live URL after publication.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -6068,9 +6068,21 @@
       "status": "Planned",
       "contentLink": "",
       "audienceLink": ""
+    },
+    {
+      "date": "2026-10-22",
+      "tags": "Clinical Management, Event Promo",
+      "title": "AACN Pre-Event Social Post",
+      "type": "Social",
+      "audience": "Nursing colleges",
+      "sender": "Portico, formerly Trajecsys",
+      "summary": "Published to the Trajecsys LinkedIn page on 10/22/26, confirmed by Jessica on 10/23. Direct post URL pending.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Published"
     }
   ],
-  "lastUpdated": "2026-10-23T16:19:15-04:00",
+  "lastUpdated": "2026-10-23T16:28:42-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
