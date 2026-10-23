@@ -4094,13 +4094,14 @@
       "audience": "Health professions education",
       "sender": "Portico, formerly Trajecsys",
       "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-26",
+      "contentLink": "https://welcome.porticoedu.com/asahp",
+      "date": "2026-10-23",
       "tags": "Clinical Management, Event Promo",
       "title": "ASAHP Landing Page",
       "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Carried to Monday 10/26, one day before ASAHP begins 10/27. No published HubSpot ASAHP page found 10/23."
+      "status": "Published",
+      "summary": "Published 10/23/26; served ASAHP page and meeting form verified. The hero event line shows \"ASAHP 2026 |\" without the 10/27–29 dates, so page copy QA remains open.",
+      "contentLabel": "View Landing Page"
     },
     {
       "date": "2026-10-13",
@@ -4327,13 +4328,14 @@
       "audience": "Nursing educators",
       "sender": "Trajecsys",
       "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-10-26",
+      "contentLink": "https://welcome.porticoedu.com/nelne",
+      "date": "2026-10-23",
       "tags": "Clinical Management, Event Promo",
       "title": "NELNE Fall Conference Landing Page",
       "type": "Landing Page",
-      "status": "Planned",
-      "summary": "Carried to Monday 10/26. No matching published HubSpot page found 10/23."
+      "status": "Published",
+      "summary": "Published 10/23/26; served NELNE Fall Conference page and meeting form verified. NELNE is 10/30.",
+      "contentLabel": "View Landing Page"
     },
     {
       "audience": "Vocational nursing educators",
@@ -4539,7 +4541,7 @@
       "type": "Event Comms",
       "audience": "Health professions education",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Consolidated late ASAHP pre-event outreach into one Monday 10/26 send opportunity. No verified ASAHP attendee list or HubSpot email asset found 10/23. Publish the page and confirm audience before sending.",
+      "summary": "ASAHP landing page is published. No verified ASAHP attendee/registrant list or HubSpot email asset found 10/23; the available ASAHP Giveaway Leads list is for post-event form submissions, not pre-event outreach. Send only after a suitable audience is confirmed.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Blocked"
@@ -4692,7 +4694,7 @@
       "type": "Event Comms",
       "audience": "Nursing educators",
       "sender": "Trajecsys",
-      "summary": "Carried to Tuesday 10/27. NELNE is 10/30; no verified attendee list or HubSpot email asset found 10/23. Send only after page and audience are confirmed.",
+      "summary": "NELNE landing page is published. No verified NELNE attendee/registrant list or HubSpot email asset found 10/23; the available NELNE Giveaway Leads list is for post-event form submissions, not pre-event outreach. Send only after a suitable audience is confirmed.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Blocked"
@@ -6086,7 +6088,7 @@
       "status": "Published"
     }
   ],
-  "lastUpdated": "2026-10-23T16:50:18-04:00",
+  "lastUpdated": "2026-10-23T16:58:56-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
