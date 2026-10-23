@@ -3997,16 +3997,17 @@
       ]
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-23",
       "tags": "Clinical Management, Event Promo",
       "title": "AACN Landing Page",
       "type": "Landing Page",
       "audience": "Nursing colleges",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Moved to Monday 10/26 at Jessica’s request. AACN runs 10/25–27. HubSpot has an AACN 2026 draft with a temporary slug; publish and verify the final page before outreach. No live page URL yet.",
+      "summary": "Published 10/23/26; served AACN page and its meeting form verified. AACN runs 10/25–27.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://welcome.porticoedu.com/aacn",
+      "status": "Published",
+      "contentLabel": "View Landing Page"
     },
     {
       "date": "2026-10-05",
@@ -6084,7 +6085,7 @@
       "status": "Published"
     }
   ],
-  "lastUpdated": "2026-10-23T16:35:59-04:00",
+  "lastUpdated": "2026-10-23T16:45:10-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
