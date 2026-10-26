@@ -4586,7 +4586,7 @@
       "tags": "Clinical Management, Event Promo",
       "title": "AACN On-Site Outreach Email",
       "type": "Event Comms",
-      "summary": "Moved from 10/22 to Monday 10/26 at Jessica’s request. AACN is underway by then, so this is on-site outreach rather than a pre-event send. Local copy exists, but no HubSpot email asset or live landing page was found. Use AACN 2026 Registrants (Clean), review eligibility and exclusions before send.",
+      "summary": "AACN is underway 10/25–27. The pre-event email did not send, so this is planned on-site outreach to AACN 2026 Registrants (Clean). The AACN landing page is published. Verify email eligibility and exclusions before send.",
       "status": "Planned"
     },
     {
@@ -4609,7 +4609,7 @@
       "type": "Email",
       "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
-      "summary": "Jessica moved the October Portico POV newsletter to next week. Build/review the issue and HubSpot audience before scheduling; no published newsletter asset found 10/23.",
+      "summary": "Planned Thursday 10/29 issue, moved from the prior week to include more Payments content, including Danny’s article. Build and verify the HubSpot audience before scheduling; no send is confirmed.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -6041,9 +6041,57 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "ASAHP On-Site Outreach Email",
+      "tags": "Clinical Management, Event Promo",
+      "type": "Event Comms",
+      "audience": "ASAHP 2026 conference registrants",
+      "sender": "Trajecsys",
+      "summary": "Planned on-site outreach for the 10/27–29 ASAHP conference. Chris Coia shared the registrant workbook on 10/26. Clean and import the send audience in HubSpot, verify eligibility and exclusions, then use the published ASAHP landing page. No email send is confirmed yet.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Customer Survey Invitation",
+      "tags": "Portico Brand, Customer Research",
+      "type": "Email",
+      "audience": "Portico customers",
+      "sender": "Portico",
+      "summary": "Customer survey invitation targeted for Tuesday 10/27. Mark Fuller is preparing the survey and audience. HubSpot email asset and final send list are pending; leave the card planned until send settings are verified.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Prospect Survey Invitation",
+      "tags": "Portico Brand, Prospect Research",
+      "type": "Email",
+      "audience": "Portico prospects",
+      "sender": "Portico",
+      "summary": "Prospect survey invitation targeted for Tuesday 10/27. Mark Fuller is preparing the survey and audience. HubSpot email asset and final send list are pending; leave the card planned until send settings are verified.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Payments Article for The Commons",
+      "tags": "Payments, The Commons, Content",
+      "type": "Article",
+      "audience": "The Commons readers",
+      "sender": "Danny Schwantes",
+      "summary": "Danny supplied a draft Payments article. Edit and prepare it for publication ahead of the 10/29 Portico POV newsletter. Wednesday is the working publication target; final title and article URL are pending.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-10-23T18:57:44-04:00",
+  "lastUpdated": "2026-10-26T11:53:12-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -6111,5 +6159,5 @@
       ]
     }
   ],
-  "updated": "2026-10-23"
+  "updated": "2026-10-26"
 }
