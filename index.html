@@ -473,11 +473,12 @@
       align-items: flex-start;
     }
     .binder-tab-wrap:first-child { z-index: 2; }
-    .binder-tab-wrap:last-child  { z-index: 1; margin-top: -12px; }
+    .binder-tab-wrap + .binder-tab-wrap { z-index: 1; margin-top: -12px; }
 
     .binder-tab {
       width: 30px;
       padding: 24px 0;
+      border: 0;
       border-radius: 0 10px 10px 0;
       cursor: pointer;
       display: flex;
@@ -488,15 +489,16 @@
       transition: background 0.18s, box-shadow 0.18s;
     }
     .binder-tab-wrap:first-child .binder-tab { background: var(--obsidian); }
-    .binder-tab-wrap:last-child  .binder-tab { background: var(--teal); }
+    #paidTabWrap .binder-tab { background: #197391; }
 
     .binder-tab-wrap:first-child:hover .binder-tab {
       background: var(--pinkish);
       box-shadow: 4px 0 18px rgba(198,87,154,0.28);
     }
-    .binder-tab-wrap:last-child:hover .binder-tab {
-      background: #008f76;
-      box-shadow: 4px 0 18px rgba(0,143,118,0.28);
+    #paidTabWrap:hover .binder-tab,
+    #paidTabWrap.is-open .binder-tab {
+      background: #155e77;
+      box-shadow: 4px 0 18px rgba(25,115,145,0.28);
     }
 
     .binder-tab-text {
@@ -534,10 +536,63 @@
       white-space: nowrap;
     }
 
-    .binder-tab-wrap:hover .binder-panel {
+    .binder-tab-wrap.is-open .binder-panel {
       opacity: 1;
       transform: translateX(0);
       pointer-events: auto;
+    }
+
+    .binder-tab:focus-visible { outline: 2px solid var(--obsidian); outline-offset: 3px; }
+    .paid-panel {
+      width: min(650px, calc(100vw - 90px));
+      max-height: min(78vh, 720px);
+      overflow-y: auto;
+      white-space: normal;
+      text-align: left;
+    }
+    .paid-panel h2 {
+      font-family: 'Hepta Slab', Georgia, serif;
+      font-size: 22px;
+      line-height: 1.25;
+      margin: 0 0 8px;
+      color: var(--obsidian);
+    }
+    .paid-panel p { margin: 0; line-height: 1.5; }
+    .paid-intro { color: var(--dim); font-size: 13px; margin-bottom: 16px !important; }
+    .paid-report-link {
+      display: block;
+      margin: 18px 0 8px;
+      padding: 13px 16px;
+      background: #197391;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+    .paid-report-link:hover, .paid-report-link:focus-visible { background: #155e77; color: #fff; }
+    .paid-access-note { color: var(--dim); font-size: 11px; margin-bottom: 18px !important; text-align: center; }
+    .paid-target-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 9px; margin: 18px 0; }
+    .paid-target {
+      background: var(--ivory);
+      border-radius: 6px;
+      padding: 12px;
+      min-width: 0;
+    }
+    .paid-target strong { display: block; font-size: 12px; color: var(--obsidian); margin-bottom: 3px; }
+    .paid-target span { display: block; font-size: 11px; color: var(--dim); line-height: 1.45; }
+    .paid-roles { font-size: 12px; color: var(--obsidian); margin: 0 0 18px !important; }
+    .paid-roles strong { color: #197391; }
+    .paid-account-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+    .paid-account-grid h3 { margin: 0 0 7px; font-size: 13px; color: var(--obsidian); }
+    .paid-account-grid ol { margin: 0; padding-left: 22px; }
+    .paid-account-grid li { padding: 5px 0; font-size: 11px; line-height: 1.3; color: var(--obsidian); }
+    .paid-account-grid li span { float: right; font-weight: 700; color: #197391; margin-left: 8px; }
+    .paid-snapshot-note { font-size: 11px; color: var(--dim); margin-top: 15px !important; }
+    @media (max-width: 680px) {
+      .paid-target-grid, .paid-account-grid { grid-template-columns: 1fr; }
+      .paid-panel { width: calc(100vw - 74px); max-height: 70vh; }
     }
 
     .binder-panel-title {
@@ -1294,13 +1349,64 @@
   <!-- Binder tabs: stacked on right edge -->
   <div class="binder-tabs-group">
     <div class="binder-tab-wrap" id="keyTabWrap">
-      <div class="binder-tab">
+      <button class="binder-tab" type="button" aria-expanded="false" aria-controls="keyPanel">
         <span class="binder-tab-text">Content Type Key</span>
-      </div>
-      <div class="binder-panel">
+      </button>
+      <div class="binder-panel" id="keyPanel" inert>
         <div class="binder-panel-title">Content type key</div>
         <div id="legendRows"></div>
       </div>
+    </div>
+    <div class="binder-tab-wrap" id="paidTabWrap">
+      <button class="binder-tab" type="button" aria-expanded="false" aria-controls="paidPanel">
+        <span class="binder-tab-text">Paid Campaigns</span>
+      </button>
+      <section class="binder-panel paid-panel" id="paidPanel" aria-label="Paid Campaigns overview" inert>
+        <div class="binder-panel-title">Paid LinkedIn campaigns</div>
+        <h2>Product awareness at target schools</h2>
+        <p class="paid-intro">These ads introduce Portico and Trajecsys to buyer roles at named target accounts. The current report tracks who was reached, how often, and which accounts engaged.</p>
+        <a class="paid-report-link" href="https://client-reports-production-0d09.up.railway.app/portico/linkedin-ads-report" target="_blank" rel="noopener">Open the live LinkedIn ads report →</a>
+        <p class="paid-access-note">Password required. Ask Marketing for access.</p>
+        <div class="paid-target-grid">
+          <div class="paid-target"><strong>Attendance</strong><span>301 target accounts receive Portico Attendance awareness ads.</span></div>
+          <div class="paid-target"><strong>Financial Aid</strong><span>301 target accounts receive Portico Financial Aid awareness ads.</span></div>
+          <div class="paid-target"><strong>Clinical Management</strong><span>209 target accounts receive Trajecsys awareness ads.</span></div>
+        </div>
+        <p class="paid-roles"><strong>Buyer targeting</strong> Manager level and above in education and finance roles, at target accounts in the United States. The report does not name exact job titles.</p>
+        <div class="paid-account-grid">
+          <section aria-label="Portico engaged accounts">
+            <h3>Portico · most paid engagements</h3>
+            <ol>
+              <li>University of California, Berkeley <span>40</span></li>
+              <li>Emory University <span>40</span></li>
+              <li>Embry-Riddle Aeronautical University <span>36</span></li>
+              <li>Grand Canyon University <span>29</span></li>
+              <li>Walden University <span>19</span></li>
+              <li>Brigham Young University <span>16</span></li>
+              <li>Colby College <span>14</span></li>
+              <li>Columbia Southern University <span>14</span></li>
+              <li>AMU &amp; APU part of American Public University System, Inc. <span>12</span></li>
+              <li>Full Sail University <span>10</span></li>
+            </ol>
+          </section>
+          <section aria-label="Trajecsys engaged accounts">
+            <h3>Trajecsys · most paid engagements</h3>
+            <ol>
+              <li>Florida State University <span>129</span></li>
+              <li>Dallas College <span>55</span></li>
+              <li>College of DuPage <span>41</span></li>
+              <li>The University of New Mexico <span>41</span></li>
+              <li>Saint Joseph's University <span>38</span></li>
+              <li>New Mexico State University <span>37</span></li>
+              <li>Citrus College <span>34</span></li>
+              <li>Community College of Baltimore County <span>29</span></li>
+              <li>Rio Hondo College <span>26</span></li>
+              <li>Austin Community College <span>23</span></li>
+            </ol>
+          </section>
+        </div>
+        <p class="paid-snapshot-note">Paid engagements in the 30-day report through 10/25/26. Ranked among the 60 accounts shown for each brand. Open the report for the latest figures; Portico account activity is combined across Attendance and Financial Aid.</p>
+      </section>
     </div>
   </div>
 </div>
@@ -2412,12 +2518,46 @@
   });
   searchClear.addEventListener('click', () => { clearSearch(); searchInput.focus(); });
 
-  /* ─── Binder tab z-index on hover ───────────────────── */
-  document.querySelectorAll('.binder-tab-wrap').forEach(wrap => {
-    wrap.addEventListener('mouseenter', () => {
-      document.querySelectorAll('.binder-tab-wrap').forEach(w => w.style.zIndex = '1');
-      wrap.style.zIndex = '3';
+  /* ─── Binder tabs: the last opened panel sits on top ── */
+  const binderWraps = [...document.querySelectorAll('.binder-tab-wrap')];
+  function positionPaidPanel() {
+    const wrap = document.getElementById('paidTabWrap');
+    const panel = document.getElementById('paidPanel');
+    const wrapTop = wrap.getBoundingClientRect().top;
+    const panelHeight = panel.offsetHeight;
+    const availableTop = Math.max(16, window.innerHeight - panelHeight - 16);
+    panel.style.top = (Math.min(Math.max(16, wrapTop), availableTop) - wrapTop) + 'px';
+  }
+  function closeBinderTabs() {
+    binderWraps.forEach(wrap => {
+      wrap.classList.remove('is-open');
+      wrap.querySelector('.binder-tab').setAttribute('aria-expanded', 'false');
+      wrap.querySelector('.binder-panel').inert = true;
+      wrap.style.zIndex = '1';
     });
+  }
+  binderWraps.forEach(wrap => {
+    wrap.querySelector('.binder-tab').addEventListener('click', e => {
+      e.stopPropagation();
+      const opening = !wrap.classList.contains('is-open');
+      closeBinderTabs();
+      if (opening) {
+        wrap.classList.add('is-open');
+        wrap.querySelector('.binder-tab').setAttribute('aria-expanded', 'true');
+        wrap.querySelector('.binder-panel').inert = false;
+        wrap.style.zIndex = '3';
+        if (wrap.id === 'paidTabWrap') positionPaidPanel();
+      }
+    });
+  });
+  document.addEventListener('click', e => {
+    if (!e.target.closest('.binder-tabs-group')) closeBinderTabs();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closeBinderTabs();
+  });
+  window.addEventListener('resize', () => {
+    if (document.getElementById('paidTabWrap').classList.contains('is-open')) positionPaidPanel();
   });
 
 
