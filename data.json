@@ -632,7 +632,7 @@
       "title": "ACEN 2026 | Indianapolis, IN",
       "type": "Event",
       "audience": "Nursing educators and accreditation teams",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "ACEN brings nursing educators and accreditation teams together.",
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQCOwWZ57RExRpfoOdwRK5cDAZlryGrBp-J5UEjlmdE9CCU?e=SUvKWS",
@@ -1729,17 +1729,6 @@
     },
     {
       "date": "2026-07-15",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Preliminary agenda drafted",
-      "type": "Milestone",
-      "audience": "Momentum planning team",
-      "sender": "Content & Agenda",
-      "summary": "Draft the preliminary agenda so customers can start building the case to attend.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2026-07-15",
       "title": "OBBBA Q&A Day-of Reminder (July 15)",
       "tags": "Financial Aid, OBBBA, Webinar",
       "type": "Email",
@@ -2023,7 +2012,7 @@
       "title": "AVTE Pre-Event Social Post",
       "type": "Social",
       "audience": "Vet Tech Educators",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Published AVTE pre-event post on the Trajecsys LinkedIn page.",
       "audienceLink": "",
       "contentLink": "https://www.linkedin.com/posts/heading-to-avte-stop-by-the-trajecsys-booth-share-7487920079452508160-O716/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3gYN4BB0HNl4B1Zh2Nxe5PT8epmPFG1UQ",
@@ -2119,24 +2108,13 @@
       "title": "AVTE | Portland, OR",
       "type": "Event",
       "audience": "Veterinary technology educators",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "AVTE brings veterinary technology educators together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-08-02",
       "attendees": "Shawna",
       "positioning": "For veterinary technology programs, Trajecsys keeps clinical hours, skills, evaluations, and site records together."
-    },
-    {
-      "date": "2026-07-31",
-      "tags": "Clinical Management, Event Promo",
-      "title": "AVTE On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Vet Tech Educators",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "On-site LinkedIn post for AVTE. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-07-31",
@@ -2192,28 +2170,6 @@
         "clickRate": 1.1796427367711493,
         "updatedAt": "2026-08-26T18:07:15Z"
       }
-    },
-    {
-      "date": "2026-08-01",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Early bird registration open",
-      "type": "Registration",
-      "audience": "Portico customers and VIP prospects",
-      "sender": "Registration Manager",
-      "summary": "Open early bird registration with promotional pricing and group-rate options.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2026-08-01",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Sponsorships open",
-      "type": "Sponsorship",
-      "audience": "Potential sponsors",
-      "sender": "Sponsorship Manager",
-      "summary": "Open sponsorship outreach and begin sponsor commitment tracking.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
     },
     {
       "date": "2026-08-05",
@@ -2289,17 +2245,6 @@
     },
     {
       "date": "2026-08-06",
-      "tags": "Portico Suite, Event Promo",
-      "title": "AFIT On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Community Colleges",
-      "sender": "Portico",
-      "summary": "On-site LinkedIn post for AFIT. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-08-06",
       "tags": "Financial Aid, Compliance",
       "title": "FVT/GE Reporting Request Final Reminder",
       "type": "Email",
@@ -2345,17 +2290,6 @@
       "endDate": "2026-08-13",
       "attendees": "Daniel/Dylan/Cayla\nDale/Jackson\nNatalie\nAlison\nKim Verga",
       "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
-    },
-    {
-      "date": "2026-08-10",
-      "tags": "Portico Suite, Event Promo",
-      "title": "CSPEN On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Event audience",
-      "sender": "Portico",
-      "summary": "On-site LinkedIn post for CSPEN. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-08-10",
@@ -2936,17 +2870,6 @@
       }
     },
     {
-      "date": "2026-08-15",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Call for proposals open",
-      "type": "Call for Proposals",
-      "audience": "Customers and success story advocates",
-      "sender": "Content & Agenda",
-      "summary": "Invite session proposals and customer success story submissions.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
       "date": "2026-08-17",
       "tags": "",
       "title": "Jess OOO",
@@ -2957,17 +2880,6 @@
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-08-21"
-    },
-    {
-      "date": "2026-08-17",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Margaritaville deposit #2 due",
-      "type": "Deadline",
-      "audience": "Momentum planning team",
-      "sender": "Chris / G2",
-      "summary": "Second Margaritaville Hollywood Beach deposit due.",
-      "audienceLink": "",
-      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
     },
     {
       "date": "2026-08-17",
@@ -3681,7 +3593,7 @@
     },
     {
       "audience": "Sonography",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/sdms",
       "contentLabel": "View Landing Page",
@@ -3723,7 +3635,7 @@
       "title": "SDMS Pre-Event Email",
       "type": "Event Comms",
       "audience": "Sonography",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Sent from HubSpot on 9/18/26 to the [Role] Sonography list. Subject: Heading to SDMS?",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11238/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/222204744356?portalId=7762472&preview_key=WdxInLXe&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
@@ -3762,7 +3674,7 @@
       "title": "SDMS Pre-Event Social Post",
       "type": "Social",
       "audience": "Sonography",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Published on the Portico and Trajecsys LinkedIn pages on 9/21/26.",
       "audienceLink": "",
       "contentLink": "",
@@ -3780,7 +3692,7 @@
     },
     {
       "audience": "Sonography",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11238/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/222637210256?portalId=7762472&preview_key=aGvAVqhL&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-09-23",
@@ -3808,24 +3720,13 @@
       "title": "SDMS | Atlanta, GA",
       "type": "Event",
       "audience": "Sonography educators and program leaders",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "SDMS brings sonography educators and professionals together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-09-26",
       "attendees": "Shawna, Natalie",
       "positioning": "For sonography programs, Trajecsys keeps clinical hours, competencies, evaluations, and site records together."
-    },
-    {
-      "date": "2026-09-24",
-      "tags": "Clinical Management, Event Promo",
-      "title": "SDMS On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Sonography",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "On-site LinkedIn post for SDMS. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-09-24",
@@ -3890,22 +3791,11 @@
     },
     {
       "date": "2026-09-28",
-      "tags": "Portico Suite, Event Promo",
-      "title": "CCST Annual On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Event audience",
-      "sender": "Portico",
-      "summary": "On-site LinkedIn post for CCST Annual. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-09-28",
       "tags": "Clinical Management, Event Follow-Up",
       "title": "SDMS Post-Event Email",
       "type": "Event Comms",
       "audience": "SDMS attendees and event-sourced contacts",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Sent 9/28/26, confirmed by Jessica. The email directs recipients to schedule a Trajecsys walkthrough. HubSpot preview and audience-list links still need to be captured.",
       "audienceLink": "",
       "contentLink": "",
@@ -4016,7 +3906,7 @@
       "title": "AACN Landing Page",
       "type": "Landing Page",
       "audience": "Nursing colleges",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Published page for Nursing colleges.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/aacn",
@@ -4053,7 +3943,6 @@
       "type": "Social",
       "audience": "California enterprise and postsecondary schools",
       "sender": "Portico",
-      "summary": "Published 10/2/26, confirmed by Jessica. Add the live LinkedIn post link when available.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
@@ -4108,7 +3997,7 @@
     },
     {
       "audience": "Health professions education",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/asahp",
       "date": "2026-10-23",
@@ -4178,17 +4067,6 @@
       "endDate": "2026-10-09",
       "attendees": "Jackson, Tina",
       "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
-    },
-    {
-      "date": "2026-10-07",
-      "tags": "Portico Suite, Event Promo",
-      "title": "CAPPS Annual On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "California - Enterprise",
-      "sender": "Portico",
-      "summary": "On-site LinkedIn post for CAPPS Annual. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "audience": "Career education schools in the United States",
@@ -4402,7 +4280,6 @@
       "type": "Event Comms",
       "audience": "CAPPS Annual attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Sent from HubSpot to CAPPS 2026 Attendees.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224012533288?portalId=7762472&preview_key=QSmmUyih&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -4418,7 +4295,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Drive post-event demos with attendees and event-sourced contacts.",
-      "performance": "As of 10/27/26: 73 delivered; 11 opens (15.1%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 73 delivered; 11 opens (15.1%); 0 clicks (0.0%)."
     },
     {
       "date": "2026-10-13",
@@ -4441,7 +4318,6 @@
       "type": "Social",
       "audience": "Event audience",
       "sender": "Trajecsys",
-      "summary": "Jessica confirmed this was posted on the Trajecsys LinkedIn account on 10/14/26. Direct post URL is pending verification.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
@@ -4453,7 +4329,6 @@
       "type": "Event Comms",
       "audience": "CACN/COADN attendees and event-sourced contacts",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot to CACN/COADN 2026 Registrants.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11298/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224313286809?portalId=7762472&preview_key=bMOYPXCJ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -4469,29 +4344,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Drive post-event demos with attendees and event-sourced contacts.",
-      "performance": "As of 10/27/26: 174 delivered; 36 opens (20.7%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified."
-    },
-    {
-      "date": "2026-10-21",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Keynote solidified",
-      "type": "Milestone",
-      "audience": "Momentum planning team",
-      "sender": "Executive Sponsor",
-      "summary": "Confirm keynote direction and speaker for promotion.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2026-10-21",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Portico team roster set",
-      "type": "Milestone",
-      "audience": "Portico team",
-      "sender": "Portico Team Engagement",
-      "summary": "Set the Portico team roster, roles, responsibilities, and activities.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
+      "performance": "As of 10/27/26: 174 delivered; 36 opens (20.7%); 0 clicks (0.0%)."
     },
     {
       "date": "2026-10-16",
@@ -4500,7 +4353,6 @@
       "type": "Event Comms",
       "audience": "TAVNE attendees and event-sourced contacts",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot to Approved VN Schools Texas (Texas Nursing) - October 2026, TAVNE 2026 Giveaway Leads (All).",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224640334918?portalId=7762472&preview_key=bZWNCcTG&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -4520,7 +4372,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Drive post-event demos with attendees and event-sourced contacts.",
-      "performance": "As of 10/27/26: 75 delivered; 19 opens (25.3%); 1 clicks (1.3%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 75 delivered; 19 opens (25.3%); 1 clicks (1.3%)."
     },
     {
       "audience": "Financial aid professionals",
@@ -4543,7 +4395,6 @@
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Sent from HubSpot to WFAA 2026 Registrants.",
       "status": "Sent",
       "contentLabel": "View Email",
       "audienceLinks": [
@@ -4553,7 +4404,7 @@
         }
       ],
       "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
-      "performance": "As of 10/27/26: 105 delivered; 15 opens (14.3%); 1 clicks (1.0%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 105 delivered; 15 opens (14.3%); 1 clicks (1.0%)."
     },
     {
       "date": "2026-10-28",
@@ -4577,7 +4428,6 @@
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Sent from HubSpot to ELEVATE Miami 2026 Registrants.",
       "status": "Sent",
       "audienceLinks": [
         {
@@ -4587,7 +4437,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
-      "performance": "As of 10/27/26: 47 delivered; 6 opens (12.8%); 1 clicks (2.1%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 47 delivered; 6 opens (12.8%); 1 clicks (2.1%)."
     },
     {
       "date": "2026-10-21",
@@ -4596,7 +4446,6 @@
       "type": "Social",
       "audience": "Food and nutrition educators",
       "sender": "Trajecsys",
-      "summary": "Published to Trajecsys LinkedIn on 10/21/26, confirmed by Jessica. Direct post URL pending.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
@@ -4617,14 +4466,13 @@
     },
     {
       "audience": "Nursing colleges",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11333/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225525869134?portalId=7762472&preview_key=fmYQGmqX&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
       "title": "AACN On-Site Outreach Email",
       "type": "Event Comms",
-      "summary": "Sent from HubSpot to AACN 2026 Registrants (Clean).",
       "status": "Sent",
       "contentLabel": "View Email",
       "audienceLinks": [
@@ -4638,7 +4486,7 @@
         }
       ],
       "goal": "Drive on-site demos and show attendees how the product fits their programs.",
-      "performance": "As of 10/27/26: 185 delivered; 29 opens (15.7%); 2 clicks (1.1%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 185 delivered; 29 opens (15.7%); 2 clicks (1.1%)."
     },
     {
       "date": "2026-10-22",
@@ -4646,7 +4494,7 @@
       "title": "OADN Landing Page",
       "type": "Landing Page",
       "audience": "Nursing education leaders",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Published page for Nursing education leaders.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/oadn",
@@ -4673,7 +4521,7 @@
       "title": "AARC Congress Landing Page",
       "type": "Landing Page",
       "audience": "Respiratory therapists and educators",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Carried into next week from 10/23. The existing AARC giveaway page at /ast2026 is not a verified Congress landing page; build or confirm a matching event page.",
       "audienceLink": "",
       "contentLink": "",
@@ -4686,8 +4534,7 @@
       "title": "ASAHP Pre-Event Social Post",
       "type": "Social",
       "audience": "Health professions education",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "Published to the Trajecsys LinkedIn page on 10/23/26, confirmed by Jessica. Direct post URL pending.",
+      "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
@@ -4701,7 +4548,6 @@
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Pre-Event Social Post",
       "type": "Social",
-      "summary": "Published to the Portico LinkedIn page on 10/23/26, confirmed by Jessica. Direct post URL pending.",
       "status": "Published"
     },
     {
@@ -4776,17 +4622,6 @@
       "positioning": "For nursing programs, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
     },
     {
-      "date": "2026-10-26",
-      "tags": "Clinical Management, Event Promo",
-      "title": "AACN On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Nursing Colleges",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "Separate AACN on-site post planned for Monday 10/26 if current event photo or context is available. The pre-event post was published Thursday 10/22. Add the live URL after publication.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "audience": "Career education schools in the United States",
       "sender": "Portico",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters",
@@ -4795,7 +4630,6 @@
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Sent from HubSpot to ELEVATE Miami 2026 Registrants.",
       "status": "Sent",
       "contentLabel": "View Email",
       "audienceLinks": [
@@ -4805,18 +4639,7 @@
         }
       ],
       "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
-      "performance": "As of 10/27/26: 61 delivered; 10 opens (16.4%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified."
-    },
-    {
-      "date": "2026-10-26",
-      "tags": "Clinical Management, Event Promo",
-      "title": "FNCE On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Food & Nutrition Conference Expo",
-      "sender": "Trajecsys",
-      "summary": "On-site LinkedIn post for FNCE. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
-      "audienceLink": "",
-      "contentLink": ""
+      "performance": "As of 10/27/26: 61 delivered; 10 opens (16.4%); 0 clicks (0.0%)."
     },
     {
       "date": "2026-10-27",
@@ -4838,10 +4661,10 @@
       "title": "ASAHP On-Site LinkedIn Post",
       "type": "Social",
       "audience": "Health professions education",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "On-site LinkedIn post for ASAHP. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
+      "sender": "Trajecsys",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-10-27",
@@ -4873,7 +4696,7 @@
       "title": "AACN Post-Event Email",
       "type": "Event Comms",
       "audience": "AACN attendees and event-sourced contacts",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Planned for AACN attendees and event-sourced contacts. HubSpot send and final audience are unverified.",
       "audienceLink": "",
       "contentLink": "",
@@ -4940,9 +4763,9 @@
       "type": "Social",
       "audience": "Nursing",
       "sender": "Trajecsys",
-      "summary": "On-site LinkedIn post for NELNE Fall Conference. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-10-31",
@@ -5034,7 +4857,7 @@
       "title": "OADN Pre-Event Email",
       "type": "Event Comms",
       "audience": "Nursing education leaders",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "One-week pre-event email planned for OADN. Confirm the attendee audience, meeting route, and landing page before scheduling.",
       "audienceLink": "",
       "contentLink": ""
@@ -5045,7 +4868,7 @@
       "title": "AARC Congress Pre-Event Email",
       "type": "Event Comms",
       "audience": "Respiratory therapists and educators",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "One-week pre-event email planned for AARC Congress. Confirm the attendee audience, meeting route, and landing page before scheduling.",
       "audienceLink": "",
       "contentLink": ""
@@ -5078,7 +4901,7 @@
       "title": "OADN Pre-Event Social Post",
       "type": "Social",
       "audience": "Nursing education leaders",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Pre-event LinkedIn post for OADN. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
       "audienceLink": "",
       "contentLink": ""
@@ -5104,13 +4927,13 @@
       "type": "Social",
       "audience": "Event audience",
       "sender": "Portico",
-      "summary": "On-site LinkedIn post for COE. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "audience": "Nursing education leaders",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
       "date": "2026-11-10",
@@ -5125,7 +4948,7 @@
       "title": "AARC Congress Pre-Event Social Post",
       "type": "Social",
       "audience": "Respiratory therapists and educators",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Pre-event LinkedIn post for AARC Congress. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
       "audienceLink": "",
       "contentLink": ""
@@ -5155,7 +4978,7 @@
     },
     {
       "audience": "Respiratory therapists and educators",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
       "date": "2026-11-12",
@@ -5197,10 +5020,10 @@
       "title": "OADN On-Site LinkedIn Post",
       "type": "Social",
       "audience": "Nursing",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "On-site LinkedIn post for OADN. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
+      "sender": "Trajecsys",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "audience": "Career schools in New York",
@@ -5230,7 +5053,7 @@
       "title": "AARC Congress | New Orleans, LA",
       "type": "Event",
       "audience": "Respiratory therapists and educators",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "AARC Congress brings respiratory care professionals and educators together.",
       "audienceLink": "",
       "contentLink": "",
@@ -5239,26 +5062,15 @@
       "positioning": "For respiratory care programs, Trajecsys keeps clinical hours, competencies, evaluations, and site records together."
     },
     {
-      "date": "2026-11-15",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Call for proposals closed",
-      "type": "Call for Proposals",
-      "audience": "Customers and success story advocates",
-      "sender": "Content & Agenda",
-      "summary": "Close customer proposal submissions and begin session selection.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
       "date": "2026-11-16",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress On-Site LinkedIn Post",
       "type": "Social",
       "audience": "Respiratory Therapists",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "On-site LinkedIn post for AARC Congress. Get photo/context from the on-the-ground team and publish while Portico/Trajecsys is there.",
+      "sender": "Trajecsys",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "audience": "Career schools in New York",
@@ -5273,22 +5085,11 @@
     },
     {
       "date": "2026-11-16",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Margaritaville deposit #3 due",
-      "type": "Deadline",
-      "audience": "Momentum planning team",
-      "sender": "Chris / G2",
-      "summary": "Third Margaritaville Hollywood Beach deposit due.",
-      "audienceLink": "",
-      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
-    },
-    {
-      "date": "2026-11-16",
       "tags": "Clinical Management, Event Follow-Up",
       "title": "OADN Post-Event Email",
       "type": "Event Comms",
       "audience": "OADN attendees and event-sourced contacts",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Planned post-event email for OADN. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
       "audienceLink": "",
       "contentLink": ""
@@ -5299,7 +5100,7 @@
       "title": "AARC Congress Post-Event Email",
       "type": "Event Comms",
       "audience": "AARC Congress attendees and event-sourced contacts",
-      "sender": "Portico, formerly Trajecsys",
+      "sender": "Trajecsys",
       "summary": "Planned post-event email for AARC Congress. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
       "audienceLink": "",
       "contentLink": ""
@@ -5365,17 +5166,6 @@
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/:i:/s/Marketing/IQCFch2_SVAKSJImRXzjjFGQAc6xJVmyYfgM6t9AjayVKBI?e=8paWMA",
       "contentLabel": "View Creative"
-    },
-    {
-      "date": "2026-12-01",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Regular registration open",
-      "type": "Registration",
-      "audience": "Portico customers and VIP prospects",
-      "sender": "Registration Manager",
-      "summary": "Open regular registration after the early bird period.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
     },
     {
       "date": "2026-12-02",
@@ -5467,133 +5257,8 @@
       "contentLabel": "View Creative"
     },
     {
-      "date": "2026-12-31",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Sponsorships close",
-      "type": "Sponsorship",
-      "audience": "Potential sponsors",
-      "sender": "Sponsorship Manager",
-      "summary": "Close sponsorship commitments and finalize sponsor deliverables.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2027-01-15",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Full schedule announced",
-      "type": "Milestone",
-      "audience": "Portico customers and VIP prospects",
-      "sender": "Marketing",
-      "summary": "Announce the full schedule and lock in the agenda promotional story.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2027-01-15",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Pathfinder awards open",
-      "type": "Awards",
-      "audience": "Portico customers",
-      "sender": "Marketing",
-      "summary": "Open Pathfinder award nominations.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2027-03-31",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Pathfinder awards close",
-      "type": "Awards",
-      "audience": "Portico customers",
-      "sender": "Marketing",
-      "summary": "Close Pathfinder award nominations.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2027-04-15",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Pathfinder awards selected",
-      "type": "Awards",
-      "audience": "Momentum planning team",
-      "sender": "Executive Sponsor",
-      "summary": "Select Pathfinder award winners for recognition at Momentum.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2027-04-19",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Hotel room block ends - staff",
-      "type": "Deadline",
-      "audience": "Portico team",
-      "sender": "Operations & Logistics",
-      "summary": "Staff hotel room block deadline.",
-      "audienceLink": "",
-      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
-    },
-    {
-      "date": "2027-04-26",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Hotel room block ends - all guests",
-      "type": "Deadline",
-      "audience": "Registered attendees",
-      "sender": "Operations & Logistics",
-      "summary": "Guest hotel room block deadline.",
-      "audienceLink": "",
-      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
-    },
-    {
-      "date": "2027-05-05",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Know Before You Go webinar",
-      "type": "Webinar",
-      "audience": "Registered attendees",
-      "sender": "Portico",
-      "summary": "Pre-event webinar to help attendees prepare for Momentum 2027.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
-      "date": "2027-05-10",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Margaritaville final deposit due",
-      "type": "Deadline",
-      "audience": "Momentum planning team",
-      "sender": "Chris / G2",
-      "summary": "Final Margaritaville Hollywood Beach deposit due.",
-      "audienceLink": "",
-      "contentLink": "https://book.passkey.com/event/51267234/owner/14293747/home?utm_campaign=300604619"
-    },
-    {
-      "date": "2027-05-17",
-      "tags": "Momentum",
-      "title": "Momentum 2027 | Hollywood, FL",
-      "type": "Event",
-      "audience": "Portico customers and VIP prospects",
-      "sender": "Portico",
-      "summary": "Momentum brings Portico customers and invited prospects together to share practical ideas.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1",
-      "endDate": "2027-05-19",
-      "attendees": "Portico customers, VIP prospects, and Portico team",
-      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
-    },
-    {
-      "date": "2027-05-20",
-      "tags": "Momentum",
-      "title": "Momentum 2027: Post-event survey",
-      "type": "Survey",
-      "audience": "Momentum attendees",
-      "sender": "Marketing",
-      "summary": "Send post-event survey to capture attendee feedback and follow-up signals.",
-      "audienceLink": "",
-      "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1"
-    },
-    {
       "date": "2026-10-16",
       "title": "Trajecsys for Nutrition and Dietetics One-Week Invite",
-      "summary": "Sent from HubSpot to [ROLE] Nutrition & Dietetics.",
       "audience": "Nutrition and Dietetics job titles",
       "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
@@ -5617,12 +5282,11 @@
       ],
       "contentLabel": "View Email",
       "goal": "Drive registrations for the Trajecsys nutrition and dietetics demo and show its value for supervised practice records.",
-      "performance": "As of 10/27/26: 306 delivered; 35 opens (11.4%); 9 clicks (2.9%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 306 delivered; 35 opens (11.4%); 9 clicks (2.9%)."
     },
     {
       "date": "2026-10-21",
       "title": "Trajecsys for Nutrition and Dietetics Final Reminder",
-      "summary": "Sent from HubSpot to [ROLE] Nutrition & Dietetics.",
       "audience": "Nutrition and Dietetics job titles",
       "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
@@ -5654,7 +5318,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Drive registrations for the Trajecsys nutrition and dietetics demo and show its value for supervised practice records.",
-      "performance": "As of 10/27/26: 228 delivered; 31 opens (13.6%); 1 clicks (0.4%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 228 delivered; 31 opens (13.6%); 1 clicks (0.4%)."
     },
     {
       "date": "2026-10-01",
@@ -5699,7 +5363,6 @@
       "type": "Social",
       "audience": "Career education professionals",
       "sender": "Portico",
-      "summary": "Payments explainer video published 10/1/26, confirmed by Jessica. Add the live-post link when available.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
@@ -5845,7 +5508,6 @@
       "type": "Event Comms",
       "audience": "Approved VN Schools Texas (Texas Nursing)",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot to Approved VN Schools Texas (Texas Nursing) - October 2026.",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224263571796?portalId=7762472&preview_key=qFKrvNcL&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters",
@@ -5861,7 +5523,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
-      "performance": "As of 10/27/26: 41 delivered; 7 opens (17.1%); 1 clicks (2.4%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 41 delivered; 7 opens (17.1%); 1 clicks (2.4%)."
     },
     {
       "date": "2026-10-14",
@@ -5870,7 +5532,6 @@
       "type": "Email",
       "audience": "Portico Roster 2026 and Legacy CK App Contacts",
       "sender": "Portico",
-      "summary": "Sent from HubSpot to Portico Roster 2026, Legacy CK App Contacts.",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224293236545?portalId=7762472&preview_key=xkGlkecA&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
@@ -5890,7 +5551,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Help current users understand new capabilities and encourage adoption of relevant product updates.",
-      "performance": "As of 10/27/26: 2,447 delivered; 377 opens (15.4%); 27 clicks (1.1%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 2,447 delivered; 377 opens (15.4%); 27 clicks (1.1%)."
     },
     {
       "date": "2026-10-15",
@@ -5899,7 +5560,6 @@
       "type": "Email",
       "audience": "CRM Users - August 2026 and Portico Roster 2026",
       "sender": "Portico",
-      "summary": "Sent from HubSpot to CRM Users - August 2026, Portico Roster 2026.",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224489733970?portalId=7762472&preview_key=PfIjrySB&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11123/filters",
@@ -5919,7 +5579,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Help current users understand new capabilities and encourage adoption of relevant product updates.",
-      "performance": "As of 10/27/26: 2,633 delivered; 441 opens (16.7%); 36 clicks (1.4%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 2,633 delivered; 441 opens (16.7%); 36 clicks (1.4%)."
     },
     {
       "date": "2026-10-15",
@@ -5928,7 +5588,6 @@
       "type": "Email",
       "audience": "SIS Users - August 2026 and Portico Roster 2026",
       "sender": "Portico",
-      "summary": "Sent from HubSpot to SIS Users - August 2026, Portico Roster 2026.",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224498401814?portalId=7762472&preview_key=TFGpqpaP&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11124/filters",
@@ -5948,7 +5607,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Help current users understand new capabilities and encourage adoption of relevant product updates.",
-      "performance": "As of 10/27/26: 1,911 delivered; 405 opens (21.2%); 24 clicks (1.3%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 1,911 delivered; 405 opens (21.2%); 24 clicks (1.3%)."
     },
     {
       "date": "2026-10-19",
@@ -5969,7 +5628,6 @@
       "type": "Email",
       "audience": "Customers and success story advocates",
       "sender": "Portico",
-      "summary": "Sent from HubSpot to Momentum 2026 Invite, Current Customer Contacts (Lifecycle Stage).",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9897/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224879954594?portalId=7762472&preview_key=pxnhzlke&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -5993,7 +5651,7 @@
         }
       ],
       "goal": "Invite customer stories and proposals for Momentum 2027.",
-      "performance": "As of 10/27/26: 12,199 delivered; 889 opens (7.3%); 39 clicks (0.3%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 12,199 delivered; 889 opens (7.3%); 39 clicks (0.3%)."
     },
     {
       "date": "2026-10-22",
@@ -6041,7 +5699,6 @@
       "tags": "Portico Suite, Event Promo",
       "audience": "Beauty, barber, and wellness education leaders",
       "sender": "Portico",
-      "summary": "Sent from HubSpot to AACS 2026 Registrants.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11326/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225049834073?portalId=7762472&preview_key=QWPAGlWK&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -6053,7 +5710,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
-      "performance": "As of 10/27/26: 164 delivered; 41 opens (25.0%); 2 clicks (1.2%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 164 delivered; 41 opens (25.0%); 2 clicks (1.2%)."
     },
     {
       "date": "2026-10-20",
@@ -6062,7 +5719,6 @@
       "tags": "Portico Suite, Event Promo",
       "audience": "Beauty, barber, and wellness education leaders",
       "sender": "Portico",
-      "summary": "Jessica confirmed the AACS Portico LinkedIn post published on 10/20/26. Direct post URL pending.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
@@ -6074,7 +5730,6 @@
       "tags": "Clinical Management, Event Promo",
       "audience": "Keiser University programs",
       "sender": "Trajecsys",
-      "summary": "Jessica confirmed the drafted Keiser post was published on the Trajecsys LinkedIn account on 10/20/26. Direct post URL pending.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
@@ -6086,7 +5741,6 @@
       "tags": "Clinical Management, Webinar Promo",
       "audience": "Nutrition and Dietetics job titles",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot to [ROLE] Nutrition & Dietetics.",
       "status": "Sent",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225288460949?portalId=7762472&preview_key=IVYlpTQE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters",
@@ -6114,7 +5768,7 @@
       ],
       "contentLabel": "View Email",
       "goal": "Drive registrations for the Trajecsys nutrition and dietetics demo and show its value for supervised practice records.",
-      "performance": "As of 10/27/26: 225 delivered; 18 opens (8.0%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 225 delivered; 18 opens (8.0%); 0 clicks (0.0%)."
     },
     {
       "date": "2026-10-21",
@@ -6146,8 +5800,7 @@
       "title": "AACN Pre-Event Social Post",
       "type": "Social",
       "audience": "Nursing colleges",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "Published to the Trajecsys LinkedIn page on 10/22/26, confirmed by Jessica on 10/23. Direct post URL pending.",
+      "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
       "status": "Published"
@@ -6159,7 +5812,6 @@
       "type": "Event Comms",
       "audience": "ASAHP 2026 conference registrants",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot to ASAHP 2026 Registrants.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11359/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225545444758?portalId=7762472&preview_key=XzEqKGWC&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -6175,7 +5827,7 @@
         }
       ],
       "goal": "Drive on-site demos and show attendees how the product fits their programs.",
-      "performance": "As of 10/27/26: 487 delivered; 103 opens (21.1%); 3 clicks (0.6%). HubSpot email engagement; demo conversions not verified."
+      "performance": "As of 10/27/26: 487 delivered; 103 opens (21.1%); 3 clicks (0.6%)."
     },
     {
       "date": "2026-10-27",
@@ -6227,8 +5879,7 @@
       "contentLabel": "View Email",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters",
       "goal": "Help current Trajecsys users register for live help and get more value from the product.",
-      "summary": "Sent from HubSpot to Trajecsys Users - September 2026.",
-      "performance": "As of 10/27/26: 1,396 delivered; 195 opens (14.0%); 31 clicks (2.2%). HubSpot email engagement; demo conversions not verified.",
+      "performance": "As of 10/27/26: 1,396 delivered; 195 opens (14.0%); 31 clicks (2.2%).",
       "audienceLinks": [
         {
           "label": "Included: Trajecsys Users - September 2026",
@@ -6248,8 +5899,7 @@
       "contentLabel": "View Email",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11170/filters",
       "goal": "Build awareness of Trajecsys at Ivy Tech and prompt a relevant clinical-recordkeeping conversation.",
-      "summary": "Sent from HubSpot to Ivy Tech Awareness Campaign - Q326.",
-      "performance": "As of 10/27/26: 110 delivered; 3 opens (2.7%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified.",
+      "performance": "As of 10/27/26: 110 delivered; 3 opens (2.7%); 0 clicks (0.0%).",
       "audienceLinks": [
         {
           "label": "Included: Ivy Tech Awareness Campaign - Q326",
@@ -6260,9 +5910,20 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
         }
       ]
+    },
+    {
+      "date": "2026-10-26",
+      "title": "AACN On-Site LinkedIn Post",
+      "type": "Social",
+      "tags": "Clinical Management, Event Promo",
+      "audience": "Nursing colleges",
+      "sender": "Trajecsys",
+      "status": "Published",
+      "contentLink": "",
+      "audienceLink": ""
     }
   ],
-  "lastUpdated": "2026-10-27T11:01:18-04:00",
+  "lastUpdated": "2026-10-27T11:23:04-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
