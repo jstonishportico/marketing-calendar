@@ -325,15 +325,16 @@
       "tags": "Financial Aid",
       "title": "FASFAA 2026 | Daytona Beach, FL",
       "type": "Event",
-      "audience": "Florida Postsecondary Schools",
+      "audience": "Financial aid professionals at Florida postsecondary schools",
       "sender": "",
-      "summary": "",
+      "summary": "FASFAA brings Florida financial aid professionals together.",
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQDJy9q5tvFDTYAecn8zVLvtASMPasFobtFVhLA6Tk9ZEDk?e=H",
       "endDate": "2026-05-29",
       "attendees": "Karen, TBD (plus Rene Lezcano: Hollywood/Cortiva)",
       "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10690/filters",
-      "attendingAccountsLink": "https://app.hubspot.com/contacts/7762472/objectLists/10731/filters"
+      "attendingAccountsLink": "https://app.hubspot.com/contacts/7762472/objectLists/10731/filters",
+      "positioning": "Portico’s Financial Aid Software and Managed Financial Aid Services help teams simplify processing, stay audit-ready, and reduce the manual work behind Title IV and institutional compliance."
     },
     {
       "date": "2026-05-26",
@@ -630,14 +631,15 @@
       "tags": "Clinical Management",
       "title": "ACEN 2026 | Indianapolis, IN",
       "type": "Event",
-      "audience": "Nursing Educators",
+      "audience": "Nursing educators and accreditation teams",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "",
+      "summary": "ACEN brings nursing educators and accreditation teams together.",
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQCOwWZ57RExRpfoOdwRK5cDAZlryGrBp-J5UEjlmdE9CCU?e=SUvKWS",
       "endDate": "2026-06-12",
       "attendees": "Georgia, Mandy, Ron",
-      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10797/filters"
+      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10797/filters",
+      "positioning": "For nursing programs, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
     },
     {
       "date": "2026-06-11",
@@ -1007,14 +1009,15 @@
       "tags": "Portico Suite",
       "title": "CECU 2026 | Cleveland, OH",
       "type": "Event",
-      "audience": "Career education schools in U.S.",
+      "audience": "Career education school leaders",
       "sender": "",
-      "summary": "",
+      "summary": "CECU brings career education school leaders together.",
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQAOqTCKwQyUQIcJ9jTgdAFgAfvrCs_ql78gYyqJaiyzLB0?e=Fme",
       "endDate": "2026-06-24",
       "attendees": "Natalie, Dale, Cara, Marc, Chris, Siana",
-      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters"
+      "attendeeLink": "https://app.hubspot.com/contacts/7762472/objectLists/10677/filters",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "date": "2026-06-22",
@@ -1331,13 +1334,14 @@
       "tags": "Financial Aid",
       "title": "NASFAA 2026 | National Harbor, MD",
       "type": "Event",
-      "audience": "FA professionals in U.S. institutions",
+      "audience": "Financial aid professionals at U.S. institutions",
       "sender": "",
-      "summary": "",
+      "summary": "NASFAA brings financial aid professionals from U.S. institutions together.",
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/:w:/s/Marketing/IQDsdzVU-d6aQ4G87NCHCgg2AaQFPhbRZ1e2e67Ys_pRG-g?e=7KWfZp",
       "endDate": "2026-07-01",
-      "attendees": "Siana, Noel, Karen, Christina"
+      "attendees": "Siana, Noel, Karen, Christina",
+      "positioning": "Portico’s Financial Aid Software and Managed Financial Aid Services help teams simplify processing, stay audit-ready, and reduce the manual work behind Title IV and institutional compliance."
     },
     {
       "date": "2026-07-02",
@@ -1673,13 +1677,14 @@
       "tags": "Clinical Management",
       "title": "AARC Forum | Bonita Springs, FL",
       "type": "Event",
-      "audience": "",
+      "audience": "Respiratory care educators and program leaders",
       "sender": "Trajecsys",
-      "summary": "",
+      "summary": "AARC Forum brings respiratory care professionals and educators together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-07-15",
-      "attendees": "Brian"
+      "attendees": "Brian",
+      "positioning": "For respiratory care programs, Trajecsys keeps clinical hours, competencies, evaluations, and site records together."
     },
     {
       "date": "2026-07-13",
@@ -1698,13 +1703,14 @@
       "tags": "Clinical Management",
       "title": "AEIRS | San Francisco, CA",
       "type": "Event",
-      "audience": "",
+      "audience": "Imaging and radiologic science educators",
       "sender": "Trajecsys",
-      "summary": "",
+      "summary": "AEIRS brings imaging and radiologic science educators together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-07-17",
-      "attendees": "Mark Moore"
+      "attendees": "Mark Moore",
+      "positioning": "For imaging programs, Trajecsys keeps clinical hours, competencies, evaluations, and site records together."
     },
     {
       "date": "2026-07-15",
@@ -1876,13 +1882,14 @@
       "tags": "Clinical Management",
       "title": "CAAHEP Workshop | Denver, CO",
       "type": "Event",
-      "audience": "",
+      "audience": "Allied health program and accreditation teams",
       "sender": "Trajecsys",
-      "summary": "CAAHEP attendee list uploaded to HubSpot. Event runs 7/17/26-7/18/26; Mark attending.",
+      "summary": "The CAAHEP Workshop brings allied health program and accreditation teams together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-07-18",
-      "attendees": "Shawna"
+      "attendees": "Shawna",
+      "positioning": "Trajecsys, a Portico brand, centralizes clinical recordkeeping for nursing and allied health programs. One platform for time logs, competencies, evaluations, and accreditation data across every site and modality."
     },
     {
       "date": "2026-07-17",
@@ -2111,13 +2118,14 @@
       "tags": "Clinical Management",
       "title": "AVTE | Portland, OR",
       "type": "Event",
-      "audience": "Vet Tech Educators",
+      "audience": "Veterinary technology educators",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "AVTE event in Portland, OR. Source: master event spreadsheet and active content calendar.",
+      "summary": "AVTE brings veterinary technology educators together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-08-02",
-      "attendees": "Shawna"
+      "attendees": "Shawna",
+      "positioning": "For veterinary technology programs, Trajecsys keeps clinical hours, skills, evaluations, and site records together."
     },
     {
       "date": "2026-07-31",
@@ -2212,26 +2220,28 @@
       "tags": "Portico Suite",
       "title": "AFIT | Albuquerque, NM",
       "type": "Event",
-      "audience": "Community Colleges",
+      "audience": "Community college leaders",
       "sender": "Portico",
-      "summary": "AFIT event in Albuquerque, NM. Source: master event spreadsheet and active content calendar.",
+      "summary": "AFIT brings community college leaders together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-08-08",
-      "attendees": "Cid/Brian/Marc"
+      "attendees": "Cid/Brian/Marc",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "date": "2026-08-05",
       "tags": "Portico Suite",
       "title": "FAPSC | Orlando, FL",
       "type": "Event",
-      "audience": "Florida Postsecondary Schools",
+      "audience": "Florida postsecondary school leaders",
       "sender": "Portico",
-      "summary": "FAPSC 2026 in Orlando, FL from 8/5/26 to 8/7/26. Master conference spreadsheet source of truth. Platform focus and 10x20 booth.",
+      "summary": "FAPSC brings Florida postsecondary school leaders together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-08-07",
-      "attendees": "Noel Suarez, Ron Bright, Chris Coia, Jackson Batchelder"
+      "attendees": "Noel Suarez, Ron Bright, Chris Coia, Jackson Batchelder",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "date": "2026-08-05",
@@ -2327,13 +2337,14 @@
       "tags": "Portico Suite",
       "title": "CSPEN | Austin, TX",
       "type": "Event",
-      "audience": "",
+      "audience": "Career school leaders",
       "sender": "Portico",
-      "summary": "CSPEN event in Austin, TX. Source: master event spreadsheet and active content calendar.",
+      "summary": "CSPEN brings career school leaders together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-08-13",
-      "attendees": "Daniel/Dylan/Cayla\nDale/Jackson\nNatalie\nAlison\nKim Verga"
+      "attendees": "Daniel/Dylan/Cayla\nDale/Jackson\nNatalie\nAlison\nKim Verga",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "date": "2026-08-10",
@@ -3796,13 +3807,14 @@
       "tags": "Clinical Management",
       "title": "SDMS | Atlanta, GA",
       "type": "Event",
-      "audience": "Sonography",
+      "audience": "Sonography educators and program leaders",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "SDMS event in Atlanta, GA. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "summary": "SDMS brings sonography educators and professionals together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-09-26",
-      "attendees": "Shawna, Natalie"
+      "attendees": "Shawna, Natalie",
+      "positioning": "For sonography programs, Trajecsys keeps clinical hours, competencies, evaluations, and site records together."
     },
     {
       "date": "2026-09-24",
@@ -3867,13 +3879,14 @@
       "tags": "Portico Suite",
       "title": "CCST Annual | San Antonio, TX",
       "type": "Event",
-      "audience": "Career education schools in Texas",
+      "audience": "Texas career school leaders",
       "sender": "Portico",
-      "summary": "CCST Annual event in San Antonio, TX. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "summary": "CCST brings Texas career school leaders together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-09-29",
-      "attendees": "Dale, Karen"
+      "attendees": "Dale, Karen",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "date": "2026-09-28",
@@ -3942,7 +3955,8 @@
       "title": "WFAA Landing Page",
       "type": "Landing Page",
       "status": "Published",
-      "summary": "Published in HubSpot on 10/15/26. WFAA 2026 landing page linked."
+      "summary": "Published page for Financial aid professionals.",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "date": "2026-10-01",
@@ -4003,11 +4017,12 @@
       "type": "Landing Page",
       "audience": "Nursing colleges",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Published 10/23/26; served AACN page and its meeting form verified. AACN runs 10/25–27.",
+      "summary": "Published page for Nursing colleges.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/aacn",
       "status": "Published",
-      "contentLabel": "View Landing Page"
+      "contentLabel": "View Landing Page",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "date": "2026-10-05",
@@ -4053,8 +4068,9 @@
       "title": "FNCE Landing Page",
       "type": "Landing Page",
       "status": "Published",
-      "summary": "Published 10/23/26; served FNCE page and its meeting form verified. FNCE runs 10/24–27. Intro copy still mentions nursing and allied health rather than nutrition and dietetics; copy QA remains open.",
-      "contentLabel": "View Landing Page"
+      "summary": "Published page for Food and nutrition educators.",
+      "contentLabel": "View Landing Page",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "audience": "California enterprise and postsecondary schools",
@@ -4100,8 +4116,9 @@
       "title": "ASAHP Landing Page",
       "type": "Landing Page",
       "status": "Published",
-      "summary": "Published 10/23/26; served ASAHP page and meeting form verified. The hero event line shows \"ASAHP 2026 |\" without the 10/27–29 dates, so page copy QA remains open.",
-      "contentLabel": "View Landing Page"
+      "summary": "Published page for Health professions education.",
+      "contentLabel": "View Landing Page",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "date": "2026-10-13",
@@ -4153,13 +4170,14 @@
       "tags": "Portico Suite",
       "title": "CAPPS Annual | San Diego, CA",
       "type": "Event",
-      "audience": "California enterprise and postsecondary schools",
+      "audience": "California postsecondary school leaders",
       "sender": "Portico",
-      "summary": "CAPPS Annual event in San Diego, CA. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "summary": "CAPPS brings California postsecondary school leaders together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-10-09",
-      "attendees": "Jackson, Tina"
+      "attendees": "Jackson, Tina",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "date": "2026-10-07",
@@ -4182,7 +4200,8 @@
       "title": "ELEVATE Landing Page",
       "type": "Landing Page",
       "status": "Published",
-      "summary": "ELEVATE 2026 page published at the verified HubSpot CMS URL; Jessica confirmed it was finished 10/22/26."
+      "summary": "Published page for Career education schools in the United States.",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "date": "2026-10-07",
@@ -4334,8 +4353,9 @@
       "title": "NELNE Fall Conference Landing Page",
       "type": "Landing Page",
       "status": "Published",
-      "summary": "Published 10/23/26; served NELNE Fall Conference page and meeting form verified. NELNE is 10/30.",
-      "contentLabel": "View Landing Page"
+      "summary": "Published page for Nursing educators.",
+      "contentLabel": "View Landing Page",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "audience": "Vocational nursing educators",
@@ -4366,13 +4386,14 @@
       "tags": "Clinical Management",
       "title": "CACN/COADN | Monterey, CA",
       "type": "Event",
-      "audience": "California nursing programs",
+      "audience": "California nursing program leaders",
       "sender": "Trajecsys",
-      "summary": "CACN/COADN event in Monterey, CA. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "summary": "CACN and COADN bring California nursing program leaders together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-10-13",
-      "attendees": "Georgia"
+      "attendees": "Georgia",
+      "positioning": "For nursing programs, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
     },
     {
       "date": "2026-10-13",
@@ -4381,7 +4402,7 @@
       "type": "Event Comms",
       "audience": "CAPPS Annual attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Sent from HubSpot on 10/13/26 at 8:56 AM ET to CAPPS 2026 Attendees. The matching email preview and included/excluded lists are linked.",
+      "summary": "Sent from HubSpot to CAPPS 2026 Attendees.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11290/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224012533288?portalId=7762472&preview_key=QSmmUyih&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -4394,7 +4415,10 @@
           "label": "Excluded: MASTER Exclusion List",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Drive post-event demos with attendees and event-sourced contacts.",
+      "performance": "As of 10/27/26: 73 delivered; 11 opens (15.1%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-13",
@@ -4403,11 +4427,12 @@
       "type": "Event",
       "audience": "Vocational nursing educators",
       "sender": "Trajecsys",
-      "summary": "TAVNE event in Austin, TX. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "summary": "TAVNE brings vocational nursing educators together in Texas.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-10-15",
-      "attendees": "Mandy"
+      "attendees": "Mandy",
+      "positioning": "For vocational nursing programs, Trajecsys keeps clinical hours, skills, evaluations, and accreditation records together across placements."
     },
     {
       "date": "2026-10-14",
@@ -4428,7 +4453,7 @@
       "type": "Event Comms",
       "audience": "CACN/COADN attendees and event-sourced contacts",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot on 10/14/26 at 3:33 PM ET to CACN/COADN 2026 Registrants. The matching email preview and included/excluded lists are linked.",
+      "summary": "Sent from HubSpot to CACN/COADN 2026 Registrants.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11298/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224313286809?portalId=7762472&preview_key=bMOYPXCJ&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -4441,7 +4466,10 @@
           "label": "Excluded: MASTER Exclusion List",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Drive post-event demos with attendees and event-sourced contacts.",
+      "performance": "As of 10/27/26: 174 delivered; 36 opens (20.7%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-21",
@@ -4472,7 +4500,7 @@
       "type": "Event Comms",
       "audience": "TAVNE attendees and event-sourced contacts",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot on 10/16/26 at 2:15 PM ET. Subject: After TAVNE, keep nursing records ready. Matching preview and send lists linked.",
+      "summary": "Sent from HubSpot to Approved VN Schools Texas (Texas Nursing) - October 2026, TAVNE 2026 Giveaway Leads (All).",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224640334918?portalId=7762472&preview_key=bZWNCcTG&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -4489,7 +4517,10 @@
           "label": "Excluded: MASTER Exclusion List",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Drive post-event demos with attendees and event-sourced contacts.",
+      "performance": "As of 10/27/26: 75 delivered; 19 opens (25.3%); 1 clicks (1.3%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "audience": "Financial aid professionals",
@@ -4512,7 +4543,7 @@
       "tags": "Financial Aid, Event Promo",
       "title": "WFAA Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Sent from HubSpot on 10/19/26 at 11:22 AM ET. Subject: Let’s meet at WFAA this week. Sent to WFAA 2026 Registrants; matching preview and recipient list linked.",
+      "summary": "Sent from HubSpot to WFAA 2026 Registrants.",
       "status": "Sent",
       "contentLabel": "View Email",
       "audienceLinks": [
@@ -4520,7 +4551,9 @@
           "label": "Included: WFAA 2026 Registrants",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/11346/filters"
         }
-      ]
+      ],
+      "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
+      "performance": "As of 10/27/26: 105 delivered; 15 opens (14.3%); 1 clicks (1.0%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-28",
@@ -4532,25 +4565,29 @@
       "summary": "Carried into next week from 10/20. No published HubSpot COE page found 10/23; verify event details before publishing.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "audience": "Career education schools in the United States",
       "sender": "Portico",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters",
-      "contentLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225106923009?portalId=7762472&preview_key=NpNuWmeM&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-10-22",
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Sent from HubSpot 10/22/26 at 11:04 AM ET to ELEVATE Miami 2026 Registrants. HubSpot email 225106923009. Public preview URL pending a share-safe destination.",
+      "summary": "Sent from HubSpot to ELEVATE Miami 2026 Registrants.",
       "status": "Sent",
       "audienceLinks": [
         {
           "label": "Included: ELEVATE Miami 2026 Registrants",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
+      "performance": "As of 10/27/26: 47 delivered; 6 opens (12.8%); 1 clicks (2.1%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-21",
@@ -4575,19 +4612,33 @@
       "title": "WFAA | Grand Mound, WA",
       "type": "Event",
       "attendees": "Karen, James pending",
-      "summary": "WFAA event in Grand Mound, WA. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan."
+      "summary": "WFAA brings financial aid professionals together to discuss aid operations and regulatory work.",
+      "positioning": "Portico’s Financial Aid Software and Managed Financial Aid Services help teams simplify processing, stay audit-ready, and reduce the manual work behind Title IV and institutional compliance."
     },
     {
       "audience": "Nursing colleges",
       "sender": "Portico, formerly Trajecsys",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11333/filters",
-      "contentLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225525869134?portalId=7762472&preview_key=fmYQGmqX&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-10-26",
       "tags": "Clinical Management, Event Promo",
       "title": "AACN On-Site Outreach Email",
       "type": "Event Comms",
-      "summary": "AACN is underway 10/25–27. The pre-event email did not send, so this is planned on-site outreach to AACN 2026 Registrants (Clean). The AACN landing page is published. Verify email eligibility and exclusions before send.",
-      "status": "Planned"
+      "summary": "Sent from HubSpot to AACN 2026 Registrants (Clean).",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Included: AACN 2026 Registrants (Clean)",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11333/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ],
+      "goal": "Drive on-site demos and show attendees how the product fits their programs.",
+      "performance": "As of 10/27/26: 185 delivered; 29 opens (15.7%); 2 clicks (1.1%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-22",
@@ -4596,10 +4647,11 @@
       "type": "Landing Page",
       "audience": "Nursing education leaders",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Natalie refreshed the existing /oadn page for 2026; HubSpot CMS and served URL confirm it is published. Content and lead-capture QA remain open for the OADN ad.",
+      "summary": "Published page for Nursing education leaders.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/oadn",
-      "status": "Published"
+      "status": "Published",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "date": "2026-10-29",
@@ -4609,10 +4661,11 @@
       "type": "Email",
       "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
-      "summary": "Planned Thursday 10/29 issue, moved from the prior week to include more Payments content, including Danny’s article. Build and verify the HubSpot audience before scheduling; no send is confirmed.",
+      "summary": "Planned for Marketing contacts and Portico roster. HubSpot send and final audience are unverified.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "goal": "Build trust through useful perspectives and educate readers on Portico products, events, and field issues."
     },
     {
       "date": "2026-10-29",
@@ -4624,7 +4677,8 @@
       "summary": "Carried into next week from 10/23. The existing AARC giveaway page at /ast2026 is not a verified Congress landing page; build or confirm a matching event page.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "date": "2026-10-23",
@@ -4661,7 +4715,8 @@
       "title": "Keiser University Convocation | West Palm Beach, FL",
       "type": "Event",
       "attendees": "Brian, Ron",
-      "summary": "Keiser University Convocation event in West Palm Beach, FL. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan."
+      "summary": "Keiser University's convocation brings its academic programs and leaders together.",
+      "positioning": "For Keiser programs with clinical placements, Trajecsys keeps student hours, competencies, evaluations, and site records together. Ask which programs need a clearer view across sites."
     },
     {
       "date": "2026-10-27",
@@ -4670,10 +4725,11 @@
       "type": "Event Comms",
       "audience": "Nursing educators",
       "sender": "Trajecsys",
-      "summary": "Jessica confirmed a NELNE attendee list was received on 10/23/26. It is not yet visible as a HubSpot segment; only the NELNE Giveaway Leads list appears. Upload or identify the attendee list, verify eligible recipients and exclusions, then use the published NELNE landing page for the 10/27 pre-event email.",
+      "summary": "Planned for Nursing educators. HubSpot send and final audience are unverified.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees."
     },
     {
       "date": "2026-10-23",
@@ -4698,11 +4754,12 @@
       "type": "Event",
       "audience": "Food and nutrition educators",
       "sender": "Trajecsys",
-      "summary": "FNCE event in San Antonio, TX. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "summary": "FNCE brings food and nutrition professionals and educators together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-10-27",
-      "attendees": "Mark Moore"
+      "attendees": "Mark Moore",
+      "positioning": "For nutrition and dietetics programs, Trajecsys keeps supervised practice hours, competencies, evaluations, and site records together."
     },
     {
       "date": "2026-10-25",
@@ -4710,12 +4767,13 @@
       "title": "AACN | Washington, DC",
       "type": "Event",
       "audience": "Nursing colleges",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "AACN event in Washington, DC. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "sender": "Trajecsys",
+      "summary": "AACN brings nursing school leaders and educators together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-10-27",
-      "attendees": "Mandy, Georgia"
+      "attendees": "Mandy, Georgia",
+      "positioning": "For nursing programs, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
     },
     {
       "date": "2026-10-26",
@@ -4731,13 +4789,23 @@
     {
       "audience": "Career education schools in the United States",
       "sender": "Portico",
-      "audienceLink": "",
-      "contentLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225538861728?portalId=7762472&preview_key=ZnxLRwfY&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "date": "2026-10-26",
       "tags": "Portico Suite, Event Promo",
       "title": "ELEVATE Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before ELEVATE. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "Sent from HubSpot to ELEVATE Miami 2026 Registrants.",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Included: ELEVATE Miami 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters"
+        }
+      ],
+      "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
+      "performance": "As of 10/27/26: 61 delivered; 10 opens (16.4%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-26",
@@ -4756,12 +4824,13 @@
       "title": "ASAHP | Nashville, TN",
       "type": "Event",
       "audience": "Health professions education",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "ASAHP event in Nashville, TN. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "sender": "Trajecsys",
+      "summary": "ASAHP brings allied health education leaders together across health professions.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-10-29",
-      "attendees": "Shawna"
+      "attendees": "Shawna",
+      "positioning": "Trajecsys, a Portico brand, centralizes clinical recordkeeping for nursing and allied health programs. One platform for time logs, competencies, evaluations, and accreditation data across every site and modality."
     },
     {
       "date": "2026-10-27",
@@ -4792,10 +4861,11 @@
       "type": "Email",
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
-      "summary": "Role-specific one-week promo for the 11/3 Nursing session. HubSpot email preview and audience list pending.",
+      "summary": "Planned for Nursing job titles. HubSpot send and final audience are unverified.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "goal": "Educate the named audience and prompt a relevant next conversation."
     },
     {
       "date": "2026-10-28",
@@ -4804,9 +4874,10 @@
       "type": "Event Comms",
       "audience": "AACN attendees and event-sourced contacts",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "Planned post-event email for AACN. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
+      "summary": "Planned for AACN attendees and event-sourced contacts. HubSpot send and final audience are unverified.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "goal": "Drive post-event demos with attendees and event-sourced contacts."
     },
     {
       "audience": "Career schools in New York",
@@ -4818,7 +4889,8 @@
       "title": "Career Schools NYS Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for Career Schools NYS. Add the final page only after the event details, CTA, and destination are verified."
+      "summary": "Dedicated event landing page planned for Career Schools NYS. Add the final page only after the event details, CTA, and destination are verified.",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "audience": "Career education schools in the United States",
@@ -4831,7 +4903,8 @@
       "title": "ELEVATE - Aquinas/CMVC | Miami, FL",
       "type": "Event",
       "attendees": "Siana, Kim, Jackson, Danny",
-      "summary": "ELEVATE - Aquinas/CMVC, 10/28/26–10/30/26 in Miami, FL. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan."
+      "summary": "ELEVATE brings career education schools together in Miami.",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "audience": "Nursing educators",
@@ -4842,8 +4915,9 @@
       "tags": "Clinical Management, Event Promo",
       "title": "NELNE Fall Conference Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Second NELNE pre-event touch planned for 10/29, one day before the 10/30 event. Jessica confirmed the attendee list was received, but its HubSpot send segment is not yet visible. Use the verified recipient list and published NELNE landing page; check overlap with the 10/27 send.",
-      "status": "Planned"
+      "summary": "Planned for Nursing educators. HubSpot send and final audience are unverified.",
+      "status": "Planned",
+      "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees."
     },
     {
       "audience": "Nursing educators",
@@ -4856,7 +4930,8 @@
       "title": "NELNE Fall Conference | CCRI Newport Campus, RI",
       "type": "Event",
       "attendees": "Ron",
-      "summary": "NELNE Fall Conference event in CCRI Newport Campus, RI. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan."
+      "summary": "NELNE's fall conference brings nursing educators together in New England.",
+      "positioning": "For nursing educators, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
     },
     {
       "date": "2026-10-30",
@@ -5015,11 +5090,12 @@
       "type": "Event",
       "audience": "Career education leaders",
       "sender": "Portico",
-      "summary": "COE event in Atlanta, GA. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "summary": "COE brings career education leaders together around institutional quality and accreditation.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-11-12",
-      "attendees": "Noel"
+      "attendees": "Noel",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "date": "2026-11-10",
@@ -5107,12 +5183,13 @@
       "title": "OADN | San Antonio, TX",
       "type": "Event",
       "audience": "Nursing education leaders",
-      "sender": "Portico, formerly Trajecsys",
-      "summary": "OADN event in San Antonio, TX. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "sender": "Trajecsys",
+      "summary": "OADN brings associate degree nursing leaders and educators together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-11-14",
-      "attendees": "Mandy, Georgia, Ron, Natalie/Chris, Brian/Doug"
+      "attendees": "Mandy, Georgia, Ron, Natalie/Chris, Brian/Doug",
+      "positioning": "For associate degree nursing programs, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
     },
     {
       "date": "2026-11-12",
@@ -5154,11 +5231,12 @@
       "type": "Event",
       "audience": "Respiratory therapists and educators",
       "sender": "Portico, formerly Trajecsys",
-      "summary": "AARC Congress event in New Orleans, LA. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan.",
+      "summary": "AARC Congress brings respiratory care professionals and educators together.",
       "audienceLink": "",
       "contentLink": "",
       "endDate": "2026-11-17",
-      "attendees": "Mark Moore"
+      "attendees": "Mark Moore",
+      "positioning": "For respiratory care programs, Trajecsys keeps clinical hours, competencies, evaluations, and site records together."
     },
     {
       "date": "2026-11-15",
@@ -5237,7 +5315,8 @@
       "title": "Career Schools NYS | Pearl River, NY",
       "type": "Event",
       "attendees": "Natalie",
-      "summary": "Career Schools NYS event in Pearl River, NY. Event goals, target accounts, attendee planning, and follow-up are maintained in the internal rest-of-year event plan."
+      "summary": "Career Schools NYS brings New York career school leaders together.",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "date": "2026-11-18",
@@ -5493,11 +5572,12 @@
       "type": "Event",
       "audience": "Portico customers and VIP prospects",
       "sender": "Portico",
-      "summary": "Momentum 2027 user conference at Margaritaville Hollywood Beach in Hollywood, FL.",
+      "summary": "Momentum brings Portico customers and invited prospects together to share practical ideas.",
       "audienceLink": "",
       "contentLink": "https://simplifyedinc.sharepoint.com/sites/Marketing/_layouts/15/Doc.aspx?sourcedoc=%7BF5844769-D67B-4F1C-A71B-CDC8CE461D6B%7D&file=Momentum+2027_Project+Brief.docx&action=default&mobileredirect=true&web=1",
       "endDate": "2027-05-19",
-      "attendees": "Portico customers, VIP prospects, and Portico team"
+      "attendees": "Portico customers, VIP prospects, and Portico team",
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
       "date": "2027-05-20",
@@ -5513,7 +5593,7 @@
     {
       "date": "2026-10-16",
       "title": "Trajecsys for Nutrition and Dietetics One-Week Invite",
-      "summary": "Sent from HubSpot on 10/16/26 at 2:44 PM ET. Subject: See Trajecsys for Nutrition and Dietetics in action. Matching preview and send lists linked.",
+      "summary": "Sent from HubSpot to [ROLE] Nutrition & Dietetics.",
       "audience": "Nutrition and Dietetics job titles",
       "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
@@ -5534,18 +5614,21 @@
           "label": "Excluded: Trajecsys Users - September 2026",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Drive registrations for the Trajecsys nutrition and dietetics demo and show its value for supervised practice records.",
+      "performance": "As of 10/27/26: 306 delivered; 35 opens (11.4%); 9 clicks (2.9%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-21",
       "title": "Trajecsys for Nutrition and Dietetics Final Reminder",
-      "summary": "Second Nutrition and Dietetics webinar invitation sent 10/21/26 at 12:10 PM ET from HubSpot email 225067516852. Registrants and customer/exclusion lists suppressed. Public preview URL pending a share-safe destination.",
+      "summary": "Sent from HubSpot to [ROLE] Nutrition & Dietetics.",
       "audience": "Nutrition and Dietetics job titles",
       "tags": "Clinical Management, Webinar Promo",
       "sender": "Trajecsys",
       "type": "Email",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters",
-      "contentLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225067516852?portalId=7762472&preview_key=BAABMdyz&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLinks": [
         {
@@ -5568,7 +5651,10 @@
           "label": "Excluded: Trajecsys for Nutrition & Dietetics Registrants - October 2026",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/11348/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Drive registrations for the Trajecsys nutrition and dietetics demo and show its value for supervised practice records.",
+      "performance": "As of 10/27/26: 228 delivered; 31 opens (13.6%); 1 clicks (0.4%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-01",
@@ -5759,7 +5845,7 @@
       "type": "Event Comms",
       "audience": "Approved VN Schools Texas (Texas Nursing)",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot on 10/13/26 at 11:17 AM ET. This is a separate HubSpot asset from the owner-reported 10/8 TAVNE email; the matching preview and send lists are linked.",
+      "summary": "Sent from HubSpot to Approved VN Schools Texas (Texas Nursing) - October 2026.",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224263571796?portalId=7762472&preview_key=qFKrvNcL&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11303/filters",
@@ -5772,7 +5858,10 @@
           "label": "Excluded: MASTER Exclusion List",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
+      "performance": "As of 10/27/26: 41 delivered; 7 opens (17.1%); 1 clicks (2.4%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-14",
@@ -5781,7 +5870,7 @@
       "type": "Email",
       "audience": "Portico Roster 2026 and Legacy CK App Contacts",
       "sender": "Portico",
-      "summary": "Sent from HubSpot on 10/14/26 at 10:39 AM ET. Subject: Attendance & Payments Updates: New Training Course, Checklist Management, One-Time Invoices. The matching preview and send lists are linked.",
+      "summary": "Sent from HubSpot to Portico Roster 2026, Legacy CK App Contacts.",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224293236545?portalId=7762472&preview_key=xkGlkecA&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
@@ -5798,7 +5887,10 @@
           "label": "Excluded: NeverBounce Contact Clean",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Help current users understand new capabilities and encourage adoption of relevant product updates.",
+      "performance": "As of 10/27/26: 2,447 delivered; 377 opens (15.4%); 27 clicks (1.1%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-15",
@@ -5807,7 +5899,7 @@
       "type": "Email",
       "audience": "CRM Users - August 2026 and Portico Roster 2026",
       "sender": "Portico",
-      "summary": "Sent from HubSpot on 10/15/26 at 10:56 AM ET. Subject: NEW! Re-Entry Management, paperless reminders, and Task Board upgrades. Matching email preview and send lists linked.",
+      "summary": "Sent from HubSpot to CRM Users - August 2026, Portico Roster 2026.",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224489733970?portalId=7762472&preview_key=PfIjrySB&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11123/filters",
@@ -5824,7 +5916,10 @@
           "label": "Excluded: NeverBounce Contact Clean",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Help current users understand new capabilities and encourage adoption of relevant product updates.",
+      "performance": "As of 10/27/26: 2,633 delivered; 441 opens (16.7%); 36 clicks (1.4%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-15",
@@ -5833,7 +5928,7 @@
       "type": "Email",
       "audience": "SIS Users - August 2026 and Portico Roster 2026",
       "sender": "Portico",
-      "summary": "Sent from HubSpot on 10/15/26 at 2:31 PM ET. Subject: Portico SIS Updates: Repeat Course Policies, Enrollment Filtering, LOA Revenue & More. Matching email preview and send lists linked.",
+      "summary": "Sent from HubSpot to SIS Users - August 2026, Portico Roster 2026.",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224498401814?portalId=7762472&preview_key=TFGpqpaP&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11124/filters",
@@ -5850,7 +5945,10 @@
           "label": "Excluded: NeverBounce Contact Clean",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Help current users understand new capabilities and encourage adoption of relevant product updates.",
+      "performance": "As of 10/27/26: 1,911 delivered; 405 opens (21.2%); 24 clicks (1.3%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-19",
@@ -5871,7 +5969,7 @@
       "type": "Email",
       "audience": "Customers and success story advocates",
       "sender": "Portico",
-      "summary": "Sent from HubSpot on 10/19/26 at 3:47 PM ET. Subject: Momentum 2027 call for proposals is open. Included Momentum 2026 Invite and Current Customer Contacts; exclusions and matching preview linked.",
+      "summary": "Sent from HubSpot to Momentum 2026 Invite, Current Customer Contacts (Lifecycle Stage).",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9897/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224879954594?portalId=7762472&preview_key=pxnhzlke&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
@@ -5893,7 +5991,9 @@
           "label": "Excluded: NeverBounce Contact Clean",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
         }
-      ]
+      ],
+      "goal": "Invite customer stories and proposals for Momentum 2027.",
+      "performance": "As of 10/27/26: 12,199 delivered; 889 opens (7.3%); 39 clicks (0.3%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-22",
@@ -5903,9 +6003,10 @@
       "type": "Event",
       "audience": "Beauty, barber, and wellness education leaders",
       "sender": "Portico",
-      "summary": "AACS Annual Conference at Mandalay Bay in Las Vegas, 10/22/26–10/24/26 per Jessica’s current conference spreadsheet. Portico is exhibiting; the AACS event brief lists booth 812.",
+      "summary": "AACS brings beauty, barbering, and wellness school leaders together.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "positioning": "Portico provides software and services for beauty, barbering, and wellness schools, including financial aid, student records, attendance and skills tracking, recruitment, and payments."
     },
     {
       "date": "2026-11-05",
@@ -5913,11 +6014,12 @@
       "tags": "Conference",
       "title": "ACEN Leap Workshop",
       "type": "Event",
-      "audience": "",
+      "audience": "Nursing program leaders and accreditation teams",
       "sender": "",
-      "summary": "ACEN Leap Workshop, 11/5/26–11/6/26, confirmed in Jessica’s current conference spreadsheet. Location, audience, roster, and product focus have not yet been verified.",
+      "summary": "The ACEN Leap Workshop serves nursing programs working on accreditation.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "positioning": "For nursing programs, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
     },
     {
       "date": "2026-10-20",
@@ -5926,10 +6028,11 @@
       "tags": "Portico Suite, Event Promo",
       "audience": "Beauty, barber, and wellness education leaders",
       "sender": "Portico",
-      "summary": "Published in HubSpot and served landing page verified on 10/21/26.",
+      "summary": "Published page for Beauty, barber, and wellness education leaders.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/aacs",
-      "status": "Published"
+      "status": "Published",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "date": "2026-10-21",
@@ -5938,16 +6041,19 @@
       "tags": "Portico Suite, Event Promo",
       "audience": "Beauty, barber, and wellness education leaders",
       "sender": "Portico",
-      "summary": "Sent from HubSpot 10/21/26 at 11:32 AM ET to AACS 2026 Registrants. HubSpot email 225049834073. Public email preview omitted because its preview URL contains a private key.",
+      "summary": "Sent from HubSpot to AACS 2026 Registrants.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11326/filters",
-      "contentLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225049834073?portalId=7762472&preview_key=QWPAGlWK&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "audienceLinks": [
         {
           "label": "Included: AACS 2026 Registrants",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/11326/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees.",
+      "performance": "As of 10/27/26: 164 delivered; 41 opens (25.0%); 2 clicks (1.2%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-20",
@@ -5980,22 +6086,14 @@
       "tags": "Clinical Management, Webinar Promo",
       "audience": "Nutrition and Dietetics job titles",
       "sender": "Trajecsys",
-      "summary": "Sent from HubSpot 10/23/26 at 10:03 AM ET for the 2 PM webinar. HubSpot email 225288460949. Registrants and customer/exclusion lists suppressed. Public preview URL pending a share-safe destination.",
+      "summary": "Sent from HubSpot to [ROLE] Nutrition & Dietetics.",
       "status": "Sent",
-      "contentLink": "",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225288460949?portalId=7762472&preview_key=IVYlpTQE&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters",
       "audienceLinks": [
         {
           "label": "Included: [ROLE] Nutrition & Dietetics",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/11336/filters"
-        },
-        {
-          "label": "Excluded: Trajecsys Users - September 2026",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
-        },
-        {
-          "label": "Excluded: Contact Type: Customer",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11307/filters"
         },
         {
           "label": "Excluded: MASTER Exclusion List",
@@ -6004,8 +6102,19 @@
         {
           "label": "Excluded: Trajecsys for Nutrition & Dietetics Registrants - October 2026",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/11348/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        },
+        {
+          "label": "Excluded: Contact Type: Customer",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11307/filters"
         }
-      ]
+      ],
+      "contentLabel": "View Email",
+      "goal": "Drive registrations for the Trajecsys nutrition and dietetics demo and show its value for supervised practice records.",
+      "performance": "As of 10/27/26: 225 delivered; 18 opens (8.0%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-21",
@@ -6028,7 +6137,8 @@
       "summary": "Carried to Monday 10/26. Build a separate co-branded RSVP page and form for the 11/12 happy hour at Mexico Ceaty in San Antonio. Amanda’s postcard has a placeholder URL; confirm the venue contract before public launch and replace the postcard URL after the page is live.",
       "status": "Planned",
       "contentLink": "",
-      "audienceLink": ""
+      "audienceLink": "",
+      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
       "date": "2026-10-22",
@@ -6049,10 +6159,23 @@
       "type": "Event Comms",
       "audience": "ASAHP 2026 conference registrants",
       "sender": "Trajecsys",
-      "summary": "Planned on-site outreach for the 10/27–29 ASAHP conference. Chris Coia shared the registrant workbook on 10/26. Clean and import the send audience in HubSpot, verify eligibility and exclusions, then use the published ASAHP landing page. No email send is confirmed yet.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "summary": "Sent from HubSpot to ASAHP 2026 Registrants.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11359/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225545444758?portalId=7762472&preview_key=XzEqKGWC&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Included: ASAHP 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11359/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ],
+      "goal": "Drive on-site demos and show attendees how the product fits their programs.",
+      "performance": "As of 10/27/26: 487 delivered; 103 opens (21.1%); 3 clicks (0.6%). HubSpot email engagement; demo conversions not verified."
     },
     {
       "date": "2026-10-27",
@@ -6061,10 +6184,11 @@
       "type": "Email",
       "audience": "Portico customers",
       "sender": "Portico",
-      "summary": "Customer survey invitation targeted for Tuesday 10/27. Mark Fuller is preparing the survey and audience. HubSpot email asset and final send list are pending; leave the card planned until send settings are verified.",
+      "summary": "Planned for Portico customers. HubSpot send and final audience are unverified.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "goal": "Gather customer or prospect feedback to guide Portico decisions."
     },
     {
       "date": "2026-10-27",
@@ -6073,10 +6197,11 @@
       "type": "Email",
       "audience": "Portico prospects",
       "sender": "Portico",
-      "summary": "Prospect survey invitation targeted for Tuesday 10/27. Mark Fuller is preparing the survey and audience. HubSpot email asset and final send list are pending; leave the card planned until send settings are verified.",
+      "summary": "Planned for Portico prospects. HubSpot send and final audience are unverified.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "goal": "Gather customer or prospect feedback to guide Portico decisions."
     },
     {
       "date": "2026-10-28",
@@ -6089,9 +6214,55 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Trajecsys Support Session Invite 2026",
+      "type": "Email",
+      "tags": "Clinical Management, Customer Education",
+      "audience": "Trajecsys users",
+      "sender": "Trajecsys",
+      "status": "Sent",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/224880043383?portalId=7762472&preview_key=yAojmPZK&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "contentLabel": "View Email",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters",
+      "goal": "Help current Trajecsys users register for live help and get more value from the product.",
+      "summary": "Sent from HubSpot to Trajecsys Users - September 2026.",
+      "performance": "As of 10/27/26: 1,396 delivered; 195 opens (14.0%); 31 clicks (2.2%). HubSpot email engagement; demo conversions not verified.",
+      "audienceLinks": [
+        {
+          "label": "Included: Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Ivy Tech Awareness Campaign 2026 - Email 4",
+      "type": "Email",
+      "tags": "Clinical Management, Account Awareness",
+      "audience": "Ivy Tech contacts",
+      "sender": "Trajecsys",
+      "status": "Sent",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/220753566578?portalId=7762472&preview_key=AxFkPIUM&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
+      "contentLabel": "View Email",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11170/filters",
+      "goal": "Build awareness of Trajecsys at Ivy Tech and prompt a relevant clinical-recordkeeping conversation.",
+      "summary": "Sent from HubSpot to Ivy Tech Awareness Campaign - Q326.",
+      "performance": "As of 10/27/26: 110 delivered; 3 opens (2.7%); 0 clicks (0.0%). HubSpot email engagement; demo conversions not verified.",
+      "audienceLinks": [
+        {
+          "label": "Included: Ivy Tech Awareness Campaign - Q326",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11170/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-10-26T11:53:12-04:00",
+  "lastUpdated": "2026-10-27T11:01:18-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
@@ -6159,5 +6330,5 @@
       ]
     }
   ],
-  "updated": "2026-10-26"
+  "updated": "2026-10-27"
 }

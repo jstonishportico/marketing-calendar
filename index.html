@@ -2218,6 +2218,15 @@
                 '<div class="prop-value">' + item.summary + '</div>' +
               '</div>';
     }
+    if (item.goal) {
+      html += '<div class="prop-row"><div class="prop-label">Goal</div><div class="prop-value">' + escHtml(item.goal) + '</div></div>';
+    }
+    if (item.performance) {
+      html += '<div class="prop-row"><div class="prop-label">Performance snapshot</div><div class="prop-value">' + escHtml(item.performance) + '</div></div>';
+    }
+    if (item.positioning) {
+      html += '<div class="prop-row"><div class="prop-label">How to Position Portico:</div><div class="prop-value">' + escHtml(item.positioning) + '</div></div>';
+    }
     if (item.attendees) {
       html += '<div class="prop-row">' +
                 '<div class="prop-label">Attendees</div>' +
