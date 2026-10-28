@@ -5857,15 +5857,16 @@
     },
     {
       "date": "2026-10-28",
-      "title": "Payments Article for The Commons",
-      "tags": "Payments, The Commons, Content",
+      "title": "Why tuition gap payments are hard to track",
+      "tags": "Payments Launch, The Commons, Content",
       "type": "Article",
       "audience": "The Commons readers",
       "sender": "Danny Schwantes",
-      "summary": "Danny supplied a draft Payments article. Edit and prepare it for publication ahead of the 10/29 Portico POV newsletter. Wednesday is the working publication target; final title and article URL are pending.",
+      "summary": "Published 10/28/26 by Danny Schwantes as part of the Portico Payments launch campaign.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://thecommons.porticoedu.com/tuition-gap-payments",
+      "status": "Published",
+      "contentLabel": "View Article"
     },
     {
       "date": "2026-10-20",
@@ -5935,7 +5936,7 @@
       "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-10-27T16:55:56-04:00",
+  "lastUpdated": "2026-10-28T10:48:21-04:00",
   "lastUpdatedBy": "Codex",
   "campaigns": [
     {
