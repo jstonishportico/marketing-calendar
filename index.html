@@ -1306,7 +1306,9 @@
     .paid-modal h2 { font-family:'Hepta Slab',Georgia,serif; font-size:23px; margin:8px 0 10px; }
     .paid-modal p { font-size:13px; line-height:1.5; }
     .paid-close { position:absolute; right:16px; top:12px; border:0; background:transparent; font-size:29px; cursor:pointer; color:var(--obsidian); }
-    .paid-modal .paid-target-grid { margin:18px 0; }
+    .paid-targeting { margin:18px 0; padding:12px 0; border-top:1px solid var(--border); border-bottom:1px solid var(--border); }
+    .paid-targeting p + p { margin-top:7px; }
+    .paid-targeting strong { color:var(--obsidian); }
     .paid-modal .paid-account-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:24px; margin-top:22px; }
     .paid-account-grid table { border-collapse:collapse; width:100%; font-size:11px; }
     .paid-account-grid th { text-align:left; color:var(--dim); text-transform:uppercase; font-size:9px; letter-spacing:.05em; }
@@ -1316,8 +1318,7 @@
     .paid-account-grid td:first-child { white-space:nowrap; }
     .rank-up { color:#187b4d; font-weight:700; }
     .rank-down { color:#b33b3b; font-weight:700; }
-    .rank-flat { color:var(--dim); }
-    .rank-new { color:#155e77; font-weight:800; font-size:9px; }
+    .rank-new { display:inline-block; margin-left:5px; padding:2px 5px; background:#e6f4f8; border:1px solid #8fc9d9; color:#155e77; font-weight:800; font-size:9px; line-height:1.2; }
     .paid-modal .paid-report-link { max-width:400px; margin:20px auto 0; }
     @media(max-width:760px) { .paid-modal { padding:26px 18px; } .paid-modal .paid-account-grid { grid-template-columns:1fr; } }
   </style>
@@ -1393,28 +1394,27 @@
     <div class="binder-panel-title">Paid LinkedIn campaigns</div>
     <h2 id="paidTitle">Product awareness at target schools</h2>
     <p>These campaigns reach buyer roles at named target schools. Weekly rank is by paid impressions; engagement and clicks are shown separately.</p>
-    <div class="paid-target-grid">
-      <div class="paid-target"><strong>Attendance</strong><span>301 Portico target accounts</span></div>
-      <div class="paid-target"><strong>Financial Aid</strong><span>301 Portico target accounts</span></div>
-      <div class="paid-target"><strong>Clinical Management</strong><span>209 Trajecsys target accounts</span></div>
+    <div class="paid-targeting">
+      <p><strong>Portico Attendance and Financial Aid</strong> Each campaign targets people at 301 named US schools, filtered to manager level and above in education and finance roles.</p>
+      <p><strong>Trajecsys Clinical Management</strong> Targets people at 209 named US schools using the same role and seniority filters.</p>
+      <p>These are account-based awareness audiences. The report shows schools reached by the ads, not the individual LinkedIn members or exact job titles targeted.</p>
     </div>
-    <p class="paid-roles"><strong>Buyer targeting</strong> Manager level and above in education and finance roles at US target accounts.</p>
     <div class="paid-account-grid">
-      <section aria-label="Portico top accounts"><h3>Portico · 10/26–11/1</h3><table><thead><tr><th>Rank</th><th>School</th><th>Impr.</th><th>Eng.</th><th>Clicks</th></tr></thead><tbody>
-        <tr><td>1 <span class="rank-flat">—</span></td><td>UC Berkeley</td><td>777</td><td>17</td><td>14</td></tr>
-        <tr><td>2 <span class="rank-flat">—</span></td><td>Emory University</td><td>483</td><td>9</td><td>9</td></tr>
+      <section aria-label="Portico top accounts"><h3>Portico Top Accounts by Paid Impressions — Pulled 11/1/26</h3><table><thead><tr><th>Rank</th><th>School</th><th>Impr.</th><th>Eng.</th><th>Clicks</th></tr></thead><tbody>
+        <tr><td>1</td><td>UC Berkeley</td><td>777</td><td>17</td><td>14</td></tr>
+        <tr><td>2</td><td>Emory University</td><td>483</td><td>9</td><td>9</td></tr>
         <tr><td>3 <span class="rank-up">▲ 1</span></td><td>Embry-Riddle Aeronautical University</td><td>337</td><td>4</td><td>0</td></tr>
         <tr><td>4 <span class="rank-down">▼ 1</span></td><td>Grand Canyon University</td><td>296</td><td>5</td><td>0</td></tr>
-        <tr><td>5 <span class="rank-flat">—</span></td><td>Brigham Young University</td><td>189</td><td>4</td><td>0</td></tr>
+        <tr><td>5</td><td>Brigham Young University</td><td>189</td><td>4</td><td>0</td></tr>
         <tr><td>6 <span class="rank-up">▲ 1</span></td><td>Capella University</td><td>189</td><td>0</td><td>0</td></tr>
         <tr><td>7 <span class="rank-down">▼ 1</span></td><td>Walden University</td><td>186</td><td>4</td><td>6</td></tr>
-        <tr><td>8 <span class="rank-flat">—</span></td><td>AMU &amp; APU</td><td>126</td><td>0</td><td>0</td></tr>
+        <tr><td>8</td><td>AMU &amp; APU</td><td>126</td><td>0</td><td>0</td></tr>
         <tr><td>9 <span class="rank-new">NEW</span></td><td>Full Sail University</td><td>122</td><td>6</td><td>5</td></tr>
         <tr><td>10 <span class="rank-down">▼ 1</span></td><td>Indiana University School of Medicine</td><td>115</td><td>4</td><td>4</td></tr>
       </tbody></table></section>
-      <section aria-label="Trajecsys top accounts"><h3>Trajecsys · 10/26–11/1</h3><table><thead><tr><th>Rank</th><th>School</th><th>Impr.</th><th>Eng.</th><th>Clicks</th></tr></thead><tbody>
-        <tr><td>1 <span class="rank-flat">—</span></td><td>Florida State University</td><td>192</td><td>6</td><td>5</td></tr>
-        <tr><td>2 <span class="rank-flat">—</span></td><td>Dallas College</td><td>86</td><td>7</td><td>5</td></tr>
+      <section aria-label="Trajecsys top accounts"><h3>Trajecsys Top Accounts by Paid Impressions — Pulled 11/1/26</h3><table><thead><tr><th>Rank</th><th>School</th><th>Impr.</th><th>Eng.</th><th>Clicks</th></tr></thead><tbody>
+        <tr><td>1</td><td>Florida State University</td><td>192</td><td>6</td><td>5</td></tr>
+        <tr><td>2</td><td>Dallas College</td><td>86</td><td>7</td><td>5</td></tr>
         <tr><td>3 <span class="rank-up">▲ 1</span></td><td>University of New Mexico</td><td>71</td><td>0</td><td>0</td></tr>
         <tr><td>4 <span class="rank-down">▼ 1</span></td><td>College of DuPage</td><td>60</td><td>0</td><td>0</td></tr>
         <tr><td>5 <span class="rank-up">▲ 3</span></td><td>Tarrant County College</td><td>48</td><td>0</td><td>0</td></tr>
