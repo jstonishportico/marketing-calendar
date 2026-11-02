@@ -5725,13 +5725,13 @@
       "status": "Sent"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "title": "ELEVATE Recap LinkedIn Post",
       "type": "Social",
       "sender": "Portico",
       "tags": "Portico Suite, Event Recap",
       "audience": "Career education leaders",
-      "summary": "Share ELEVATE content carried from last week on the Portico LinkedIn page. Confirm photo/creative and final copy before publishing.",
+      "summary": "Moved from 11/2 after The Credits campaign post used the Portico LinkedIn slot. Share ELEVATE content when photo/creative and copy are ready.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -5821,9 +5821,20 @@
       "contentLink": "",
       "status": "Sent",
       "goal": "Follow up with ASAHP attendees on their clinical education needs and offer a relevant Trajecsys next step."
+    },
+    {
+      "date": "2026-11-02",
+      "title": "The Credits Campaign LinkedIn Post",
+      "type": "Social",
+      "sender": "Portico",
+      "tags": "The Credits, Campaign",
+      "audience": "Portico LinkedIn audience",
+      "summary": "Published on the Portico LinkedIn page 11/2.",
+      "contentLink": "https://lnkd.in/p/esVSZ8Tv",
+      "status": "Published"
     }
   ],
-  "lastUpdated": "2026-11-02T15:20:37-05:00",
+  "lastUpdated": "2026-11-02T15:31:44-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
