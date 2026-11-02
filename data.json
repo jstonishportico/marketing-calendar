@@ -4511,7 +4511,7 @@
       "sender": "Portico",
       "summary": "Sent 10/29/26. October Portico POV included Payments-related content. HubSpot subject: Portico POV: October Edition.",
       "audienceLink": "",
-      "contentLink": "https://app.hubspot.com/email/7762472/details/225899020576/performance",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225899020576?portalId=7762472&preview_key=TIxxUcTc&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "goal": "Build trust through useful perspectives and educate readers on Portico products, events, and field issues.",
       "audienceLinks": [
@@ -4661,7 +4661,7 @@
       "sender": "Trajecsys",
       "summary": "Sent 10/28/26. Subject: After AACN, see why programs choose Trajecsys. HubSpot confirmed the send to AACN 2026 Registrants (Clean), excluding the MASTER Exclusion List.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11333/filters",
-      "contentLink": "https://app.hubspot.com/email/7762472/details/225788444283/performance",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225788444283?portalId=7762472&preview_key=QrwFOKwu&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "goal": "Drive post-event demos with attendees and event-sourced contacts.",
       "status": "Sent",
       "audienceLinks": [
@@ -5880,7 +5880,7 @@
       "audience": "Trajecsys users",
       "summary": "Sent 10/29/26. Subject: Have a Trajecsys question? Join us November 5.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters",
-      "contentLink": "https://app.hubspot.com/email/7762472/details/225914352310/performance",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225914352310?portalId=7762472&preview_key=grGSVHQv&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent"
     },
     {
@@ -5892,7 +5892,7 @@
       "audience": "Financial aid customers",
       "summary": "Sent by Natalie 10/30/26. Subject: Refund Processing Delays in G5.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters",
-      "contentLink": "https://app.hubspot.com/email/7762472/details/226039004947/performance",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/226039004947?portalId=7762472&preview_key=HvrdpoCn&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent"
     },
     {
@@ -6006,8 +6006,8 @@
       "goal": "Follow up with ASAHP attendees on their clinical education needs and offer a relevant Trajecsys next step."
     }
   ],
-  "lastUpdated": "2026-11-02T09:44:42-05:00",
-  "lastUpdatedBy": "Jessica and Codex weekly reconciliation",
+  "lastUpdated": "2026-11-02T10:17:41-05:00",
+  "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
       "name": "Intent-based outbound campaigns",
@@ -6074,5 +6074,23 @@
       ]
     }
   ],
-  "updated": "2026-10-27"
+  "updated": "2026-10-27",
+  "campaignOverview": {
+    "asOf": "2026-11-02",
+    "week": [
+      "Promote the 11/3 Trajecsys Nursing Demo Day and the 11/5 customer Support Session.",
+      "Send the customer and prospect College Technology & Software Landscape survey invitations.",
+      "Prepare COE, OADN, and AARC event communications and share the ELEVATE recap."
+    ],
+    "month": [
+      "Promote COE, OADN, AARC Congress, and the NYS Career School Convention with event email and social.",
+      "Publish the November Financial Aid and Portico POV newsletters.",
+      "Announce the Dental Assisting Demo Day and continue Trajecsys customer education."
+    ],
+    "quarter": [
+      "Keep Financial Aid, Attendance, and Clinical Management visible through paid LinkedIn and supporting content.",
+      "Support the Payments launch and Momentum 2027 promotion.",
+      "Finish fall conference communications and maintain the monthly newsletter and webinar cadence."
+    ]
+  }
 }

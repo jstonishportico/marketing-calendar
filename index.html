@@ -1332,6 +1332,56 @@
     .paid-modal .paid-snapshot-note { color:var(--warm-gray); font-size:12px; margin-top:2px; }
     .paid-modal .paid-report-link { display:table; width:auto; max-width:none; margin:24px 0 0; padding:12px 18px; font-size:13px; }
     @media(max-width:760px) { .paid-overlay { padding:12px; } .paid-modal { padding:30px 18px; max-height:calc(100vh - 24px); } .paid-section-head { display:block; } .paid-section-date { display:block; margin-top:5px; } .paid-account-grid table { font-size:11px; } .paid-account-grid td,.paid-account-grid th { padding:9px 5px; } .paid-account-grid td:nth-child(2),.paid-account-grid th:nth-child(2) { width:47%; } .paid-account-grid td:first-child,.paid-account-grid th:first-child { width:19%; } .paid-account-grid td:nth-child(n+3),.paid-account-grid th:nth-child(n+3) { width:11.3%; } .rank-new { margin-left:2px; padding:2px 5px; font-size:9px; } }
+    /* The tabs share one spine and sit over one another like binder dividers. */
+    .binder-tabs-group { top:190px; right:-40px; transform:none; align-items:flex-start; isolation:isolate; }
+    .binder-tab-wrap { --tab-color:var(--obsidian); z-index:3; margin:0; transition:transform .28s cubic-bezier(.2,.75,.2,1), filter .28s; }
+    .binder-tab-wrap + .binder-tab-wrap { z-index:2; margin-top:-14px; }
+    .binder-tab-wrap:nth-child(2) { --tab-color:var(--event-dark); margin-left:3px; }
+    .binder-tab-wrap:nth-child(3) { --tab-color:var(--terracotta); z-index:1; margin-left:6px; }
+    .binder-tab-wrap::before { content:''; position:absolute; left:-10px; top:5px; bottom:5px; width:13px; background:var(--tab-color); opacity:.75; }
+    .binder-tab-wrap .binder-tab { width:40px; min-height:126px; padding:20px 0; border-radius:0 9px 9px 0; background:var(--tab-color) !important; box-shadow:4px 5px 12px rgba(33,39,33,.19); transition:background .2s,box-shadow .28s; }
+    .binder-tab-wrap .binder-tab-text { font-size:10px; letter-spacing:.1em; line-height:1.2; transition:none; }
+    .binder-tab-wrap:hover, .binder-tab-wrap:focus-within { z-index:6; transform:translateX(12px); filter:drop-shadow(2px 5px 6px rgba(33,39,33,.18)); }
+    .binder-tab-wrap:hover .binder-tab-text { letter-spacing:.1em; }
+    .binder-tab-wrap.is-open { z-index:7; transform:translateX(14px); }
+    .binder-tab-wrap .binder-tab:hover { box-shadow:4px 6px 16px rgba(33,39,33,.24); }
+    .binder-overlay { opacity:0; transition:opacity .2s ease; }
+    .binder-overlay.open { opacity:1; }
+    .binder-overlay.open .binder-modal { animation:binder-card-in .46s cubic-bezier(.18,.76,.21,1) both; }
+    @keyframes binder-card-in { 0% { opacity:.65; transform:translate(42vw,-34px) rotate(4deg) scale(.82); } 68% { opacity:1; transform:translate(-14px,3px) rotate(-.7deg) scale(1.01); } 100% { transform:translate(0,0) rotate(0) scale(1); } }
+    .binder-modal-intro { margin:0 0 22px !important; color:var(--warm-gray); }
+    .key-modal { width:min(500px,100%); }
+    .key-modal #legendRows { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:4px 16px; }
+    .overview-modal { width:min(900px,100%); min-width:0; }
+    .overview-switch { display:flex; gap:4px; padding:4px; width:max-content; max-width:100%; background:var(--filler-bg); margin-bottom:24px; }
+    .overview-switch button { border:0; background:transparent; color:var(--warm-gray); font:700 13px Figtree,sans-serif; padding:10px 16px; cursor:pointer; }
+    .overview-switch button[aria-selected="true"] { background:var(--obsidian); color:white; }
+    .overview-switch button:focus-visible { outline:2px solid var(--event-dark); outline-offset:2px; }
+    .overview-period-label { color:var(--warm-gray); font-size:12px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; }
+    .overview-focus { margin:12px 0 24px; padding:18px 22px; background:var(--filler-bg); border-left:4px solid var(--terracotta); }
+    .overview-focus h3, .overview-list h3 { font-size:17px; margin:0 0 9px; }
+    .overview-focus ul { margin:0; padding-left:20px; }
+    .overview-focus li { margin:6px 0; line-height:1.45; font-size:14px; }
+    .overview-counts { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; margin-bottom:24px; }
+    .overview-counts div { min-width:0; padding:12px 0; border-top:2px solid var(--border); }
+    .overview-counts strong { display:block; font-size:23px; line-height:1.1; }
+    .overview-counts span { display:block; margin-top:5px; color:var(--warm-gray); font-size:12px; overflow-wrap:anywhere; }
+    .overview-list { border-top:1px solid var(--border); padding-top:20px; }
+    .overview-list-header { display:flex; align-items:baseline; justify-content:space-between; gap:14px; }
+    .overview-list-header span { font-size:12px; color:var(--warm-gray); }
+    .overview-group { margin-top:16px; }
+    .overview-group h4 { margin:0 0 5px; color:var(--event-dark); font-size:12px; letter-spacing:.06em; text-transform:uppercase; }
+    .overview-item { width:100%; display:grid; grid-template-columns:54px minmax(0,1fr) auto; align-items:baseline; gap:12px; padding:9px 3px; background:none; border:0; border-bottom:1px solid var(--border); text-align:left; font:inherit; cursor:pointer; }
+    .overview-item:hover { background:var(--filler-bg); }
+    .overview-item time { color:var(--warm-gray); font-size:12px; white-space:nowrap; }
+    .overview-item .overview-item-title { min-width:0; font-size:13px; font-weight:700; overflow-wrap:anywhere; }
+    .overview-status { font-size:11px; color:var(--warm-gray); white-space:nowrap; }
+    .overview-status.done { color:#187b4d; }
+    .overview-tools { display:flex; flex-wrap:wrap; gap:10px 20px; align-items:center; margin-top:22px; }
+    .overview-tools button,.overview-tools a { background:none; border:0; padding:3px 0; color:var(--event-dark); font:700 12px Figtree,sans-serif; text-decoration:underline; text-underline-offset:3px; cursor:pointer; }
+    @media(max-width:900px) { .binder-tabs-group { display:flex; position:fixed; top:auto; bottom:0; right:0; left:0; transform:none; flex-direction:row; justify-content:center; align-items:flex-end; background:var(--ivory); padding:8px 8px 0; z-index:90; } .binder-tab-wrap,.binder-tab-wrap:nth-child(2),.binder-tab-wrap:nth-child(3) { margin:0 0 0 -8px; } .binder-tab-wrap::before { display:none; } .binder-tab-wrap .binder-tab { width:auto; min-height:44px; padding:10px 13px; border-radius:8px 8px 0 0; } .binder-tab-wrap .binder-tab-text { writing-mode:horizontal-tb; font-size:9px; } .binder-tab-wrap:hover,.binder-tab-wrap:focus-within { transform:translateY(-5px); } }
+    @media(max-width:640px) { .overview-modal,.key-modal { padding:30px 18px; } .overview-counts { gap:6px; } .overview-counts strong { font-size:18px; } .overview-counts span { font-size:10px; } .overview-switch button { padding:9px 10px; font-size:11px; } .overview-item { grid-template-columns:42px minmax(0,1fr); } .overview-status { grid-column:2; } .key-modal #legendRows { grid-template-columns:1fr; } }
+    @media(prefers-reduced-motion:reduce) { .binder-tab-wrap,.binder-overlay { transition:none; } .binder-overlay.open .binder-modal { animation:none; } }
   </style>
 </head>
 <body>
@@ -1380,28 +1430,54 @@
 
   <div class="sync-row" id="syncRow"></div>
 
-  <!-- Binder tabs: stacked on right edge -->
-  <div class="binder-tabs-group">
+  <!-- Binder tabs: overlapping cards at the calendar edge -->
+  <div class="binder-tabs-group" aria-label="Calendar resources">
     <div class="binder-tab-wrap" id="keyTabWrap">
-      <button class="binder-tab" type="button" aria-expanded="false" aria-controls="keyPanel">
+      <button class="binder-tab" type="button" aria-expanded="false" aria-controls="keyOverlay">
         <span class="binder-tab-text">Content Type Key</span>
       </button>
-      <div class="binder-panel" id="keyPanel" inert>
-        <div class="binder-panel-title">Content type key</div>
-        <div id="legendRows"></div>
-      </div>
     </div>
     <div class="binder-tab-wrap" id="paidTabWrap">
       <button class="binder-tab" type="button" aria-expanded="false" aria-controls="paidOverlay">
         <span class="binder-tab-text">Paid Campaigns</span>
       </button>
     </div>
+    <div class="binder-tab-wrap" id="overviewTabWrap">
+      <button class="binder-tab" type="button" aria-expanded="false" aria-controls="overviewOverlay">
+        <span class="binder-tab-text">Campaign Overview</span>
+      </button>
+    </div>
   </div>
 </div>
 
-<div class="paid-overlay" id="paidOverlay" aria-hidden="true">
-  <section class="paid-modal" role="dialog" aria-modal="true" aria-labelledby="paidTitle">
-    <button class="paid-close" id="paidClose" type="button" aria-label="Close Paid Campaigns">&times;</button>
+<div class="paid-overlay binder-overlay" id="keyOverlay" aria-hidden="true">
+  <section class="paid-modal binder-modal key-modal" role="dialog" aria-modal="true" aria-labelledby="keyTitle">
+    <button class="paid-close" type="button" data-close-overlay aria-label="Close Content Type Key">&times;</button>
+    <div class="binder-panel-title">Calendar guide</div>
+    <h2 id="keyTitle">Content type key</h2>
+    <p class="binder-modal-intro">The colors and labels used on calendar cards.</p>
+    <div id="legendRows"></div>
+  </section>
+</div>
+
+<div class="paid-overlay binder-overlay" id="overviewOverlay" aria-hidden="true">
+  <section class="paid-modal binder-modal overview-modal" role="dialog" aria-modal="true" aria-labelledby="overviewTitle">
+    <button class="paid-close" type="button" data-close-overlay aria-label="Close Campaign Overview">&times;</button>
+    <div class="binder-panel-title">GTM marketing update</div>
+    <h2 id="overviewTitle">Campaign overview</h2>
+    <p class="binder-modal-intro">What Marketing is focusing on and what is on the calendar.</p>
+    <div class="overview-switch" role="tablist" aria-label="Overview period">
+      <button type="button" role="tab" data-overview-period="week" aria-selected="true">This week</button>
+      <button type="button" role="tab" data-overview-period="month" aria-selected="false">This month</button>
+      <button type="button" role="tab" data-overview-period="quarter" aria-selected="false">This quarter</button>
+    </div>
+    <div id="overviewContent" role="tabpanel" aria-live="polite"></div>
+  </section>
+</div>
+
+<div class="paid-overlay binder-overlay" id="paidOverlay" aria-hidden="true">
+  <section class="paid-modal binder-modal" role="dialog" aria-modal="true" aria-labelledby="paidTitle">
+    <button class="paid-close" id="paidClose" type="button" data-close-overlay aria-label="Close Paid Campaigns">&times;</button>
     <div class="binder-panel-title">Paid LinkedIn campaigns</div>
     <h2 id="paidTitle">Product awareness at target schools</h2>
     <p class="paid-intro">Weekly reach at named schools, ranked by paid impressions. Engagements and clicks are shown separately.</p>
@@ -2382,7 +2458,8 @@
       'Sequence': 'Sequence', 'Sales Sequence': 'Sequence',
     };
     const typeDisplay = typeDisplayMap[item.type] || item.type;
-    const needsContentPlaceholder = ['Email', 'Product Comms', 'Event Comms'].includes(item.type) && !item.contentLink;
+    const internalEmailLink = isEmailLike(item) && /^https:\/\/app\.hubspot\.com\//.test(item.contentLink || '');
+    const needsContentPlaceholder = isEmailLike(item) && (!item.contentLink || internalEmailLink);
     const hasRegistrationButton = Object.prototype.hasOwnProperty.call(item, 'registrationLink');
     const hasRegistrantButton = Object.prototype.hasOwnProperty.call(item, 'registrantLink');
     const hasAttendeeButton = Object.prototype.hasOwnProperty.call(item, 'attendeeLink');
@@ -2393,7 +2470,7 @@
     const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || contentLinks.length > 0 || item.youtubeLink || hasRegistrationButton || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
     if (hasLinks) {
       html += '<div class="modal-links">';
-      if (item.contentLink) {
+      if (item.contentLink && !internalEmailLink) {
         const btnLabel = item.contentLabel || (isWebinar ? 'View Landing Page' : (item.youtubeLink ? 'View in HubSpot' : 'View ' + typeDisplay));
         html += '<a class="modal-link-primary" href="' + item.contentLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">' + btnLabel + '</a>';
       } else if (needsContentPlaceholder) {
@@ -2543,44 +2620,122 @@
   });
   searchClear.addEventListener('click', () => { clearSearch(); searchInput.focus(); });
 
-  /* ─── Binder tabs: the last opened panel sits on top ── */
-  const binderWraps = [...document.querySelectorAll('.binder-tab-wrap:not(#paidTabWrap)')];
-  function closeBinderTabs() {
-    binderWraps.forEach(wrap => {
+  /* ─── Binder resources ──────────────────────────────── */
+  const binderOverlays = [...document.querySelectorAll('.binder-overlay')];
+  let activeBinderButton = null;
+  let overviewData = null;
+  let overviewPeriod = 'week';
+  function closeBinderOverlay(restoreFocus = true) {
+    binderOverlays.forEach(overlay => {
+      overlay.classList.remove('open');
+      overlay.setAttribute('aria-hidden', 'true');
+    });
+    document.querySelectorAll('.binder-tab-wrap').forEach(wrap => {
       wrap.classList.remove('is-open');
       wrap.querySelector('.binder-tab').setAttribute('aria-expanded', 'false');
-      wrap.querySelector('.binder-panel').inert = true;
-      wrap.style.zIndex = '1';
     });
+    if (restoreFocus && activeBinderButton) activeBinderButton.focus();
+    activeBinderButton = null;
   }
-  binderWraps.forEach(wrap => {
-    wrap.querySelector('.binder-tab').addEventListener('click', e => {
-      e.stopPropagation();
-      const opening = !wrap.classList.contains('is-open');
-      closeBinderTabs();
-      if (opening) {
-        wrap.classList.add('is-open');
-        wrap.querySelector('.binder-tab').setAttribute('aria-expanded', 'true');
-        wrap.querySelector('.binder-panel').inert = false;
-        wrap.style.zIndex = '3';
+  function openBinderOverlay(wrap) {
+    closeBinderOverlay(false);
+    const button = wrap.querySelector('.binder-tab');
+    const overlay = document.getElementById(button.getAttribute('aria-controls'));
+    activeBinderButton = button;
+    wrap.classList.add('is-open');
+    button.setAttribute('aria-expanded', 'true');
+    overlay.classList.add('open');
+    overlay.setAttribute('aria-hidden', 'false');
+    if (overlay.id === 'overviewOverlay') renderCampaignOverview();
+    overlay.querySelector('[data-close-overlay]').focus();
+  }
+  document.querySelectorAll('.binder-tab-wrap').forEach(wrap => {
+    wrap.querySelector('.binder-tab').addEventListener('click', () => openBinderOverlay(wrap));
+  });
+  binderOverlays.forEach(overlay => {
+    overlay.querySelector('[data-close-overlay]').addEventListener('click', () => closeBinderOverlay());
+    overlay.addEventListener('click', event => {
+      if (event.target === overlay) closeBinderOverlay();
+    });
+  });
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && binderOverlays.some(overlay => overlay.classList.contains('open'))) closeBinderOverlay();
+  });
+
+  /* ─── Sales-facing campaign overview ───────────────── */
+  function overviewRange(period) {
+    let start, end;
+    if (period === 'week') {
+      start = getMonday(today);
+      end = addDays(start, 6);
+    } else if (period === 'month') {
+      start = new Date(today.getFullYear(), today.getMonth(), 1);
+      end = new Date(today.getFullYear(), today.getMonth() + 1, 0);
+    } else {
+      const firstMonth = Math.floor(today.getMonth() / 3) * 3;
+      start = new Date(today.getFullYear(), firstMonth, 1);
+      end = new Date(today.getFullYear(), firstMonth + 3, 0);
+    }
+    return { start:toDateStr(start), end:toDateStr(end) };
+  }
+  function overviewGroup(item) {
+    if (['Email','Event Comms','Product Comms'].includes(item.type)) return 'Emails';
+    if (['Social','Article','Case Study','Video'].includes(item.type)) return 'Social and content';
+    if (['Event','Webinar'].includes(item.type)) return 'Events and webinars';
+    if (['Landing Page','Website','Sales Asset'].includes(item.type)) return 'Pages and resources';
+    return null;
+  }
+  function renderCampaignOverview() {
+    const container = document.getElementById('overviewContent');
+    const range = overviewRange(overviewPeriod);
+    const dateLabel = date => new Date(date + 'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric'});
+    const items = allItems.map((item,idx) => ({item,idx}))
+      .filter(({item}) => item.date >= range.start && item.date <= range.end && overviewGroup(item));
+    const coming = items.filter(({item}) => item.date >= toDateStr(today))
+      .sort((a,b) => a.item.date.localeCompare(b.item.date) || a.item.title.localeCompare(b.item.title));
+    const counts = ['Emails','Social and content','Events and webinars','Pages and resources']
+      .map(group => ({group,count:items.filter(({item}) => overviewGroup(item) === group).length}));
+    const focus = overviewData && Array.isArray(overviewData[overviewPeriod]) ? overviewData[overviewPeriod] : [];
+    const updated = overviewData && overviewData.asOf ? dateLabel(overviewData.asOf) + ', ' + overviewData.asOf.slice(0,4) : 'Calendar data';
+    let html = '<div class="overview-period-label">' + dateLabel(range.start) + '–' + dateLabel(range.end) + ' · Updated ' + escHtml(updated) + '</div>';
+    if (focus.length) html += '<section class="overview-focus"><h3>Marketing focus</h3><ul>' + focus.map(line => '<li>' + escHtml(line) + '</li>').join('') + '</ul></section>';
+    html += '<div class="overview-counts" aria-label="Items on the calendar">' + counts.map(({group,count}) => '<div><strong>' + count + '</strong><span>' + escHtml(group) + '</span></div>').join('') + '</div>';
+    html += '<section class="overview-list"><div class="overview-list-header"><h3>Coming up</h3><span>' + coming.length + ' items on the calendar</span></div>';
+    for (const group of ['Emails','Social and content','Events and webinars','Pages and resources']) {
+      const selected = coming.filter(({item}) => overviewGroup(item) === group).slice(0, overviewPeriod === 'week' ? 10 : 6);
+      if (!selected.length) continue;
+      html += '<div class="overview-group"><h4>' + escHtml(group) + '</h4>';
+      for (const {item,idx} of selected) {
+        const status = item.status || 'On calendar';
+        const done = /^(sent|published|completed)$/i.test(status);
+        html += '<button class="overview-item" type="button" data-overview-index="' + idx + '"><time datetime="' + escHtml(item.date) + '">' + dateLabel(item.date) + '</time><span class="overview-item-title">' + escHtml(item.title) + '</span><span class="overview-status' + (done ? ' done' : '') + '">' + escHtml(status) + '</span></button>';
+      }
+      html += '</div>';
+    }
+    html += '</section><div class="overview-tools"><button type="button" id="overviewPaidLink">See paid account results</button><a href="https://app.hubspot.com/contacts/7762472/objectLists/folders?folderId=251480616" target="_blank" rel="noopener">Inbound by product</a><a href="https://app.hubspot.com/contacts/7762472/objectLists/11287/filters" target="_blank" rel="noopener">Portico conference leads</a><a href="https://app.hubspot.com/contacts/7762472/objectLists/11344/filters" target="_blank" rel="noopener">Trajecsys conference leads</a><button type="button" id="overviewShare">Copy overview link</button></div>';
+    container.innerHTML = html;
+    container.querySelectorAll('[data-overview-index]').forEach(button => button.addEventListener('click', () => {
+      const idx = Number(button.dataset.overviewIndex);
+      closeBinderOverlay(false);
+      openItemView(idx, null);
+    }));
+    document.getElementById('overviewPaidLink').addEventListener('click', () => openBinderOverlay(document.getElementById('paidTabWrap')));
+    document.getElementById('overviewShare').addEventListener('click', async event => {
+      const link = new URL(window.location.href);
+      link.searchParams.set('overview', overviewPeriod);
+      try {
+        await navigator.clipboard.writeText(link.toString());
+        event.target.textContent = 'Link copied';
+      } catch (_) {
+        event.target.textContent = 'Copy unavailable';
       }
     });
-  });
-  document.addEventListener('click', e => {
-    if (!e.target.closest('.binder-tabs-group')) closeBinderTabs();
-  });
-  const paidOverlay = document.getElementById('paidOverlay');
-  const paidButton = document.querySelector('#paidTabWrap .binder-tab');
-  function closePaidModal() { paidOverlay.classList.remove('open'); paidOverlay.setAttribute('aria-hidden','true'); paidButton.setAttribute('aria-expanded','false'); paidButton.focus(); }
-  paidButton.addEventListener('click', () => { closeBinderTabs(); paidOverlay.classList.add('open'); paidOverlay.setAttribute('aria-hidden','false'); paidButton.setAttribute('aria-expanded','true'); document.getElementById('paidClose').focus(); });
-  document.getElementById('paidClose').addEventListener('click', closePaidModal);
-  paidOverlay.addEventListener('click', e => { if (e.target === paidOverlay) closePaidModal(); });
-  document.addEventListener('keydown', e => { if (e.key === 'Escape' && paidOverlay.classList.contains('open')) closePaidModal(); });
-
-  document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') closeBinderTabs();
-  });
-
+  }
+  document.querySelectorAll('[data-overview-period]').forEach(button => button.addEventListener('click', () => {
+    overviewPeriod = button.dataset.overviewPeriod;
+    document.querySelectorAll('[data-overview-period]').forEach(tab => tab.setAttribute('aria-selected',String(tab === button)));
+    renderCampaignOverview();
+  }));
 
   /* ─── Request panel toggle ───────────────────────────── */
   document.getElementById('reqBtn').addEventListener('click', e => {
@@ -2597,6 +2752,7 @@
     .then(r => { if (!r.ok) throw new Error(); return r.json(); })
     .then(data => {
       allItems = data.items.filter(i => i.date);
+      overviewData = data.campaignOverview || null;
       if (data.lastUpdated) {
         const d = new Date(data.lastUpdated);
         const datePart = d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
@@ -2607,6 +2763,12 @@
       buildIndex();
       buildLegend();
       render();
+      const overviewParam = new URLSearchParams(window.location.search).get('overview');
+      if (['week','month','quarter'].includes(overviewParam)) {
+        overviewPeriod = overviewParam;
+        document.querySelectorAll('[data-overview-period]').forEach(tab => tab.setAttribute('aria-selected',String(tab.dataset.overviewPeriod === overviewPeriod)));
+        openBinderOverlay(document.getElementById('overviewTabWrap'));
+      }
     })
     .catch(() => { buildIndex(); buildLegend(); render(); });
 </script>
