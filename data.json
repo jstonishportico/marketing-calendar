@@ -5991,9 +5991,22 @@
       "registrationLink": "https://events.teams.microsoft.com/event/64e85759-1de3-4d03-8d66-91590ac40618@6a1c6d42-ff34-458e-b73b-7cb1864b440e",
       "audienceLink": "",
       "status": "Scheduled"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "ASAHP Post-Event Email",
+      "tags": "Clinical Management, Event Follow-Up",
+      "type": "Event Comms",
+      "audience": "ASAHP 2026 registrants",
+      "sender": "Trajecsys",
+      "summary": "Planned follow-up after ASAHP 10/27–29. Use the clean ASAHP registrant segment from the sent 10/26 on-site email; confirm audience overlap, exclusions, Shawna content, and HubSpot preview before sending. Schedule after the 11/3 Nursing Demo Day.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11359/filters",
+      "contentLink": "",
+      "status": "Planned",
+      "goal": "Follow up with ASAHP attendees on their clinical education needs and offer a relevant Trajecsys next step."
     }
   ],
-  "lastUpdated": "2026-11-02T09:32:25-05:00",
+  "lastUpdated": "2026-11-02T09:40:07-05:00",
   "lastUpdatedBy": "Jessica and Codex weekly reconciliation",
   "campaigns": [
     {
