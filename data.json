@@ -6006,7 +6006,7 @@
       "goal": "Follow up with ASAHP attendees on their clinical education needs and offer a relevant Trajecsys next step."
     }
   ],
-  "lastUpdated": "2026-11-02T10:17:41-05:00",
+  "lastUpdated": "2026-11-02T10:27:30-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
@@ -6077,20 +6077,99 @@
   "updated": "2026-10-27",
   "campaignOverview": {
     "asOf": "2026-11-02",
-    "week": [
-      "Promote the 11/3 Trajecsys Nursing Demo Day and the 11/5 customer Support Session.",
-      "Send the customer and prospect College Technology & Software Landscape survey invitations.",
-      "Prepare COE, OADN, and AARC event communications and share the ELEVATE recap."
-    ],
-    "month": [
-      "Promote COE, OADN, AARC Congress, and the NYS Career School Convention with event email and social.",
-      "Publish the November Financial Aid and Portico POV newsletters.",
-      "Announce the Dental Assisting Demo Day and continue Trajecsys customer education."
-    ],
-    "quarter": [
-      "Keep Financial Aid, Attendance, and Clinical Management visible through paid LinkedIn and supporting content.",
-      "Support the Payments launch and Momentum 2027 promotion.",
-      "Finish fall conference communications and maintain the monthly newsletter and webinar cadence."
-    ]
+    "week": {
+      "summary": [
+        {
+          "title": "Marketing priorities",
+          "text": "Get more value from remaining 2026 events, support the Payments launch, and keep Financial Aid, Attendance, and Clinical Management visible."
+        },
+        {
+          "title": "Comms this week",
+          "text": "Customer and prospect surveys, Trajecsys Nursing Demo Day and Support Session invitations, event promotion, and the ELEVATE recap."
+        },
+        {
+          "title": "Coming up",
+          "text": "COE, OADN, AARC Congress, and the NYS Career School Convention, followed by November Financial Aid and Portico POV newsletters."
+        }
+      ],
+      "campaigns": [
+        {
+          "title": "Event promotion and follow-up",
+          "description": "Use conference emails, social, and follow-up to turn fall event interest into conversations and demos."
+        },
+        {
+          "title": "Trajecsys customer education",
+          "description": "Promote the Nursing Demo Day and direct current customers to the Support Sessions for product help."
+        },
+        {
+          "title": "College Technology & Software Landscape surveys",
+          "description": "Invite customers and prospects to share what they value in career-school software and inform 2027 planning."
+        },
+        {
+          "title": "Payments and product awareness",
+          "description": "Keep the Payments launch visible alongside evergreen Financial Aid, Attendance, and Clinical Management campaigns."
+        }
+      ]
+    },
+    "month": {
+      "campaigns": [
+        {
+          "title": "Portico brand and product awareness",
+          "description": "Help people recognize Portico, understand the products we offer, who we serve, and the value we offer."
+        },
+        {
+          "title": "Trajecsys awareness",
+          "description": "Help people understand what Trajecsys is, the value it offers, and that Trajecsys is a Portico brand."
+        },
+        {
+          "title": "Evergreen campaigns",
+          "description": "Drive awareness and demand for Financial Aid, Attendance, and Clinical Management through paid LinkedIn campaigns and supporting content."
+        },
+        {
+          "title": "Payments launch",
+          "description": "Continue launch communications and sales support."
+        },
+        {
+          "title": "Momentum 2027",
+          "description": "Promote early bird registration and the call for proposals."
+        },
+        {
+          "title": "End of year virtual customer event",
+          "description": "Plan a celebration of customers and champions, a look at sector and product changes, a roadmap preview, and an executive greeting."
+        },
+        {
+          "title": "Events through 2026",
+          "description": "Use event communications and follow-up to help turn conference interest into meetings and demos."
+        }
+      ]
+    },
+    "quarter": {
+      "campaigns": [
+        {
+          "title": "Portico and Trajecsys awareness",
+          "description": "Build recognition of both brands and show how each product helps its intended buyers."
+        },
+        {
+          "title": "Financial Aid, Attendance, and Clinical Management",
+          "description": "Run evergreen paid LinkedIn and content campaigns that keep these three product areas visible to target schools."
+        },
+        {
+          "title": "Payments launch",
+          "description": "Continue product education and sales support for the Payments campaign."
+        },
+        {
+          "title": "Momentum 2027",
+          "description": "Promote early bird registration and customer session proposals."
+        },
+        {
+          "title": "Fall events and follow-up",
+          "description": "Use conference promotion and post-event communications to turn interest into meetings and demos."
+        },
+        {
+          "title": "Customer education and community",
+          "description": "Continue newsletters and Trajecsys webinars while planning the end of year virtual customer event."
+        }
+      ]
+    }
   }
 }
