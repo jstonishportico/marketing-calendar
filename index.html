@@ -1333,16 +1333,18 @@
     .paid-modal .paid-report-link { display:table; width:auto; max-width:none; margin:24px 0 0; padding:12px 18px; font-size:13px; }
     @media(max-width:760px) { .paid-overlay { padding:12px; } .paid-modal { padding:30px 18px; max-height:calc(100vh - 24px); } .paid-section-head { display:block; } .paid-section-date { display:block; margin-top:5px; } .paid-account-grid table { font-size:11px; } .paid-account-grid td,.paid-account-grid th { padding:9px 5px; } .paid-account-grid td:nth-child(2),.paid-account-grid th:nth-child(2) { width:47%; } .paid-account-grid td:first-child,.paid-account-grid th:first-child { width:19%; } .paid-account-grid td:nth-child(n+3),.paid-account-grid th:nth-child(n+3) { width:11.3%; } .rank-new { margin-left:2px; padding:2px 5px; font-size:9px; } }
     /* The tabs share one spine and sit over one another like binder dividers. */
-    .binder-tabs-group { top:190px; right:-40px; transform:none; align-items:flex-start; isolation:isolate; }
+    .binder-tabs-group { top:190px; left:100%; right:auto; transform:none; align-items:flex-start; isolation:isolate; }
     .binder-tab-wrap { --tab-color:var(--obsidian); z-index:3; margin:0; transition:transform .28s cubic-bezier(.2,.75,.2,1), filter .28s; }
     .binder-tab-wrap + .binder-tab-wrap { z-index:2; margin-top:-14px; }
-    .binder-tab-wrap:nth-child(2) { --tab-color:var(--event-dark); margin-left:3px; }
-    .binder-tab-wrap:nth-child(3) { --tab-color:var(--terracotta); z-index:1; margin-left:6px; }
+    .binder-tab-wrap:nth-child(2) { --tab-color:var(--event-dark); }
+    .binder-tab-wrap:nth-child(3) { --tab-color:var(--terracotta); z-index:1; }
+    .binder-tab-wrap::before { content:''; position:absolute; z-index:-1; left:-19px; top:2px; bottom:2px; width:21px; background:var(--white); border-top:1px solid var(--border); border-bottom:1px solid var(--border); box-shadow:0 4px 10px rgba(33,39,33,.1); opacity:0; transform:scaleX(.08); transform-origin:right center; transition:opacity .12s ease,transform .28s cubic-bezier(.2,.75,.2,1); pointer-events:none; }
+    .binder-tab-wrap:is(:hover,.is-opening,.is-open)::before { opacity:1; transform:scaleX(1); }
     .binder-tab-wrap .binder-tab { width:40px; min-height:126px; padding:20px 0; border-radius:0 9px 9px 0; background:var(--tab-color) !important; box-shadow:4px 5px 12px rgba(33,39,33,.19); transition:background .2s,box-shadow .28s; }
     .binder-tab-wrap .binder-tab-text { font-size:10px; letter-spacing:.1em; line-height:1.2; transition:none; }
-    .binder-tab-wrap:hover, .binder-tab-wrap:focus-within { z-index:6; transform:translateX(12px); filter:drop-shadow(2px 5px 6px rgba(33,39,33,.18)); }
+    .binder-tab-wrap:hover { z-index:6; transform:translateX(18px); filter:drop-shadow(2px 5px 6px rgba(33,39,33,.18)); }
     .binder-tab-wrap:hover .binder-tab-text { letter-spacing:.1em; }
-    .binder-tab-wrap.is-open { z-index:7; transform:translateX(14px); }
+    .binder-tab-wrap.is-opening, .binder-tab-wrap.is-open { z-index:7; transform:translateX(18px); }
     .binder-tab-wrap .binder-tab:hover { box-shadow:4px 6px 16px rgba(33,39,33,.24); }
     .binder-overlay { opacity:0; transition:opacity .2s ease; }
     .binder-overlay.open { opacity:1; }
@@ -1372,7 +1374,7 @@
     .overview-sidebar a { display:block; width:max-content; max-width:100%; margin-top:9px; color:var(--event-dark); font-size:12px; font-weight:700; text-decoration:underline; text-underline-offset:2px; overflow-wrap:anywhere; }
     .overview-tools { display:flex; flex-wrap:wrap; gap:10px 20px; align-items:center; margin-top:24px; padding-top:18px; border-top:1px solid var(--border); }
     .overview-tools button,.overview-tools a { background:none; border:0; padding:3px 0; color:var(--event-dark); font:700 12px Figtree,sans-serif; text-decoration:underline; text-underline-offset:3px; cursor:pointer; }
-    @media(max-width:900px) { .binder-tabs-group { display:flex; position:fixed; top:auto; bottom:0; right:0; left:0; transform:none; flex-direction:row; justify-content:center; align-items:flex-end; background:var(--ivory); padding:8px 8px 0; z-index:90; } .binder-tab-wrap,.binder-tab-wrap:nth-child(2),.binder-tab-wrap:nth-child(3) { margin:0 0 0 -8px; } .binder-tab-wrap .binder-tab { width:auto; min-height:44px; padding:10px 13px; border-radius:8px 8px 0 0; } .binder-tab-wrap .binder-tab-text { writing-mode:horizontal-tb; font-size:9px; } .binder-tab-wrap:hover,.binder-tab-wrap:focus-within { transform:translateY(-5px); } }
+    @media(max-width:900px) { .binder-tabs-group { display:flex; position:fixed; top:auto; bottom:0; right:0; left:0; width:auto; transform:none; flex-direction:row; justify-content:center; align-items:flex-end; background:var(--ivory); padding:8px 8px 0; z-index:90; } .binder-tab-wrap,.binder-tab-wrap:nth-child(2),.binder-tab-wrap:nth-child(3) { margin:0 0 0 -8px; } .binder-tab-wrap::before { display:none; } .binder-tab-wrap.is-opening,.binder-tab-wrap.is-open { transform:translateY(-5px); } .binder-tab-wrap .binder-tab { width:auto; min-height:44px; padding:10px 13px; border-radius:8px 8px 0 0; } .binder-tab-wrap .binder-tab-text { writing-mode:horizontal-tb; font-size:9px; } .binder-tab-wrap:hover,.binder-tab-wrap:focus-within { transform:translateY(-5px); } }
     @media(max-width:760px) { .overview-summary { grid-template-columns:1fr; gap:14px; } .overview-columns { grid-template-columns:1fr; } .overview-sidebar { grid-template-columns:repeat(2,minmax(0,1fr)); } }
     @media(max-width:640px) { .overview-modal,.key-modal { padding:30px 18px; } .overview-switch button { padding:9px 10px; font-size:11px; } .overview-sidebar { grid-template-columns:1fr; } .key-modal #legendRows { grid-template-columns:1fr; } }
     @media(prefers-reduced-motion:reduce) { .binder-tab-wrap,.binder-overlay { transition:none; } .binder-overlay.open .binder-modal { animation:none; } }
@@ -2617,15 +2619,17 @@
   /* ─── Binder resources ──────────────────────────────── */
   const binderOverlays = [...document.querySelectorAll('.binder-overlay')];
   let activeBinderButton = null;
+  let binderOpenTimer = null;
   let overviewData = null;
   let overviewPeriod = 'week';
   function closeBinderOverlay(restoreFocus = true) {
+    if (binderOpenTimer) { clearTimeout(binderOpenTimer); binderOpenTimer = null; }
     binderOverlays.forEach(overlay => {
       overlay.classList.remove('open');
       overlay.setAttribute('aria-hidden', 'true');
     });
     document.querySelectorAll('.binder-tab-wrap').forEach(wrap => {
-      wrap.classList.remove('is-open');
+      wrap.classList.remove('is-open', 'is-opening');
       wrap.querySelector('.binder-tab').setAttribute('aria-expanded', 'false');
     });
     if (restoreFocus && activeBinderButton) activeBinderButton.focus();
@@ -2636,12 +2640,19 @@
     const button = wrap.querySelector('.binder-tab');
     const overlay = document.getElementById(button.getAttribute('aria-controls'));
     activeBinderButton = button;
-    wrap.classList.add('is-open');
+    wrap.classList.add('is-opening');
     button.setAttribute('aria-expanded', 'true');
-    overlay.classList.add('open');
-    overlay.setAttribute('aria-hidden', 'false');
     if (overlay.id === 'overviewOverlay') renderCampaignOverview();
-    overlay.querySelector('[data-close-overlay]').focus();
+    const reveal = () => {
+      if (activeBinderButton !== button) return;
+      binderOpenTimer = null;
+      wrap.classList.remove('is-opening');
+      wrap.classList.add('is-open');
+      overlay.classList.add('open');
+      overlay.setAttribute('aria-hidden', 'false');
+      overlay.querySelector('[data-close-overlay]').focus();
+    };
+    binderOpenTimer = window.setTimeout(reveal, window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 170);
   }
   document.querySelectorAll('.binder-tab-wrap').forEach(wrap => {
     wrap.querySelector('.binder-tab').addEventListener('click', () => openBinderOverlay(wrap));
@@ -2653,7 +2664,7 @@
     });
   });
   document.addEventListener('keydown', event => {
-    if (event.key === 'Escape' && binderOverlays.some(overlay => overlay.classList.contains('open'))) closeBinderOverlay();
+    if (event.key === 'Escape' && (binderOpenTimer || binderOverlays.some(overlay => overlay.classList.contains('open')))) closeBinderOverlay();
   });
 
   /* ─── Sales-facing campaign overview ───────────────── */
