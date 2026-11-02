@@ -1368,8 +1368,6 @@
     .overview-sidebar h3 { font-family:'Hepta Slab',Georgia,serif; font-size:15px; margin:0 0 10px; }
     .overview-sidebar p { margin:0 0 12px; color:var(--warm-gray); font-size:12px; }
     .overview-sidebar a { display:block; width:max-content; max-width:100%; margin-top:9px; color:var(--event-dark); font-size:12px; font-weight:700; text-decoration:underline; text-underline-offset:2px; overflow-wrap:anywhere; }
-    .overview-tools { display:flex; flex-wrap:wrap; gap:10px 20px; align-items:center; margin-top:24px; padding-top:18px; border-top:1px solid var(--border); }
-    .overview-tools button,.overview-tools a { background:none; border:0; padding:3px 0; color:var(--event-dark); font:700 12px Figtree,sans-serif; text-decoration:underline; text-underline-offset:3px; cursor:pointer; }
     @media(max-width:900px) { .binder-tabs-group { display:flex; position:fixed; top:auto; bottom:0; right:0; left:0; width:auto; transform:none; flex-direction:row; justify-content:center; align-items:flex-end; background:var(--ivory); padding:8px 8px 0; z-index:90; } .binder-tab-wrap,.binder-tab-wrap:nth-child(2),.binder-tab-wrap:nth-child(3) { margin:0 0 0 -8px; } .binder-tab-wrap .binder-tab { width:auto; min-height:44px; padding:10px 13px; border-radius:8px 8px 0 0; } .binder-tab-wrap .binder-tab-text { writing-mode:horizontal-tb; font-size:9px; } .binder-tab-wrap:hover .binder-tab,.binder-tab-wrap.is-open .binder-tab { width:auto; min-height:44px; } }
     @media(max-width:760px) { .overview-summary { grid-template-columns:1fr; gap:14px; } .overview-columns { grid-template-columns:1fr; } .overview-sidebar { grid-template-columns:repeat(2,minmax(0,1fr)); } }
     @media(max-width:640px) { .overview-modal,.key-modal { padding:30px 18px; } .overview-switch button { padding:9px 10px; font-size:11px; } .overview-sidebar { grid-template-columns:1fr; } .key-modal #legendRows { grid-template-columns:1fr; } }
@@ -2700,19 +2698,7 @@
     const heading = overviewPeriod === 'week' ? 'Campaigns in motion' : overviewPeriod === 'month' ? new Date(range.start + 'T12:00:00').toLocaleDateString('en-US',{month:'long'}) + ' campaigns' : 'Q' + (Math.floor((Number(range.start.slice(5,7)) - 1) / 3) + 1) + ' campaigns';
     html += '<div class="overview-columns"><section class="overview-campaigns"><h3>' + heading + '</h3>' + campaigns.map(c => '<div class="overview-campaign"><h4>' + escHtml(c.title) + '</h4><p>' + escHtml(c.description) + '</p></div>').join('') + '</section>';
     html += '<aside class="overview-sidebar"><section><h3>Essential sales links</h3><p>Find product interest, event contacts, and Demo Days requests.</p>' + renderLinks(salesLinks) + '</section><section><h3>Quick GTM links</h3>' + renderLinks(quickLinks) + '</section></aside></div>';
-    html += '<div class="overview-tools"><a href="https://jstonishportico.github.io/marketing-calendar/?view=week" target="_blank" rel="noopener">View live marketing calendar</a><button type="button" id="overviewPaidLink">See paid account results</button><button type="button" id="overviewShare">Copy overview link</button></div>';
     container.innerHTML = html;
-    document.getElementById('overviewPaidLink').addEventListener('click', () => openBinderOverlay(document.getElementById('paidTabWrap')));
-    document.getElementById('overviewShare').addEventListener('click', async event => {
-      const link = new URL(window.location.href);
-      link.searchParams.set('overview', overviewPeriod);
-      try {
-        await navigator.clipboard.writeText(link.toString());
-        event.target.textContent = 'Link copied';
-      } catch (_) {
-        event.target.textContent = 'Copy unavailable';
-      }
-    });
   }
   document.querySelectorAll('[data-overview-period]').forEach(button => button.addEventListener('click', () => {
     overviewPeriod = button.dataset.overviewPeriod;
