@@ -4407,13 +4407,13 @@
       "performance": "As of 10/27/26: 105 delivered; 15 opens (14.3%); 1 clicks (1.0%)."
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-11-03",
       "tags": "Portico Suite, Event Promo",
       "title": "COE Landing Page",
       "type": "Landing Page",
       "audience": "Career education leaders",
       "sender": "Portico",
-      "summary": "Carried into next week from 10/20. No published HubSpot COE page found 10/23; verify event details before publishing.",
+      "summary": "Build the COE event page ahead of its 11/10–12 conference. COE does not provide an attendee list; do not imply a registrant email list exists.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned",
@@ -4509,20 +4509,30 @@
       "type": "Email",
       "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
-      "summary": "Planned for Marketing contacts and Portico roster. HubSpot send and final audience are unverified.",
+      "summary": "Sent 10/29/26. October Portico POV included Payments-related content. HubSpot subject: Portico POV: October Edition.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned",
-      "goal": "Build trust through useful perspectives and educate readers on Portico products, events, and field issues."
+      "contentLink": "https://app.hubspot.com/email/7762472/details/225899020576/performance",
+      "status": "Sent",
+      "goal": "Build trust through useful perspectives and educate readers on Portico products, events, and field issues.",
+      "audienceLinks": [
+        {
+          "label": "Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Marketing Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters"
+        }
+      ]
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-11-05",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress Landing Page",
       "type": "Landing Page",
       "audience": "Respiratory therapists and educators",
       "sender": "Trajecsys",
-      "summary": "Carried into next week from 10/23. The existing AARC giveaway page at /ast2026 is not a verified Congress landing page; build or confirm a matching event page.",
+      "summary": "Build or verify the AARC Congress event page before the 11/6 pre-event email. Do not use the unrelated AARC giveaway page as its destination.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned",
@@ -4563,19 +4573,6 @@
       "attendees": "Brian, Ron",
       "summary": "Keiser University's convocation brings its academic programs and leaders together.",
       "positioning": "For Keiser programs with clinical placements, Trajecsys keeps student hours, competencies, evaluations, and site records together. Ask which programs need a clearer view across sites."
-    },
-    {
-      "date": "2026-10-29",
-      "tags": "Clinical Management, Event Promo",
-      "title": "NELNE Fall Conference Pre-Event Email",
-      "type": "Event Comms",
-      "audience": "Nursing educators",
-      "sender": "Trajecsys",
-      "summary": "Planned for 10/29, the day before NELNE. Jessica confirmed the attendee list was received; verify the HubSpot audience and exclusions before sending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned",
-      "goal": "Drive on-site demos and introduce the brand and relevant offerings to event attendees."
     },
     {
       "date": "2026-10-23",
@@ -4657,41 +4654,6 @@
     },
     {
       "date": "2026-10-28",
-      "tags": "Clinical Management, Event Promo",
-      "title": "ASAHP On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Health professions education",
-      "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
-    },
-    {
-      "date": "2026-10-29",
-      "tags": "Clinical Management, Event Promo",
-      "title": "NELNE Fall Conference Pre-Event Social Post",
-      "type": "Social",
-      "audience": "Nursing educators",
-      "sender": "Trajecsys",
-      "summary": "Pre-event LinkedIn post for NELNE Fall Conference. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-10-29",
-      "title": "Trajecsys Demo Days Nursing 11/3 Promo Email",
-      "tags": "Clinical Management, Webinar Promo",
-      "type": "Email",
-      "audience": "Nursing job titles",
-      "sender": "Trajecsys",
-      "summary": "Planned for 10/29 for nursing job titles. Verify HubSpot send audience and exclude registrants before sending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned",
-      "goal": "Educate the named audience and prompt a relevant next conversation."
-    },
-    {
-      "date": "2026-10-28",
       "tags": "Clinical Management, Event Follow-Up",
       "title": "AACN Post-Event Email",
       "type": "Event Comms",
@@ -4720,12 +4682,12 @@
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-10-28",
+      "date": "2026-11-06",
       "tags": "Portico Suite, Event Promo",
       "title": "Career Schools NYS Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Dedicated event landing page planned for Career Schools NYS. Add the final page only after the event details, CTA, and destination are verified.",
+      "summary": "Build the NYS Career School Convention page before the 11/11 pre-event email and 11/18–19 event.",
       "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
@@ -4757,17 +4719,6 @@
       "positioning": "For nursing educators, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
     },
     {
-      "date": "2026-10-30",
-      "tags": "Clinical Management, Event Promo",
-      "title": "NELNE Fall Conference On-Site LinkedIn Post",
-      "type": "Social",
-      "audience": "Nursing",
-      "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
-    },
-    {
       "date": "2026-10-31",
       "tags": "Portico Brand",
       "title": "Happy Halloween",
@@ -4791,15 +4742,16 @@
       "contentLink": ""
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "tags": "Clinical Management, Event Follow-Up",
       "title": "NELNE Fall Conference Post-Event Email",
       "type": "Event Comms",
       "audience": "NELNE Fall Conference attendees and event-sourced contacts",
       "sender": "Trajecsys",
-      "summary": "Post-event email planned for 11/2 after NELNE. Jessica confirmed the attendee list was received on 10/23; HubSpot upload/send segment remains to be verified. Use event conversations and form leads to determine the follow-up audience.",
+      "summary": "Post-event follow-up after the 10/30 NELNE conference. Verify attendee audience and send settings; do not send the expired pre-event email.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-11-02",
@@ -4812,17 +4764,6 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
-    },
-    {
-      "date": "2026-11-03",
-      "tags": "Portico Suite, Event Promo",
-      "title": "COE Pre-Event Email",
-      "type": "Event Comms",
-      "audience": "Career education leaders",
-      "sender": "Portico",
-      "summary": "One-week pre-event email planned for COE. Confirm the attendee audience, meeting route, and landing page before scheduling.",
-      "audienceLink": "",
-      "contentLink": ""
     },
     {
       "date": "2026-11-03",
@@ -4858,7 +4799,7 @@
       "type": "Event Comms",
       "audience": "Nursing education leaders",
       "sender": "Trajecsys",
-      "summary": "One-week pre-event email planned for OADN. Confirm the attendee audience, meeting route, and landing page before scheduling.",
+      "summary": "Planned for 11/5, one week before OADN. Verify an approved recipient audience, exclusions, and the conference/happy-hour links before sending.",
       "audienceLink": "",
       "contentLink": ""
     },
@@ -4869,20 +4810,9 @@
       "type": "Event Comms",
       "audience": "Respiratory therapists and educators",
       "sender": "Trajecsys",
-      "summary": "One-week pre-event email planned for AARC Congress. Confirm the attendee audience, meeting route, and landing page before scheduling.",
+      "summary": "Planned for 11/6. Verify the approved respiratory-education audience and Congress landing page before sending.",
       "audienceLink": "",
       "contentLink": ""
-    },
-    {
-      "audience": "Career education leaders",
-      "sender": "Portico",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-11-06",
-      "tags": "Portico Suite, Event Promo",
-      "title": "COE Final Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before COE. Check overlap with other sends and link only to the verified event landing page."
     },
     {
       "date": "2026-11-06",
@@ -4891,9 +4821,10 @@
       "type": "Social",
       "audience": "Career education leaders",
       "sender": "Portico",
-      "summary": "Pre-event LinkedIn post for COE. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
+      "summary": "Portico LinkedIn conference preview for COE 11/10–12. Use the COE graphic and reader-first copy; add the live post link when published.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-11-09",
@@ -4902,9 +4833,10 @@
       "type": "Social",
       "audience": "Nursing education leaders",
       "sender": "Trajecsys",
-      "summary": "Pre-event LinkedIn post for OADN. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
+      "summary": "Trajecsys LinkedIn conference preview for OADN 11/12–14. Use the OADN graphic and approved copy; add the live post link when published.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-11-10",
@@ -4929,7 +4861,8 @@
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "summary": "Optional Portico on-site post only with a fresh event photo and no other Portico post that day."
     },
     {
       "audience": "Nursing education leaders",
@@ -4949,9 +4882,10 @@
       "type": "Social",
       "audience": "Respiratory therapists and educators",
       "sender": "Trajecsys",
-      "summary": "Pre-event LinkedIn post for AARC Congress. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available.",
+      "summary": "Trajecsys LinkedIn conference preview for AARC Congress 11/14–17. Use the AARC graphic and approved copy; add the live post link when published.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "audience": "Career schools in New York",
@@ -5023,18 +4957,20 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Planned",
+      "summary": "Optional Trajecsys on-site post only with a fresh event photo and no other Trajecsys post that day."
     },
     {
       "audience": "Career schools in New York",
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "tags": "Portico Suite, Event Promo",
       "title": "Career Schools NYS Pre-Event Social Post",
       "type": "Social",
-      "summary": "Pre-event LinkedIn post for Career Schools NYS. Amanda Widzinski owns the conference creative. Add the approved asset or live post link when available."
+      "summary": "Portico LinkedIn conference preview for the 11/18–19 NYS Career School Convention. Use the CNYSCS graphic and approved copy; add the live post link when published.",
+      "status": "Planned"
     },
     {
       "date": "2026-11-13",
@@ -5782,13 +5718,13 @@
       "contentLink": "https://thecommons.porticoedu.com/what-i-wish-i-knew-in-my-first-year-of-admissions"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-11-04",
       "title": "OADN Trajecsys × Cisive Happy Hour RSVP Page",
       "type": "Landing Page",
       "tags": "Clinical Management, Event Promo",
       "audience": "OADN attendees and invited guests",
       "sender": "Trajecsys and Cisive",
-      "summary": "Carried to Monday 10/26. Build a separate co-branded RSVP page and form for the 11/12 happy hour at Mexico Ceaty in San Antonio. Amanda’s postcard has a placeholder URL; confirm the venue contract before public launch and replace the postcard URL after the page is live.",
+      "summary": "Build and verify the separate OADN/Cisive happy-hour RSVP page and form before the 11/5 OADN email.",
       "status": "Planned",
       "contentLink": "",
       "audienceLink": "",
@@ -5830,26 +5766,26 @@
       "performance": "As of 10/27/26: 487 delivered; 103 opens (21.1%); 3 clicks (0.6%)."
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-11-02",
       "title": "Customer Survey Invitation",
       "tags": "Portico Brand, Customer Research",
       "type": "Email",
       "audience": "Portico customers",
       "sender": "Portico",
-      "summary": "Planned for Portico customers. HubSpot send and final audience are unverified.",
+      "summary": "Customer invitation to the College Technology & Software Landscape survey; about 10 minutes, optional $200 gift-card entry and results summary. Final survey link and audience must be verified before send.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned",
       "goal": "Gather customer or prospect feedback to guide Portico decisions."
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-11-02",
       "title": "Prospect Survey Invitation",
       "tags": "Portico Brand, Prospect Research",
       "type": "Email",
       "audience": "Portico prospects",
       "sender": "Portico",
-      "summary": "Planned for Portico prospects. HubSpot send and final audience are unverified.",
+      "summary": "Prospect invitation to the College Technology & Software Landscape survey; about 10 minutes and optional $200 gift-card entry. Final survey link and audience must be verified before send.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned",
@@ -5934,10 +5870,131 @@
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Trajecsys Support Session Second Invite",
+      "type": "Email",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Customer Success",
+      "audience": "Trajecsys users",
+      "summary": "Sent 10/29/26. Subject: Have a Trajecsys question? Join us November 5.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters",
+      "contentLink": "https://app.hubspot.com/email/7762472/details/225914352310/performance",
+      "status": "Sent"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "FA Refund Processing Delays Notification",
+      "type": "Email",
+      "sender": "Portico",
+      "tags": "Financial Aid, Customer Success",
+      "audience": "Financial aid customers",
+      "summary": "Sent by Natalie 10/30/26. Subject: Refund Processing Delays in G5.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters",
+      "contentLink": "https://app.hubspot.com/email/7762472/details/226039004947/performance",
+      "status": "Sent"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "ELEVATE Recap LinkedIn Post",
+      "type": "Social",
+      "sender": "Portico",
+      "tags": "Portico Suite, Event Recap",
+      "audience": "Career education leaders",
+      "summary": "Share ELEVATE content carried from last week on the Portico LinkedIn page. Confirm photo/creative and final copy before publishing.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "ACEN LEAP Pre-Event Social Post",
+      "type": "Social",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Event Promo",
+      "audience": "Nursing accreditation teams",
+      "summary": "Trajecsys LinkedIn preview for the 11/5–6 ACEN LEAP Workshop, three days before opening. Use the ACEN LEAP graphic and approved copy.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "October POV LinkedIn Follow-Up",
+      "type": "Social",
+      "sender": "Portico",
+      "tags": "Portico Brand, Newsletter",
+      "audience": "Career education leaders",
+      "summary": "Share one useful point from the sent October Portico POV newsletter. Confirm the specific excerpt and graphic before posting.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "The Commons Weekly Article Share",
+      "type": "Social",
+      "sender": "The Commons",
+      "tags": "The Commons, Content",
+      "audience": "Career education readers",
+      "summary": "Share one published Commons article this week. Select a recent article not already shared, or a relevant evergreen article; add the exact article and post links when chosen.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Trajecsys Current Customer Support Session Email",
+      "type": "Email",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Customer Success",
+      "audience": "Current Trajecsys customers; exclude from prospect Nursing Demo Day invitation",
+      "summary": "Current-customer message modeled on the 10/8 pre-demo customer communication. Direct customers to Trajecsys Support Sessions on 11/5 rather than the 11/3 Nursing Demo Day. Verify current-customer list, suppression from prospect invite, registration link, and send timing.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Trajecsys Support Session Final Invite",
+      "type": "Email",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Customer Success",
+      "audience": "Trajecsys customers who have not registered",
+      "summary": "Final invitation one day before the 11/5 customer Support Session at 1 PM ET. Suppress registrants and verify registration link and prior-send frequency.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Trajecsys Support Session Day-Of Reminder",
+      "type": "Email",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Customer Success",
+      "audience": "Registered customers for the 11/5 Support Session",
+      "summary": "Optional morning reminder to registered customers for the 11/5 session at 1 PM ET. Confirm whether Teams registration already sends an automatic reminder before scheduling a duplicate.",
+      "audienceLink": "",
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Trajecsys Support Session: November 5",
+      "type": "Webinar",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Customer Success",
+      "audience": "Current Trajecsys customers",
+      "summary": "Customer open office hours hosted by Tiffany and the Trajecsys support team, 1–1:45 PM ET. Customers can bring questions about using the platform.",
+      "contentLink": "",
+      "registrationLink": "https://events.teams.microsoft.com/event/64e85759-1de3-4d03-8d66-91590ac40618@6a1c6d42-ff34-458e-b73b-7cb1864b440e",
+      "audienceLink": "",
+      "status": "Scheduled"
     }
   ],
-  "lastUpdated": "2026-10-28T16:01:04-04:00",
-  "lastUpdatedBy": "Codex",
+  "lastUpdated": "2026-11-02T09:32:25-05:00",
+  "lastUpdatedBy": "Jessica and Codex weekly reconciliation",
   "campaigns": [
     {
       "name": "Intent-based outbound campaigns",

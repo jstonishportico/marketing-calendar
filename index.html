@@ -1299,6 +1299,27 @@
       .calendar-top { padding:28px 24px; }
       .binder-tabs-group { display:none; }
     }
+
+    .paid-overlay { position:fixed; inset:0; z-index:105; display:none; align-items:center; justify-content:center; padding:24px; background:rgba(24,29,26,.68); }
+    .paid-overlay.open { display:flex; }
+    .paid-modal { position:relative; width:min(1080px,100%); max-height:calc(100vh - 48px); overflow:auto; padding:34px 38px; background:var(--white); color:var(--obsidian); box-shadow:0 18px 70px rgba(0,0,0,.2); }
+    .paid-modal h2 { font-family:'Hepta Slab',Georgia,serif; font-size:23px; margin:8px 0 10px; }
+    .paid-modal p { font-size:13px; line-height:1.5; }
+    .paid-close { position:absolute; right:16px; top:12px; border:0; background:transparent; font-size:29px; cursor:pointer; color:var(--obsidian); }
+    .paid-modal .paid-target-grid { margin:18px 0; }
+    .paid-modal .paid-account-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:24px; margin-top:22px; }
+    .paid-account-grid table { border-collapse:collapse; width:100%; font-size:11px; }
+    .paid-account-grid th { text-align:left; color:var(--dim); text-transform:uppercase; font-size:9px; letter-spacing:.05em; }
+    .paid-account-grid th:nth-child(n+3), .paid-account-grid td:nth-child(n+3) { text-align:right; }
+    .paid-account-grid td,.paid-account-grid th { padding:8px 5px; border-bottom:1px solid var(--border); }
+    .paid-account-grid td:nth-child(2) { width:53%; }
+    .paid-account-grid td:first-child { white-space:nowrap; }
+    .rank-up { color:#187b4d; font-weight:700; }
+    .rank-down { color:#b33b3b; font-weight:700; }
+    .rank-flat { color:var(--dim); }
+    .rank-new { color:#155e77; font-weight:800; font-size:9px; }
+    .paid-modal .paid-report-link { max-width:400px; margin:20px auto 0; }
+    @media(max-width:760px) { .paid-modal { padding:26px 18px; } .paid-modal .paid-account-grid { grid-template-columns:1fr; } }
   </style>
 </head>
 <body>
@@ -1359,37 +1380,10 @@
       </div>
     </div>
     <div class="binder-tab-wrap" id="paidTabWrap">
-      <button class="binder-tab" type="button" aria-expanded="false" aria-controls="paidPanel">
+      <button class="binder-tab" type="button" aria-expanded="false" aria-controls="paidOverlay">
         <span class="binder-tab-text">Paid Campaigns</span>
       </button>
-      <section class="binder-panel paid-panel" id="paidPanel" aria-label="Paid Campaigns overview" inert>
-        <div class="binder-panel-title">Paid LinkedIn campaigns</div>
-        <h2>Product awareness at target schools</h2>
-        <p class="paid-intro">These ads introduce Portico and Trajecsys to buyer roles at named target accounts. The current report tracks who was reached, how often, and which accounts engaged.</p>
-        <a class="paid-report-link" href="https://client-reports-production-0d09.up.railway.app/portico/linkedin-ads-report" target="_blank" rel="noopener">Open the live LinkedIn ads report →</a>
-        <p class="paid-access-note">Report password <strong>portico2026</strong> (all lowercase)</p>
-        <div class="paid-target-grid">
-          <div class="paid-target"><strong>Attendance</strong><span>301 target accounts receive Portico Attendance awareness ads.</span></div>
-          <div class="paid-target"><strong>Financial Aid</strong><span>301 target accounts receive Portico Financial Aid awareness ads.</span></div>
-          <div class="paid-target"><strong>Clinical Management</strong><span>209 target accounts receive Trajecsys awareness ads.</span></div>
-        </div>
-        <p class="paid-roles"><strong>Buyer targeting</strong> Manager level and above in education and finance roles, at target accounts in the United States. The report does not name exact job titles.</p>
-        <div class="paid-account-grid">
-          <section aria-label="Portico engaged accounts">
-            <h3>Portico · most paid engagements</h3>
-            <ol>
-              <li>University of California, Berkeley <span>40</span></li>
-              <li>Emory University <span>40</span></li>
-              <li>Embry-Riddle Aeronautical University <span>36</span></li>
-              <li>Grand Canyon University <span>29</span></li>
-              <li>Walden University <span>19</span></li>
-              <li>Brigham Young University <span>16</span></li>
-              <li>Colby College <span>14</span></li>
-              <li>Columbia Southern University <span>14</span></li>
-              <li>AMU &amp; APU part of American Public University System, Inc. <span>12</span></li>
-              <li>Full Sail University <span>10</span></li>
-            </ol>
-          </section>
+
           <section aria-label="Trajecsys engaged accounts">
             <h3>Trajecsys · most paid engagements</h3>
             <ol>
@@ -1410,6 +1404,49 @@
       </section>
     </div>
   </div>
+</div>
+
+<div class="paid-overlay" id="paidOverlay" aria-hidden="true">
+  <section class="paid-modal" role="dialog" aria-modal="true" aria-labelledby="paidTitle">
+    <button class="paid-close" id="paidClose" type="button" aria-label="Close Paid Campaigns">&times;</button>
+    <div class="binder-panel-title">Paid LinkedIn campaigns</div>
+    <h2 id="paidTitle">Product awareness at target schools</h2>
+    <p>These campaigns reach buyer roles at named target schools. Weekly rank is by paid impressions; engagement and clicks are shown separately.</p>
+    <div class="paid-target-grid">
+      <div class="paid-target"><strong>Attendance</strong><span>301 Portico target accounts</span></div>
+      <div class="paid-target"><strong>Financial Aid</strong><span>301 Portico target accounts</span></div>
+      <div class="paid-target"><strong>Clinical Management</strong><span>209 Trajecsys target accounts</span></div>
+    </div>
+    <p class="paid-roles"><strong>Buyer targeting</strong> Manager level and above in education and finance roles at US target accounts.</p>
+    <div class="paid-account-grid">
+      <section aria-label="Portico top accounts"><h3>Portico · 10/26–11/1</h3><table><thead><tr><th>Rank</th><th>School</th><th>Impr.</th><th>Eng.</th><th>Clicks</th></tr></thead><tbody>
+        <tr><td>1 <span class="rank-flat">—</span></td><td>UC Berkeley</td><td>777</td><td>17</td><td>14</td></tr>
+        <tr><td>2 <span class="rank-flat">—</span></td><td>Emory University</td><td>483</td><td>9</td><td>9</td></tr>
+        <tr><td>3 <span class="rank-up">▲ 1</span></td><td>Embry-Riddle Aeronautical University</td><td>337</td><td>4</td><td>0</td></tr>
+        <tr><td>4 <span class="rank-down">▼ 1</span></td><td>Grand Canyon University</td><td>296</td><td>5</td><td>0</td></tr>
+        <tr><td>5 <span class="rank-flat">—</span></td><td>Brigham Young University</td><td>189</td><td>4</td><td>0</td></tr>
+        <tr><td>6 <span class="rank-up">▲ 1</span></td><td>Capella University</td><td>189</td><td>0</td><td>0</td></tr>
+        <tr><td>7 <span class="rank-down">▼ 1</span></td><td>Walden University</td><td>186</td><td>4</td><td>6</td></tr>
+        <tr><td>8 <span class="rank-flat">—</span></td><td>AMU &amp; APU</td><td>126</td><td>0</td><td>0</td></tr>
+        <tr><td>9 <span class="rank-new">NEW</span></td><td>Full Sail University</td><td>122</td><td>6</td><td>5</td></tr>
+        <tr><td>10 <span class="rank-down">▼ 1</span></td><td>Indiana University School of Medicine</td><td>115</td><td>4</td><td>4</td></tr>
+      </tbody></table></section>
+      <section aria-label="Trajecsys top accounts"><h3>Trajecsys · 10/26–11/1</h3><table><thead><tr><th>Rank</th><th>School</th><th>Impr.</th><th>Eng.</th><th>Clicks</th></tr></thead><tbody>
+        <tr><td>1 <span class="rank-flat">—</span></td><td>Florida State University</td><td>192</td><td>6</td><td>5</td></tr>
+        <tr><td>2 <span class="rank-flat">—</span></td><td>Dallas College</td><td>86</td><td>7</td><td>5</td></tr>
+        <tr><td>3 <span class="rank-up">▲ 1</span></td><td>University of New Mexico</td><td>71</td><td>0</td><td>0</td></tr>
+        <tr><td>4 <span class="rank-down">▼ 1</span></td><td>College of DuPage</td><td>60</td><td>0</td><td>0</td></tr>
+        <tr><td>5 <span class="rank-up">▲ 3</span></td><td>Tarrant County College</td><td>48</td><td>0</td><td>0</td></tr>
+        <tr><td>6 <span class="rank-down">▼ 1</span></td><td>Saint Joseph's University</td><td>39</td><td>4</td><td>0</td></tr>
+        <tr><td>7 <span class="rank-down">▼ 1</span></td><td>Austin Community College</td><td>34</td><td>0</td><td>0</td></tr>
+        <tr><td>8 <span class="rank-new">NEW</span></td><td>Community College of Baltimore County</td><td>29</td><td>0</td><td>0</td></tr>
+        <tr><td>9 <span class="rank-down">▼ 2</span></td><td>New Mexico State University</td><td>29</td><td>0</td><td>0</td></tr>
+        <tr><td>10 <span class="rank-new">NEW</span></td><td>Middlesex Community College</td><td>28</td><td>3</td><td>0</td></tr>
+      </tbody></table></section>
+    </div>
+    <p class="paid-snapshot-note">Rank changes compare the 10/26–11/1 and 10/19–10/25 top ten by paid impressions. NEW means newly in the top ten; it does not necessarily mean a newly reached account. A higher rank does not mean more clicks.</p>
+    <a class="paid-report-link" href="https://client-reports-production-0d09.up.railway.app/portico/linkedin-ads-report" target="_blank" rel="noopener">Open the live LinkedIn ads report →</a>
+  </section>
 </div>
 
 <!-- Request button -->
@@ -2520,15 +2557,7 @@
   searchClear.addEventListener('click', () => { clearSearch(); searchInput.focus(); });
 
   /* ─── Binder tabs: the last opened panel sits on top ── */
-  const binderWraps = [...document.querySelectorAll('.binder-tab-wrap')];
-  function positionPaidPanel() {
-    const wrap = document.getElementById('paidTabWrap');
-    const panel = document.getElementById('paidPanel');
-    const wrapTop = wrap.getBoundingClientRect().top;
-    const panelHeight = panel.offsetHeight;
-    const availableTop = Math.max(16, window.innerHeight - panelHeight - 16);
-    panel.style.top = (Math.min(Math.max(16, wrapTop), availableTop) - wrapTop) + 'px';
-  }
+  const binderWraps = [...document.querySelectorAll('.binder-tab-wrap:not(#paidTabWrap)')];
   function closeBinderTabs() {
     binderWraps.forEach(wrap => {
       wrap.classList.remove('is-open');
@@ -2547,18 +2576,22 @@
         wrap.querySelector('.binder-tab').setAttribute('aria-expanded', 'true');
         wrap.querySelector('.binder-panel').inert = false;
         wrap.style.zIndex = '3';
-        if (wrap.id === 'paidTabWrap') positionPaidPanel();
       }
     });
   });
   document.addEventListener('click', e => {
     if (!e.target.closest('.binder-tabs-group')) closeBinderTabs();
   });
+  const paidOverlay = document.getElementById('paidOverlay');
+  const paidButton = document.querySelector('#paidTabWrap .binder-tab');
+  function closePaidModal() { paidOverlay.classList.remove('open'); paidOverlay.setAttribute('aria-hidden','true'); paidButton.setAttribute('aria-expanded','false'); paidButton.focus(); }
+  paidButton.addEventListener('click', () => { closeBinderTabs(); paidOverlay.classList.add('open'); paidOverlay.setAttribute('aria-hidden','false'); paidButton.setAttribute('aria-expanded','true'); document.getElementById('paidClose').focus(); });
+  document.getElementById('paidClose').addEventListener('click', closePaidModal);
+  paidOverlay.addEventListener('click', e => { if (e.target === paidOverlay) closePaidModal(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && paidOverlay.classList.contains('open')) closePaidModal(); });
+
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape') closeBinderTabs();
-  });
-  window.addEventListener('resize', () => {
-    if (document.getElementById('paidTabWrap').classList.contains('is-open')) positionPaidPanel();
   });
 
 
