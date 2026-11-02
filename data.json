@@ -4637,10 +4637,10 @@
       "type": "Email",
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
-      "summary": "Role-specific day-before reminder for the 11/3 Nursing session. HubSpot email preview and audience list pending.",
+      "summary": "Sent 11/2 as the day-before invite for the 11/3 Nursing Demo Day. HubSpot preview link still needs to be added.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Sent"
     },
     {
       "date": "2026-11-03",
@@ -5761,16 +5761,16 @@
       "status": "Planned"
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-02",
       "title": "Trajecsys Current Customer Support Session Email",
       "type": "Email",
       "sender": "Trajecsys",
       "tags": "Clinical Management, Customer Success",
       "audience": "Current Trajecsys customers; exclude from prospect Nursing Demo Day invitation",
-      "summary": "Current-customer message modeled on the 10/8 pre-demo customer communication. Direct customers to Trajecsys Support Sessions on 11/5 rather than the 11/3 Nursing Demo Day. Verify current-customer list, suppression from prospect invite, registration link, and send timing.",
+      "summary": "Sent 11/2 to current Trajecsys customers. Clarifies that the 11/3 Nursing Demo Day is a sales webinar and directs customers seeking product help to the support session. HubSpot preview link still needs to be added.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
+      "status": "Sent"
     },
     {
       "date": "2026-11-04",
@@ -5823,7 +5823,7 @@
       "goal": "Follow up with ASAHP attendees on their clinical education needs and offer a relevant Trajecsys next step."
     }
   ],
-  "lastUpdated": "2026-11-02T13:40:00-05:00",
+  "lastUpdated": "2026-11-02T14:25:31-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
