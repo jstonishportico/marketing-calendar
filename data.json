@@ -5613,10 +5613,10 @@
       "type": "Email",
       "audience": "Portico customers",
       "sender": "Portico",
-      "summary": "Customer invitation to the College Technology & Software Landscape survey; about 10 minutes, optional $200 gift-card entry and results summary. Final survey link and audience must be verified before send.",
+      "summary": "Drafted in HubSpot on 11/2 and awaiting final approval. Customer invitation to the College Technology & Software Landscape survey; about 10 minutes, optional $200 gift-card entry and results summary. Final survey link and audience must be verified before send.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned",
+      "status": "Awaiting Approval",
       "goal": "Gather customer or prospect feedback to guide Portico decisions."
     },
     {
@@ -5626,10 +5626,10 @@
       "type": "Email",
       "audience": "Portico prospects",
       "sender": "Portico",
-      "summary": "Prospect invitation to the College Technology & Software Landscape survey; about 10 minutes and optional $200 gift-card entry. Final survey link and audience must be verified before send.",
+      "summary": "Drafted in HubSpot on 11/2 and awaiting final approval. Prospect invitation to the College Technology & Software Landscape survey; about 10 minutes and optional $200 gift-card entry. Final survey link and audience must be verified before send.",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned",
+      "status": "Awaiting Approval",
       "goal": "Gather customer or prospect feedback to guide Portico decisions."
     },
     {
@@ -5823,7 +5823,7 @@
       "goal": "Follow up with ASAHP attendees on their clinical education needs and offer a relevant Trajecsys next step."
     }
   ],
-  "lastUpdated": "2026-11-02T14:25:31-05:00",
+  "lastUpdated": "2026-11-02T15:20:37-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
