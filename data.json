@@ -4313,10 +4313,10 @@
       "type": "Landing Page",
       "audience": "Career education leaders",
       "sender": "Portico",
-      "summary": "Build the COE event page ahead of its 11/10–12 conference. COE does not provide an attendee list; do not imply a registrant email list exists.",
+      "summary": "Published 11/4 for the COE Annual Meeting 11/10–12 at the Hyatt Regency Atlanta.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned",
+      "contentLink": "https://welcome.porticoedu.com/coe",
+      "status": "Published",
       "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
@@ -5841,13 +5841,13 @@
       "tags": "Portico Suite, Event Promo",
       "audience": "Eligible contacts at COE schools in HubSpot; conference attendance unconfirmed",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/5151/filters",
-      "summary": "Build and send after the COE landing page is live. Verify the HubSpot audience, subscription eligibility and exclusions. COE does not provide an attendee list, so copy must not imply recipients registered for the conference.",
-      "contentLink": "",
-      "status": "Planned",
+      "summary": "Published in HubSpot 11/4 with send on publish enabled. HubSpot was still processing delivery at the last check. COE does not provide a registrant list; the audience is COE schools in HubSpot.",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-6b75c5b3-1443-4306-9a6f-9541b9d7034e?hs_preview=oRAgJVdR-226504606902",
+      "status": "Sent",
       "goal": "Drive qualified meetings and demo requests at COE 11/10–12."
     }
   ],
-  "lastUpdated": "2026-11-04T11:19:08-05:00",
+  "lastUpdated": "2026-11-04T14:10:02-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
