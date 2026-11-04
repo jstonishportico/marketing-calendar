@@ -4307,7 +4307,7 @@
       "performance": "As of 10/27/26: 105 delivered; 15 opens (14.3%); 1 clicks (1.0%)."
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "tags": "Portico Suite, Event Promo",
       "title": "COE Landing Page",
       "type": "Landing Page",
@@ -5832,9 +5832,22 @@
       "summary": "Published on the Portico LinkedIn page 11/2.",
       "contentLink": "https://lnkd.in/p/esVSZ8Tv",
       "status": "Published"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "COE Pre-Event Email",
+      "type": "Event Comms",
+      "sender": "Portico",
+      "tags": "Portico Suite, Event Promo",
+      "audience": "Eligible contacts at COE schools in HubSpot; conference attendance unconfirmed",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/5151/filters",
+      "summary": "Build and send after the COE landing page is live. Verify the HubSpot audience, subscription eligibility and exclusions. COE does not provide an attendee list, so copy must not imply recipients registered for the conference.",
+      "contentLink": "",
+      "status": "Planned",
+      "goal": "Drive qualified meetings and demo requests at COE 11/10–12."
     }
   ],
-  "lastUpdated": "2026-11-02T15:31:44-05:00",
+  "lastUpdated": "2026-11-04T11:19:08-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
