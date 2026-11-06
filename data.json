@@ -4426,7 +4426,7 @@
       ]
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress Landing Page",
       "type": "Landing Page",
@@ -4625,10 +4625,10 @@
       "type": "Event Comms",
       "audience": "NELNE Fall Conference attendees and event-sourced contacts",
       "sender": "Trajecsys",
-      "summary": "Post-event follow-up after the 10/30 NELNE conference. Verify attendee audience and send settings; do not send the expired pre-event email.",
+      "summary": "Sent 11/4 to follow up after the 10/30 NELNE conference.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-c8ee198a-19af-4b17-b4e6-95271d592325?hs_preview=JlEsfgHm-226524360704",
+      "status": "Sent"
     },
     {
       "date": "2026-11-02",
@@ -4670,15 +4670,16 @@
       "contentLabel": "View Registration Page"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "tags": "Clinical Management, Event Promo",
       "title": "OADN Pre-Event Email",
       "type": "Event Comms",
       "audience": "Nursing education leaders",
       "sender": "Trajecsys",
-      "summary": "Planned for 11/5, one week before OADN. Verify an approved recipient audience, exclusions, and the conference/happy-hour links before sending.",
+      "summary": "Prepare and send OADN pre-event email today, linking the OADN event page and the separate Cisive happy-hour RSVP page as appropriate. Verify audience and exclusions.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-11-06",
@@ -4808,9 +4809,9 @@
       "sender": "Trajecsys",
       "summary": "OADN brings associate degree nursing leaders and educators together.",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/oadn",
       "endDate": "2026-11-14",
-      "attendees": "Mandy, Georgia, Ron, Natalie/Chris, Brian/Doug",
+      "attendees": "Team roster pending confirmation",
       "positioning": "For associate degree nursing programs, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
     },
     {
@@ -5565,11 +5566,11 @@
       "tags": "Clinical Management, Event Promo",
       "audience": "OADN attendees and invited guests",
       "sender": "Trajecsys and Cisive",
-      "summary": "Build and verify the separate OADN/Cisive happy-hour RSVP page and form before the 11/5 OADN email.",
-      "status": "Planned",
-      "contentLink": "",
+      "summary": "Published RSVP page and form for the OADN/Cisive happy hour. Public URL verified 11/6.",
+      "status": "Published",
+      "contentLink": "https://welcome.porticoedu.com/oadn-happy-hour",
       "audienceLink": "",
-      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
+      "goal": "Invite OADN guests to the Trajecsys and Cisive happy hour and collect RSVPs."
     },
     {
       "date": "2026-10-22",
@@ -5613,10 +5614,10 @@
       "type": "Email",
       "audience": "Portico customers",
       "sender": "Portico",
-      "summary": "Drafted in HubSpot on 11/2 and awaiting final approval. Customer invitation to the College Technology & Software Landscape survey; about 10 minutes, optional $200 gift-card entry and results summary. Final survey link and audience must be verified before send.",
+      "summary": "Sent 11/2 as part of the College Technology & Software Landscape research invitation.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Awaiting Approval",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-19a7f099-b187-4e72-80ee-85a12d5daf1b?hs_preview=yybWcboY-226269147906",
+      "status": "Sent",
       "goal": "Gather customer or prospect feedback to guide Portico decisions."
     },
     {
@@ -5626,10 +5627,10 @@
       "type": "Email",
       "audience": "Portico prospects",
       "sender": "Portico",
-      "summary": "Drafted in HubSpot on 11/2 and awaiting final approval. Prospect invitation to the College Technology & Software Landscape survey; about 10 minutes and optional $200 gift-card entry. Final survey link and audience must be verified before send.",
+      "summary": "Sent 11/2 as part of the College Technology & Software Landscape research invitation.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Awaiting Approval",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-170e39a7-6717-48a0-861c-586eab5def64?hs_preview=WOuQaQgG-226269148504",
+      "status": "Sent",
       "goal": "Gather customer or prospect feedback to guide Portico decisions."
     },
     {
@@ -5773,41 +5774,23 @@
       "status": "Sent"
     },
     {
-      "date": "2026-11-04",
-      "title": "Trajecsys Support Session Final Invite",
-      "type": "Email",
-      "sender": "Trajecsys",
-      "tags": "Clinical Management, Customer Success",
-      "audience": "Trajecsys customers who have not registered",
-      "summary": "Final invitation one day before the 11/5 customer Support Session at 1 PM ET. Suppress registrants and verify registration link and prior-send frequency.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Trajecsys Support Session Day-Of Reminder",
-      "type": "Email",
-      "sender": "Trajecsys",
-      "tags": "Clinical Management, Customer Success",
-      "audience": "Registered customers for the 11/5 Support Session",
-      "summary": "Optional morning reminder to registered customers for the 11/5 session at 1 PM ET. Confirm whether Teams registration already sends an automatic reminder before scheduling a duplicate.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
-    },
-    {
       "date": "2026-11-05",
       "title": "Trajecsys Support Session: November 5",
       "type": "Webinar",
       "sender": "Trajecsys",
       "tags": "Clinical Management, Customer Success",
       "audience": "Current Trajecsys customers",
-      "summary": "Customer open office hours hosted by Tiffany and the Trajecsys support team, 1–1:45 PM ET. Customers can bring questions about using the platform.",
+      "summary": "First customer Support Session held 11/5 at 1 PM ET, with questions handled live. Recording available for follow-up.",
       "contentLink": "",
       "registrationLink": "https://events.teams.microsoft.com/event/64e85759-1de3-4d03-8d66-91590ac40618@6a1c6d42-ff34-458e-b73b-7cb1864b440e",
       "audienceLink": "",
-      "status": "Scheduled"
+      "status": "Completed",
+      "contentLinks": [
+        {
+          "label": "Watch Recording",
+          "url": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/Trajecsys%20Support%20Session%20-%2011.6.26.mp4"
+        }
+      ]
     },
     {
       "date": "2026-11-02",
@@ -5845,9 +5828,42 @@
       "contentLink": "https://welcome.porticoedu.com/-temporary-slug-6b75c5b3-1443-4306-9a6f-9541b9d7034e?hs_preview=oRAgJVdR-226504606902",
       "status": "Sent",
       "goal": "Drive qualified meetings and demo requests at COE 11/10–12."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Trajecsys Support Session Post-Event Email",
+      "type": "Email",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Customer Success",
+      "audience": "Trajecsys support-session audience",
+      "summary": "Sent 11/6 after the first Trajecsys Support Session, with a link to the recording.",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-d4b44a4a-515f-42b1-b9bc-eb3b051fd0ef?hs_preview=IaFPLvRC-226705590959",
+      "status": "Sent"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Veterans Day FA Batch Processing Notice",
+      "type": "Email",
+      "sender": "Portico Financial Aid",
+      "tags": "Financial Aid, Customer Notice",
+      "audience": "Financial Aid schools",
+      "summary": "Drafted in HubSpot. Diane approved the copy by email 11/6; final send remains to be completed today.",
+      "contentLink": "",
+      "status": "Ready to Send"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Veterans Day FA Batch Processing Reminder",
+      "type": "Email",
+      "sender": "Portico Financial Aid",
+      "tags": "Financial Aid, Customer Notice",
+      "audience": "Financial Aid schools",
+      "summary": "Planned reminder before the 11/11 federal holiday. Confirm first send and recipient exclusions before scheduling.",
+      "contentLink": "",
+      "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-11-04T14:10:02-05:00",
+  "lastUpdated": "2026-11-06T10:04:25-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
