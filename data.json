@@ -4674,9 +4674,9 @@
       "tags": "Clinical Management, Event Promo",
       "title": "OADN Pre-Event Email",
       "type": "Event Comms",
-      "audience": "Nursing education leaders",
+      "audience": "OADN 2026 attendee list, one-time pre-convention use",
       "sender": "Trajecsys",
-      "summary": "Prepare and send OADN pre-event email today, linking the OADN event page and the separate Cisive happy-hour RSVP page as appropriate. Verify audience and exclusions.",
+      "summary": "One pre-convention email to the OADN attendee list, subject to OADN one-time-use terms. Link the OADN event page. Chris requested no happy-hour RSVP link in this broad attendee send; a brief mention directing attendees to the booth is okay. Verify HubSpot list, exclusions, and preview before sending.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4751,7 +4751,8 @@
       "tags": "Clinical Management, Event Promo",
       "title": "OADN Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before OADN. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "A second OADN email cannot use the conference attendee list under its one-time-use terms. Send only to a separately permissioned Portico/Trajecsys audience if there is a useful message and approved list; otherwise remove this placeholder.",
+      "status": "Audience Needed"
     },
     {
       "date": "2026-11-11",
