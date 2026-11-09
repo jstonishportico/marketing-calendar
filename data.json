@@ -4681,10 +4681,25 @@
       "type": "Event Comms",
       "audience": "OADN 2026 attendee list, one-time pre-convention use",
       "sender": "Trajecsys",
-      "summary": "One pre-convention email to the OADN attendee list today, subject to OADN one-time-use terms. Link the updated OADN event page. Do not link the happy-hour RSVP page in this broad send. Verify HubSpot audience, exclusions, and preview before sending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "summary": "OADN email draft in HubSpot as of the 11/9 check. Public preview and OADN 2026 Registrants list linked. The subject still says [TOMORROW] and must be corrected before sending; the conference starts 11/12. The attendee list permits one pre-convention use.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11436/filters",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-8dcd03e9-f84d-48f4-a6af-fddb45452aea?hs_preview=AAPYpWdo-226936651876",
+      "status": "Draft",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "OADN 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11436/filters"
+        },
+        {
+          "label": "Excluded: Trajecsys Users",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ]
     },
     {
       "date": "2026-11-09",
@@ -4714,14 +4729,15 @@
     {
       "date": "2026-11-09",
       "tags": "Clinical Management, Event Promo",
-      "title": "OADN Pre-Event Social Post",
+      "title": "OADN Portico Pre-Event Social Post",
       "type": "Social",
       "audience": "Nursing education leaders",
-      "sender": "Trajecsys",
-      "summary": "Trajecsys LinkedIn conference preview for OADN 11/12–14. Use the OADN graphic and approved copy; add the live post link when published.",
+      "sender": "Portico",
+      "summary": "Portico OADN LinkedIn post published 11/9 at 1:00 PM ET. Direct company-post URL verified from the supplied short link.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_advancing-nursing-education-takes-collaboration-activity-7525618384646909953-y6bI",
+      "status": "Published",
+      "contentLabel": "View Post"
     },
     {
       "date": "2026-11-10",
@@ -5915,15 +5931,27 @@
       ]
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-09",
       "title": "Veterans Day FA Batch Processing Reminder",
       "type": "Email",
       "sender": "Portico Financial Aid",
       "tags": "Financial Aid, Customer Notice",
       "audience": "Financial Aid schools",
-      "summary": "Planned reminder before the 11/11 federal holiday. Confirm first send and recipient exclusions before scheduling.",
-      "contentLink": "",
-      "status": "Planned"
+      "summary": "Veterans Day FA reminder sent from HubSpot 11/9 to Financial Aid customers with the customer exclusion list. Supplied HubSpot email preview requires login; replace with a public preview when available.",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/226936533147?portalId=7762472&preview_key=PkXULbLe&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "status": "Sent",
+      "contentLabel": "View Email Preview (HubSpot login)",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters",
+      "audienceLinks": [
+        {
+          "label": "Financial Aid customers",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters"
+        },
+        {
+          "label": "Excluded: customer exclusion list",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ]
     },
     {
       "date": "2026-11-03",
@@ -5963,7 +5991,7 @@
       "contentLabel": "View Post"
     }
   ],
-  "lastUpdated": "2026-11-09T12:51:18-05:00",
+  "lastUpdated": "2026-11-09T13:18:03-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
