@@ -4446,8 +4446,10 @@
       "audience": "Health professions education",
       "sender": "Trajecsys",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Published"
+      "contentLink": "https://www.linkedin.com/posts/trajecsys-corporation_health-professions-education-is-bringing-activity-7519496700844113920-L5s9",
+      "status": "Published",
+      "contentLabel": "View Post",
+      "summary": "Trajecsys event post published on LinkedIn. Direct post link verified."
     },
     {
       "audience": "Career education schools in the United States",
@@ -5588,8 +5590,10 @@
       "audience": "Nursing colleges",
       "sender": "Trajecsys",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Published"
+      "contentLink": "https://www.linkedin.com/posts/trajecsys-corporation_trajecsys-is-headed-to-aacn-october-2527-activity-7519058574136766464-8l_J",
+      "status": "Published",
+      "contentLabel": "View Post",
+      "summary": "Trajecsys event post published on LinkedIn. Direct post link verified."
     },
     {
       "date": "2026-10-26",
@@ -5664,7 +5668,13 @@
       "audienceLink": "",
       "contentLink": "https://thecommons.porticoedu.com/tuition-gap-payments",
       "status": "Published",
-      "contentLabel": "View Article"
+      "contentLabel": "View Article",
+      "contentLinks": [
+        {
+          "label": "View The Commons Post",
+          "url": "https://www.linkedin.com/posts/the-commons-community_tuition-payments-should-be-easy-for-students-activity-7521561294194376704-jXgD"
+        }
+      ]
     },
     {
       "date": "2026-10-20",
@@ -5712,14 +5722,16 @@
     },
     {
       "date": "2026-10-26",
-      "title": "AACN On-Site LinkedIn Post",
+      "title": "FNCE and AACN On-Site LinkedIn Post",
       "type": "Social",
       "tags": "Clinical Management, Event Promo",
       "audience": "Nursing colleges",
       "sender": "Trajecsys",
       "status": "Published",
-      "contentLink": "",
-      "audienceLink": ""
+      "contentLink": "https://www.linkedin.com/posts/trajecsys-corporation_team-trajecsys-repping-on-the-floor-at-fnce-activity-7520522584648622080-yyVB",
+      "audienceLink": "",
+      "contentLabel": "View Post",
+      "summary": "Trajecsys on-site LinkedIn post covering both FNCE and AACN, published 10/26."
     },
     {
       "date": "2026-10-29",
@@ -5764,10 +5776,11 @@
       "sender": "Trajecsys",
       "tags": "Clinical Management, Event Promo",
       "audience": "Nursing accreditation teams",
-      "summary": "Trajecsys LinkedIn preview for the 11/5–6 ACEN LEAP Workshop, three days before opening. Use the ACEN LEAP graphic and approved copy.",
+      "summary": "Trajecsys event post published on LinkedIn. Direct post link verified.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://www.linkedin.com/posts/trajecsys-corporation_acenaccreditation-activity-7523121276811628544-mTYh",
+      "status": "Published",
+      "contentLabel": "View Post"
     },
     {
       "date": "2026-11-02",
@@ -5831,7 +5844,13 @@
       "summary": "Portico 2026 Credits campaign post. Direct company-post link verified from the supplied activity URL.",
       "contentLink": "https://www.linkedin.com/posts/portico-edu_lets-give-your-team-some-credit-introducing-activity-7523119172525039616-uOog",
       "status": "Published",
-      "contentLabel": "View Post"
+      "contentLabel": "View Post",
+      "contentLinks": [
+        {
+          "label": "View The Commons Post",
+          "url": "https://www.linkedin.com/posts/the-commons-community_lets-give-your-team-some-credit-introducing-activity-7523119360366931968-g6fE"
+        }
+      ]
     },
     {
       "date": "2026-11-04",
@@ -5924,9 +5943,21 @@
       "status": "In Progress",
       "contentLink": "https://welcome.porticoedu.com/oadn",
       "contentLabel": "View Landing Page"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "NELNE Pre-Event Social Post",
+      "type": "Social",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Event Promo",
+      "audience": "Nursing education leaders",
+      "summary": "Trajecsys NELNE conference post published 10/29, ahead of the 10/30 event.",
+      "status": "Published",
+      "contentLink": "https://www.linkedin.com/posts/trajecsys-corporation_one-more-october-stop-ron-bright-is-activity-7521583421228400640-QlFv",
+      "contentLabel": "View Post"
     }
   ],
-  "lastUpdated": "2026-11-09T11:10:47-05:00",
+  "lastUpdated": "2026-11-09T11:17:11-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
