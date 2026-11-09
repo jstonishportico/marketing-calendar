@@ -5991,35 +5991,13 @@
       "contentLabel": "View Post"
     },
     {
-      "date": "2026-11-10",
-      "tags": "Financial Aid, Event Follow-Up",
-      "title": "WFAA Post-Event Email",
-      "type": "Event Comms",
-      "audience": "WFAA attendees and event-sourced contacts",
-      "sender": "Portico Financial Aid",
-      "summary": "Planned follow-up. Confirm recipient eligibility and tailor the email to Karen’s OB3 session before sending.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11346/filters",
-      "contentLink": ""
-    },
-    {
-      "date": "2026-11-11",
-      "tags": "Clinical Management, Event Follow-Up",
-      "title": "ACEN LEAP Workshop Post-Event Email",
-      "type": "Event Comms",
-      "audience": "ACEN LEAP attendees and event-sourced contacts",
-      "sender": "Trajecsys",
-      "summary": "Planned follow-up. Confirm a permissioned event audience before drafting or sending.",
-      "audienceLink": "",
-      "contentLink": ""
-    },
-    {
       "date": "2026-11-12",
       "tags": "Portico Suite, Event Follow-Up",
       "title": "ELEVATE Post-Event Email",
       "type": "Event Comms",
-      "audience": "ELEVATE attendees and event-sourced contacts",
+      "audience": "Confirmed ELEVATE attendees and event-sourced contacts only",
       "sender": "Portico",
-      "summary": "Planned follow-up. Confirm recipient eligibility and tailor to event conversations before sending.",
+      "summary": "Late follow-up option only for confirmed ELEVATE attendees or event-sourced contacts. Do not send a generic registrant-list blast; confirm eligibility and relevant event context first.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters",
       "contentLink": ""
     },
@@ -6030,7 +6008,7 @@
       "type": "Event Comms",
       "audience": "Career Schools NYS attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Planned follow-up. Confirm a permissioned event audience before drafting or sending.",
+      "summary": "Conditional plan. No 2026 event list is in HubSpot yet; confirm event-sourced contacts and permission before drafting or sending.",
       "audienceLink": "",
       "contentLink": ""
     }
