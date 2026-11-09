@@ -5567,7 +5567,13 @@
       "sender": "The Commons",
       "summary": "Lauren Bischoff’s article published this week, confirmed by Jessica and Natalie. Served article URL returned HTTP 200 on 10/23.",
       "status": "Published",
-      "contentLink": "https://thecommons.porticoedu.com/what-i-wish-i-knew-in-my-first-year-of-admissions"
+      "contentLink": "https://thecommons.porticoedu.com/what-i-wish-i-knew-in-my-first-year-of-admissions",
+      "contentLinks": [
+        {
+          "label": "View The Commons Post",
+          "url": "https://www.linkedin.com/posts/the-commons-community_it-took-lauren-wagner-bischoff-mba-12-years-activity-7519048492409999360-5xV5"
+        }
+      ]
     },
     {
       "date": "2026-11-04",
@@ -5957,7 +5963,7 @@
       "contentLabel": "View Post"
     }
   ],
-  "lastUpdated": "2026-11-09T11:17:11-05:00",
+  "lastUpdated": "2026-11-09T11:21:57-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
