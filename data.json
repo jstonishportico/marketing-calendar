@@ -5989,6 +5989,50 @@
       "status": "Published",
       "contentLink": "https://www.linkedin.com/posts/trajecsys-corporation_one-more-october-stop-ron-bright-is-activity-7521583421228400640-QlFv",
       "contentLabel": "View Post"
+    },
+    {
+      "date": "2026-11-10",
+      "tags": "Financial Aid, Event Follow-Up",
+      "title": "WFAA Post-Event Email",
+      "type": "Event Comms",
+      "audience": "WFAA attendees and event-sourced contacts",
+      "sender": "Portico Financial Aid",
+      "summary": "Planned follow-up. Confirm recipient eligibility and tailor the email to Karen’s OB3 session before sending.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11346/filters",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-11",
+      "tags": "Clinical Management, Event Follow-Up",
+      "title": "ACEN LEAP Workshop Post-Event Email",
+      "type": "Event Comms",
+      "audience": "ACEN LEAP attendees and event-sourced contacts",
+      "sender": "Trajecsys",
+      "summary": "Planned follow-up. Confirm a permissioned event audience before drafting or sending.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-12",
+      "tags": "Portico Suite, Event Follow-Up",
+      "title": "ELEVATE Post-Event Email",
+      "type": "Event Comms",
+      "audience": "ELEVATE attendees and event-sourced contacts",
+      "sender": "Portico",
+      "summary": "Planned follow-up. Confirm recipient eligibility and tailor to event conversations before sending.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-20",
+      "tags": "Portico Suite, Event Follow-Up",
+      "title": "Career Schools NYS Post-Event Email",
+      "type": "Event Comms",
+      "audience": "Career Schools NYS attendees and event-sourced contacts",
+      "sender": "Portico",
+      "summary": "Planned follow-up. Confirm a permissioned event audience before drafting or sending.",
+      "audienceLink": "",
+      "contentLink": ""
     }
   ],
   "lastUpdated": "2026-11-09T13:18:03-05:00",
