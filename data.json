@@ -4426,13 +4426,13 @@
       ]
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-09",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress Landing Page",
       "type": "Landing Page",
       "audience": "Respiratory therapists and educators",
       "sender": "Trajecsys",
-      "summary": "Build or verify the AARC Congress event page before the 11/6 pre-event email. Do not use the unrelated AARC giveaway page as its destination.",
+      "summary": "Build the AARC Congress event page today before the pre-event email. Do not use the unrelated AARC giveaway page as its destination.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned",
@@ -4582,7 +4582,7 @@
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-11-06",
+      "date": "2026-11-10",
       "tags": "Portico Suite, Event Promo",
       "title": "Career Schools NYS Landing Page",
       "type": "Landing Page",
@@ -4637,22 +4637,11 @@
       "type": "Email",
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
-      "summary": "Sent 11/2 as the day-before invite for the 11/3 Nursing Demo Day. HubSpot preview link still needs to be added.",
+      "summary": "Sent 11/2 as the day-before Nursing Demo Day invitation. Public HubSpot email preview linked.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Sent"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "Trajecsys Demo Day Nursing 11/3 Day-Of Invite",
-      "audience": "Nursing job titles",
-      "tags": "Clinical Management, Webinar Promo",
-      "sender": "Trajecsys",
-      "summary": "Day-of invite for the 11/3 Nursing Demo Day. HubSpot email preview and audience list pending.",
-      "type": "Email",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-bc5b692e-f1de-46bd-bf22-23748cfb78d7?hs_preview=aMOCOelt-226269141868",
+      "status": "Sent",
+      "contentLabel": "View Email"
     },
     {
       "date": "2026-11-03",
@@ -4670,30 +4659,31 @@
       "contentLabel": "View Registration Page"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-09",
       "tags": "Clinical Management, Event Promo",
       "title": "OADN Pre-Event Email",
       "type": "Event Comms",
       "audience": "OADN 2026 attendee list, one-time pre-convention use",
       "sender": "Trajecsys",
-      "summary": "One pre-convention email to the OADN attendee list, subject to OADN one-time-use terms. Link the OADN event page. Chris requested no happy-hour RSVP link in this broad attendee send; a brief mention directing attendees to the booth is okay. Verify HubSpot list, exclusions, and preview before sending.",
+      "summary": "One pre-convention email to the OADN attendee list today, subject to OADN one-time-use terms. Link the updated OADN event page. Do not link the happy-hour RSVP page in this broad send. Verify HubSpot audience, exclusions, and preview before sending.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-09",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress Pre-Event Email",
       "type": "Event Comms",
       "audience": "Respiratory therapists and educators",
       "sender": "Trajecsys",
-      "summary": "Planned for 11/6. Verify the approved respiratory-education audience and Congress landing page before sending.",
+      "summary": "Prepare and send after the AARC Congress page is ready. Verify the approved respiratory-education audience, exclusions, and email preview in HubSpot.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-09",
       "tags": "Portico Suite, Event Promo",
       "title": "COE Pre-Event Social Post",
       "type": "Social",
@@ -5769,10 +5759,11 @@
       "sender": "Trajecsys",
       "tags": "Clinical Management, Customer Success",
       "audience": "Current Trajecsys customers; exclude from prospect Nursing Demo Day invitation",
-      "summary": "Sent 11/2 to current Trajecsys customers. Clarifies that the 11/3 Nursing Demo Day is a sales webinar and directs customers seeking product help to the support session. HubSpot preview link still needs to be added.",
+      "summary": "Sent 11/2 to current Trajecsys customers. Clarifies that the 11/3 Nursing Demo Day is a sales webinar and directs customers seeking product help to the support session. Public HubSpot preview linked.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Sent"
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-1a829a93-0c6f-49db-87b9-699cbf4b81e2?hs_preview=mfxbSsav-226269147496",
+      "status": "Sent",
+      "contentLabel": "View Email"
     },
     {
       "date": "2026-11-05",
@@ -5800,11 +5791,12 @@
       "type": "Event Comms",
       "audience": "ASAHP 2026 registrants",
       "sender": "Trajecsys",
-      "summary": "Sent 11/2 to follow up with ASAHP registrants after the 10/27–29 conference. HubSpot email preview link still needs to be added.",
+      "summary": "Sent 11/2 to ASAHP registrants. Public HubSpot email preview linked.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11359/filters",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-c589f21f-1464-4d7c-80e7-109f8f848606?hs_preview=iwJGYjrJ-226239440490",
       "status": "Sent",
-      "goal": "Follow up with ASAHP attendees on their clinical education needs and offer a relevant Trajecsys next step."
+      "goal": "Follow up with ASAHP attendees on their clinical education needs and offer a relevant Trajecsys next step.",
+      "contentLabel": "View Email"
     },
     {
       "date": "2026-11-02",
@@ -5848,9 +5840,10 @@
       "sender": "Portico Financial Aid",
       "tags": "Financial Aid, Customer Notice",
       "audience": "Financial Aid schools",
-      "summary": "Drafted in HubSpot. Diane approved the copy by email 11/6; final send remains to be completed today.",
-      "contentLink": "",
-      "status": "Ready to Send"
+      "summary": "Sent from HubSpot 11/6 after approval. Public email preview linked.",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-1d7e0fe4-a288-4521-9cbd-4d8d91b6b5a2?hs_preview=ZrspfDGZ-226701489495",
+      "status": "Sent",
+      "contentLabel": "View Email"
     },
     {
       "date": "2026-11-10",
@@ -5862,9 +5855,34 @@
       "summary": "Planned reminder before the 11/11 federal holiday. Confirm first send and recipient exclusions before scheduling.",
       "contentLink": "",
       "status": "Planned"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Trajecsys Demo Day Customer Reminder",
+      "type": "Email",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Customer Success",
+      "audience": "Current Trajecsys customers",
+      "summary": "Sent from HubSpot 11/3. Customer communication clarifying the sales demo and directing product-help requests to support sessions.",
+      "status": "Sent",
+      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-04fe42ea-52f7-4ade-88c3-ef2de7c8996c?hs_preview=NbYrrJdB-226372783747",
+      "contentLabel": "View Email",
+      "hubspotEmailId": "226372783747"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "OADN Conference Landing Page Update",
+      "type": "Landing Page",
+      "sender": "Trajecsys",
+      "tags": "Clinical Management, Event Promo",
+      "audience": "Nursing education leaders",
+      "summary": "Existing OADN page is live; finish the 2026 event revision today before the pre-event email.",
+      "status": "In Progress",
+      "contentLink": "https://welcome.porticoedu.com/oadn",
+      "contentLabel": "View Landing Page"
     }
   ],
-  "lastUpdated": "2026-11-06T10:04:25-05:00",
+  "lastUpdated": "2026-11-09T09:04:01-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
@@ -5934,38 +5952,38 @@
   ],
   "updated": "2026-10-27",
   "campaignOverview": {
-    "asOf": "2026-11-02",
+    "asOf": "2026-11-09",
     "week": {
       "summary": [
         {
           "title": "Marketing priorities",
-          "text": "Drive qualified demo requests and pipeline by turning event interest into meetings, supporting the Payments launch, and keeping Financial Aid, Attendance, and Clinical Management visible."
+          "text": "Drive qualified demo requests and pipeline through fall conference outreach, follow-up, and product education."
         },
         {
           "title": "Comms this week",
-          "text": "Customer and prospect surveys, Trajecsys Nursing Demo Day and Support Session invitations, event promotion, and the ELEVATE recap."
+          "text": "COE, OADN, and AARC Congress promotion; Trajecsys support-session follow-up; Veterans Day financial-aid reminder; and conference social."
         },
         {
           "title": "Coming up",
-          "text": "COE, OADN, AARC Congress, and the NYS Career School Convention, followed by November Financial Aid and Portico POV newsletters."
+          "text": "COE 11/10–12, OADN 11/12–14, AARC Congress 11/14–17, and the NYS Career School Convention 11/18–19."
         }
       ],
       "campaigns": [
         {
-          "title": "Event promotion and follow-up",
-          "description": "Use conference emails, social, and follow-up to turn fall event interest into conversations and demos."
+          "title": "Fall event promotion and follow-up",
+          "description": "Use conference email, social, and follow-up to convert interest into meetings and demos."
         },
         {
           "title": "Trajecsys customer education",
-          "description": "Promote the Nursing Demo Day and direct current customers to the Support Sessions for product help."
+          "description": "Direct current customers to support sessions and follow up after the Nursing Demo Day."
+        },
+        {
+          "title": "Financial Aid customer communications",
+          "description": "Remind Financial Aid schools about Veterans Day batch processing and prepare the November newsletter."
         },
         {
           "title": "College Technology & Software Landscape surveys",
-          "description": "Invite customers and prospects to share what they value in career-school software and inform 2027 planning."
-        },
-        {
-          "title": "Payments and product awareness",
-          "description": "Keep the Payments launch visible alongside evergreen Financial Aid, Attendance, and Clinical Management campaigns."
+          "description": "Use customer and prospect survey responses to inform 2027 product and service planning."
         }
       ]
     },
