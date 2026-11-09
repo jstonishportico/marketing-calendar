@@ -4699,13 +4699,13 @@
       "status": "Planned"
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-03",
       "tags": "Portico Suite, Event Promo",
       "title": "COE Pre-Event Social Post",
       "type": "Social",
       "audience": "Career education leaders",
       "sender": "Portico",
-      "summary": "Portico COE conference post published on LinkedIn. Direct company-post link verified from the supplied activity URL.",
+      "summary": "Portico COE conference post published on LinkedIn 11/3 at 4:13 PM ET. Direct post link verified against LinkedIn metadata.",
       "audienceLink": "",
       "contentLink": "https://www.linkedin.com/posts/portico-edu_were-heading-to-the-coe-annual-conference-activity-7523492631952162816-G-JZ",
       "status": "Published",
@@ -5570,7 +5570,7 @@
       "contentLink": "https://thecommons.porticoedu.com/what-i-wish-i-knew-in-my-first-year-of-admissions",
       "contentLinks": [
         {
-          "label": "View The Commons Post",
+          "label": "View The Commons Post (10/22)",
           "url": "https://www.linkedin.com/posts/the-commons-community_it-took-lauren-wagner-bischoff-mba-12-years-activity-7519048492409999360-5xV5"
         }
       ]
@@ -5677,7 +5677,7 @@
       "contentLabel": "View Article",
       "contentLinks": [
         {
-          "label": "View The Commons Post",
+          "label": "View The Commons Post (10/29)",
           "url": "https://www.linkedin.com/posts/the-commons-community_tuition-payments-should-be-easy-for-students-activity-7521561294194376704-jXgD"
         }
       ]
@@ -5963,7 +5963,7 @@
       "contentLabel": "View Post"
     }
   ],
-  "lastUpdated": "2026-11-09T11:21:57-05:00",
+  "lastUpdated": "2026-11-09T12:51:18-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
