@@ -4426,7 +4426,7 @@
       ]
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-11",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress Landing Page",
       "type": "Landing Page",
@@ -4702,13 +4702,13 @@
       ]
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-11",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress Pre-Event Email",
       "type": "Event Comms",
       "audience": "Respiratory therapists and educators",
       "sender": "Trajecsys",
-      "summary": "Prepare and send after the AARC Congress page is ready. Verify the approved respiratory-education audience, exclusions, and email preview in HubSpot.",
+      "summary": "Single AARC pre-event email on Wednesday 11/11 after the event landing page is ready. Confirm a permissioned audience and link the actual email preview when built.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -4799,18 +4799,8 @@
       "tags": "Portico Suite, Event Promo",
       "title": "Career Schools NYS Pre-Event Email",
       "type": "Event Comms",
-      "summary": "One-week pre-event email planned for Career Schools NYS. Confirm the attendee audience, meeting route, and landing page before scheduling."
-    },
-    {
-      "audience": "Respiratory therapists and educators",
-      "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-11-12",
-      "tags": "Clinical Management, Event Promo",
-      "title": "AARC Congress Final Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before AARC Congress. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "NYS school attendee spreadsheet received from Natalie by Outlook attachment 11/9. Clean and upload the event list to HubSpot before using it for pre- or post-event outreach. HubSpot segment link pending.",
+      "status": "Planned"
     },
     {
       "date": "2026-11-12",
@@ -4909,7 +4899,8 @@
       "tags": "Portico Suite, Event Promo",
       "title": "Career Schools NYS Final Pre-Event Email",
       "type": "Event Comms",
-      "summary": "Final pre-event email planned a few days before Career Schools NYS. Check overlap with other sends and link only to the verified event landing page."
+      "summary": "NYS school attendee spreadsheet received from Natalie by Outlook attachment 11/9. Clean and upload the event list to HubSpot before using it for pre- or post-event outreach. HubSpot segment link pending.",
+      "status": "Planned"
     },
     {
       "date": "2026-11-16",
@@ -5991,15 +5982,16 @@
       "contentLabel": "View Post"
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-11",
       "tags": "Portico Suite, Event Follow-Up",
       "title": "ELEVATE Post-Event Email",
       "type": "Event Comms",
-      "audience": "Confirmed ELEVATE attendees and event-sourced contacts only",
+      "audience": "ELEVATE Miami 2026 registrants",
       "sender": "Portico",
-      "summary": "Late follow-up option only for confirmed ELEVATE attendees or event-sourced contacts. Do not send a generic registrant-list blast; confirm eligibility and relevant event context first.",
+      "summary": "Post-event email to the full ELEVATE Miami 2026 Registrants list, as directed by Jessica on 11/9. Email preview pending.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11329/filters",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-11-20",
@@ -6008,9 +6000,22 @@
       "type": "Event Comms",
       "audience": "Career Schools NYS attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Conditional plan. No 2026 event list is in HubSpot yet; confirm event-sourced contacts and permission before drafting or sending.",
+      "summary": "NYS school attendee spreadsheet received from Natalie by Outlook attachment 11/9. Clean and upload the event list to HubSpot before using it for pre- or post-event outreach. HubSpot segment link pending.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
+    },
+    {
+      "title": "ACEN LEAP Workshop Post-Event Email",
+      "type": "Event Comms",
+      "tags": "Clinical Management, Event Follow-Up",
+      "sender": "Trajecsys",
+      "audience": "ACEN LEAP November 2026 attendees",
+      "audienceLink": "",
+      "contentLink": "",
+      "date": "2026-11-10",
+      "summary": "Attendee list received from Ron by Outlook attachment 11/9. Clean and upload the event list to HubSpot, confirm eligibility, then send the post-event email. Email preview and HubSpot segment link pending.",
+      "status": "Planned"
     }
   ],
   "lastUpdated": "2026-11-09T13:18:03-05:00",
