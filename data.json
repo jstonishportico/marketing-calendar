@@ -4703,10 +4703,11 @@
       "type": "Social",
       "audience": "Career education leaders",
       "sender": "Portico",
-      "summary": "Portico LinkedIn conference preview for COE 11/10–12. Use the COE graphic and reader-first copy; add the live post link when published.",
+      "summary": "Portico COE conference post published on LinkedIn. Direct company-post link verified from the supplied activity URL.",
       "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_were-heading-to-the-coe-annual-conference-activity-7523492631952162816-G-JZ",
+      "status": "Published",
+      "contentLabel": "View Post"
     },
     {
       "date": "2026-11-09",
@@ -5827,9 +5828,10 @@
       "sender": "Portico",
       "tags": "The Credits, Campaign",
       "audience": "Portico LinkedIn audience",
-      "summary": "Published on the Portico LinkedIn page 11/2.",
-      "contentLink": "https://lnkd.in/p/esVSZ8Tv",
-      "status": "Published"
+      "summary": "Portico 2026 Credits campaign post. Direct company-post link verified from the supplied activity URL.",
+      "contentLink": "https://www.linkedin.com/posts/portico-edu_lets-give-your-team-some-credit-introducing-activity-7523119172525039616-uOog",
+      "status": "Published",
+      "contentLabel": "View Post"
     },
     {
       "date": "2026-11-04",
@@ -5924,7 +5926,7 @@
       "contentLabel": "View Landing Page"
     }
   ],
-  "lastUpdated": "2026-11-09T09:27:14-05:00",
+  "lastUpdated": "2026-11-09T11:10:47-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
