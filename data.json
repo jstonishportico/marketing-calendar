@@ -4410,7 +4410,7 @@
       "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
       "summary": "Sent 10/29/26. October Portico POV included Payments-related content. HubSpot subject: Portico POV: October Edition.",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters",
       "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/225899020576?portalId=7762472&preview_key=TIxxUcTc&_preview=true&from_buffer=false&hsPreviewerApp=email&cacheBust=0",
       "status": "Sent",
       "goal": "Build trust through useful perspectives and educate readers on Portico products, events, and field issues.",
@@ -4420,7 +4420,7 @@
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
         },
         {
-          "label": "Marketing Contacts",
+          "label": "Additional POV audience",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters"
         }
       ]
@@ -4547,10 +4547,11 @@
       "sender": "Trajecsys",
       "summary": "ASAHP brings allied health education leaders together across health professions.",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/asahp",
       "endDate": "2026-10-29",
       "attendees": "Shawna",
-      "positioning": "Trajecsys, a Portico brand, centralizes clinical recordkeeping for nursing and allied health programs. One platform for time logs, competencies, evaluations, and accreditation data across every site and modality."
+      "positioning": "Trajecsys, a Portico brand, centralizes clinical recordkeeping for nursing and allied health programs. One platform for time logs, competencies, evaluations, and accreditation data across every site and modality.",
+      "contentLabel": "View Landing Page"
     },
     {
       "date": "2026-10-28",
@@ -4594,7 +4595,7 @@
       "audience": "Career education schools in the United States",
       "sender": "Portico",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/elevate",
       "date": "2026-10-28",
       "endDate": "2026-10-30",
       "tags": "Portico Suite",
@@ -4602,13 +4603,14 @@
       "type": "Event",
       "attendees": "Siana, Kim, Jackson, Danny",
       "summary": "ELEVATE brings career education schools together in Miami.",
-      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education.",
+      "contentLabel": "View Landing Page"
     },
     {
       "audience": "Nursing educators",
       "sender": "Trajecsys",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/nelne",
       "date": "2026-10-30",
       "endDate": "2026-10-30",
       "tags": "Clinical Management",
@@ -4616,7 +4618,8 @@
       "type": "Event",
       "attendees": "Ron",
       "summary": "NELNE's fall conference brings nursing educators together in New England.",
-      "positioning": "For nursing educators, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
+      "positioning": "For nursing educators, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites.",
+      "contentLabel": "View Landing Page"
     },
     {
       "date": "2026-11-04",
@@ -4626,9 +4629,15 @@
       "audience": "NELNE Fall Conference attendees and event-sourced contacts",
       "sender": "Trajecsys",
       "summary": "Sent 11/4 to follow up after the 10/30 NELNE conference.",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11412/filters",
       "contentLink": "https://welcome.porticoedu.com/-temporary-slug-c8ee198a-19af-4b17-b4e6-95271d592325?hs_preview=JlEsfgHm-226524360704",
-      "status": "Sent"
+      "status": "Sent",
+      "audienceLinks": [
+        {
+          "label": "NELNE 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11412/filters"
+        }
+      ]
     },
     {
       "date": "2026-11-02",
@@ -4638,10 +4647,16 @@
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
       "summary": "Sent 11/2 as the day-before Nursing Demo Day invitation. Public HubSpot email preview linked.",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters",
       "contentLink": "https://welcome.porticoedu.com/-temporary-slug-bc5b692e-f1de-46bd-bf22-23748cfb78d7?hs_preview=aMOCOelt-226269141868",
       "status": "Sent",
-      "contentLabel": "View Email"
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Nursing Role Audience",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11055/filters"
+        }
+      ]
     },
     {
       "date": "2026-11-03",
@@ -4650,12 +4665,11 @@
       "type": "Webinar",
       "audience": "Nursing job titles",
       "sender": "Trajecsys",
-      "summary": "Trajecsys Demo Days session at 1:00 PM ET. Event-specific registrant and attendee lists are pending.",
+      "summary": "November 3 Nursing Demo Day. November registrants are linked; an event-specific attendee list has not been located in HubSpot.",
       "audienceLink": "",
       "contentLink": "https://welcome.porticoedu.com/cm-demo-days",
-      "status": "Planned",
-      "registrantLink": "",
-      "attendeeLink": "",
+      "status": "Completed",
+      "registrantLink": "https://app.hubspot.com/contacts/7762472/objectLists/11372/filters",
       "contentLabel": "View Registration Page"
     },
     {
@@ -4715,10 +4729,11 @@
       "sender": "Portico",
       "summary": "COE brings career education leaders together around institutional quality and accreditation.",
       "audienceLink": "",
-      "contentLink": "",
+      "contentLink": "https://welcome.porticoedu.com/coe",
       "endDate": "2026-11-12",
       "attendees": "Noel",
-      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
+      "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education.",
+      "contentLabel": "View Landing Page"
     },
     {
       "date": "2026-11-10",
@@ -4803,7 +4818,8 @@
       "contentLink": "https://welcome.porticoedu.com/oadn",
       "endDate": "2026-11-14",
       "attendees": "Team roster pending confirmation",
-      "positioning": "For associate degree nursing programs, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites."
+      "positioning": "For associate degree nursing programs, Trajecsys keeps clinical hours, competencies, evaluations, and accreditation evidence together across sites.",
+      "contentLabel": "View Landing Page"
     },
     {
       "date": "2026-11-12",
@@ -5606,10 +5622,16 @@
       "audience": "Portico customers",
       "sender": "Portico",
       "summary": "Sent 11/2 as part of the College Technology & Software Landscape research invitation.",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11370/filters",
       "contentLink": "https://welcome.porticoedu.com/-temporary-slug-19a7f099-b187-4e72-80ee-85a12d5daf1b?hs_preview=yybWcboY-226269147906",
       "status": "Sent",
-      "goal": "Gather customer or prospect feedback to guide Portico decisions."
+      "goal": "Gather customer or prospect feedback to guide Portico decisions.",
+      "audienceLinks": [
+        {
+          "label": "Customer survey audience",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11370/filters"
+        }
+      ]
     },
     {
       "date": "2026-11-02",
@@ -5619,10 +5641,16 @@
       "audience": "Portico prospects",
       "sender": "Portico",
       "summary": "Sent 11/2 as part of the College Technology & Software Landscape research invitation.",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11371/filters",
       "contentLink": "https://welcome.porticoedu.com/-temporary-slug-170e39a7-6717-48a0-861c-586eab5def64?hs_preview=WOuQaQgG-226269148504",
       "status": "Sent",
-      "goal": "Gather customer or prospect feedback to guide Portico decisions."
+      "goal": "Gather customer or prospect feedback to guide Portico decisions.",
+      "audienceLinks": [
+        {
+          "label": "Prospect survey audience",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11371/filters"
+        }
+      ]
     },
     {
       "date": "2026-10-28",
@@ -5763,12 +5791,18 @@
       "summary": "First customer Support Session held 11/5 at 1 PM ET, with questions handled live. Recording available for follow-up.",
       "contentLink": "",
       "registrationLink": "https://events.teams.microsoft.com/event/64e85759-1de3-4d03-8d66-91590ac40618@6a1c6d42-ff34-458e-b73b-7cb1864b440e",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11408/filters",
       "status": "Completed",
       "contentLinks": [
         {
           "label": "Watch Recording",
           "url": "https://7762472.fs1.hubspotusercontent-na1.net/hubfs/7762472/Trajecsys%20Support%20Session%20-%2011.6.26.mp4"
+        }
+      ],
+      "audienceLinks": [
+        {
+          "label": "November 5 support-session event contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11408/filters"
         }
       ]
     },
@@ -5804,11 +5838,17 @@
       "sender": "Portico",
       "tags": "Portico Suite, Event Promo",
       "audience": "Eligible contacts at COE schools in HubSpot; conference attendance unconfirmed",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/5151/filters",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11380/filters",
       "summary": "Published in HubSpot 11/4 with send on publish enabled. HubSpot was still processing delivery at the last check. COE does not provide a registrant list; the audience is COE schools in HubSpot.",
       "contentLink": "https://welcome.porticoedu.com/-temporary-slug-6b75c5b3-1443-4306-9a6f-9541b9d7034e?hs_preview=oRAgJVdR-226504606902",
       "status": "Sent",
-      "goal": "Drive qualified meetings and demo requests at COE 11/10–12."
+      "goal": "Drive qualified meetings and demo requests at COE 11/10–12.",
+      "audienceLinks": [
+        {
+          "label": "COE 2026 Pre-Event Email recipients",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11380/filters"
+        }
+      ]
     },
     {
       "date": "2026-11-06",
@@ -5819,7 +5859,14 @@
       "audience": "Trajecsys support-session audience",
       "summary": "Sent 11/6 after the first Trajecsys Support Session, with a link to the recording.",
       "contentLink": "https://welcome.porticoedu.com/-temporary-slug-d4b44a4a-515f-42b1-b9bc-eb3b051fd0ef?hs_preview=IaFPLvRC-226705590959",
-      "status": "Sent"
+      "status": "Sent",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11408/filters",
+      "audienceLinks": [
+        {
+          "label": "November 5 support-session audience",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11408/filters"
+        }
+      ]
     },
     {
       "date": "2026-11-06",
@@ -5831,7 +5878,14 @@
       "summary": "Sent from HubSpot 11/6 after approval. Public email preview linked.",
       "contentLink": "https://welcome.porticoedu.com/-temporary-slug-1d7e0fe4-a288-4521-9cbd-4d8d91b6b5a2?hs_preview=ZrspfDGZ-226701489495",
       "status": "Sent",
-      "contentLabel": "View Email"
+      "contentLabel": "View Email",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters",
+      "audienceLinks": [
+        {
+          "label": "Financial Aid customers",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters"
+        }
+      ]
     },
     {
       "date": "2026-11-10",
@@ -5870,7 +5924,7 @@
       "contentLabel": "View Landing Page"
     }
   ],
-  "lastUpdated": "2026-11-09T09:20:01-05:00",
+  "lastUpdated": "2026-11-09T09:27:14-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {

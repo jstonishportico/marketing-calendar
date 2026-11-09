@@ -1472,7 +1472,7 @@
     <h2 id="paidTitle">Product awareness at target schools</h2>
     <p class="paid-intro">This account report is pulled every Monday. The current snapshot covers 11/2–11/8 and ranks schools by paid impressions. Engagements and clicks are shown separately.</p>
     <div class="paid-account-grid">
-      <section aria-label="Portico top accounts"><div class="paid-section-head"><h3>Portico top accounts</h3><span class="paid-section-date">11/2–11/8 · Pulled Monday 11/9</span></div><div class="paid-buyer-roles"><p><strong>Attendance buying roles</strong> President, COO, CFO, VP or Director of Academics, Director of Compliance, Director of Student Services.</p><p><strong>Financial Aid buying roles</strong> President, CFO, COO, VP or Director of Financial Aid, Compliance Officer, VP Enrollment or Student Affairs.</p><p class="paid-audience-count">Each campaign targets 301 named US schools.</p></div><table><thead><tr><th>Rank</th><th>School</th><th>Impressions</th><th>Engagements</th><th>Clicks</th></tr></thead><tbody>
+      <section aria-label="Portico top accounts"><div class="paid-section-head"><h3>Portico top accounts</h3><span class="paid-section-date">11/2–11/8 · Pulled Monday 11/9</span></div><div class="paid-buyer-roles"><p><strong>Attendance buying roles</strong> President, COO, CFO, VP or Director of Academics, Director of Compliance, Director of Student Services.</p><p><strong>Financial Aid buying roles</strong> President, CFO, COO, VP or Director of Financial Aid, Compliance Officer, VP Enrollment or Student Affairs.</p><p class="paid-audience-count">Both Portico campaigns use a combined target account pool from the <a href="https://app.hubspot.com/contacts/7762472/objectLists/9034/filters" target="_blank" rel="noopener">Attendance target list</a> and <a href="https://app.hubspot.com/contacts/7762472/objectLists/11224/filters" target="_blank" rel="noopener">Financial Aid target list</a>. Both lists are HubSpot company target lists.</p></div><table><thead><tr><th>Rank</th><th>School</th><th>Impressions</th><th>Engagements</th><th>Clicks</th></tr></thead><tbody>
         <tr><td>1</td><td>University of California, Berkeley</td><td>2,126</td><td>41</td><td>32</td></tr>
         <tr><td>2</td><td>Emory University</td><td>1,130</td><td>18</td><td>14</td></tr>
         <tr><td>3 <span class="rank-up">▲ 1</span></td><td>Grand Canyon University</td><td>920</td><td>19</td><td>12</td></tr>
@@ -2450,22 +2450,19 @@
     };
     const typeDisplay = typeDisplayMap[item.type] || item.type;
     const internalEmailLink = isEmailLike(item) && /^https:\/\/app\.hubspot\.com\//.test(item.contentLink || '');
-    const needsContentPlaceholder = isEmailLike(item) && (!item.contentLink || internalEmailLink);
-    const hasRegistrationButton = Object.prototype.hasOwnProperty.call(item, 'registrationLink');
-    const hasRegistrantButton = Object.prototype.hasOwnProperty.call(item, 'registrantLink');
-    const hasAttendeeButton = Object.prototype.hasOwnProperty.call(item, 'attendeeLink');
-    const hasAttendingAccountsButton = Object.prototype.hasOwnProperty.call(item, 'attendingAccountsLink');
+    const hasRegistrationButton = Boolean(item.registrationLink);
+    const hasRegistrantButton = Boolean(item.registrantLink);
+    const hasAttendeeButton = Boolean(item.attendeeLink);
+    const hasAttendingAccountsButton = Boolean(item.attendingAccountsLink);
     const audienceLinks = Array.isArray(item.audienceLinks) ? item.audienceLinks : [];
     const contentLinks = Array.isArray(item.contentLinks) ? item.contentLinks : [];
     const hasAudienceLinks = item.audienceLink || audienceLinks.length > 0;
-    const hasLinks = needsContentPlaceholder || hasAudienceLinks || item.contentLink || contentLinks.length > 0 || item.youtubeLink || hasRegistrationButton || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
+    const hasLinks = hasAudienceLinks || item.contentLink || contentLinks.length > 0 || item.youtubeLink || hasRegistrationButton || hasRegistrantButton || hasAttendeeButton || hasAttendingAccountsButton;
     if (hasLinks) {
       html += '<div class="modal-links">';
       if (item.contentLink && !internalEmailLink) {
         const btnLabel = item.contentLabel || (isWebinar ? 'View Landing Page' : (item.youtubeLink ? 'View in HubSpot' : 'View ' + typeDisplay));
         html += '<a class="modal-link-primary" href="' + item.contentLink + '" target="_blank" rel="noopener" style="background:' + tp.color + '">' + btnLabel + '</a>';
-      } else if (needsContentPlaceholder) {
-        html += '<div class="modal-link-primary tbd">View ' + typeDisplay + '</div>';
       }
       contentLinks.forEach(link => {
         if (!link.url) return;
@@ -2478,8 +2475,6 @@
       if (hasRegistrationButton) {
         if (item.registrationLink) {
           html += '<a class="modal-link-secondary" href="' + escHtml(item.registrationLink) + '" target="_blank" rel="noopener">View Registration Page</a>';
-        } else {
-          html += '<div class="modal-link-secondary tbd">Registration page unavailable</div>';
         }
       }
       // Use the legacy single-list fallback only when the card does not have
@@ -2499,22 +2494,16 @@
       if (hasRegistrantButton) {
         if (item.registrantLink) {
           html += '<a class="modal-link-outline" ' + outlineStyle + ' href="' + item.registrantLink + '" target="_blank" rel="noopener">View registrants</a>';
-        } else {
-          html += '<a class="modal-link-outline tbd">View registrants</a>';
         }
       }
       if (hasAttendeeButton) {
         if (item.attendeeLink) {
           html += '<a class="modal-link-outline" ' + outlineStyle + ' href="' + item.attendeeLink + '" target="_blank" rel="noopener">View attendees</a>';
-        } else {
-          html += '<a class="modal-link-outline tbd">View attendees</a>';
         }
       }
       if (hasAttendingAccountsButton) {
         if (item.attendingAccountsLink) {
           html += '<a class="modal-link-outline" ' + outlineStyle + ' href="' + item.attendingAccountsLink + '" target="_blank" rel="noopener">View attending accounts</a>';
-        } else {
-          html += '<a class="modal-link-outline tbd">View attending accounts</a>';
         }
       }
       html += '</div>';
