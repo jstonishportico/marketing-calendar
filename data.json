@@ -4426,19 +4426,6 @@
       ]
     },
     {
-      "date": "2026-11-11",
-      "tags": "Clinical Management, Event Promo",
-      "title": "AARC Congress Landing Page",
-      "type": "Landing Page",
-      "audience": "Respiratory therapists and educators",
-      "sender": "Trajecsys",
-      "summary": "Build the AARC Congress event page today before the pre-event email. Do not use the unrelated AARC giveaway page as its destination.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned",
-      "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
-    },
-    {
       "date": "2026-10-23",
       "tags": "Clinical Management, Event Promo",
       "title": "ASAHP Pre-Event Social Post",
@@ -4702,18 +4689,6 @@
       ]
     },
     {
-      "date": "2026-11-11",
-      "tags": "Clinical Management, Event Promo",
-      "title": "AARC Congress Pre-Event Email",
-      "type": "Event Comms",
-      "audience": "Respiratory therapists and educators",
-      "sender": "Trajecsys",
-      "summary": "Single AARC pre-event email on Wednesday 11/11 after the event landing page is ready. Confirm a permissioned audience and link the actual email preview when built.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
-    },
-    {
       "date": "2026-11-03",
       "tags": "Portico Suite, Event Promo",
       "title": "COE Pre-Event Social Post",
@@ -4918,11 +4893,12 @@
       "tags": "Clinical Management, Event Follow-Up",
       "title": "AARC Congress Post-Event Email",
       "type": "Event Comms",
-      "audience": "AARC Congress attendees and event-sourced contacts",
+      "audience": "Opted-in leads captured at AARC Congress",
       "sender": "Trajecsys",
-      "summary": "Planned post-event email for AARC Congress. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
+      "summary": "Conditional post-event follow-up only if Mark captures permissioned leads at AARC Congress. No conference attendee list is available.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Audience Needed"
     },
     {
       "audience": "Career schools in New York",
