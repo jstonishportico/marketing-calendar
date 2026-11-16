@@ -2669,6 +2669,7 @@
     const summary = Array.isArray(content.summary) ? content.summary : [];
     const updated = overviewData && overviewData.asOf ? dateLabel(overviewData.asOf) + ', ' + overviewData.asOf.slice(0,4) : 'Calendar data';
     const salesLinks = [
+      ['Needs follow-up','https://app.hubspot.com/contacts/7762472/objectLists/11449/filters'],
       ['Inbound by product','https://app.hubspot.com/contacts/7762472/objectLists/folders?folderId=251480616'],
       ['Portico conference leads','https://app.hubspot.com/contacts/7762472/objectLists/11287/filters'],
       ['Trajecsys conference leads','https://app.hubspot.com/contacts/7762472/objectLists/11344/filters'],
@@ -2699,7 +2700,7 @@
     if (summary.length) html += '<div class="overview-summary">' + summary.map(part => '<section><h3>' + escHtml(part.title) + '</h3><p>' + escHtml(part.text) + '</p></section>').join('') + '</div>';
     const heading = overviewPeriod === 'week' ? 'Campaigns in motion' : overviewPeriod === 'month' ? new Date(range.start + 'T12:00:00').toLocaleDateString('en-US',{month:'long'}) + ' campaigns' : 'Q' + (Math.floor((Number(range.start.slice(5,7)) - 1) / 3) + 1) + ' campaigns';
     html += '<div class="overview-columns"><section class="overview-campaigns"><h3>' + heading + '</h3>' + campaigns.map(c => '<div class="overview-campaign"><h4>' + escHtml(c.title) + '</h4><p>' + escHtml(c.description) + '</p></div>').join('') + '</section>';
-    html += '<aside class="overview-sidebar"><section><h3>Essential sales links</h3><p>Find product interest, event contacts, and Demo Days requests.</p><span class="overview-link-pending">Needs follow-up · link pending</span>' + renderLinks(salesLinks) + '</section><section><h3>Event leads</h3><p>Captured contacts and attendee lists from recent conferences.</p>' + renderLinks(eventLeadLinks) + '</section><section><h3>Quick GTM links</h3>' + renderLinks(quickLinks) + '</section></aside></div>';
+    html += '<aside class="overview-sidebar"><section><h3>Essential sales links</h3><p>Find product interest, event contacts, and Demo Days requests.</p>' + renderLinks(salesLinks) + '</section><section><h3>Event leads</h3><p>Captured contacts and attendee lists from recent conferences.</p>' + renderLinks(eventLeadLinks) + '</section><section><h3>Quick GTM links</h3>' + renderLinks(quickLinks) + '</section></aside></div>';
     container.innerHTML = html;
   }
   document.querySelectorAll('[data-overview-period]').forEach(button => button.addEventListener('click', () => {
