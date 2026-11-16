@@ -4893,6 +4893,24 @@
       "contentLink": ""
     },
     {
+      "date": "2026-11-17",
+      "title": "2026 Credits Standalone Email",
+      "type": "Email",
+      "sender": "Portico",
+      "tags": "2026 Credits, Campaign",
+      "audience": "Portico customers and prospects; send list to confirm",
+      "summary": "Planned standalone invitation to submit a 2026 Credits story by November 30. Selected stories will be shared on The Commons LinkedIn in December. Email preview and send list pending.",
+      "audienceLink": "",
+      "contentLink": "",
+      "contentLinks": [
+        {
+          "label": "View Campaign Landing Page",
+          "url": "https://welcome.porticoedu.com/2026-credits"
+        }
+      ],
+      "status": "Planned"
+    },
+    {
       "date": "2026-11-18",
       "tags": "Clinical Management, Event Follow-Up",
       "title": "AARC Congress Post-Event Email",
