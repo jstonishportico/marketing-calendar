@@ -4572,12 +4572,12 @@
       "sender": "Portico",
       "audienceLink": "",
       "contentLink": "",
-      "date": "2026-11-10",
+      "date": "2026-11-16",
       "tags": "Portico Suite, Event Promo",
       "title": "Career Schools NYS Landing Page",
       "type": "Landing Page",
       "status": "Planned",
-      "summary": "Build the NYS Career School Convention page before the 11/11 pre-event email and 11/18–19 event.",
+      "summary": "Landing page planned for the 11/18–19 NYS Career School Convention. Add the published HubSpot URL after verification.",
       "goal": "Drive on-site demo requests while introducing the event audience to the relevant Portico or Trajecsys offering."
     },
     {
@@ -4668,25 +4668,23 @@
       "type": "Event Comms",
       "audience": "OADN 2026 attendee list, one-time pre-convention use",
       "sender": "Trajecsys",
-      "summary": "OADN email draft in HubSpot as of the 11/9 check. Public preview and OADN 2026 Registrants list linked. The subject still says [TOMORROW] and must be corrected before sending; the conference starts 11/12. The attendee list permits one pre-convention use.",
+      "summary": "Sent 11/9 to the one-time OADN registrant audience. HubSpot preview and send list linked.",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11436/filters",
-      "contentLink": "https://welcome.porticoedu.com/-temporary-slug-8dcd03e9-f84d-48f4-a6af-fddb45452aea?hs_preview=AAPYpWdo-226936651876",
-      "status": "Draft",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/226936651876?portalId=7762472&preview_key=AAPYpWdo&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "status": "Sent",
       "contentLabel": "View Email",
       "audienceLinks": [
         {
-          "label": "OADN 2026 Registrants",
+          "label": "Included: OADN 2026 Registrants",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/11436/filters"
-        },
-        {
-          "label": "Excluded: Trajecsys Users",
-          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
         },
         {
           "label": "Excluded: MASTER Exclusion List",
           "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
         }
-      ]
+      ],
+      "audienceCount": 594,
+      "hubspotEmailId": "226936651876"
     },
     {
       "date": "2026-11-03",
@@ -4742,18 +4740,6 @@
       "summary": "Optional Portico on-site post only with a fresh event photo and no other Portico post that day."
     },
     {
-      "audience": "Nursing education leaders",
-      "sender": "Trajecsys",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-11-10",
-      "tags": "Clinical Management, Event Promo",
-      "title": "OADN Final Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "A second OADN email cannot use the conference attendee list under its one-time-use terms. Send only to a separately permissioned Portico/Trajecsys audience if there is a useful message and approved list; otherwise remove this placeholder.",
-      "status": "Audience Needed"
-    },
-    {
       "date": "2026-11-11",
       "tags": "Clinical Management, Event Promo",
       "title": "AARC Congress Pre-Event Social Post",
@@ -4766,15 +4752,15 @@
       "status": "Published"
     },
     {
-      "audience": "Career schools in New York",
+      "audience": "NYS Career School Convention 2026 registrants",
       "sender": "Portico",
-      "audienceLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11441/filters",
       "contentLink": "",
-      "date": "2026-11-11",
+      "date": "2026-11-16",
       "tags": "Portico Suite, Event Promo",
       "title": "Career Schools NYS Pre-Event Email",
       "type": "Event Comms",
-      "summary": "NYS school attendee spreadsheet received from Natalie by Outlook attachment 11/9. Clean and upload the event list to HubSpot before using it for pre- or post-event outreach. HubSpot segment link pending.",
+      "summary": "One pre-event email planned for 11/16. Use the verified NYS registrant list; add a HubSpot preview after the email is built.",
       "status": "Planned"
     },
     {
@@ -4785,10 +4771,39 @@
       "type": "Email",
       "audience": "Financial Aid customers and subscribers",
       "sender": "Portico Financial Aid Services",
-      "summary": "Monthly Financial Aid newsletter. Planned for the second Thursday, with holiday and major-send adjustments as needed.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
+      "summary": "Sent 11/12. November Financial Aid News covering CORE updates and Department of Education guidance. HubSpot preview and send lists linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/227314153795?portalId=7762472&preview_key=etWyXbfr&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Included: FA Clients",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/9219/filters"
+        },
+        {
+          "label": "Included: Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Included: Campus Ivy FA Newsletter Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8459/filters"
+        },
+        {
+          "label": "Included: FA Newsletter",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10590/filters"
+        },
+        {
+          "label": "Excluded: Unsubscribed from all email",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/8745/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "audienceCount": 1396,
+      "hubspotEmailId": "227314153795"
     },
     {
       "date": "2026-11-12",
@@ -4814,8 +4829,8 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned",
-      "summary": "Optional Trajecsys on-site post only with a fresh event photo and no other Trajecsys post that day."
+      "status": "Published",
+      "summary": "OADN on-site post completed 11/12 per Jessica. Direct LinkedIn post URL pending."
     },
     {
       "audience": "Career schools in New York",
@@ -4830,15 +4845,16 @@
       "status": "Planned"
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "tags": "Portico Suite, Event Follow-Up",
       "title": "COE Post-Event Email",
       "type": "Event Comms",
       "audience": "COE attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "Planned post-event email for COE. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Post-event follow-up planned for captured COE leads. Confirm audience and HubSpot preview before sending.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11459/filters",
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-11-14",
@@ -4863,18 +4879,6 @@
       "sender": "Trajecsys",
       "audienceLink": "",
       "contentLink": "",
-      "status": "Planned"
-    },
-    {
-      "audience": "Career schools in New York",
-      "sender": "Portico",
-      "audienceLink": "",
-      "contentLink": "",
-      "date": "2026-11-16",
-      "tags": "Portico Suite, Event Promo",
-      "title": "Career Schools NYS Final Pre-Event Email",
-      "type": "Event Comms",
-      "summary": "NYS school attendee spreadsheet received from Natalie by Outlook attachment 11/9. Clean and upload the event list to HubSpot before using it for pre- or post-event outreach. HubSpot segment link pending.",
       "status": "Planned"
     },
     {
@@ -5975,14 +5979,125 @@
       "tags": "Clinical Management, Event Follow-Up",
       "sender": "Trajecsys",
       "audience": "ACEN LEAP November 2026 attendees",
-      "audienceLink": "",
-      "contentLink": "",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11440/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/227386480408?portalId=7762472&preview_key=ozksrGgp&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "date": "2026-11-13",
+      "summary": "Sent 11/13. Follow-up to Ron’s ACEN LEAP list with Trajecsys program information and a demo invitation.",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Included: ACEN Leap 2026 Registrants",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11440/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        }
+      ],
+      "audienceCount": 133,
+      "hubspotEmailId": "227386480408"
+    },
+    {
+      "title": "SIS Product Updates - November 2026",
+      "date": "2026-11-13",
+      "type": "Email",
+      "tags": "Product Update",
+      "sender": "Portico Product Updates",
+      "audience": "SIS users",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/227273922587?portalId=7762472&preview_key=gLNMmSTB&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "contentLabel": "View Email",
+      "status": "Sent",
+      "summary": "Sent 11/13. SIS product updates including NACCAS reporting. HubSpot preview and send lists linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11124/filters",
+      "audienceLinks": [
+        {
+          "label": "Included: SIS Users - August 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11124/filters"
+        },
+        {
+          "label": "Included: Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "audienceCount": 1862,
+      "hubspotEmailId": "227273922587"
+    },
+    {
+      "title": "Clinical Product Email - November 2026",
       "date": "2026-11-10",
-      "summary": "Attendee list received from Ron by Outlook attachment 11/9. Clean and upload the event list to HubSpot, confirm eligibility, then send the post-event email. Email preview and HubSpot segment link pending.",
+      "type": "Email",
+      "tags": "Product Update",
+      "sender": "Portico Product Updates",
+      "audience": "Clinical Management contacts",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/227047360690?portalId=7762472&preview_key=TwhwFTlO&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "contentLabel": "View Email",
+      "status": "Sent",
+      "summary": "Sent 11/10. Trajecsys product updates covering security, product improvements, and training. HubSpot preview and send lists linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10928/filters",
+      "audienceLinks": [
+        {
+          "label": "Included: MF_2026 Clinical Management Contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10928/filters"
+        },
+        {
+          "label": "Included: Trajecsys Users - September 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11206/filters"
+        },
+        {
+          "label": "Excluded: MASTER Exclusion List",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10866/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "audienceCount": 2000,
+      "hubspotEmailId": "227047360690"
+    },
+    {
+      "title": "Clinical Skills in MyPortico Update",
+      "date": "2026-11-10",
+      "type": "Email",
+      "tags": "Product Update",
+      "sender": "Portico Product Updates",
+      "audience": "Clinical Skills contacts",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/226956991878?portalId=7762472&preview_key=yYzwxiKb&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "contentLabel": "View Email",
+      "status": "Sent",
+      "summary": "Sent 11/10. Product update introducing a simpler way to log clinical skills. HubSpot preview and send list linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11430/filters",
+      "audienceLinks": [
+        {
+          "label": "Included: All Contacts - FNU, Fortis Landover",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/11430/filters"
+        },
+        {
+          "label": "Excluded: NeverBounce Contact Clean",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10478/filters"
+        }
+      ],
+      "audienceCount": 21,
+      "hubspotEmailId": "226956991878"
+    },
+    {
+      "title": "Career Schools NYS On-Site Social Post",
+      "date": "2026-11-18",
+      "type": "Social",
+      "tags": "Portico Suite, Event Promo",
+      "sender": "Portico",
+      "audience": "New York career school leaders",
+      "summary": "On-site post from the NYS Career School Convention if Natalie supplies a usable photo. Add the published post link when available.",
+      "contentLink": "",
       "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-11-09T13:18:03-05:00",
+  "lastUpdated": "2026-11-16T09:55:00-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
@@ -6052,7 +6167,7 @@
   ],
   "updated": "2026-10-27",
   "campaignOverview": {
-    "asOf": "2026-11-09",
+    "asOf": "2026-11-16",
     "week": {
       "summary": [
         {
@@ -6061,29 +6176,25 @@
         },
         {
           "title": "Comms this week",
-          "text": "COE, OADN, and AARC Congress promotion; Trajecsys support-session follow-up; Veterans Day financial-aid reminder; and conference social."
+          "text": "Career Schools NYS pre-event, on-site, and post-event comms; Portico POV newsletter; OADN and COE follow-up; and Dental Assisting Demo Day promotion."
         },
         {
           "title": "Coming up",
-          "text": "COE 11/10–12, OADN 11/12–14, AARC Congress 11/14–17, and the NYS Career School Convention 11/18–19."
+          "text": "Thanksgiving week brings a shorter send window. Plan holiday communications and keep the November 30 deadline for 2026 Credits submissions visible."
         }
       ],
       "campaigns": [
         {
-          "title": "Fall event promotion and follow-up",
-          "description": "Use conference email, social, and follow-up to convert interest into meetings and demos."
+          "title": "Doubling down on event promotion and follow-up",
+          "description": "Use Career Schools NYS promotion and recent conference follow-up to turn event interest into qualified meetings and demos."
         },
         {
-          "title": "Trajecsys customer education",
-          "description": "Direct current customers to support sessions and follow up after the Nursing Demo Day."
+          "title": "Brand and product awareness campaigns",
+          "description": "Build recognition for Portico and Trajecsys and show buyers how Financial Aid, Attendance and Skills, Payments, and Clinical Management address their priorities."
         },
         {
-          "title": "Financial Aid customer communications",
-          "description": "Remind Financial Aid schools about Veterans Day batch processing and prepare the November newsletter."
-        },
-        {
-          "title": "College Technology & Software Landscape surveys",
-          "description": "Use customer and prospect survey responses to inform 2027 product and service planning."
+          "title": "2026 Credits",
+          "description": "Invite schools to recognize the people and ideas behind their 2026 wins. Selected stories will appear on The Commons LinkedIn in December; submissions close November 30."
         }
       ]
     },
