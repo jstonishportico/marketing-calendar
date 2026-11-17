@@ -4752,16 +4752,18 @@
       "status": "Published"
     },
     {
-      "audience": "NYS Career School Convention 2026 registrants",
+      "audience": "CNYSCS 2026 registrants",
       "sender": "Portico",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11441/filters",
-      "contentLink": "",
-      "date": "2026-11-16",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11462/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/227762493220?portalId=7762472&preview_key=pYpdQCjx&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "date": "2026-11-17",
       "tags": "Portico Suite, Event Promo",
       "title": "Career Schools NYS Pre-Event Email",
       "type": "Event Comms",
-      "summary": "One pre-event email planned for 11/16. Use the verified NYS registrant list; add a HubSpot preview after the email is built.",
-      "status": "Planned"
+      "summary": "Sent 11/17 to the CNYSCS 2026 Registrants list. HubSpot email preview linked.",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "hubspotEmailId": "227762493220"
     },
     {
       "date": "2026-11-12",
@@ -4883,33 +4885,32 @@
       "status": "Planned"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "tags": "Clinical Management, Event Follow-Up",
       "title": "OADN Post-Event Email",
       "type": "Event Comms",
-      "audience": "OADN attendees and event-sourced contacts",
+      "audience": "OADN 2026 registrants",
       "sender": "Trajecsys",
-      "summary": "Planned post-event email for OADN. Share relevant resources based on event conversations and include a reply/demo CTA once assets are confirmed.",
-      "audienceLink": "",
-      "contentLink": ""
+      "summary": "Sent 11/17 to OADN 2026 Registrants. HubSpot email preview linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11436/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/227787514482?portalId=7762472&preview_key=zGqejCcz&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "hubspotEmailId": "227787514482"
     },
     {
       "date": "2026-11-17",
-      "title": "2026 Credits Standalone Email",
+      "title": "2026 Credits Email",
       "type": "Email",
       "sender": "Portico",
       "tags": "2026 Credits, Campaign",
-      "audience": "Portico customers and prospects; send list to confirm",
-      "summary": "Planned standalone invitation to submit a 2026 Credits story by November 30. Selected stories will be shared on The Commons LinkedIn in December. Email preview and send list pending.",
-      "audienceLink": "",
-      "contentLink": "",
-      "contentLinks": [
-        {
-          "label": "View Campaign Landing Page",
-          "url": "https://welcome.porticoedu.com/2026-credits"
-        }
-      ],
-      "status": "Planned"
+      "audience": "Marketing contacts",
+      "summary": "Sent 11/17 as the 2026 Credits campaign reminder. HubSpot email preview and actual send list linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/227774301531?portalId=7762472&preview_key=KlYHZMpy&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "hubspotEmailId": "227774301531"
     },
     {
       "date": "2026-11-18",
@@ -6116,7 +6117,7 @@
       "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-11-17T14:50:00-05:00",
+  "lastUpdated": "2026-11-17T15:15:00-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
