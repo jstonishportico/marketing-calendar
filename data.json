@@ -4845,16 +4845,17 @@
       "status": "Planned"
     },
     {
-      "date": "2026-11-16",
-      "tags": "Portico Suite, Event Follow-Up",
-      "title": "COE Post-Event Email",
-      "type": "Event Comms",
-      "audience": "COE attendees and event-sourced contacts",
-      "sender": "Portico",
-      "summary": "Post-event follow-up planned for captured COE leads. Confirm audience and HubSpot preview before sending.",
-      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/11459/filters",
-      "contentLink": "",
-      "status": "Planned"
+      "date": "2026-11-13",
+      "title": "How to manage student re-inquiries and re-entries",
+      "tags": "The Commons, Enrollment, Content",
+      "type": "Article",
+      "audience": "The Commons readers",
+      "sender": "Kristin Woods",
+      "summary": "Published 11/13/26 on The Commons. Previously tracked in planning as the When Students Return article.",
+      "audienceLink": "",
+      "contentLink": "https://thecommons.porticoedu.com/when-students-return",
+      "status": "Published",
+      "contentLabel": "View Article"
     },
     {
       "date": "2026-11-14",
@@ -6115,7 +6116,7 @@
       "status": "Planned"
     }
   ],
-  "lastUpdated": "2026-11-16T09:55:00-05:00",
+  "lastUpdated": "2026-11-17T14:50:00-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
@@ -6194,7 +6195,7 @@
         },
         {
           "title": "Comms this week",
-          "text": "Career Schools NYS pre-event, on-site, and post-event comms; Portico POV newsletter; OADN and COE follow-up; and Dental Assisting Demo Day promotion."
+          "text": "Career Schools NYS pre-event, on-site, and post-event comms; Portico POV newsletter; OADN follow-up; and Dental Assisting Demo Day promotion."
         },
         {
           "title": "Coming up",
