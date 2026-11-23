@@ -6131,9 +6131,31 @@
       "contentLabel": "View Email",
       "hubspotEmailId": "228127377518",
       "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Portico Office Closed",
+      "type": "OOO",
+      "audience": "",
+      "sender": "Portico",
+      "tags": "Thanksgiving",
+      "summary": "Portico is closed for the Thanksgiving holiday.",
+      "audienceLink": "",
+      "contentLink": ""
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Portico Office Closed",
+      "type": "OOO",
+      "audience": "",
+      "sender": "Portico",
+      "tags": "Thanksgiving",
+      "summary": "Portico is closed for the Thanksgiving holiday.",
+      "audienceLink": "",
+      "contentLink": ""
     }
   ],
-  "lastUpdated": "2026-11-23T12:30:00-05:00",
+  "lastUpdated": "2026-11-23T13:05:00-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
