@@ -253,6 +253,10 @@
       margin-right: 0;
     }
 
+    .holiday-visual { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:4px; width:100%; color:#34322f; font:600 11px/1.2 'Figtree',sans-serif; text-align:center; }
+    .holiday-visual img { display:block; width:140px; max-width:75%; height:auto; object-fit:contain; }
+    .cal-cell:not(.week-cell) .holiday-visual img { width:66px; }
+    .cal-cell:not(.week-cell) .holiday-visual { font-size:9px; }
     /* ---- OOO bars ---- */
     .ooo-bars-overlay {
       position: absolute;
@@ -1956,7 +1960,7 @@
   function getWeekOOOBars(weekMonStr, weekFriStr) {
     return allItems
       .map((item, idx) => ({ item, idx }))
-      .filter(({ item }) => isOOO(item) && item.date)
+      .filter(({ item }) => isOOO(item) && !item.holidayImage && item.date)
       .filter(({ item }) => {
         const end = item.endDate || item.date;
         return item.date <= weekFriStr && end >= weekMonStr;
@@ -2055,6 +2059,7 @@
     const overflow = meta.inMonth ? meta.singleIndices.slice(limit) : [];
 
     visible.forEach(idx => meta.cell.appendChild(makePill(idx)));
+    meta.holidayIndices.forEach(idx => meta.cell.appendChild(makeHolidayVisual(allItems[idx])));
     if (overflow.length > 0) {
       const ob = document.createElement('button');
       ob.className = 'overflow-btn';
@@ -2165,7 +2170,8 @@
 
         // Multi-day events and OOO shown in bar layer; exclude them from cell pills
         const singleIndices = indices.filter(idx => !isMultiDay(allItems[idx]) && !isOOO(allItems[idx]));
-        dayMetas.push({ cell, dayStr, indices, singleIndices, inMonth, isToday });
+        const holidayIndices = indices.filter(idx => isOOO(allItems[idx]) && allItems[idx].holidayImage);
+        dayMetas.push({ cell, dayStr, indices, singleIndices, holidayIndices, inMonth, isToday });
         cells.push(cell);
       }
 
@@ -2240,6 +2246,7 @@
       cell.appendChild(dn);
 
       indices.filter(idx => !isOOO(allItems[idx]) && !isMultiDay(allItems[idx])).forEach(idx => cell.appendChild(makePill(idx, true)));
+      indices.filter(idx => isOOO(allItems[idx]) && allItems[idx].holidayImage).forEach(idx => cell.appendChild(makeHolidayVisual(allItems[idx])));
       cells.push(cell);
       dayGrid.appendChild(cell);
     }
@@ -2266,6 +2273,19 @@
     }
 
     grid.appendChild(weekEl);
+  }
+
+  function makeHolidayVisual(item) {
+    const el = document.createElement('div');
+    el.className = 'holiday-visual';
+    const img = document.createElement('img');
+    img.src = item.holidayImage;
+    img.alt = 'Thanksgiving turkey';
+    el.appendChild(img);
+    const label = document.createElement('span');
+    label.textContent = item.title;
+    el.appendChild(label);
+    return el;
   }
 
   function makePill(idx, isWeek = false) {

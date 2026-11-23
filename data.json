@@ -6141,7 +6141,8 @@
       "tags": "Thanksgiving",
       "summary": "Portico is closed for the Thanksgiving holiday.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "holidayImage": "assets/holidays/thanksgiving-turkey.png"
     },
     {
       "date": "2026-11-27",
@@ -6152,10 +6153,11 @@
       "tags": "Thanksgiving",
       "summary": "Portico is closed for the Thanksgiving holiday.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "holidayImage": "assets/holidays/thanksgiving-turkey.png"
     }
   ],
-  "lastUpdated": "2026-11-23T13:05:00-05:00",
+  "lastUpdated": "2026-11-23T13:10:00-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
