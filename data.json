@@ -4927,18 +4927,6 @@
       "positioning": "Portico provides software and services for career education, including solutions for recruitment, financial aid, student records, attendance and skills tracking, payments, and clinical education."
     },
     {
-      "date": "2026-11-18",
-      "title": "Trajecsys Demo Day Dental Assisting Announcement",
-      "audience": "Dental Assisting job titles",
-      "tags": "Clinical Management, Webinar Promo",
-      "sender": "Trajecsys",
-      "summary": "Announcement for the 12/9 Dental Assisting Demo Day. HubSpot email preview and audience list pending.",
-      "type": "Email",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Planned"
-    },
-    {
       "date": "2026-11-19",
       "title": "November Portico POV Newsletter",
       "series": "Portico POV",
@@ -4946,21 +4934,34 @@
       "type": "Email",
       "audience": "Marketing contacts and Portico roster",
       "sender": "Portico",
-      "summary": "Draft completed 11/18 for the planned 11/19 send. HubSpot preview and send list pending final verification.",
-      "audienceLink": "",
-      "contentLink": "",
-      "status": "Drafted"
+      "summary": "Sent 11/19. November Portico POV with The Commons, 2026 Credits, and product updates. HubSpot email preview and included lists linked.",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/227885357659?portalId=7762472&preview_key=iMdUjKlg&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "audienceLinks": [
+        {
+          "label": "Marketing contacts",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10411/filters"
+        },
+        {
+          "label": "Portico Roster 2026",
+          "url": "https://app.hubspot.com/contacts/7762472/objectLists/10472/filters"
+        }
+      ],
+      "hubspotEmailId": "227885357659"
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-23",
       "tags": "Portico Brand",
-      "title": "Thanksgiving closure announcement email",
+      "title": "Thanksgiving Customer Closure Reminder",
       "type": "Email",
-      "audience": "General Audience",
+      "audience": "Portico customers",
       "sender": "Portico",
-      "summary": "",
+      "summary": "Planned customer reminder about Thanksgiving closure for 11/23. Add the HubSpot email preview and actual recipient lists after sending.",
       "audienceLink": "",
-      "contentLink": ""
+      "contentLink": "",
+      "status": "Planned"
     },
     {
       "date": "2026-12-02",
@@ -5970,13 +5971,13 @@
       "contentLabel": "View Post"
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-24",
       "tags": "Portico Suite, Event Follow-Up",
       "title": "Career Schools NYS Post-Event Email",
       "type": "Event Comms",
       "audience": "Career Schools NYS attendees and event-sourced contacts",
       "sender": "Portico",
-      "summary": "NYS school attendee spreadsheet received from Natalie by Outlook attachment 11/9. Clean and upload the event list to HubSpot before using it for pre- or post-event outreach. HubSpot segment link pending.",
+      "summary": "Post-event follow-up moved from 11/20 into the short Thanksgiving week. Confirm eligible event recipients and send list in HubSpot before sending.",
       "audienceLink": "",
       "contentLink": "",
       "status": "Planned"
@@ -6104,9 +6105,35 @@
       "contentLink": "https://www.linkedin.com/feed/update/urn:li:activity:7528888298790883329",
       "status": "Published",
       "contentLabel": "View Post"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Just because AI can doesn’t mean it should",
+      "type": "Article",
+      "tags": "The Commons, AI, Thought Leadership",
+      "audience": "The Commons readers",
+      "sender": "Dr. Ryan Barnhart",
+      "summary": "Planned for publication 11/23. Add the live Commons article URL after publication.",
+      "contentLink": "",
+      "status": "Planned",
+      "contentLabel": "View Article"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Thanksgiving Financial Aid Funding Notice",
+      "type": "Email",
+      "tags": "Financial Aid, Customer Notice",
+      "audience": "Financial Aid customers",
+      "sender": "Portico Financial Aid",
+      "summary": "Sent 11/20 to Financial Aid customers. DOE Thanksgiving closure affects Wednesday funding batches; HubSpot email preview and send list linked.",
+      "contentLink": "https://7762472.hubspotpreview-na1.com/_hcms/preview/email/228127377518?portalId=7762472&preview_key=RiwbiYxf&_preview=true&from_buffer=false&hsPreviewerApp=email",
+      "status": "Sent",
+      "contentLabel": "View Email",
+      "hubspotEmailId": "228127377518",
+      "audienceLink": "https://app.hubspot.com/contacts/7762472/objectLists/9467/filters"
     }
   ],
-  "lastUpdated": "2026-11-18T13:35:00-05:00",
+  "lastUpdated": "2026-11-23T12:30:00-05:00",
   "lastUpdatedBy": "Jessica and Codex calendar update",
   "campaigns": [
     {
@@ -6176,20 +6203,20 @@
   ],
   "updated": "2026-10-27",
   "campaignOverview": {
-    "asOf": "2026-11-16",
+    "asOf": "2026-11-23",
     "week": {
       "summary": [
         {
           "title": "Marketing priorities",
-          "text": "Drive qualified demo requests and pipeline through fall conference outreach, follow-up, and product education."
+          "text": "Drive qualified demo requests and pipeline through focused product and brand awareness, customer communications, and timely event follow-up."
         },
         {
           "title": "Comms this week",
-          "text": "Career Schools NYS pre-event, on-site, and post-event comms; Portico POV newsletter; OADN follow-up; and Dental Assisting Demo Day promotion."
+          "text": "Publish Ryan Barnhart’s AI article on The Commons; send the Thanksgiving customer closure reminder; complete Career Schools NYS post-event follow-up if the eligible send list is ready."
         },
         {
           "title": "Coming up",
-          "text": "Thanksgiving week brings a shorter send window. Plan holiday communications and keep the November 30 deadline for 2026 Credits submissions visible."
+          "text": "Thanksgiving shortens the send window. 2026 Credits submissions close November 30; the next Dental Assisting Demo Day promo is planned for December 2."
         }
       ],
       "campaigns": [
